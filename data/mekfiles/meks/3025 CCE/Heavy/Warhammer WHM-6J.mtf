@@ -21,9 +21,9 @@ source:TR:3025C
 
 Config:Biped
 TechBase:Inner Sphere
-Era:2515
+Era:3012
 Rules Level:1
-role:Brawler
+role:Skirmisher
 
 Mass:70
 Engine:280 Fusion Engine(IS)

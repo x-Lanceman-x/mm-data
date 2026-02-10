@@ -21,9 +21,9 @@ source:TR:3025C
 
 Config:Biped
 TechBase:Inner Sphere
-Era:2492
+Era:3020
 Rules Level:1
-role:Sniper
+role:Missile Boat
 
 Mass:55
 Engine:275 Fusion Engine(IS)

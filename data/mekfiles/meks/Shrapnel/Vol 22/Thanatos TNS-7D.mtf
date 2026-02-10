@@ -21,7 +21,7 @@ model:TNS-7D
 
 Config:Biped
 techbase:Mixed (IS Chassis)
-era:3150
+era:3146
 source:Shrap22
 rules level:2
 role:Skirmisher

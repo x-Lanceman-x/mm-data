@@ -21,9 +21,9 @@ source:TR:3025C
 
 Config:Biped
 TechBase:Inner Sphere
-Era:3025
+Era:3022
 Rules Level:1
-role:Brawler
+role:Ambusher
 
 Mass:45
 Engine:135 Fusion Engine(IS)

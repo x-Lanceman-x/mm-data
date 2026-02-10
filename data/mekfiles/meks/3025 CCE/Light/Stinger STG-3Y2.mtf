@@ -21,9 +21,9 @@ source:TR:3025C
 
 Config:Biped
 TechBase:Inner Sphere
-Era:2479
+Era:3021
 Rules Level:1
-role:Scout
+role:Striker
 
 Mass:20
 Engine:120 Fusion Engine(IS)

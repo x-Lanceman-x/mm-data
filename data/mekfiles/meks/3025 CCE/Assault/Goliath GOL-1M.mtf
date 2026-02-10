@@ -21,9 +21,9 @@ source:TR:3025C
 
 Config:Quad
 TechBase:Inner Sphere
-Era:2652
+Era:3025
 Rules Level:1
-role:Sniper
+role:Missile Boat
 
 Mass:80
 Engine:320 Fusion Engine(IS)

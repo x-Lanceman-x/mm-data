@@ -21,7 +21,7 @@ model:TNZ-N5
 
 Config:Biped
 techbase:Mixed (IS Chassis)
-era:3140
+era:3148
 source:Shrap22
 rules level:4
 role:Sniper

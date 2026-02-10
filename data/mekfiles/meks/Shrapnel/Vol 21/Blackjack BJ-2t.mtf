@@ -23,7 +23,7 @@ model:BJ-2t
 
 Config:Biped
 techbase:Inner Sphere
-era:3052
+era:3054
 source:Shrap21
 rules level:2
 role:Sniper

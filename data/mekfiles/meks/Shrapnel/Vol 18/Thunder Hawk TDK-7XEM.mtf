@@ -21,7 +21,7 @@ model:TDK-7XEM
 
 Config:Biped
 techbase:Inner Sphere
-era:3138
+era:3097
 source:RG33
 rules level:3
 role:Sniper
