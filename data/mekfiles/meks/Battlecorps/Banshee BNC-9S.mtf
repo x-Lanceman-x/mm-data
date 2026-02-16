@@ -190,14 +190,11 @@ manufacturer:Field Refit
 primaryfactory:Field Refit
 
 systemmanufacturer:CHASSIS:Unknown
-systemmode:CHASSIS:Unknown
 systemmanufacturer:ENGINE:VOX
 systemmode:ENGINE:VOX 280 Light
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Unknown (Ferro-Fibrous)
 systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Unknown
 systemmanufacturer:COMMUNICATIONS:Unknown
-systemmode:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown
 systemmode:TARGETING:Unknown with Targeting Computer
