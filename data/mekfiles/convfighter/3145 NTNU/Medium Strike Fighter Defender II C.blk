@@ -30,11 +30,11 @@ ConvFighter
 </UnitType>
 
 <Name>
-Medium Strike Fighter Defender II
+Medium Strike Fighter
 </Name>
 
 <Model>
-C
+Defender II C
 </Model>
 
 <mul id:>
