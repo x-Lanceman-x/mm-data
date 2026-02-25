@@ -195,8 +195,8 @@ systemmanufacturer:ENGINE:Kallon
 systemmode:ENGINE:325 XL
 systemmanufacturer:ARMOR:Kallon
 systemmode:ARMOR:FWL Special
-systemmanufacturer:JUMPING:HildCo
-systemmode:JUMPING:Model 12
+systemmanufacturer:JUMP_JET:HildCo
+systemmode:JUMP_JET:Model 12
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:T11-b
 systemmanufacturer:TARGETING:Garret

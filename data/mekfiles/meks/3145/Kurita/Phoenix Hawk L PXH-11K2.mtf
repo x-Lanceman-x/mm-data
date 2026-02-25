@@ -194,8 +194,8 @@ systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:210 XL
 systemmanufacturer:ARMOR:Durallex
 systemmode:ARMOR:Light
-systemmanufacturer:JUMPING:Rawlings
-systemmode:JUMPING:55
+systemmanufacturer:JUMP_JET:Rawlings
+systemmode:JUMP_JET:55
 systemmanufacturer:COMMUNICATIONS:Sipher
 systemmode:COMMUNICATIONS:CommCon SCU-4
 systemmanufacturer:TARGETING:Matabushi

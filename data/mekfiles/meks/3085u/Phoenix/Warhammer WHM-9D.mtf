@@ -193,6 +193,6 @@ systemmode:CHASSIS:Unknown (Endo Steel)
 systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Unknown (280 XL)
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

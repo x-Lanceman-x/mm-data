@@ -203,8 +203,8 @@ systemmanufacturer:ENGINE:Vlar
 systemmode:ENGINE:300
 systemmanufacturer:ARMOR:Valiant
 systemmode:ARMOR:Lamellor
-systemmanufacturer:JUMPING:Chilton
-systemmode:JUMPING:600
+systemmanufacturer:JUMP_JET:Chilton
+systemmode:JUMP_JET:600
 systemmanufacturer:COMMUNICATIONS:Dalban
 systemmode:COMMUNICATIONS:Micronics
 systemmanufacturer:TARGETING:Dalban

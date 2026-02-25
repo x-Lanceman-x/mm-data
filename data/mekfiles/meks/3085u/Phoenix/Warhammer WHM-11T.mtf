@@ -197,8 +197,8 @@ systemmanufacturer:ENGINE:Vox
 systemmode:ENGINE:280 XL
 systemmanufacturer:ARMOR:Valiant
 systemmode:ARMOR:Ringmail Light Ferro-Fibrous
-systemmanufacturer:JUMPING:Waterly
-systemmode:JUMPING:Heavy Lifters (Improved)
+systemmanufacturer:JUMP_JET:Waterly
+systemmode:JUMP_JET:Heavy Lifters (Improved)
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:T5C
 systemmanufacturer:TARGETING:Garret

@@ -154,7 +154,7 @@ Various
 CHASSIS:Wangker
 ENGINE:General Motors
 ARMOR:Wangker
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Ranker
 TARGETING:Ranker
 </systemManufacturers>
@@ -163,7 +163,7 @@ TARGETING:Ranker
 CHASSIS:Wangker II
 ENGINE:GM 200
 ARMOR:Wangker Corsair Standard
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Ranker 100B
 TARGETING:Ranker TA800
 </systemModels>

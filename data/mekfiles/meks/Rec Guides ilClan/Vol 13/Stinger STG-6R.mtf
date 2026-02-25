@@ -192,8 +192,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:160 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Standard
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Standard
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Standard
 systemmanufacturer:COMMUNICATIONS:Datacom
 systemmode:COMMUNICATIONS:26
 systemmanufacturer:TARGETING:Dynatec

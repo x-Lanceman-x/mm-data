@@ -198,8 +198,8 @@ systemmanufacturer:ENGINE:Nissan
 systemmode:ENGINE:Nissan 275 XL
 systemmanufacturer:ARMOR:Starshield
 systemmode:ARMOR:Starshield A with CASE
-systemmanufacturer:JUMPING:Northrup
-systemmode:JUMPING:Northrup StarLifter M41s
+systemmanufacturer:JUMP_JET:Northrup
+systemmode:JUMP_JET:Northrup StarLifter M41s
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:Garret T11-b with Guardian ECM and C3 Slave
 systemmanufacturer:TARGETING:Cat's Eyes

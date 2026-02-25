@@ -193,8 +193,8 @@ systemmanufacturer:ENGINE:Magna
 systemmode:ENGINE:210 XL
 systemmanufacturer:ARMOR:Compound Alpha
 systemmode:ARMOR:Ferro-Fibrous
-systemmanufacturer:JUMPING:Clan Standard
-systemmode:JUMPING:Type A2 with Partial Wing
+systemmanufacturer:JUMP_JET:Clan Standard
+systemmode:JUMP_JET:Type A2 with Partial Wing
 systemmanufacturer:COMMUNICATIONS:JF
 systemmode:COMMUNICATIONS:Integrated
 systemmanufacturer:TARGETING:JFIX/Olivetti

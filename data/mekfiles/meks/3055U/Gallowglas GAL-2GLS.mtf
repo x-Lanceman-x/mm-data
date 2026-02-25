@@ -190,8 +190,8 @@ systemmanufacturer:ENGINE:VOX
 systemmode:ENGINE:280
 systemmanufacturer:ARMOR:Valiant
 systemmode:ARMOR:Lamellor
-systemmanufacturer:JUMPING:Geotec
-systemmode:JUMPING:300
+systemmanufacturer:JUMP_JET:Geotec
+systemmode:JUMP_JET:300
 systemmanufacturer:COMMUNICATIONS:Dalban
 systemmode:COMMUNICATIONS:Micronics
 systemmanufacturer:TARGETING:Dalban

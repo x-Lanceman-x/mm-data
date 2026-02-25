@@ -195,7 +195,7 @@ systemmanufacturer:ENGINE:Vlar
 systemmode:ENGINE:300
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Light Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:HartfordCo
 systemmode:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:HartfordCo

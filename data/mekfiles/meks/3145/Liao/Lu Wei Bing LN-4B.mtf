@@ -191,8 +191,8 @@ systemmanufacturer:ENGINE:Strand
 systemmode:ENGINE:340 Light
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Starshield with CASE II
-systemmanufacturer:JUMPING:GM
-systemmode:JUMPING:Jetstar
+systemmanufacturer:JUMP_JET:GM
+systemmode:JUMP_JET:Jetstar
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:CeresCom Model 21-RS with Angel ECM Suite
 systemmanufacturer:TARGETING:Unknown

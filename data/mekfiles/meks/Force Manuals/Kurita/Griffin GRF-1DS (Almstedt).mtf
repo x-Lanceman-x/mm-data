@@ -190,6 +190,6 @@ systemmode:CHASSIS:Earthwerks GRF
 systemmanufacturer:ENGINE:Hermes
 systemmode:ENGINE:Hermes 275 XL
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

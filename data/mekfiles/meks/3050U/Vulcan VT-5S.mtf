@@ -188,8 +188,8 @@ systemmanufacturer:ENGINE:Edasich Motors
 systemmode:ENGINE:240 XL
 systemmanufacturer:ARMOR:Lexington Ltd.
 systemmode:ARMOR:High Grade Ferro-Fibrous
-systemmanufacturer:JUMPING:Rawlings
-systemmode:JUMPING:75
+systemmanufacturer:JUMP_JET:Rawlings
+systemmode:JUMP_JET:75
 systemmanufacturer:COMMUNICATIONS:Hartford
 systemmode:COMMUNICATIONS:200S
 systemmanufacturer:TARGETING:Hartford

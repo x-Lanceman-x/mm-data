@@ -191,7 +191,7 @@ systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:GM 240
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:StarSlab/4 with CASE
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Sipher
 systemmode:COMMUNICATIONS:Sipher CommCon SCU-9
 systemmanufacturer:TARGETING:Matabushi

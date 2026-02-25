@@ -161,7 +161,7 @@ Skye
 CHASSIS:Shipil Company
 ENGINE:Shipil Company
 ARMOR:Unknown
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemManufacturers>
@@ -170,7 +170,7 @@ TARGETING:Unknown
 CHASSIS:Shipil 15
 ENGINE:Shipil 180 XL
 ARMOR:Reflective Armor
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemModels>

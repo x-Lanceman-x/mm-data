@@ -193,8 +193,8 @@ systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:180
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Ferro-Fibrous
-systemmanufacturer:JUMPING:Rawlings
-systemmode:JUMPING:95
+systemmanufacturer:JUMP_JET:Rawlings
+systemmode:JUMP_JET:95
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:T10B
 systemmanufacturer:TARGETING:Dynatec

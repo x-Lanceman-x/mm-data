@@ -196,8 +196,8 @@ systemmanufacturer:ENGINE:Plasmastar
 systemmode:ENGINE:270
 systemmanufacturer:ARMOR:Ceres Metals
 systemmode:ARMOR:Stealth Armor
-systemmanufacturer:JUMPING:Anderson Propulsion
-systemmode:JUMPING:30
+systemmanufacturer:JUMP_JET:Anderson Propulsion
+systemmode:JUMP_JET:30
 systemmanufacturer:COMMUNICATIONS:Ceres Metals
 systemmode:COMMUNICATIONS:Model 686 with Guardian ECM
 systemmanufacturer:TARGETING:Apple Churchill

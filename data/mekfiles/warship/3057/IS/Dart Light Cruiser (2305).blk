@@ -292,7 +292,7 @@ Terra
 CHASSIS:Di Tron Heavy Industries
 ENGINE:Unknown
 ARMOR:Unknown
-JUMPING:Unknown
+JUMP_JET:Unknown
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemManufacturers>
@@ -301,7 +301,7 @@ TARGETING:Unknown
 CHASSIS:Unknown
 ENGINE:Century 4000
 ARMOR:Standard
-JUMPING:Unknown
+JUMP_JET:Unknown
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemModels>

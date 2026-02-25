@@ -160,7 +160,7 @@ Liberty (Carver V)
 CHASSIS:Lockheed
 ENGINE:GM
 ARMOR:SearWeave
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Unknown
 TARGETING:Ryder
 </systemManufacturers>
@@ -169,7 +169,7 @@ TARGETING:Ryder
 CHASSIS:FairFax
 ENGINE:260
 ARMOR:Unknown
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:OP/1/2/3.66 Mk IIa
 TARGETING:Track IV
 </systemModels>

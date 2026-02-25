@@ -191,7 +191,7 @@ systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:270
 systemmanufacturer:ARMOR:Durallex
 systemmode:ARMOR:Special Heavy
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Sipher
 systemmode:COMMUNICATIONS:Security Plus
 systemmanufacturer:TARGETING:Matabushi

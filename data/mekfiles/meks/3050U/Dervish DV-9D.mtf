@@ -190,8 +190,8 @@ systemmode:CHASSIS:Standard 55TES
 systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:275 XL
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Swingline
-systemmode:JUMPING:X-1000
+systemmanufacturer:JUMP_JET:Swingline
+systemmode:JUMP_JET:X-1000
 systemmanufacturer:COMMUNICATIONS:Achernar Electronics
 systemmode:COMMUNICATIONS:HID-21
 systemmanufacturer:TARGETING:Federated Hunter

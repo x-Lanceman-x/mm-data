@@ -200,8 +200,8 @@ systemmanufacturer:ENGINE:Core Tek
 systemmode:ENGINE:275
 systemmanufacturer:ARMOR:Maximillian
 systemmode:ARMOR:105
-systemmanufacturer:JUMPING:Swingline
-systemmode:JUMPING:X-100
+systemmanufacturer:JUMP_JET:Swingline
+systemmode:JUMP_JET:X-100
 systemmanufacturer:COMMUNICATIONS:Achernar Electronics
 systemmode:COMMUNICATIONS:HID-21
 systemmanufacturer:TARGETING:Federated Hunter

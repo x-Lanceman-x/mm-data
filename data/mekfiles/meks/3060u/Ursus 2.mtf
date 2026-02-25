@@ -191,7 +191,7 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:300 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Compound A2F Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:T10B
 systemmanufacturer:TARGETING:RCA

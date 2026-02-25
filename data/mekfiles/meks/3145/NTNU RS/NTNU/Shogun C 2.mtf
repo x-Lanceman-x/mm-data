@@ -192,6 +192,6 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:255
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Ferro-Lamellor
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

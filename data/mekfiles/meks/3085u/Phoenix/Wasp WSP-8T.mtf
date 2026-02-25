@@ -193,8 +193,8 @@ systemmanufacturer:ENGINE:Hermes
 systemmode:ENGINE:120 XL
 systemmanufacturer:ARMOR:Durallex
 systemmode:ARMOR:Light
-systemmanufacturer:JUMPING:Hellespont
-systemmode:JUMPING:Leapers
+systemmanufacturer:JUMP_JET:Hellespont
+systemmode:JUMP_JET:Leapers
 systemmanufacturer:COMMUNICATIONS:Hellespont
 systemmode:COMMUNICATIONS:Tight Beam
 systemmanufacturer:TARGETING:RadCom

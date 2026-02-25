@@ -188,6 +188,6 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:275 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Ballistic-Reinforced
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

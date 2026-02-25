@@ -164,7 +164,7 @@ St. Ives, Tikonov
 CHASSIS:Mujika Aerospace Technologies
 ENGINE:Unknown
 ARMOR:Unknown
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemManufacturers>
@@ -173,7 +173,7 @@ TARGETING:Unknown
 CHASSIS:Mujika Aerospace Type 12
 ENGINE:Unknown XL
 ARMOR:Unknown (reflective)
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemModels>

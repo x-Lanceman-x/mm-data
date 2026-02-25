@@ -190,7 +190,7 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:CoreTek 275
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Leopard V Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:OmniComm 3
 systemmanufacturer:TARGETING:Unknown

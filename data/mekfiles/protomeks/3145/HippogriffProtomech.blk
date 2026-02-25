@@ -165,7 +165,7 @@ Dante
 CHASSIS:Unknown
 ENGINE:Unknown
 ARMOR:Unknown
-JUMPING:Hraban
+JUMP_JET:Hraban
 COMMUNICATIONS:Build 1919
 TARGETING:Proto-Enhanced
 </systemManufacturers>
@@ -174,7 +174,7 @@ TARGETING:Proto-Enhanced
 CHASSIS:HIP
 ENGINE:40 Fusion
 ARMOR:Standard P-6Q
-JUMPING:MicroLeapers
+JUMP_JET:MicroLeapers
 COMMUNICATIONS:Micro
 TARGETING:Model 8
 </systemModels>

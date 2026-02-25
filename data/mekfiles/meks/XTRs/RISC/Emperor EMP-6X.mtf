@@ -195,7 +195,7 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:360 XL (Clan)
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Void-Signature Mimetic
-systemmanufacturer:JUMPING:Pitban
-systemmode:JUMPING:LFT-50
+systemmanufacturer:JUMP_JET:Pitban
+systemmode:JUMP_JET:LFT-50
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

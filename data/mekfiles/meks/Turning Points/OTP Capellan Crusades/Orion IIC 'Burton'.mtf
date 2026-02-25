@@ -192,7 +192,7 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Heavy Force 300 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Composite A-4 Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:Khan Series (Type 1)
 systemmanufacturer:TARGETING:Unknown

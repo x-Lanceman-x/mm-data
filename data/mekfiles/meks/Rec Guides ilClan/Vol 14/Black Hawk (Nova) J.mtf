@@ -189,8 +189,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:250 XL Model SF-2
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Forge Type HH30
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Clan Standard Type A2
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Clan Standard Type A2
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:CH3B
 systemmanufacturer:TARGETING:Unknown

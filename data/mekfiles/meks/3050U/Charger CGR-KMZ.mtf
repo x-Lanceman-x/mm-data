@@ -191,8 +191,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:320 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Light Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Improved
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Improved
 systemmanufacturer:COMMUNICATIONS:Tek
 systemmode:COMMUNICATIONS:BattleCom
 systemmanufacturer:TARGETING:Dalban

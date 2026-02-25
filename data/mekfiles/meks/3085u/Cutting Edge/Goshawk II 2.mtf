@@ -191,8 +191,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:315 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Raven Comp A
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:SR Starlifter 45
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:SR Starlifter 45
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:SR Com 6 with ECM Suite
 systemmanufacturer:TARGETING:Unknown

@@ -189,8 +189,8 @@ systemmode:CHASSIS:Combine-Republic Peacekeeper Superheavy
 systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:380 XL
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Lexington Ltd.
-systemmode:JUMPING:Lifters
+systemmanufacturer:JUMP_JET:Lexington Ltd.
+systemmode:JUMP_JET:Lifters
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown
 systemmode:TARGETING:Keeper of the Peace

@@ -192,7 +192,7 @@ systemmanufacturer:ENGINE:DAV
 systemmode:ENGINE:225
 systemmanufacturer:ARMOR:StarGuard
 systemmode:ARMOR:III
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Achernar Electronics
 systemmode:COMMUNICATIONS:HICK-3
 systemmanufacturer:TARGETING:Federated

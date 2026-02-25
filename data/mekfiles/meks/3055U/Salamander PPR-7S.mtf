@@ -191,7 +191,7 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:320 Light
 systemmanufacturer:ARMOR:Glasgow Limited
 systemmode:ARMOR:Unknown
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:TharHes
 systemmode:COMMUNICATIONS:Hm-10
 systemmanufacturer:TARGETING:TharHes

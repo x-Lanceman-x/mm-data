@@ -173,8 +173,8 @@ systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:270 XL
 systemmanufacturer:ARMOR:StarGuard
 systemmode:ARMOR:III
-systemmanufacturer:JUMPING:Rawlings
-systemmode:JUMPING:80
+systemmanufacturer:JUMP_JET:Rawlings
+systemmode:JUMP_JET:80
 systemmanufacturer:COMMUNICATIONS:Dalban
 systemmode:COMMUNICATIONS:SuperMicronics
 systemmanufacturer:TARGETING:GME

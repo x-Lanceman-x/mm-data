@@ -193,8 +193,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Light 300
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Ferro-Fibrous
-systemmanufacturer:JUMPING:Chilton
-systemmode:JUMPING:460
+systemmanufacturer:JUMP_JET:Chilton
+systemmode:JUMP_JET:460
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown
 systemmode:TARGETING:Targeting Computer

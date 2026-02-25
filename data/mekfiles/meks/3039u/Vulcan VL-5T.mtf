@@ -190,8 +190,8 @@ systemmanufacturer:ENGINE:Pitban
 systemmode:ENGINE:240
 systemmanufacturer:ARMOR:StarGuard
 systemmode:ARMOR:I
-systemmanufacturer:JUMPING:Pitban
-systemmode:JUMPING:Model 9
+systemmanufacturer:JUMP_JET:Pitban
+systemmode:JUMP_JET:Model 9
 systemmanufacturer:COMMUNICATIONS:Hartford
 systemmode:COMMUNICATIONS:200S
 systemmanufacturer:TARGETING:Hartford

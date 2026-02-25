@@ -191,8 +191,8 @@ systemmanufacturer:ENGINE:DAV
 systemmode:ENGINE:280
 systemmanufacturer:ARMOR:StarGuard
 systemmode:ARMOR:StarGuard-X
-systemmanufacturer:JUMPING:Rawlings
-systemmode:JUMPING:40-Beta
+systemmanufacturer:JUMP_JET:Rawlings
+systemmode:JUMP_JET:40-Beta
 systemmanufacturer:COMMUNICATIONS:Achernar Electronics
 systemmode:COMMUNICATIONS:HICK-1
 systemmanufacturer:TARGETING:Federated

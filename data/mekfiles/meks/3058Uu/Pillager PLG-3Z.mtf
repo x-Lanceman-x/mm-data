@@ -193,8 +193,8 @@ systemmanufacturer:ENGINE:Vlar
 systemmode:ENGINE:300 XL
 systemmanufacturer:ARMOR:StarSlab
 systemmode:ARMOR:9.5 Mk II
-systemmanufacturer:JUMPING:HildCo
-systemmode:JUMPING:Model 13
+systemmanufacturer:JUMP_JET:HildCo
+systemmode:JUMP_JET:Model 13
 systemmanufacturer:COMMUNICATIONS:CeresCom
 systemmode:COMMUNICATIONS:Recon Model 12K
 systemmanufacturer:TARGETING:C-Apple

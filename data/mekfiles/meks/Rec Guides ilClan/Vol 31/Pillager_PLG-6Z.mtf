@@ -193,8 +193,8 @@ systemmode:CHASSIS:Heavy Type VIIQT
 systemmanufacturer:ENGINE:Vlar
 systemmode:ENGINE:300 Light
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:HildCo
-systemmode:JUMPING:Model 13
+systemmanufacturer:JUMP_JET:HildCo
+systemmode:JUMP_JET:Model 13
 systemmanufacturer:COMMUNICATIONS:CeresCom
 systemmode:COMMUNICATIONS:Recon Model 12K
 systemmanufacturer:TARGETING:C-Apple

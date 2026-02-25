@@ -192,8 +192,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Light Fusion 210
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Light Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Improved Jump Jets
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Improved Jump Jets
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:Unknown with C3i
 systemmanufacturer:TARGETING:Unknown

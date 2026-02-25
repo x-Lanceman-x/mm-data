@@ -190,8 +190,8 @@ systemmanufacturer:ENGINE:Hermes
 systemmode:ENGINE:360 XL
 systemmanufacturer:ARMOR:Star Shell
 systemmode:ARMOR:Standard
-systemmanufacturer:JUMPING:Rodan
-systemmode:JUMPING:90
+systemmanufacturer:JUMP_JET:Rodan
+systemmode:JUMP_JET:90
 systemmanufacturer:COMMUNICATIONS:Dian-bao
 systemmode:COMMUNICATIONS:Comms, Standard
 systemmanufacturer:TARGETING:O/P

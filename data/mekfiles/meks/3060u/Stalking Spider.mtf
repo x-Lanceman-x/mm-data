@@ -190,8 +190,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Fusion Standard 250 Mk. IX
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Compound RSH5 Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:BMP Series XXI Mod. 12
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:BMP Series XXI Mod. 12
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:Build 1700/1 Tacticom
 systemmanufacturer:TARGETING:Unknown

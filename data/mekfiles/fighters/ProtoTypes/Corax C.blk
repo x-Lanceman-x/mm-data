@@ -174,7 +174,7 @@ Ramora
 CHASSIS:UOC
 ENGINE:Raven
 ARMOR:POE
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Outworlds
 TARGETING:Multiplatform
 </systemManufacturers>
@@ -183,7 +183,7 @@ TARGETING:Multiplatform
 CHASSIS:Light Spec 3
 ENGINE:210 XL
 ARMOR:Ferro-Aluminum
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Advanced 6ai
 TARGETING:T12e
 </systemModels>

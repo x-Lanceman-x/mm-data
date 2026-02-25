@@ -189,8 +189,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Unknown XXL
 systemmanufacturer:ARMOR:Forging
 systemmode:ARMOR:Standard
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Unknown (Improved)
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Unknown (Improved)
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:MegaBand System 21
 systemmanufacturer:TARGETING:Unknown

@@ -183,7 +183,7 @@ systemmanufacturer:CHASSIS:Unknown
 systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Unknown XL
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Unknown Improved
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Unknown Improved
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

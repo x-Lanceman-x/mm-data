@@ -193,7 +193,7 @@ systemmanufacturer:ENGINE:Magna
 systemmode:ENGINE:260
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Ferro-Fibrous (IS)
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Neil
 systemmode:COMMUNICATIONS:8000
 systemmanufacturer:TARGETING:RCA

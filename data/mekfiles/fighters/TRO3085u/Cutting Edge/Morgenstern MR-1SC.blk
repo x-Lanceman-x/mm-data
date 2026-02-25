@@ -175,7 +175,7 @@ Tharkad
 CHASSIS:Lockheed/CBM
 ENGINE:WAS
 ARMOR:Donegal
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Lockheed/CBM
 TARGETING:Lockheed/CBM
 </systemManufacturers>
@@ -184,7 +184,7 @@ TARGETING:Lockheed/CBM
 CHASSIS:Lockheed/CBM 300
 ENGINE:WAS 280
 ARMOR:Donegal Omni-Sheath Ferro-Aluminum
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Lockheed/CBM COMSET 300
 TARGETING:Lockheed/CBM TarSet 75
 </systemModels>

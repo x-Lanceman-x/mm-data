@@ -157,7 +157,7 @@ Atreus (FWL), Gibbs (LA), Axton (FS)
 CHASSIS:ImStar Aerospace
 ENGINE:Vlar
 ARMOR:StarSlab
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Datacom
 TARGETING:Dynatec
 </systemManufacturers>
@@ -166,7 +166,7 @@ TARGETING:Dynatec
 CHASSIS:ImStar Alpha
 ENGINE:Vlar 300
 ARMOR:StarSlab/2
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Datacom 26
 TARGETING:Dynatec 990
 </systemModels>

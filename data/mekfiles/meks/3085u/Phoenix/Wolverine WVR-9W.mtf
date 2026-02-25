@@ -197,8 +197,8 @@ systemmanufacturer:ENGINE:Nissan
 systemmode:ENGINE:Nissan 275 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Light Ferro-Fibrous with CASE II
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Improved Jump Jets
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Improved Jump Jets
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:Garret T11-b with Improved C3
 systemmanufacturer:TARGETING:Sync Tracker

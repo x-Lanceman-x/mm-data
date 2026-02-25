@@ -188,7 +188,7 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:340 XL Fusion Engine
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Standard
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:Series D8 CC-25a
 systemmanufacturer:TARGETING:Unknown

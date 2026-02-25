@@ -189,8 +189,8 @@ systemmanufacturer:ENGINE:Magna
 systemmode:ENGINE:245
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Ferro-Fibrous (Prototype)
-systemmanufacturer:JUMPING:Lexington Ltd.
-systemmode:JUMPING:Lifters
+systemmanufacturer:JUMP_JET:Lexington Ltd.
+systemmode:JUMP_JET:Lifters
 systemmanufacturer:COMMUNICATIONS:Sipher
 systemmode:COMMUNICATIONS:Security Plus
 systemmanufacturer:TARGETING:Matabushi

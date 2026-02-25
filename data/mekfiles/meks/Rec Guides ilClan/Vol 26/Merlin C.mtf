@@ -190,8 +190,8 @@ systemmanufacturer:ENGINE:Pitban
 systemmode:ENGINE:240
 systemmanufacturer:ARMOR:Compound
 systemmode:ARMOR:LZ-7 Ferro-Lamellor
-systemmanufacturer:JUMPING:Pitban
-systemmode:JUMPING:LFT 50
+systemmanufacturer:JUMP_JET:Pitban
+systemmode:JUMP_JET:LFT 50
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:T11-A
 systemmanufacturer:TARGETING:Tokasha

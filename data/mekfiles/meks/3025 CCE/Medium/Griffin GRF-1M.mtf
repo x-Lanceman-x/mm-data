@@ -196,8 +196,8 @@ systemmanufacturer:ENGINE:CoreTek
 systemmode:ENGINE:CoreTek 275
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Starshield A
-systemmanufacturer:JUMPING:Rawlings
-systemmode:JUMPING:Rawlings 55
+systemmanufacturer:JUMP_JET:Rawlings
+systemmode:JUMP_JET:Rawlings 55
 systemmanufacturer:COMMUNICATIONS:Neil
 systemmode:COMMUNICATIONS:Neil 6000
 systemmanufacturer:TARGETING:Octagon

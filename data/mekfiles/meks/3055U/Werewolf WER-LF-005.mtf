@@ -190,8 +190,8 @@ systemmanufacturer:ENGINE:Nissan
 systemmode:ENGINE:200 XL
 systemmanufacturer:ARMOR:Starshield
 systemmode:ARMOR:Starshield/Null Signature System
-systemmanufacturer:JUMPING:Rawlings
-systemmode:JUMPING:75
+systemmanufacturer:JUMP_JET:Rawlings
+systemmode:JUMP_JET:75
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:Lynx-shur
 systemmanufacturer:TARGETING:Eagle Eye

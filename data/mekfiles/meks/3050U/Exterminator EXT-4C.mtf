@@ -194,8 +194,8 @@ systemmanufacturer:ENGINE:Magna
 systemmode:ENGINE:390 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Fibrolyte Armorscale
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Chevron II
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Chevron II
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:AR-12 Sheathed Directional Beacon
 systemmanufacturer:TARGETING:Unknown

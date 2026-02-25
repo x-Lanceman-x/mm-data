@@ -191,8 +191,8 @@ systemmanufacturer:ENGINE:Hermes
 systemmode:ENGINE:275 XL
 systemmanufacturer:ARMOR:Bowie
 systemmode:ARMOR:Glinting Blade Reflective
-systemmanufacturer:JUMPING:Dynamo
-systemmode:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Dynamo
+systemmode:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Telestar
 systemmode:COMMUNICATIONS:Model XK-71
 systemmanufacturer:TARGETING:Starlight

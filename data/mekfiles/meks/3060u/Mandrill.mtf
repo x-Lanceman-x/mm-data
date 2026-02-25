@@ -188,8 +188,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Firebox 120 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Compound FM3 Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Type C Medium Lifters
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Type C Medium Lifters
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:JNE Integrated Communications
 systemmanufacturer:TARGETING:Unknown

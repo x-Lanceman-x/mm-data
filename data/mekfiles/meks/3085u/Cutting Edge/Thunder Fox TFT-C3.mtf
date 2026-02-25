@@ -192,8 +192,8 @@ systemmanufacturer:ENGINE:DAV
 systemmode:ENGINE:220 Light
 systemmanufacturer:ARMOR:Krupp
 systemmode:ARMOR:205 Light Ferro-Fibrous with CASE
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Mechanical Jump Boosters
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Mechanical Jump Boosters
 systemmanufacturer:COMMUNICATIONS:Skobel
 systemmode:COMMUNICATIONS:Wave 13
 systemmanufacturer:TARGETING:Matabushi

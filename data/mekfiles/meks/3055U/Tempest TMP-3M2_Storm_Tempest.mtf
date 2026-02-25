@@ -193,8 +193,8 @@ systemmanufacturer:ENGINE:Magna
 systemmode:ENGINE:260 XL
 systemmanufacturer:ARMOR:Maximillian
 systemmode:ARMOR:100
-systemmanufacturer:JUMPING:Chilton
-systemmode:JUMPING:465
+systemmanufacturer:JUMP_JET:Chilton
+systemmode:JUMP_JET:465
 systemmanufacturer:COMMUNICATIONS:Irian Technologies
 systemmode:COMMUNICATIONS:HMR-35s
 systemmanufacturer:TARGETING:Wasat

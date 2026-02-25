@@ -191,7 +191,7 @@ systemmode:CHASSIS:Phoenix UM-R Special
 systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Unknown 120
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Hammerstorm
 systemmode:COMMUNICATIONS:Hammerstorm II
 systemmanufacturer:TARGETING:Hammerstorm

@@ -191,7 +191,7 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:220 Light Fusion
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Standard Armor
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Improved Jump Jets
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Improved Jump Jets
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

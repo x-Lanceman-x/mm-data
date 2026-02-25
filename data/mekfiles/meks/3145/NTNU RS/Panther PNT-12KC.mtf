@@ -189,8 +189,8 @@ systemmanufacturer:ENGINE:Hermes
 systemmode:ENGINE:140
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Ballistic-Reinforced
-systemmanufacturer:JUMPING:Lexington Ltd.
-systemmode:JUMPING:Lifters
+systemmanufacturer:JUMP_JET:Lexington Ltd.
+systemmode:JUMP_JET:Lifters
 systemmanufacturer:COMMUNICATIONS:Sipher
 systemmode:COMMUNICATIONS:CommCon SCU-4
 systemmanufacturer:TARGETING:Cat's Eyes

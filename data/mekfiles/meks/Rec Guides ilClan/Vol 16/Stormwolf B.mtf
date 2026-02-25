@@ -187,8 +187,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:300 Extralight
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Gamma Special Reflective
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Grandthrust Mk 3
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Grandthrust Mk 3
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:T11-b
 systemmanufacturer:TARGETING:Unknown

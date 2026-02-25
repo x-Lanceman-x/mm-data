@@ -175,7 +175,7 @@ systemmode:CHASSIS:StarFrame Heavy Endo
 systemmanufacturer:ENGINE:Unknown
 systemmanufacturer:ARMOR:Durallex
 systemmode:ARMOR:Heavy
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:T-60 FastScan with C3 and Guardian ECM modules
 systemmanufacturer:TARGETING:Garret

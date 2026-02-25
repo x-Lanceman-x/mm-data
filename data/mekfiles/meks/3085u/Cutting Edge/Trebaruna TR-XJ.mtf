@@ -191,8 +191,8 @@ systemmanufacturer:ENGINE:Pitban
 systemmode:ENGINE:285
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Light Ferro-Fibrous
-systemmanufacturer:JUMPING:Chilton
-systemmode:JUMPING:950 Improved
+systemmanufacturer:JUMP_JET:Chilton
+systemmode:JUMP_JET:950 Improved
 systemmanufacturer:COMMUNICATIONS:Hartford
 systemmode:COMMUNICATIONS:JEQ-5
 systemmanufacturer:TARGETING:Spillman

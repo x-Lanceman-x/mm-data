@@ -187,8 +187,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:360 Type II XL
 systemmanufacturer:ARMOR:Arcadia
 systemmode:ARMOR:Compound Delta VII Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Clan Series Type 4 Heavy Improved
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Clan Series Type 4 Heavy Improved
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:GBX-2 Amalgamated
 systemmanufacturer:TARGETING:RCA

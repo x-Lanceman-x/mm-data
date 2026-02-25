@@ -198,8 +198,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:240 Primitive
 systemmanufacturer:ARMOR:PanzerSlab
 systemmode:ARMOR:Type 3 (Primitive)
-systemmanufacturer:JUMPING:Gerard
-systemmode:JUMPING:Special A (Prototype)
+systemmanufacturer:JUMP_JET:Gerard
+systemmode:JUMP_JET:Special A (Prototype)
 systemmanufacturer:COMMUNICATIONS:Vex/Holden
 systemmode:COMMUNICATIONS:TriComm Plus
 systemmanufacturer:TARGETING:Dillon

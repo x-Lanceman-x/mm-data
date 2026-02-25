@@ -189,7 +189,7 @@ systemmode:CHASSIS:Endo Steel
 systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:320 XL Fusion
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:HildCo
-systemmode:JUMPING:Model 12
+systemmanufacturer:JUMP_JET:HildCo
+systemmode:JUMP_JET:Model 12
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

@@ -191,7 +191,7 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:300 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Unknown (Standard)
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown
 systemmode:TARGETING:Unknown (Clan Targeting Computer)

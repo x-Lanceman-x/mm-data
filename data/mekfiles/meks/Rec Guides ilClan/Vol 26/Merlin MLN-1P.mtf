@@ -189,8 +189,8 @@ systemmanufacturer:ENGINE:Pitban
 systemmode:ENGINE:240
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Heavy Ferro-Fibrous
-systemmanufacturer:JUMPING:Pitban
-systemmode:JUMPING:LFT 50
+systemmanufacturer:JUMP_JET:Pitban
+systemmode:JUMP_JET:LFT 50
 systemmanufacturer:COMMUNICATIONS:Magestrix
 systemmode:COMMUNICATIONS:Alpha
 systemmanufacturer:TARGETING:Magestrix

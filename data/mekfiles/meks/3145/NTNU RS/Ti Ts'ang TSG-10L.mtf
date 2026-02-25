@@ -196,8 +196,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:360 XXL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Heat-Dissipating
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Chevron I
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Chevron I
 systemmanufacturer:COMMUNICATIONS:CeresCom
 systemmode:COMMUNICATIONS:Model 21-Rs
 systemmanufacturer:TARGETING:C-Apple

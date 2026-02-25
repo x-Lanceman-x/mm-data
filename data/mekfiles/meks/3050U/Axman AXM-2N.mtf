@@ -193,8 +193,8 @@ systemmanufacturer:ENGINE:Magna
 systemmode:ENGINE:260 XL
 systemmanufacturer:ARMOR:Kallon
 systemmode:ARMOR:Unity Weave Ferro-Fibrous
-systemmanufacturer:JUMPING:HildCo
-systemmode:JUMPING:Model 12
+systemmanufacturer:JUMP_JET:HildCo
+systemmode:JUMP_JET:Model 12
 systemmanufacturer:COMMUNICATIONS:Johnston
 systemmode:COMMUNICATIONS:Wide Band
 systemmanufacturer:TARGETING:Rander

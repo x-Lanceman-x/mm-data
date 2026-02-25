@@ -190,8 +190,8 @@ systemmanufacturer:ENGINE:General Motors
 systemmode:ENGINE:GM 180
 systemmanufacturer:ARMOR:StarGuard
 systemmode:ARMOR:Type II
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:PRS-60
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:PRS-60
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:T20C
 systemmanufacturer:TARGETING:Dynatec

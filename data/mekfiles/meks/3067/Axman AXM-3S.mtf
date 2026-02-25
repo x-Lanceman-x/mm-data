@@ -190,7 +190,7 @@ systemmanufacturer:ENGINE:Magna
 systemmode:ENGINE:260 Light
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Ferro-Fibrous
-systemmanufacturer:JUMPING:HildCo
-systemmode:JUMPING:Model 12
+systemmanufacturer:JUMP_JET:HildCo
+systemmode:JUMP_JET:Model 12
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

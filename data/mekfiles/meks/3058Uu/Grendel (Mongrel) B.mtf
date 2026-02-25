@@ -191,8 +191,8 @@ systemmanufacturer:ENGINE:Consolidated
 systemmode:ENGINE:315 XL
 systemmanufacturer:ARMOR:Arcadia Compound
 systemmode:ARMOR:Delta VII Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Clan Standard 14X Series
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Clan Standard 14X Series
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:KP-3 "Screamer"
 systemmanufacturer:TARGETING:Unknown

@@ -185,8 +185,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Fusion 330 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:StarSlab/5X with Clan CASE
-systemmanufacturer:JUMPING:Icarus
-systemmode:JUMPING:99 TurboProp Experimental
+systemmanufacturer:JUMP_JET:Icarus
+systemmode:JUMP_JET:99 TurboProp Experimental
 systemmanufacturer:COMMUNICATIONS:JNE
 systemmode:COMMUNICATIONS:Integrated
 systemmanufacturer:TARGETING:Unknown

@@ -192,8 +192,8 @@ systemmanufacturer:ENGINE:VOX
 systemmode:ENGINE:VOX 280
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:100 AFVTA
-systemmanufacturer:JUMPING:Lox Lift
-systemmode:JUMPING:Lox Lift Series 1
+systemmanufacturer:JUMP_JET:Lox Lift
+systemmode:JUMP_JET:Lox Lift Series 1
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:Garret T15 B
 systemmanufacturer:TARGETING:Garret

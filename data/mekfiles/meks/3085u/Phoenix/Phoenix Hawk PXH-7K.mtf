@@ -195,7 +195,7 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Unknown Light
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Light Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Unknown (Improved)
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Unknown (Improved)
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

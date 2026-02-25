@@ -189,7 +189,7 @@ systemmode:CHASSIS:Unknown Endo Steel
 systemmanufacturer:ENGINE:LTV
 systemmode:ENGINE:LTV 160
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:General Motors
-systemmode:JUMPING:GM StarLift Improved
+systemmanufacturer:JUMP_JET:General Motors
+systemmode:JUMP_JET:GM StarLift Improved
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

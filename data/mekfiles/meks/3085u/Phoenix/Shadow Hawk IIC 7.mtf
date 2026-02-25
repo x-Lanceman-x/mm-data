@@ -190,8 +190,8 @@ systemmanufacturer:ENGINE:Fusion
 systemmode:ENGINE:225 XL
 systemmanufacturer:ARMOR:Alpha Compound
 systemmode:ARMOR:Ferro-Fibrous
-systemmanufacturer:JUMPING:Northrup Starlifter
-systemmode:JUMPING:M46
+systemmanufacturer:JUMP_JET:Northrup Starlifter
+systemmode:JUMP_JET:M46
 systemmanufacturer:COMMUNICATIONS:JNE
 systemmode:COMMUNICATIONS:Integrated
 systemmanufacturer:TARGETING:Build 3

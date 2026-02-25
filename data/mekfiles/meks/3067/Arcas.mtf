@@ -192,8 +192,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:325 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Compound 12A1 Standard
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Clan Standard Type A3
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Clan Standard Type A3
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:L15
 systemmanufacturer:TARGETING:RCA

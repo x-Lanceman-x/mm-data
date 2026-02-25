@@ -193,8 +193,8 @@ systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:300 Light
 systemmanufacturer:ARMOR:Valiant
 systemmode:ARMOR:Lamellor
-systemmanufacturer:JUMPING:Chilton
-systemmode:JUMPING:850 Mk. II
+systemmanufacturer:JUMP_JET:Chilton
+systemmode:JUMP_JET:850 Mk. II
 systemmanufacturer:COMMUNICATIONS:Blackwell
 systemmode:COMMUNICATIONS:Multi-Linq 55
 systemmanufacturer:TARGETING:Dragwell

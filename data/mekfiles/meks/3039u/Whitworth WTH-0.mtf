@@ -189,7 +189,7 @@ primaryfactory:Inarcs
 systemmanufacturer:CHASSIS:Unknown
 systemmanufacturer:ENGINE:Unknown
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Whitworth
-systemmode:JUMPING:Whitworth Jetlift
+systemmanufacturer:JUMP_JET:Whitworth
+systemmode:JUMP_JET:Whitworth Jetlift
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

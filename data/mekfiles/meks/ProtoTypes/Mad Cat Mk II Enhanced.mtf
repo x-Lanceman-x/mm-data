@@ -190,8 +190,8 @@ systemmanufacturer:ENGINE:Type 79
 systemmode:ENGINE:360 XL Fusion
 systemmanufacturer:ARMOR:Double-Forged
 systemmode:ARMOR:ZX20 Hardened
-systemmanufacturer:JUMPING:Groundthrust
-systemmode:JUMPING:Mk. 5
+systemmanufacturer:JUMP_JET:Groundthrust
+systemmode:JUMP_JET:Mk. 5
 systemmanufacturer:COMMUNICATIONS:MegaBand
 systemmode:COMMUNICATIONS:System 21
 systemmanufacturer:TARGETING:Dtrac

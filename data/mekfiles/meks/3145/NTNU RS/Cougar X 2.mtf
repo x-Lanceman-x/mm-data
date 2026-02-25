@@ -184,7 +184,7 @@ systemmanufacturer:CHASSIS:Unknown
 systemmode:CHASSIS:Unknown (Composite)
 systemmanufacturer:ENGINE:Unknown
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Unknown (Improved)
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Unknown (Improved)
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

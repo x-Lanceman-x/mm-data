@@ -190,8 +190,8 @@ systemmanufacturer:ENGINE:Magna
 systemmode:ENGINE:250 XL
 systemmanufacturer:ARMOR:StarGuard
 systemmode:ARMOR:StarGuard III with CASE
-systemmanufacturer:JUMPING:HildCo
-systemmode:JUMPING:Model 13
+systemmanufacturer:JUMP_JET:HildCo
+systemmode:JUMP_JET:Model 13
 systemmanufacturer:COMMUNICATIONS:CommuTech
 systemmode:COMMUNICATIONS:Multi Channel 10
 systemmanufacturer:TARGETING:Tek

@@ -195,8 +195,8 @@ systemmanufacturer:ENGINE:Consolidated Fusion
 systemmode:ENGINE:270
 systemmanufacturer:ARMOR:Compound
 systemmode:ARMOR:H17 Ferro-Fibrous
-systemmanufacturer:JUMPING:Northrup Starlifters
-systemmode:JUMPING:M45
+systemmanufacturer:JUMP_JET:Northrup Starlifters
+systemmode:JUMP_JET:M45
 systemmanufacturer:COMMUNICATIONS:JNE
 systemmode:COMMUNICATIONS:Integrated
 systemmanufacturer:TARGETING:TRTTS

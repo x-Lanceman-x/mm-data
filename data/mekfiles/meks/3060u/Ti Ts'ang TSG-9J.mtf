@@ -192,8 +192,8 @@ systemmanufacturer:ENGINE:Hermes
 systemmode:ENGINE:360 XL
 systemmanufacturer:ARMOR:Durallex
 systemmode:ARMOR:Heavy
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Chevron I
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Chevron I
 systemmanufacturer:COMMUNICATIONS:CeresCom
 systemmode:COMMUNICATIONS:Model 21-Rs
 systemmanufacturer:TARGETING:C-Apple

@@ -167,7 +167,7 @@ Sarna (Tengo); Tharkad (Lockheed/CBM); New Avalon (Lycomb-Davion)
 CHASSIS:Hildco
 ENGINE:Unknown
 ARMOR:Unknown
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Endicott
 TARGETING:Unknown
 </systemManufacturers>
@@ -176,7 +176,7 @@ TARGETING:Unknown
 CHASSIS:Aerospace Type 4
 ENGINE:Unknown XL
 ARMOR:Unknown
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Type 22 Master
 TARGETING:Unknown
 </systemModels>

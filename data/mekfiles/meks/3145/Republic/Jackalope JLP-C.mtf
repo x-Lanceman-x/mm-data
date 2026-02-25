@@ -191,8 +191,8 @@ systemmanufacturer:ENGINE:Victory
 systemmode:ENGINE:240 XL
 systemmanufacturer:ARMOR:Advantage
 systemmode:ARMOR:Ferro-Fibrous
-systemmanufacturer:JUMPING:VC
-systemmode:JUMPING:Dynamo
+systemmanufacturer:JUMP_JET:VC
+systemmode:JUMP_JET:Dynamo
 systemmanufacturer:COMMUNICATIONS:Angst
 systemmode:COMMUNICATIONS:Clear Channel 5
 systemmanufacturer:TARGETING:O/P

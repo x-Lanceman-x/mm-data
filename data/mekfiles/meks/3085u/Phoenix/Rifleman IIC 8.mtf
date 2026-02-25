@@ -193,8 +193,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Consolidated 325 XL
 systemmanufacturer:ARMOR:Forging
 systemmode:ARMOR:ZM15 Ferro-Fibrous
-systemmanufacturer:JUMPING:Highlifter
-systemmode:JUMPING:44 Improved
+systemmanufacturer:JUMP_JET:Highlifter
+systemmode:JUMP_JET:44 Improved
 systemmanufacturer:COMMUNICATIONS:Hector
 systemmode:COMMUNICATIONS:CC-22E with ECM Suite
 systemmanufacturer:TARGETING:Unknown

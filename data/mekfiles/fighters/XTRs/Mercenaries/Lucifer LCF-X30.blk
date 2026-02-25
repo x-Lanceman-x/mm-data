@@ -164,7 +164,7 @@ Skye (Refit — Shipil Test Facility Hades)
 CHASSIS:Lockheed/CBM Corporation
 ENGINE:Unknown
 ARMOR:Unknown
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Lockheed/CBM Corporation
 TARGETING:Lockheed/CBM Corporation
 </systemManufacturers>
@@ -173,7 +173,7 @@ TARGETING:Lockheed/CBM Corporation
 CHASSIS:Lockheed/CBM 200
 ENGINE:XL (rating unknown)
 ARMOR:Ferro-Aluminum (brand unknown)
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Lockheed/CBM COMSET 100
 TARGETING:Lockheed/CBM TarSet 55
 </systemModels>

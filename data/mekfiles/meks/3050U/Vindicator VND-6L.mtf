@@ -191,8 +191,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:225 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Stealth
-systemmanufacturer:JUMPING:Anderson Propulsion
-systemmode:JUMPING:30
+systemmanufacturer:JUMP_JET:Anderson Propulsion
+systemmode:JUMP_JET:30
 systemmanufacturer:COMMUNICATIONS:CeresCom
 systemmode:COMMUNICATIONS:Model 21-Rs with Guardian ECM
 systemmanufacturer:TARGETING:Unknown

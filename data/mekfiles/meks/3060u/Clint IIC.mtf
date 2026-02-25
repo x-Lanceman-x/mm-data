@@ -188,8 +188,8 @@ systemmanufacturer:ENGINE:Snow Raven
 systemmode:ENGINE:Type 81 Fusion 240 XL
 systemmanufacturer:ARMOR:Forging
 systemmode:ARMOR:C629/j
-systemmanufacturer:JUMPING:Andoran
-systemmode:JUMPING:Model JJII
+systemmanufacturer:JUMP_JET:Andoran
+systemmode:JUMP_JET:Model JJII
 systemmanufacturer:COMMUNICATIONS:Raldon
 systemmode:COMMUNICATIONS:R1
 systemmanufacturer:TARGETING:Sloane

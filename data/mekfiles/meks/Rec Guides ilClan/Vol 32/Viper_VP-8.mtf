@@ -191,7 +191,7 @@ primaryfactory:Bernardo
 systemmanufacturer:CHASSIS:Unknown
 systemmanufacturer:ENGINE:Unknown
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:T11-B2
 systemmanufacturer:TARGETING:Garret

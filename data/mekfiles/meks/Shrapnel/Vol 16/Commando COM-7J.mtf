@@ -188,7 +188,7 @@ systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:150
 systemmanufacturer:ARMOR:Lexington Limited
 systemmode:ARMOR:Standard
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Cyclops
 systemmode:COMMUNICATIONS:14
 systemmanufacturer:TARGETING:Cyclops

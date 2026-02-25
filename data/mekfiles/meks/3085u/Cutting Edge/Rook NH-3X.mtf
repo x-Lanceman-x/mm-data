@@ -190,7 +190,7 @@ systemmanufacturer:CHASSIS:Unknown
 systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:330 XL
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Hessen
-systemmode:JUMPING:Heavy Boosters
+systemmanufacturer:JUMP_JET:Hessen
+systemmode:JUMP_JET:Heavy Boosters
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

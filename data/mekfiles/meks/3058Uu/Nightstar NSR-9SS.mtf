@@ -195,7 +195,7 @@ systemmanufacturer:ENGINE:Pitban
 systemmode:ENGINE:285 XL
 systemmanufacturer:ARMOR:Kallon
 systemmode:ARMOR:Royalstar Heavy Type K
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Tek
 systemmode:COMMUNICATIONS:BattleCom
 systemmanufacturer:TARGETING:DLK

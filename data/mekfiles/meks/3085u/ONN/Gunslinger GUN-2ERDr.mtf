@@ -194,8 +194,8 @@ systemmanufacturer:ENGINE:VOX
 systemmode:ENGINE:255 XL
 systemmanufacturer:ARMOR:Kevlar
 systemmode:ARMOR:5000
-systemmanufacturer:JUMPING:HildCo
-systemmode:JUMPING:Model 12
+systemmanufacturer:JUMP_JET:HildCo
+systemmode:JUMP_JET:Model 12
 systemmanufacturer:COMMUNICATIONS:Nashan
 systemmode:COMMUNICATIONS:Quartet ComSy
 systemmanufacturer:TARGETING:Nashan

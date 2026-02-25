@@ -197,8 +197,8 @@ systemmanufacturer:ENGINE:Magna
 systemmode:ENGINE:245
 systemmanufacturer:ARMOR:Starshield
 systemmode:ARMOR:Standard
-systemmanufacturer:JUMPING:Smithson
-systemmode:JUMPING:Lifters
+systemmanufacturer:JUMP_JET:Smithson
+systemmode:JUMP_JET:Lifters
 systemmanufacturer:COMMUNICATIONS:Dawson
 systemmode:COMMUNICATIONS:III
 systemmanufacturer:TARGETING:Bk

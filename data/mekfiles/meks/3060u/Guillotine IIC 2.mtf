@@ -190,8 +190,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Clan Standard 280 series
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Unknown (Ferro-Fibrous)
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Unknown (Improved)
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Unknown (Improved)
 systemmanufacturer:COMMUNICATIONS:JNE
 systemmode:COMMUNICATIONS:JNE Integrated
 systemmanufacturer:TARGETING:Unknown

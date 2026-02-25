@@ -184,7 +184,7 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Unknown (Larger)
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Improved
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Rand
 systemmode:COMMUNICATIONS:1200
 systemmanufacturer:TARGETING:Rand

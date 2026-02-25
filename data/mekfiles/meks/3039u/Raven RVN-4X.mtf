@@ -191,7 +191,7 @@ systemmanufacturer:ENGINE:Omni
 systemmode:ENGINE:175
 systemmanufacturer:ARMOR:Starshield
 systemmode:ARMOR:Standard
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:CeresCom
 systemmode:COMMUNICATIONS:Model 22-A
 systemmanufacturer:TARGETING:Apple Churchill

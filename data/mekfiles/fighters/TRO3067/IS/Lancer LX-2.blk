@@ -155,7 +155,7 @@ Trellisane
 CHASSIS:Gutierrez Aerospace
 ENGINE:Unknown
 ARMOR:Defiance Industries
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemManufacturers>
@@ -164,7 +164,7 @@ TARGETING:Unknown
 CHASSIS:L2 Standard
 ENGINE:250 Fusion
 ARMOR:Durallex Heavy Standard
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Telestar G-3
 TARGETING:SynCom DEC with Artemis IV FCS
 </systemModels>

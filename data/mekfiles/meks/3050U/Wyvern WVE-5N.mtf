@@ -191,8 +191,8 @@ systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:180
 systemmanufacturer:ARMOR:Kilosh
 systemmode:ARMOR:1000 with CASE
-systemmanufacturer:JUMPING:Northrup
-systemmode:JUMPING:750
+systemmanufacturer:JUMP_JET:Northrup
+systemmode:JUMP_JET:750
 systemmanufacturer:COMMUNICATIONS:Ostmann
 systemmode:COMMUNICATIONS:AMB
 systemmanufacturer:TARGETING:Unknown

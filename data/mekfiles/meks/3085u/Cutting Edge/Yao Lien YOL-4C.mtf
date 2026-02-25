@@ -193,8 +193,8 @@ systemmanufacturer:ENGINE:Ceres Motors
 systemmode:ENGINE:275
 systemmanufacturer:ARMOR:Durallex
 systemmode:ARMOR:Medium Ferro-Fibrous
-systemmanufacturer:JUMPING:Chilton
-systemmode:JUMPING:950 Improved Jump Jets
+systemmanufacturer:JUMP_JET:Chilton
+systemmode:JUMP_JET:950 Improved Jump Jets
 systemmanufacturer:COMMUNICATIONS:CeresCom
 systemmode:COMMUNICATIONS:Model 21Rs with ECM and C3
 systemmanufacturer:TARGETING:C-Apple

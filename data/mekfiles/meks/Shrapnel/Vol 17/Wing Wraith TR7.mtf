@@ -183,7 +183,7 @@ systemmode:CHASSIS:Unknown
 systemmanufacturer:ENGINE:Unknown
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Stealth
-systemmanufacturer:JUMPING:Hellespont
-systemmode:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Hellespont
+systemmode:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

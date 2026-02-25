@@ -191,8 +191,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Standard
-systemmanufacturer:JUMPING:Chilton
-systemmode:JUMPING:360
+systemmanufacturer:JUMP_JET:Chilton
+systemmode:JUMP_JET:360
 systemmanufacturer:COMMUNICATIONS:Datacom
 systemmode:COMMUNICATIONS:26
 systemmanufacturer:TARGETING:Dynatec

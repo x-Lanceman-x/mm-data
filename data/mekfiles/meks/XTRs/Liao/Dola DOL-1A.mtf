@@ -185,6 +185,6 @@ systemmanufacturer:ENGINE:Ceres Motors
 systemmode:ENGINE:240 XL
 systemmanufacturer:ARMOR:Hellespont
 systemmode:ARMOR:Lite Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

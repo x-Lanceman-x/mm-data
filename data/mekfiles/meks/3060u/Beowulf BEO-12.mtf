@@ -193,8 +193,8 @@ systemmanufacturer:ENGINE:General Motors
 systemmode:ENGINE:270 XL
 systemmanufacturer:ARMOR:Wall
 systemmode:ARMOR:Type 6 Ferro-Fibrous
-systemmanufacturer:JUMPING:Odin
-systemmode:JUMPING:Type II
+systemmanufacturer:JUMP_JET:Odin
+systemmode:JUMP_JET:Type II
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:Dash-2 Standard
 systemmanufacturer:TARGETING:Unknown

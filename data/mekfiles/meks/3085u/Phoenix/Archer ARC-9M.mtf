@@ -196,8 +196,8 @@ systemmanufacturer:ENGINE:Defiance
 systemmode:ENGINE:210 Light
 systemmanufacturer:ARMOR:Durallex
 systemmode:ARMOR:Guardian II Light Ferro-Fibrous with CASE
-systemmanufacturer:JUMPING:Chilton
-systemmode:JUMPING:Model 21 Improved
+systemmanufacturer:JUMP_JET:Chilton
+systemmode:JUMP_JET:Model 21 Improved
 systemmanufacturer:COMMUNICATIONS:Neil
 systemmode:COMMUNICATIONS:9000
 systemmanufacturer:TARGETING:RCA

@@ -185,7 +185,7 @@ Tharkad
 CHASSIS:Interstar
 ENGINE:VOX
 ARMOR:Donegal
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Unknown
 TARGETING:Bauer Enterprises
 </systemManufacturers>
@@ -194,7 +194,7 @@ TARGETING:Bauer Enterprises
 CHASSIS:290M
 ENGINE:340 XL
 ARMOR:Sturdy-Sheath Heavy Ferro-Aluminum
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:COMHRT II.Q
 TARGETING:Bauer-Scope 130Z
 </systemModels>

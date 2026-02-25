@@ -161,7 +161,7 @@ New Syrtis (Johnston Auxiliary Field)
 CHASSIS:Johnston
 ENGINE:GM
 ARMOR:Kallon
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Unknown
 TARGETING:RCA
 </systemManufacturers>
@@ -170,7 +170,7 @@ TARGETING:RCA
 CHASSIS:Rapier Mk. VII (modified)
 ENGINE:270 XXL
 ARMOR:AeroWeave Ferro-Aluminum
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:ChatterComm 224
 TARGETING:Instatrac Mk. XIX
 </systemModels>

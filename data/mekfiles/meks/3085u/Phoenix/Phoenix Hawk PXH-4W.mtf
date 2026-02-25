@@ -199,8 +199,8 @@ systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:225 Light
 systemmanufacturer:ARMOR:Durallex
 systemmode:ARMOR:Light
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Unknown (Improved)
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Unknown (Improved)
 systemmanufacturer:COMMUNICATIONS:Neil
 systemmode:COMMUNICATIONS:Unknown with Guardian ECM
 systemmanufacturer:TARGETING:Octagon

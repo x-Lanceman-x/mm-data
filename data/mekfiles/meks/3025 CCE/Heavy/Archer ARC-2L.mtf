@@ -202,7 +202,7 @@ systemmanufacturer:ENGINE:VOX
 systemmode:ENGINE:VOX 280
 systemmanufacturer:ARMOR:Maximillian
 systemmode:ARMOR:Maximillian 100
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Neil
 systemmode:COMMUNICATIONS:9000
 systemmanufacturer:TARGETING:RCA

@@ -190,7 +190,7 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:250 XL
 systemmanufacturer:ARMOR:Paulina
 systemmode:ARMOR:Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Dalban
 systemmode:COMMUNICATIONS:Series K
 systemmanufacturer:TARGETING:650 RND

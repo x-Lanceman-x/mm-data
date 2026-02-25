@@ -167,7 +167,7 @@ Loyalty (M-SC), Asuncion (RotS)
 CHASSIS:Unknown
 ENGINE:Magna
 ARMOR:Kallon
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Unknown
 TARGETING:Kallon
 </systemManufacturers>
@@ -176,7 +176,7 @@ TARGETING:Kallon
 CHASSIS:Aeroframe XSR
 ENGINE:245 XL
 ARMOR:AeroWeave II Ferro-Aluminum
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:SecureComm 867
 TARGETING:Victory Tracker Delta
 </systemModels>

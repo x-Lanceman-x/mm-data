@@ -193,8 +193,8 @@ systemmanufacturer:ENGINE:VOX
 systemmode:ENGINE:280 XL
 systemmanufacturer:ARMOR:Krupp
 systemmode:ARMOR:155
-systemmanufacturer:JUMPING:Rawlings
-systemmode:JUMPING:45i Improved
+systemmanufacturer:JUMP_JET:Rawlings
+systemmode:JUMP_JET:45i Improved
 systemmanufacturer:COMMUNICATIONS:Exeter
 systemmode:COMMUNICATIONS:Longscan 300 with C3i Computer
 systemmanufacturer:TARGETING:TRSS

@@ -185,7 +185,7 @@ systemmanufacturer:ENGINE:DAV
 systemmode:ENGINE:220
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:StarGuard III with CASE
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Corean
 systemmode:COMMUNICATIONS:Transband-J9
 systemmanufacturer:TARGETING:Corean

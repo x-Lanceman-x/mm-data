@@ -172,8 +172,8 @@ systemmanufacturer:ENGINE:Field Refit
 systemmode:ENGINE:Field Refit
 systemmanufacturer:ARMOR:Field Refit
 systemmode:ARMOR:Field Refit
-systemmanufacturer:JUMPING:Field Refit
-systemmode:JUMPING:Field Refit
+systemmanufacturer:JUMP_JET:Field Refit
+systemmode:JUMP_JET:Field Refit
 systemmanufacturer:COMMUNICATIONS:Field Refit
 systemmode:COMMUNICATIONS:Field Refit
 systemmanufacturer:TARGETING:Field Refit

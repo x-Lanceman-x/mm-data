@@ -174,8 +174,8 @@ systemmanufacturer:ENGINE:VOX
 systemmode:ENGINE:330 ExtraLight
 systemmanufacturer:ARMOR:Maximillian
 systemmode:ARMOR:43 with CASE
-systemmanufacturer:JUMPING:Northrop
-systemmode:JUMPING:12000
+systemmanufacturer:JUMP_JET:Northrop
+systemmode:JUMP_JET:12000
 systemmanufacturer:COMMUNICATIONS:Cipher
 systemmode:COMMUNICATIONS:ComSys 1-C with C3 module
 systemmanufacturer:TARGETING:RCA

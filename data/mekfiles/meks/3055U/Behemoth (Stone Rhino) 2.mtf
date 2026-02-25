@@ -201,8 +201,8 @@ systemmanufacturer:ENGINE:General Systems
 systemmode:ENGINE:300 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Compound 12A1 Standard w/CASE
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Grandthrust Mk 5
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Grandthrust Mk 5
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:L15
 systemmanufacturer:TARGETING:RCA

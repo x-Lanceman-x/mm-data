@@ -195,7 +195,7 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Compact
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Stealth Armor
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:HartfordCo
 systemmode:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:HartfordCo

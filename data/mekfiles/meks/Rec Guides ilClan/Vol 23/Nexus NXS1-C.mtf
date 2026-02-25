@@ -194,8 +194,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:175 Light
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Light Ferro-Fibrous
-systemmanufacturer:JUMPING:Rawlings
-systemmode:JUMPING:55
+systemmanufacturer:JUMP_JET:Rawlings
+systemmode:JUMP_JET:55
 systemmanufacturer:COMMUNICATIONS:Exeter
 systemmode:COMMUNICATIONS:Longscan 200
 systemmanufacturer:TARGETING:Garret

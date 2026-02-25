@@ -189,7 +189,7 @@ systemmode:CHASSIS:560-Carrier Endo Steel
 systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:140
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Improved Jump Jets
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Improved Jump Jets
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

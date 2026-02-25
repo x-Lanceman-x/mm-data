@@ -192,8 +192,8 @@ systemmanufacturer:ENGINE:Pitban
 systemmode:ENGINE:240
 systemmanufacturer:ARMOR:Durallex
 systemmode:ARMOR:Medium
-systemmanufacturer:JUMPING:Andoran
-systemmode:JUMPING:Model JJII
+systemmanufacturer:JUMP_JET:Andoran
+systemmode:JUMP_JET:Model JJII
 systemmanufacturer:COMMUNICATIONS:Raldon
 systemmode:COMMUNICATIONS:R1
 systemmanufacturer:TARGETING:Sloane

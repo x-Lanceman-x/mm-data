@@ -193,8 +193,8 @@ systemmanufacturer:ENGINE:Nissan
 systemmode:ENGINE:200
 systemmanufacturer:ARMOR:Durallex
 systemmode:ARMOR:Divine Protector
-systemmanufacturer:JUMPING:General Motors
-systemmode:JUMPING:ATO 100
+systemmanufacturer:JUMP_JET:General Motors
+systemmode:JUMP_JET:ATO 100
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:Master's Voice Cel-Beta
 systemmanufacturer:TARGETING:Unknown

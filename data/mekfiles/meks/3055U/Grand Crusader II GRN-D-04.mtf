@@ -193,8 +193,8 @@ systemmanufacturer:ENGINE:Pitban
 systemmode:ENGINE:Pitban 320 Light
 systemmanufacturer:ARMOR:Aldis
 systemmode:ARMOR:Aldis Plate with CASE
-systemmanufacturer:JUMPING:CurtissJet
-systemmode:JUMPING:CurtissJet 80
+systemmanufacturer:JUMP_JET:CurtissJet
+systemmode:JUMP_JET:CurtissJet 80
 systemmanufacturer:COMMUNICATIONS:Skobel
 systemmode:COMMUNICATIONS:Skobel Wave VII Comm with C3i Computer
 systemmanufacturer:TARGETING:Falcon

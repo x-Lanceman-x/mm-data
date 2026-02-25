@@ -178,8 +178,8 @@ systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:GM 270 Light
 systemmanufacturer:ARMOR:Grumman
 systemmode:ARMOR:Grumman-3 Ferro-Fibrous
-systemmanufacturer:JUMPING:HildCo
-systemmode:JUMPING:HildCo Model 10
+systemmanufacturer:JUMP_JET:HildCo
+systemmode:JUMP_JET:HildCo Model 10
 systemmanufacturer:COMMUNICATIONS:Hartford
 systemmode:COMMUNICATIONS:Hector VII
 systemmanufacturer:TARGETING:Hartford

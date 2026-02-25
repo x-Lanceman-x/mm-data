@@ -196,6 +196,6 @@ systemmanufacturer:CHASSIS:Unknown
 systemmanufacturer:ENGINE:Vlar
 systemmode:ENGINE:300
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

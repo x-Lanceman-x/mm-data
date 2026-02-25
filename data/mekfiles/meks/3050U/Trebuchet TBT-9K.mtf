@@ -175,8 +175,8 @@ systemmanufacturer:ENGINE:Magna
 systemmode:ENGINE:250 XL
 systemmanufacturer:ARMOR:Starshield
 systemmode:ARMOR:with CASE
-systemmanufacturer:JUMPING:Rawlings
-systemmode:JUMPING:50
+systemmanufacturer:JUMP_JET:Rawlings
+systemmode:JUMP_JET:50
 systemmanufacturer:COMMUNICATIONS:Corean
 systemmode:COMMUNICATIONS:TransBand-J9
 systemmanufacturer:TARGETING:Corean

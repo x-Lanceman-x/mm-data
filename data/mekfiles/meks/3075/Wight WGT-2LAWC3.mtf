@@ -189,8 +189,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:175
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Light Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Improved Jump Jets
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Improved Jump Jets
 systemmanufacturer:COMMUNICATIONS:Sipher
 systemmode:COMMUNICATIONS:CommCon SCU-4
 systemmanufacturer:TARGETING:Cat's Eyes

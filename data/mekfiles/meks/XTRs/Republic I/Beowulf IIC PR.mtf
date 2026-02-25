@@ -192,8 +192,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Fusion 270 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Compound A2F Ferro-Fibrous
-systemmanufacturer:JUMPING:Odin
-systemmode:JUMPING:Type II
+systemmanufacturer:JUMP_JET:Odin
+systemmode:JUMP_JET:Type II
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:Dash-2 with Watchdog CEWS
 systemmanufacturer:TARGETING:Unknown

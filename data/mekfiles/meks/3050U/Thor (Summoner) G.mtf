@@ -197,8 +197,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Redline 350 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:J63-3E Ferro Fibrous
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:JF Standard
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:JF Standard
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:Model J-D 067
 systemmanufacturer:TARGETING:Unknown

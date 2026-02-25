@@ -193,8 +193,8 @@ systemmanufacturer:ENGINE:Nissan
 systemmode:ENGINE:275 XL
 systemmanufacturer:ARMOR:Kallon
 systemmode:ARMOR:Unity Weave
-systemmanufacturer:JUMPING:Luxor
-systemmode:JUMPING:Load Lifters
+systemmanufacturer:JUMP_JET:Luxor
+systemmode:JUMP_JET:Load Lifters
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:Lynx-shur
 systemmanufacturer:TARGETING:Cyclops

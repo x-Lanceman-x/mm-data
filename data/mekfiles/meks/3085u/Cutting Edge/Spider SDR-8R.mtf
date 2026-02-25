@@ -190,8 +190,8 @@ systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:210 Light
 systemmanufacturer:ARMOR:Durallex
 systemmode:ARMOR:Light
-systemmanufacturer:JUMPING:Pitban
-systemmode:JUMPING:LFT-20X (Improved)
+systemmanufacturer:JUMP_JET:Pitban
+systemmode:JUMP_JET:LFT-20X (Improved)
 systemmanufacturer:COMMUNICATIONS:O/P
 systemmode:COMMUNICATIONS:500A
 systemmanufacturer:TARGETING:O/P

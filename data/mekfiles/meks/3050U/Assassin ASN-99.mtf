@@ -176,7 +176,7 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Unknown (XL Fusion)
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Unknown (Stealth)
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:Unknown with Guardian ECM
 systemmanufacturer:TARGETING:Unknown

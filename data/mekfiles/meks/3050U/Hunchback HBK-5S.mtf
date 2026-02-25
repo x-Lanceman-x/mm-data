@@ -191,7 +191,7 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:200 Light
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Standard with CASE
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Omicron
 systemmode:COMMUNICATIONS:4002 Networking Channel
 systemmanufacturer:TARGETING:TRSS

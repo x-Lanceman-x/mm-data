@@ -193,8 +193,8 @@ systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:120 XL
 systemmanufacturer:ARMOR:Riese
 systemmode:ARMOR:100
-systemmanufacturer:JUMPING:Chilton
-systemmode:JUMPING:360
+systemmanufacturer:JUMP_JET:Chilton
+systemmode:JUMP_JET:360
 systemmanufacturer:COMMUNICATIONS:Datacom
 systemmode:COMMUNICATIONS:26
 systemmanufacturer:TARGETING:Dynatec

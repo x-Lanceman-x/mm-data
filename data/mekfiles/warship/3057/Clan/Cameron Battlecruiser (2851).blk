@@ -318,7 +318,7 @@ Various
 CHASSIS:Creighton
 ENGINE:Cassion
 ARMOR:Ajax
-JUMPING:Unknown
+JUMP_JET:Unknown
 COMMUNICATIONS:ViaComm
 TARGETING:Johnson
 </systemManufacturers>
@@ -327,7 +327,7 @@ TARGETING:Johnson
 CHASSIS:M-4
 ENGINE:Vasser
 ARMOR:7PK300 Ferro-Carbide
-JUMPING:KF King VI-a
+JUMP_JET:KF King VI-a
 COMMUNICATIONS:1011
 TARGETING:Data Master 6000
 </systemModels>

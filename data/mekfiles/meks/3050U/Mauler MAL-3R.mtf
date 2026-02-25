@@ -175,7 +175,7 @@ systemmanufacturer:ENGINE:Hermes
 systemmode:ENGINE:270 XL
 systemmanufacturer:ARMOR:New Samarkand
 systemmode:ARMOR:Royal Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Sipher
 systemmode:COMMUNICATIONS:Security Plus mk.II
 systemmanufacturer:TARGETING:Matabushi

@@ -191,8 +191,8 @@ systemmanufacturer:ENGINE:Magna Lite
 systemmode:ENGINE:260 Light
 systemmanufacturer:ARMOR:Starshield
 systemmode:ARMOR:A
-systemmanufacturer:JUMPING:Chilton
-systemmode:JUMPING:466
+systemmanufacturer:JUMP_JET:Chilton
+systemmode:JUMP_JET:466
 systemmanufacturer:COMMUNICATIONS:Neil
 systemmode:COMMUNICATIONS:8000
 systemmanufacturer:TARGETING:RCA

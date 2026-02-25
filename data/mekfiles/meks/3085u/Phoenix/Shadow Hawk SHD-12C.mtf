@@ -197,8 +197,8 @@ systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:330 XL
 systemmanufacturer:ARMOR:Wall
 systemmode:ARMOR:Type 8 Light Ferro-Fibrous
-systemmanufacturer:JUMPING:Rawlings
-systemmode:JUMPING:55
+systemmanufacturer:JUMP_JET:Rawlings
+systemmode:JUMP_JET:55
 systemmanufacturer:COMMUNICATIONS:Dash
 systemmode:COMMUNICATIONS:2 Standard
 systemmanufacturer:TARGETING:Blade

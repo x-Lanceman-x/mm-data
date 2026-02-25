@@ -193,7 +193,7 @@ systemmanufacturer:ENGINE:VOX
 systemmode:ENGINE:280 XL
 systemmanufacturer:ARMOR:Void Integrated
 systemmode:ARMOR:Light Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Black Box
 systemmode:COMMUNICATIONS:Com 7 with Guardian ECM Suite
 systemmanufacturer:TARGETING:Night Fire

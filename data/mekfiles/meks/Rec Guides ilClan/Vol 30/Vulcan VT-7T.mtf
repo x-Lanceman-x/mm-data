@@ -187,7 +187,7 @@ systemmanufacturer:ENGINE:Edasich Motors
 systemmode:ENGINE:240 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Light Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown
 systemmode:TARGETING:with Targeting Computer

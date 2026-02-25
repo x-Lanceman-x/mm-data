@@ -191,7 +191,7 @@ systemmanufacturer:CHASSIS:Earthwerks
 systemmode:CHASSIS:KSC Endo
 systemmanufacturer:ENGINE:Unknown
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Neil
 systemmode:COMMUNICATIONS:2000
 systemmanufacturer:TARGETING:RCA

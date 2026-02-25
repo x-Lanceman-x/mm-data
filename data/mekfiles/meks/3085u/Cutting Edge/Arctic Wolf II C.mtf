@@ -189,8 +189,8 @@ systemmanufacturer:ENGINE:Light Force
 systemmode:ENGINE:280 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Royal-7a Ferro-Fibrous
-systemmanufacturer:JUMPING:Grandthrust
-systemmode:JUMPING:Mk. 4
+systemmanufacturer:JUMP_JET:Grandthrust
+systemmode:JUMP_JET:Mk. 4
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:HWLR Designation ComSys
 systemmanufacturer:TARGETING:Unknown

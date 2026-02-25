@@ -186,8 +186,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:125 York XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Compound 6A
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Unknown Improved
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Unknown Improved
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:Able-Seven Sensor Suite
 systemmanufacturer:TARGETING:Unknown

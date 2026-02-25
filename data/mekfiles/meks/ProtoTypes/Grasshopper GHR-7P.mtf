@@ -194,8 +194,8 @@ systemmanufacturer:ENGINE:VOX
 systemmode:ENGINE:280 Light
 systemmanufacturer:ARMOR:Durallex
 systemmode:ARMOR:Heavy
-systemmanufacturer:JUMPING:Leviathan
-systemmode:JUMPING:Enhanced Lifters
+systemmanufacturer:JUMP_JET:Leviathan
+systemmode:JUMP_JET:Enhanced Lifters
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:K9-C
 systemmanufacturer:TARGETING:Unknown

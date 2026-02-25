@@ -190,6 +190,6 @@ systemmode:CHASSIS:Endo Steel
 systemmanufacturer:ENGINE:Unknown
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Stealth Armor
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

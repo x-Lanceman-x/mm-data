@@ -191,8 +191,8 @@ systemmanufacturer:ENGINE:Defiance
 systemmode:ENGINE:400 XXL
 systemmanufacturer:ARMOR:Valiant
 systemmode:ARMOR:Lamellor
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Improved Jump Jet
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Improved Jump Jet
 systemmanufacturer:COMMUNICATIONS:TharHes
 systemmode:COMMUNICATIONS:Calliope ZE-5A2
 systemmanufacturer:TARGETING:TharHes

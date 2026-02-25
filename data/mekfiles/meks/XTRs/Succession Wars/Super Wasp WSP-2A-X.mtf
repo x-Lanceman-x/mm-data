@@ -189,6 +189,6 @@ systemmode:CHASSIS:Hand-Built
 systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Unknown (with Supercharger)
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

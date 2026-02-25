@@ -203,8 +203,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:275 Light
 systemmanufacturer:ARMOR:Maximillian
 systemmode:ARMOR:Maximillian 60
-systemmanufacturer:JUMPING:Northrup
-systemmode:JUMPING:Northrup 12000
+systemmanufacturer:JUMP_JET:Northrup
+systemmode:JUMP_JET:Northrup 12000
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:Garret T11-b
 systemmanufacturer:TARGETING:Sync Tracker

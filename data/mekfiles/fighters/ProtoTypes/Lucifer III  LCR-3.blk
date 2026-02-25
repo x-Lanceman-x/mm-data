@@ -182,7 +182,7 @@ Skye
 CHASSIS:Shipil Company
 ENGINE:Edasich Motors
 ARMOR:Shipil Company
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:O/P
 TARGETING:O/P
 </systemManufacturers>
@@ -191,7 +191,7 @@ TARGETING:O/P
 CHASSIS:Shipil 300
 ENGINE:Edasich Motors 195 XL
 ARMOR:Shipil Super Ferro-Aluminum
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:O/P AIR 900
 TARGETING:O/P 3000
 </systemModels>

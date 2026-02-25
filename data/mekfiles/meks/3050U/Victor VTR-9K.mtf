@@ -189,8 +189,8 @@ systemmanufacturer:ENGINE:Pitban
 systemmode:ENGINE:320
 systemmanufacturer:ARMOR:Durallex
 systemmode:ARMOR:Heavy with CASE
-systemmanufacturer:JUMPING:Lexington Ltd.
-systemmode:JUMPING:Lifters
+systemmanufacturer:JUMP_JET:Lexington Ltd.
+systemmode:JUMP_JET:Lifters
 systemmanufacturer:COMMUNICATIONS:Sipher
 systemmode:COMMUNICATIONS:Security Plus
 systemmanufacturer:TARGETING:Matabushi

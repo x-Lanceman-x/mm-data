@@ -188,7 +188,7 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:330 XXL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Ferro-Lamellor
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:GBX
 systemmode:COMMUNICATIONS:Series Integrated
 systemmanufacturer:TARGETING:Tokasha

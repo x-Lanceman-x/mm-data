@@ -185,8 +185,8 @@ systemmanufacturer:ENGINE:Hermes
 systemmode:ENGINE:210 XL
 systemmanufacturer:ARMOR:Hellespont
 systemmode:ARMOR:Lite Ferro-Fibrous
-systemmanufacturer:JUMPING:Anderson High Propulsion
-systemmode:JUMPING:12s
+systemmanufacturer:JUMP_JET:Anderson High Propulsion
+systemmode:JUMP_JET:12s
 systemmanufacturer:COMMUNICATIONS:Zenith
 systemmode:COMMUNICATIONS:Sqwak Box 7
 systemmanufacturer:TARGETING:Apple Churchill

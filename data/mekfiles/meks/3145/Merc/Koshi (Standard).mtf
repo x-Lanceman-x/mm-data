@@ -185,8 +185,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Type I 175 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Forging ZM7 Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:GrandThrust Mk I
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:GrandThrust Mk I
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:Neil 9000
 systemmanufacturer:TARGETING:Unknown

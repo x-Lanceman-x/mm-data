@@ -190,8 +190,8 @@ systemmanufacturer:ENGINE:Snow Raven
 systemmode:ENGINE:Type 81 Fusion 240 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Improved
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Improved
 systemmanufacturer:COMMUNICATIONS:Raldon
 systemmode:COMMUNICATIONS:R1 with ECM
 systemmanufacturer:TARGETING:Sloane

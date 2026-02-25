@@ -193,8 +193,8 @@ systemmanufacturer:ENGINE:General Motors
 systemmode:ENGINE:GM 180
 systemmanufacturer:ARMOR:Durallex
 systemmode:ARMOR:Divine Protector
-systemmanufacturer:JUMPING:General Motors
-systemmode:JUMPING:GM ATO 100
+systemmanufacturer:JUMP_JET:General Motors
+systemmode:JUMP_JET:GM ATO 100
 systemmanufacturer:COMMUNICATIONS:Master's Wings Aerospace
 systemmode:COMMUNICATIONS:Master's Voice Cel-Beta
 systemmanufacturer:TARGETING:Master's Wings Aerospace

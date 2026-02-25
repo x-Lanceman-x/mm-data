@@ -200,8 +200,8 @@ systemmanufacturer:ENGINE:Hermes
 systemmode:ENGINE:260 XL
 systemmanufacturer:ARMOR:Riese
 systemmode:ARMOR:500
-systemmanufacturer:JUMPING:HildCo
-systemmode:JUMPING:Model 12
+systemmanufacturer:JUMP_JET:HildCo
+systemmode:JUMP_JET:Model 12
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:T11-b
 systemmanufacturer:TARGETING:Garret

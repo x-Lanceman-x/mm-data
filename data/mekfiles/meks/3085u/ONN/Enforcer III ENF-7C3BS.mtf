@@ -190,8 +190,8 @@ systemmanufacturer:ENGINE:Magna
 systemmode:ENGINE:Magna 250 XL
 systemmanufacturer:ARMOR:StarGuard
 systemmode:ARMOR:StarGuard CIV Standard
-systemmanufacturer:JUMPING:McCloud
-systemmode:JUMPING:McCloud Specials
+systemmanufacturer:JUMP_JET:McCloud
+systemmode:JUMP_JET:McCloud Specials
 systemmanufacturer:COMMUNICATIONS:Achernar Electronic
 systemmode:COMMUNICATIONS:HICS-12
 systemmanufacturer:TARGETING:Federated Hunter

@@ -197,8 +197,8 @@ systemmanufacturer:ENGINE:CoreTek
 systemmode:ENGINE:CoreTek 275
 systemmanufacturer:ARMOR:Maximillian
 systemmode:ARMOR:Maximillian 60
-systemmanufacturer:JUMPING:Northrup
-systemmode:JUMPING:Northrup 12000
+systemmanufacturer:JUMP_JET:Northrup
+systemmode:JUMP_JET:Northrup 12000
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:Garret T11-b
 systemmanufacturer:TARGETING:Sync Tracker

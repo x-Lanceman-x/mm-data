@@ -172,8 +172,8 @@ systemmanufacturer:ENGINE:Falcon
 systemmode:ENGINE:255 Standard
 systemmanufacturer:ARMOR:StarForge
 systemmode:ARMOR:1
-systemmanufacturer:JUMPING:Falcon
-systemmode:JUMPING:Heavy
+systemmanufacturer:JUMP_JET:Falcon
+systemmode:JUMP_JET:Heavy
 systemmanufacturer:COMMUNICATIONS:Falcon Talk
 systemmode:COMMUNICATIONS:1
 systemmanufacturer:TARGETING:Falcon Eye

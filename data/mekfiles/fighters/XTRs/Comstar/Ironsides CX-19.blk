@@ -178,7 +178,7 @@ Undisclosed
 CHASSIS:Lockheed
 ENGINE:GM
 ARMOR:SearWeave
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemManufacturers>
@@ -187,7 +187,7 @@ TARGETING:Unknown
 CHASSIS:FairFax
 ENGINE:260
 ARMOR:Unknown
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemModels>

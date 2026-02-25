@@ -193,8 +193,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:400 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Ferro-Fibrous
-systemmanufacturer:JUMPING:Chilton
-systemmode:JUMPING:600
+systemmanufacturer:JUMP_JET:Chilton
+systemmode:JUMP_JET:600
 systemmanufacturer:COMMUNICATIONS:Dalban
 systemmode:COMMUNICATIONS:Micronics
 systemmanufacturer:TARGETING:Dalban

@@ -188,8 +188,8 @@ systemmanufacturer:ENGINE:Omni
 systemmode:ENGINE:175
 systemmanufacturer:ARMOR:Johnston
 systemmode:ARMOR:Duraweave 6000 Ferro-Fibrous
-systemmanufacturer:JUMPING:Rawlings
-systemmode:JUMPING:80-Beta
+systemmanufacturer:JUMP_JET:Rawlings
+systemmode:JUMP_JET:80-Beta
 systemmanufacturer:COMMUNICATIONS:Lynx-shur
 systemmode:COMMUNICATIONS:4.5
 systemmanufacturer:TARGETING:Sync Tracker

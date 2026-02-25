@@ -191,8 +191,8 @@ systemmanufacturer:ENGINE:CoreTek
 systemmode:ENGINE:CoreTek 275
 systemmanufacturer:ARMOR:Kemplar
 systemmode:ARMOR:Kemplar 5000
-systemmanufacturer:JUMPING:General Electric
-systemmode:JUMPING:GE-2200
+systemmanufacturer:JUMP_JET:General Electric
+systemmode:JUMP_JET:GE-2200
 systemmanufacturer:COMMUNICATIONS:Fujika
 systemmode:COMMUNICATIONS:Fujika Multiband
 systemmanufacturer:TARGETING:General Systems

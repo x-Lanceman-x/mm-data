@@ -190,8 +190,8 @@ systemmanufacturer:ENGINE:Pitban
 systemmode:ENGINE:240
 systemmanufacturer:ARMOR:Taijian
 systemmode:ARMOR:StarShield II
-systemmanufacturer:JUMPING:Swingline
-systemmode:JUMPING:X-1200
+systemmanufacturer:JUMP_JET:Swingline
+systemmode:JUMP_JET:X-1200
 systemmanufacturer:COMMUNICATIONS:Ceres
 systemmode:COMMUNICATIONS:SuperComm 3
 systemmanufacturer:TARGETING:Wentland

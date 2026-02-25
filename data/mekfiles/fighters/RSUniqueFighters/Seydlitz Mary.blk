@@ -151,7 +151,7 @@ Unknown
 CHASSIS:Shipil Company
 ENGINE:Unknown
 ARMOR:Unknown
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Doering Electronics
 TARGETING:Doering Electronics
 </systemManufacturers>
@@ -160,7 +160,7 @@ TARGETING:Doering Electronics
 CHASSIS:Shipil 15
 ENGINE:Unknown XL
 ARMOR:Unknown
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:O/P AIR500
 TARGETING:O/P 3000
 </systemModels>

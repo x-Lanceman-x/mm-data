@@ -190,7 +190,7 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Unknown (XL)
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Standard
-systemmanufacturer:JUMPING:Luxor
-systemmode:JUMPING:2/Q
+systemmanufacturer:JUMP_JET:Luxor
+systemmode:JUMP_JET:2/Q
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

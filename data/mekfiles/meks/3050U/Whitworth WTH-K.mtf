@@ -190,7 +190,7 @@ systemmanufacturer:CHASSIS:Unknown
 systemmanufacturer:ENGINE:LTV
 systemmode:ENGINE:LTV 160
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:QuestStar
-systemmode:JUMPING:QuestStar Improved
+systemmanufacturer:JUMP_JET:QuestStar
+systemmode:JUMP_JET:QuestStar Improved
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

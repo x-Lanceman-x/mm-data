@@ -191,7 +191,7 @@ systemmanufacturer:ENGINE:Magna
 systemmode:ENGINE:250 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:StarGuard III
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Corean
 systemmode:COMMUNICATIONS:Transband-J9
 systemmanufacturer:TARGETING:Corean

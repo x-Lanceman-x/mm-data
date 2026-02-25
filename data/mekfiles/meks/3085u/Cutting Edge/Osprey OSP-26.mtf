@@ -192,8 +192,8 @@ systemmanufacturer:ENGINE:DAV
 systemmode:ENGINE:220 XL
 systemmanufacturer:ARMOR:Durallex
 systemmode:ARMOR:Heavy with CASE
-systemmanufacturer:JUMPING:Anderson Propulsion
-systemmode:JUMPING:25
+systemmanufacturer:JUMP_JET:Anderson Propulsion
+systemmode:JUMP_JET:25
 systemmanufacturer:COMMUNICATIONS:O/P
 systemmode:COMMUNICATIONS:COM-211
 systemmanufacturer:TARGETING:O/P

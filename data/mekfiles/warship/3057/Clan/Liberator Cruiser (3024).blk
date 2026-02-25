@@ -433,7 +433,7 @@ Unknown
 CHASSIS:Refit
 ENGINE:Unknown
 ARMOR:Unknown
-JUMPING:Unknown
+JUMP_JET:Unknown
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemManufacturers>
@@ -442,7 +442,7 @@ TARGETING:Unknown
 CHASSIS:Avatar-class conversion
 ENGINE:Unknown
 ARMOR:Ferro-Carbide
-JUMPING:Unknown
+JUMP_JET:Unknown
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemModels>

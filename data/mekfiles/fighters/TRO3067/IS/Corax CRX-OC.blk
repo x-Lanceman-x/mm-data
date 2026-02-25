@@ -157,7 +157,7 @@ Ramora
 CHASSIS:UOC
 ENGINE:GM
 ARMOR:Outworld Weave
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Outworlds
 TARGETING:Multi-platform
 </systemManufacturers>
@@ -166,7 +166,7 @@ TARGETING:Multi-platform
 CHASSIS:Light Spec 3
 ENGINE:210 XL
 ARMOR:Standard II
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Advanced 6ai
 TARGETING:T12d
 </systemModels>

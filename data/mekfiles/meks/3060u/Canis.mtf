@@ -191,8 +191,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Clan Type 240 XL Series
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Forging ZK11 (Standard)
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Clan Standard 14X Series
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Clan Standard 14X Series
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:TJ6 "Bell" Integrated Communications System
 systemmanufacturer:TARGETING:Unknown

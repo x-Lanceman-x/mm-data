@@ -149,7 +149,7 @@ Shadow, York
 CHASSIS:Unknown
 ENGINE:Bairn
 ARMOR:MicroSlab
-JUMPING:Unknown
+JUMP_JET:Unknown
 COMMUNICATIONS:JRD-125p
 TARGETING:DragonEye
 </systemManufacturers>

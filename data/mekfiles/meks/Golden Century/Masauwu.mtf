@@ -193,8 +193,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:300 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Series Ab
-systemmanufacturer:JUMPING:Coyote
-systemmode:JUMPING:Coyote Leapers
+systemmanufacturer:JUMP_JET:Coyote
+systemmode:JUMP_JET:Coyote Leapers
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:CI-Com 1
 systemmanufacturer:TARGETING:Unknown

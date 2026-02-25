@@ -194,7 +194,7 @@ primaryfactory:Robinson
 systemmanufacturer:CHASSIS:Unknown
 systemmanufacturer:ENGINE:Unknown
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Sony
 systemmode:COMMUNICATIONS:MSF-31
 systemmanufacturer:TARGETING:Unknown

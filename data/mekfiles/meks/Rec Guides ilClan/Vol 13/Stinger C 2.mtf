@@ -192,8 +192,8 @@ systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:120
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Standard
-systemmanufacturer:JUMPING:Chilton
-systemmode:JUMPING:360
+systemmanufacturer:JUMP_JET:Chilton
+systemmode:JUMP_JET:360
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:Clan Standard
 systemmanufacturer:TARGETING:Unknown

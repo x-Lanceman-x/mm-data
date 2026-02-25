@@ -191,8 +191,8 @@ systemmanufacturer:ENGINE:Consolidated
 systemmode:ENGINE:Consolidated Fusion 240 Standard
 systemmanufacturer:ARMOR:Alpha Compound
 systemmode:ARMOR:Alpha Compound Ferro-Fibrous
-systemmanufacturer:JUMPING:Northrup
-systemmode:JUMPING:Northrup Starlifters M40s
+systemmanufacturer:JUMP_JET:Northrup
+systemmode:JUMP_JET:Northrup Starlifters M40s
 systemmanufacturer:COMMUNICATIONS:JNE
 systemmode:COMMUNICATIONS:JNE Integrated
 systemmanufacturer:TARGETING:Build 3

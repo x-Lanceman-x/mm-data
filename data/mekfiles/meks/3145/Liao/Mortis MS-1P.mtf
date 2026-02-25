@@ -189,8 +189,8 @@ systemmanufacturer:ENGINE:PlasmaStar
 systemmode:ENGINE:375 XL
 systemmanufacturer:ARMOR:Chilton
 systemmode:ARMOR:365
-systemmanufacturer:JUMPING:Hellespont
-systemmode:JUMPING:Leaper
+systemmanufacturer:JUMP_JET:Hellespont
+systemmode:JUMP_JET:Leaper
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:T23-A
 systemmanufacturer:TARGETING:Garret

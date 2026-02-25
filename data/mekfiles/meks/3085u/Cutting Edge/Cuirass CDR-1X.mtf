@@ -191,8 +191,8 @@ systemmanufacturer:ENGINE:General Motors
 systemmode:ENGINE:GM 240 XL
 systemmanufacturer:ARMOR:StarGuard
 systemmode:ARMOR:StarGuard II
-systemmanufacturer:JUMPING:Robinson-Liberty
-systemmode:JUMPING:Robinson-Liberty Model 12
+systemmanufacturer:JUMP_JET:Robinson-Liberty
+systemmode:JUMP_JET:Robinson-Liberty Model 12
 systemmanufacturer:COMMUNICATIONS:Achernar Electronics
 systemmode:COMMUNICATIONS:HICS-15
 systemmanufacturer:TARGETING:Federated Hunter

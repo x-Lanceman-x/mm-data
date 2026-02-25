@@ -191,8 +191,8 @@ systemmanufacturer:ENGINE:Pitban
 systemmode:ENGINE:240
 systemmanufacturer:ARMOR:Durallex
 systemmode:ARMOR:Light
-systemmanufacturer:JUMPING:Pitban
-systemmode:JUMPING:LFT-10
+systemmanufacturer:JUMP_JET:Pitban
+systemmode:JUMP_JET:LFT-10
 systemmanufacturer:COMMUNICATIONS:O/P
 systemmode:COMMUNICATIONS:500A
 systemmanufacturer:TARGETING:O/P

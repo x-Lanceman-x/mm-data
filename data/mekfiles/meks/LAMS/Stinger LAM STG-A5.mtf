@@ -184,8 +184,8 @@ systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:180
 systemmanufacturer:ARMOR:Riese
 systemmode:ARMOR:100
-systemmanufacturer:JUMPING:GM
-systemmode:JUMPING:ATO 100
+systemmanufacturer:JUMP_JET:GM
+systemmode:JUMP_JET:ATO 100
 systemmanufacturer:COMMUNICATIONS:O/P
 systemmode:COMMUNICATIONS:900
 systemmanufacturer:TARGETING:O/P

@@ -195,8 +195,8 @@ systemmanufacturer:ENGINE:JF
 systemmode:ENGINE:300 Extralight
 systemmanufacturer:ARMOR:JF
 systemmode:ARMOR:Compound Ferro Fibrous
-systemmanufacturer:JUMPING:JF
-systemmode:JUMPING:Standard
+systemmanufacturer:JUMP_JET:JF
+systemmode:JUMP_JET:Standard
 systemmanufacturer:COMMUNICATIONS:JF
 systemmode:COMMUNICATIONS:3048 Series II
 systemmanufacturer:TARGETING:Ironhold

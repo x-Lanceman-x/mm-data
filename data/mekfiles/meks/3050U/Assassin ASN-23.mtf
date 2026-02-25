@@ -191,8 +191,8 @@ systemmanufacturer:ENGINE:VOX
 systemmode:ENGINE:VOX 280
 systemmanufacturer:ARMOR:Hellespont Industries
 systemmode:ARMOR:Hellespont Industries Series 9
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:100AFVTA
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:100AFVTA
 systemmanufacturer:COMMUNICATIONS:Ceres Metals
 systemmode:COMMUNICATIONS:Ceres Metals Model 668
 systemmanufacturer:TARGETING:Apple Churchill

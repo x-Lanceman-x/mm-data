@@ -181,7 +181,7 @@ systemmanufacturer:CHASSIS:Harvard
 systemmode:CHASSIS:12H
 systemmanufacturer:ENGINE:Unknown
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Rand
 systemmode:COMMUNICATIONS:1200
 systemmanufacturer:TARGETING:Rand

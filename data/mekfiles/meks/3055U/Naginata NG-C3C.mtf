@@ -191,7 +191,7 @@ systemmanufacturer:ENGINE:Pitban
 systemmode:ENGINE:285
 systemmanufacturer:ARMOR:Durallex
 systemmode:ARMOR:Heavy Special with CASE
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:T19-G with C3 Computer
 systemmanufacturer:TARGETING:Cat's Eyes

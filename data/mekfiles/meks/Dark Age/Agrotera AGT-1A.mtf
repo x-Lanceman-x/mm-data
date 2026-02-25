@@ -189,8 +189,8 @@ systemmanufacturer:ENGINE:Rawlings
 systemmode:ENGINE:300 XL
 systemmanufacturer:ARMOR:Durallex
 systemmode:ARMOR:Light
-systemmanufacturer:JUMPING:Rawlings
-systemmode:JUMPING:45 with Partial Wing
+systemmanufacturer:JUMP_JET:Rawlings
+systemmode:JUMP_JET:45 with Partial Wing
 systemmanufacturer:COMMUNICATIONS:Tek
 systemmode:COMMUNICATIONS:BattleCom
 systemmanufacturer:TARGETING:Tek

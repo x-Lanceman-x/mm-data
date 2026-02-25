@@ -190,7 +190,7 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:300 Light
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Stealth
-systemmanufacturer:JUMPING:Rawlings
-systemmode:JUMPING:60
+systemmanufacturer:JUMP_JET:Rawlings
+systemmode:JUMP_JET:60
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

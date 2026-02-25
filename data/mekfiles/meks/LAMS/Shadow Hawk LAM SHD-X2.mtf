@@ -185,8 +185,8 @@ systemmanufacturer:ENGINE:DAV
 systemmode:ENGINE:220
 systemmanufacturer:ARMOR:StarSlab
 systemmode:ARMOR:2
-systemmanufacturer:JUMPING:Allied Lifter
-systemmode:JUMPING:B-Series
+systemmanufacturer:JUMP_JET:Allied Lifter
+systemmode:JUMP_JET:B-Series
 systemmanufacturer:COMMUNICATIONS:O/P
 systemmode:COMMUNICATIONS:500 Comtalk II
 systemmanufacturer:TARGETING:O/P

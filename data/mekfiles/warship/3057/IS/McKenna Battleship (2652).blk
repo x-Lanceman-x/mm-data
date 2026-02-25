@@ -352,7 +352,7 @@ Mars, Terra
 CHASSIS:Blue Nose Clipperships / O'Neil Yards
 ENGINE:Unknown
 ARMOR:Ulston
-JUMPING:Unknown
+JUMP_JET:Unknown
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemManufacturers>
@@ -361,7 +361,7 @@ TARGETING:Unknown
 CHASSIS:Cortex UltraBond
 ENGINE:Unknown
 ARMOR:C5-A Ferro-Carbide
-JUMPING:Unknown
+JUMP_JET:Unknown
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemModels>

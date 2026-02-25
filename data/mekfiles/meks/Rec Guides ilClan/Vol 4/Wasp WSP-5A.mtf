@@ -190,7 +190,7 @@ primaryfactory:Irian, Shiro III
 systemmanufacturer:CHASSIS:Unknown
 systemmanufacturer:ENGINE:Unknown
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Improved
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Improved
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

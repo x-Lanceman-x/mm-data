@@ -193,8 +193,8 @@ systemmanufacturer:ENGINE:Nissan
 systemmode:ENGINE:175
 systemmanufacturer:ARMOR:Krupp
 systemmode:ARMOR:200 Ferro-Fibrous
-systemmanufacturer:JUMPING:Rawlings
-systemmode:JUMPING:55
+systemmanufacturer:JUMP_JET:Rawlings
+systemmode:JUMP_JET:55
 systemmanufacturer:COMMUNICATIONS:Exeter
 systemmode:COMMUNICATIONS:Longscan 200 with C3i Computer
 systemmanufacturer:TARGETING:Garret

@@ -196,8 +196,8 @@ systemmanufacturer:ENGINE:VOX
 systemmode:ENGINE:325 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Clan Ferro-Fibrous
-systemmanufacturer:JUMPING:Hellespont
-systemmode:JUMPING:Leaper
+systemmanufacturer:JUMP_JET:Hellespont
+systemmode:JUMP_JET:Leaper
 systemmanufacturer:COMMUNICATIONS:Dian-bao
 systemmode:COMMUNICATIONS:Comms, Heavily Insulated
 systemmanufacturer:TARGETING:Dynatec

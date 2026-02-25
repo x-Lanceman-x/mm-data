@@ -191,8 +191,8 @@ systemmanufacturer:ENGINE:DAV
 systemmode:ENGINE:220
 systemmanufacturer:ARMOR:Krupp
 systemmode:ARMOR:205 Light Ferro-Fibrous with CASE
-systemmanufacturer:JUMPING:Rawlings
-systemmode:JUMPING:60
+systemmanufacturer:JUMP_JET:Rawlings
+systemmode:JUMP_JET:60
 systemmanufacturer:COMMUNICATIONS:Skobel
 systemmode:COMMUNICATIONS:Wave 13
 systemmanufacturer:TARGETING:Matabushi

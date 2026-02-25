@@ -165,7 +165,7 @@ Tharkad
 CHASSIS:Interstar
 ENGINE:Unknown
 ARMOR:Unknown
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Unknown
 TARGETING:Bauer Enterprises
 </systemManufacturers>
@@ -174,7 +174,7 @@ TARGETING:Bauer Enterprises
 CHASSIS:290M
 ENGINE:Unknown
 ARMOR:Unknown
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:COMHRT II.Q
 TARGETING:Bauer-Scope 130Z
 </systemModels>

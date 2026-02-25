@@ -316,7 +316,7 @@ Terra
 CHASSIS:Unknown
 ENGINE:Unknown
 ARMOR:Grumman
-JUMPING:Unknown
+JUMP_JET:Unknown
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemManufacturers>
@@ -325,7 +325,7 @@ TARGETING:Unknown
 CHASSIS:Unknown
 ENGINE:Carston Pegasus
 ARMOR:900 Ferro-Carbide
-JUMPING:Unknown
+JUMP_JET:Unknown
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemModels>

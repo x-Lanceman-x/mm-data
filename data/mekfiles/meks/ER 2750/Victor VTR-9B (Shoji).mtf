@@ -191,8 +191,8 @@ systemmanufacturer:ENGINE:Pitban
 systemmode:ENGINE:340
 systemmanufacturer:ARMOR:Durallex
 systemmode:ARMOR:Heavy
-systemmanufacturer:JUMPING:HildCo
-systemmode:JUMPING:Model 12
+systemmanufacturer:JUMP_JET:HildCo
+systemmode:JUMP_JET:Model 12
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:Opus III Highbeam
 systemmanufacturer:TARGETING:Unknown

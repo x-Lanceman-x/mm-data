@@ -187,8 +187,8 @@ systemmanufacturer:ENGINE:VOX
 systemmode:ENGINE:300 Light
 systemmanufacturer:ARMOR:Hellespont
 systemmode:ARMOR:Lite Light Ferro-Fibrous
-systemmanufacturer:JUMPING:Hellespont
-systemmode:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Hellespont
+systemmode:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Ceres Metals
 systemmode:COMMUNICATIONS:Model 777 with Angel ECM Suite
 systemmanufacturer:TARGETING:Radcom

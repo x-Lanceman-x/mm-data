@@ -194,8 +194,8 @@ systemmanufacturer:ENGINE:Pitban
 systemmode:ENGINE:240 Light
 systemmanufacturer:ARMOR:Kallon
 systemmode:ARMOR:FWL
-systemmanufacturer:JUMPING:Lexington
-systemmode:JUMPING:Lifters
+systemmanufacturer:JUMP_JET:Lexington
+systemmode:JUMP_JET:Lifters
 systemmanufacturer:COMMUNICATIONS:CurtissComm
 systemmode:COMMUNICATIONS:Mk IV
 systemmanufacturer:TARGETING:Dynatec

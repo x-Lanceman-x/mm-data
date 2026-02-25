@@ -174,7 +174,7 @@ systemmanufacturer:ENGINE:LTV
 systemmode:ENGINE:LTV 160 XL with Supercharger
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Standard
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:Unknown with Guardian ECM
 systemmanufacturer:TARGETING:Unknown

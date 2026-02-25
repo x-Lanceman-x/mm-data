@@ -198,8 +198,8 @@ systemmanufacturer:ENGINE:Hermes
 systemmode:ENGINE:360 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Light Ferro-Fibrous
-systemmanufacturer:JUMPING:McCloud
-systemmode:JUMPING:Specials
+systemmanufacturer:JUMP_JET:McCloud
+systemmode:JUMP_JET:Specials
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:T11-A
 systemmanufacturer:TARGETING:Garret

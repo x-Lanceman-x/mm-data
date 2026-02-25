@@ -191,8 +191,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Fusion 195 Mk. VI, Mod. 3
 systemmanufacturer:ARMOR:Forging
 systemmode:ARMOR:ZM15 Ferro-Fibrous
-systemmanufacturer:JUMPING:Highlifter
-systemmode:JUMPING:44
+systemmanufacturer:JUMP_JET:Highlifter
+systemmode:JUMP_JET:44
 systemmanufacturer:COMMUNICATIONS:Hector
 systemmode:COMMUNICATIONS:CC-22E
 systemmanufacturer:TARGETING:Unknown

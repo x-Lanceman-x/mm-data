@@ -191,8 +191,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Fusion 225 Standard
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Forging ZK11 Standard
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Clan Standard 14X Series Standard
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Clan Standard 14X Series Standard
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:S9R Beta Series Communications
 systemmanufacturer:TARGETING:Unknown

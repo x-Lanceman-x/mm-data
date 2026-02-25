@@ -194,7 +194,7 @@ systemmanufacturer:ENGINE:VOX
 systemmode:ENGINE:VOX 280 Light
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Unknown (Ferro-Fibrous)
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown
 systemmode:TARGETING:Unknown with Targeting Computer

@@ -189,8 +189,8 @@ systemmanufacturer:ENGINE:Omni
 systemmode:ENGINE:175
 systemmanufacturer:ARMOR:Durallex
 systemmode:ARMOR:Medium
-systemmanufacturer:JUMPING:Chilton
-systemmode:JUMPING:360
+systemmanufacturer:JUMP_JET:Chilton
+systemmode:JUMP_JET:360
 systemmanufacturer:COMMUNICATIONS:Telestar
 systemmode:COMMUNICATIONS:Model XB-82
 systemmanufacturer:TARGETING:Starlight

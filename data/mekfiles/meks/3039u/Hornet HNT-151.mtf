@@ -198,8 +198,8 @@ systemmanufacturer:ENGINE:Hermes
 systemmode:ENGINE:100
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Bulletban-80
-systemmanufacturer:JUMPING:Pitban
-systemmode:JUMPING:LFT-50
+systemmanufacturer:JUMP_JET:Pitban
+systemmode:JUMP_JET:LFT-50
 systemmanufacturer:COMMUNICATIONS:Tri-Word
 systemmode:COMMUNICATIONS:Duplex 4880
 systemmanufacturer:TARGETING:Dalban

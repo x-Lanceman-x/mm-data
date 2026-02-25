@@ -197,8 +197,8 @@ systemmanufacturer:ENGINE:Hermes
 systemmode:ENGINE:275 XL
 systemmanufacturer:ARMOR:Maximillian
 systemmode:ARMOR:43
-systemmanufacturer:JUMPING:Chilton
-systemmode:JUMPING:Improved
+systemmanufacturer:JUMP_JET:Chilton
+systemmode:JUMP_JET:Improved
 systemmanufacturer:COMMUNICATIONS:Neil
 systemmode:COMMUNICATIONS:9000
 systemmanufacturer:TARGETING:RCA

@@ -187,7 +187,7 @@ systemmanufacturer:CHASSIS:Unknown
 systemmanufacturer:ENGINE:VOX
 systemmode:ENGINE:280
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Leviathan
-systemmode:JUMPING:Lifters
+systemmanufacturer:JUMP_JET:Leviathan
+systemmode:JUMP_JET:Lifters
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

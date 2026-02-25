@@ -192,7 +192,7 @@ systemmanufacturer:ENGINE:Hermes
 systemmode:ENGINE:360 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Krupp-COMM
 systemmode:COMMUNICATIONS:500
 systemmanufacturer:TARGETING:KBC

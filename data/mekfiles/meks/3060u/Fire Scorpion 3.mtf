@@ -189,8 +189,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:260 Standard
 systemmanufacturer:ARMOR:Forging
 systemmode:ARMOR:SA722 with CASE
-systemmanufacturer:JUMPING:Uplift
-systemmode:JUMPING:12
+systemmanufacturer:JUMP_JET:Uplift
+systemmode:JUMP_JET:12
 systemmanufacturer:COMMUNICATIONS:JNE
 systemmode:COMMUNICATIONS:Integrated
 systemmanufacturer:TARGETING:TRTTS

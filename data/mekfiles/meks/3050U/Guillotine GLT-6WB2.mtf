@@ -192,8 +192,8 @@ systemmode:CHASSIS:Crucis-I Endo Steel
 systemmanufacturer:ENGINE:VOX
 systemmode:ENGINE:280 XL
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Unknown (Improved)
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Unknown (Improved)
 systemmanufacturer:COMMUNICATIONS:StarLink
 systemmode:COMMUNICATIONS:StarLink 955G
 systemmanufacturer:TARGETING:Pulsar

@@ -198,8 +198,8 @@ systemmanufacturer:ENGINE:VOX
 systemmode:ENGINE:280 XL
 systemmanufacturer:ARMOR:Leviathon
 systemmode:ARMOR:Plus
-systemmanufacturer:JUMPING:Anderson
-systemmode:JUMPING:398
+systemmanufacturer:JUMP_JET:Anderson
+systemmode:JUMP_JET:398
 systemmanufacturer:COMMUNICATIONS:O/P
 systemmode:COMMUNICATIONS:3000 COMSET
 systemmanufacturer:TARGETING:O/P

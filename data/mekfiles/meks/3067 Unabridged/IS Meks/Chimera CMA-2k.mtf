@@ -177,7 +177,7 @@ systemmode:CHASSIS:Light Endo 2
 systemmanufacturer:ENGINE:Unknown
 systemmanufacturer:ARMOR:StarGuard
 systemmode:ARMOR:CCM
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Corean
 systemmode:COMMUNICATIONS:Transband-J12
 systemmanufacturer:TARGETING:BlazeFire

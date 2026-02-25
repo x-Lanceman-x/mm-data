@@ -191,8 +191,8 @@ systemmanufacturer:ENGINE:Edasich Motors
 systemmode:ENGINE:Edasich Motors 380 XL
 systemmanufacturer:ARMOR:Longanecker
 systemmode:ARMOR:Longanecker PlastiSteel
-systemmanufacturer:JUMPING:Luxor
-systemmode:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Luxor
+systemmode:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Angst
 systemmode:COMMUNICATIONS:Angst Clear Channel 3
 systemmanufacturer:TARGETING:Angst

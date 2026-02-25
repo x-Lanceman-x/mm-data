@@ -192,8 +192,8 @@ systemmanufacturer:ENGINE:Edasich
 systemmode:ENGINE:300 Light
 systemmanufacturer:ARMOR:StarSlab
 systemmode:ARMOR:/4 Heavy Ferro-Fibrous with CASE II
-systemmanufacturer:JUMPING:McCloud
-systemmode:JUMPING:Specials
+systemmanufacturer:JUMP_JET:McCloud
+systemmode:JUMP_JET:Specials
 systemmanufacturer:COMMUNICATIONS:Jolex
 systemmode:COMMUNICATIONS:Systems
 systemmanufacturer:TARGETING:Optisight

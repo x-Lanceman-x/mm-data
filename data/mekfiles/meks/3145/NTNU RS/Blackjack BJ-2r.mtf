@@ -189,8 +189,8 @@ systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:180
 systemmanufacturer:ARMOR:StarGuard
 systemmode:ARMOR:II
-systemmanufacturer:JUMPING:Whitworth
-systemmode:JUMPING:Jetlift
+systemmanufacturer:JUMP_JET:Whitworth
+systemmode:JUMP_JET:Jetlift
 systemmanufacturer:COMMUNICATIONS:Dalban
 systemmode:COMMUNICATIONS:Micronics
 systemmanufacturer:TARGETING:Dalban

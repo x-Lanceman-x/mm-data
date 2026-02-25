@@ -194,7 +194,7 @@ systemmanufacturer:ENGINE:Vlar
 systemmode:ENGINE:400 XL
 systemmanufacturer:ARMOR:Durallex
 systemmode:ARMOR:Special Heavy Ferro-Fibrous with CASE
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Angst
 systemmode:COMMUNICATIONS:Discom with Guardian ECM
 systemmanufacturer:TARGETING:Angst

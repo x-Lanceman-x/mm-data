@@ -191,8 +191,8 @@ systemmanufacturer:ENGINE:DAV
 systemmode:ENGINE:DAV 220 Light
 systemmanufacturer:ARMOR:StarSlab
 systemmode:ARMOR:StarSlab/3H Hardened with CASE II (Clan)
-systemmanufacturer:JUMPING:Chilton
-systemmode:JUMPING:Chilton 950 Improved Jump Jets
+systemmanufacturer:JUMP_JET:Chilton
+systemmode:JUMP_JET:Chilton 950 Improved Jump Jets
 systemmanufacturer:COMMUNICATIONS:Telestar
 systemmode:COMMUNICATIONS:Telestar Model XB-82
 systemmanufacturer:TARGETING:Starlight

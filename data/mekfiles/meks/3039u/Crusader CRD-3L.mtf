@@ -199,8 +199,8 @@ systemmanufacturer:ENGINE:Magna
 systemmode:ENGINE:260
 systemmanufacturer:ARMOR:Riese
 systemmode:ARMOR:500
-systemmanufacturer:JUMPING:GM
-systemmode:JUMPING:Jetstar
+systemmanufacturer:JUMP_JET:GM
+systemmode:JUMP_JET:Jetstar
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:T11-b
 systemmanufacturer:TARGETING:Garret

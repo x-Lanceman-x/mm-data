@@ -194,8 +194,8 @@ systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:270 XL
 systemmanufacturer:ARMOR:Durallex
 systemmode:ARMOR:Nova
-systemmanufacturer:JUMPING:Luxor
-systemmode:JUMPING:Load Lifters
+systemmanufacturer:JUMP_JET:Luxor
+systemmode:JUMP_JET:Load Lifters
 systemmanufacturer:COMMUNICATIONS:Cyclops
 systemmode:COMMUNICATIONS:18XS Adaptable
 systemmanufacturer:TARGETING:Cyclops

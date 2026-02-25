@@ -184,6 +184,6 @@ systemmanufacturer:ENGINE:Quixote Industries
 systemmode:ENGINE:Unknown 200
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Unknown Standard
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

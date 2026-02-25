@@ -193,8 +193,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Fusion 270 Standard
 systemmanufacturer:ARMOR:Arcadia
 systemmode:ARMOR:Arcadia Compound Delta VII Ferro-Fibrous
-systemmanufacturer:JUMPING:Prentiss
-systemmode:JUMPING:Prentiss-IIIA
+systemmanufacturer:JUMP_JET:Prentiss
+systemmode:JUMP_JET:Prentiss-IIIA
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:C-XII Series B4 GDS
 systemmanufacturer:TARGETING:Unknown

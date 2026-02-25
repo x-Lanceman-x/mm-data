@@ -190,7 +190,7 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:300 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Takeda Industries Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Fang Class III
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Fang Class III
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

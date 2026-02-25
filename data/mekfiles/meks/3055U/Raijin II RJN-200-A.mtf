@@ -193,8 +193,8 @@ systemmanufacturer:ENGINE:Vlar
 systemmode:ENGINE:300 XL
 systemmanufacturer:ARMOR:Krupp
 systemmode:ARMOR:Standard Plate with CASE
-systemmanufacturer:JUMPING:Rawlings
-systemmode:JUMPING:60
+systemmanufacturer:JUMP_JET:Rawlings
+systemmode:JUMP_JET:60
 systemmanufacturer:COMMUNICATIONS:Exeter
 systemmode:COMMUNICATIONS:Longscan 200 with C3i Computer
 systemmanufacturer:TARGETING:Garret

@@ -191,7 +191,7 @@ systemmanufacturer:ENGINE:Vlar
 systemmode:ENGINE:300
 systemmanufacturer:ARMOR:Riese
 systemmode:ARMOR:475
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Ostmann
 systemmode:COMMUNICATIONS:Ostmann-L
 systemmanufacturer:TARGETING:Ostmann

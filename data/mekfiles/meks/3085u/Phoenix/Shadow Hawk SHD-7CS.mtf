@@ -196,8 +196,8 @@ systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:275 XL
 systemmanufacturer:ARMOR:Maximillian
 systemmode:ARMOR:43
-systemmanufacturer:JUMPING:Rawlings
-systemmode:JUMPING:55
+systemmanufacturer:JUMP_JET:Rawlings
+systemmode:JUMP_JET:55
 systemmanufacturer:COMMUNICATIONS:Dash
 systemmode:COMMUNICATIONS:2 Standard
 systemmanufacturer:TARGETING:Blade

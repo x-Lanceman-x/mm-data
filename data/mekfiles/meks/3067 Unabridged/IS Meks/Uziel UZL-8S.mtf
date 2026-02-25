@@ -176,8 +176,8 @@ systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:250 XL
 systemmanufacturer:ARMOR:Maximillian
 systemmode:ARMOR:100
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Unknown (Improved)
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Unknown (Improved)
 systemmanufacturer:COMMUNICATIONS:Neil
 systemmode:COMMUNICATIONS:6000-g
 systemmanufacturer:TARGETING:RCA

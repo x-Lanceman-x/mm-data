@@ -339,7 +339,7 @@ Midway
 CHASSIS:Midway Warship Yard
 ENGINE:Unknown
 ARMOR:Unknown
-JUMPING:Stellar Trek Enterprises
+JUMP_JET:Stellar Trek Enterprises
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemManufacturers>
@@ -348,7 +348,7 @@ TARGETING:Unknown
 CHASSIS:Unknown
 ENGINE:Unknown
 ARMOR:Improved Ferro-Aluminum
-JUMPING:Unknown
+JUMP_JET:Unknown
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemModels>

@@ -192,8 +192,8 @@ systemmanufacturer:ENGINE:Vlar
 systemmode:ENGINE:300
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Ferro-Fibrous
-systemmanufacturer:JUMPING:Chilton
-systemmode:JUMPING:460
+systemmanufacturer:JUMP_JET:Chilton
+systemmode:JUMP_JET:460
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:T12E
 systemmanufacturer:TARGETING:Dynatec

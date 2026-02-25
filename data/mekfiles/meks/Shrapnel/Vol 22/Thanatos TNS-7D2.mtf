@@ -187,8 +187,8 @@ systemmanufacturer:ENGINE:PlasmaStar
 systemmode:ENGINE:375 Extra Light
 systemmanufacturer:ARMOR:Durallex
 systemmode:ARMOR:Heavy with CASE II
-systemmanufacturer:JUMPING:Audi-Fokker
-systemmode:JUMPING:Mark IV
+systemmanufacturer:JUMP_JET:Audi-Fokker
+systemmode:JUMP_JET:Mark IV
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:T-60 FastScan with C3
 systemmanufacturer:TARGETING:Garret

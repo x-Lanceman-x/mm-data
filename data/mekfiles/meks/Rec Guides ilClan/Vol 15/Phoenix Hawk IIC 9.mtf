@@ -192,8 +192,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Type 70 400 XL
 systemmanufacturer:ARMOR:Forging
 systemmode:ARMOR:AM15 Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Grandthrust Mk. 5
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Grandthrust Mk. 5
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:MegaBand System 21
 systemmanufacturer:TARGETING:Unknown

@@ -192,8 +192,8 @@ systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:180
 systemmanufacturer:ARMOR:Durallex
 systemmode:ARMOR:Medium
-systemmanufacturer:JUMPING:Luxor
-systemmode:JUMPING:2/Q
+systemmanufacturer:JUMP_JET:Luxor
+systemmode:JUMP_JET:2/Q
 systemmanufacturer:COMMUNICATIONS:TharHes
 systemmode:COMMUNICATIONS:Thalia HM-22
 systemmanufacturer:TARGETING:TharHes

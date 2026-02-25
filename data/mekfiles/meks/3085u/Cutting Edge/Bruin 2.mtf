@@ -196,8 +196,8 @@ systemmanufacturer:ENGINE:Light Force
 systemmode:ENGINE:320 XL
 systemmanufacturer:ARMOR:Compound
 systemmode:ARMOR:12A1 Standard
-systemmanufacturer:JUMPING:Clan Standard
-systemmode:JUMPING:Type A3
+systemmanufacturer:JUMP_JET:Clan Standard
+systemmode:JUMP_JET:Type A3
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:L30
 systemmanufacturer:TARGETING:RCA

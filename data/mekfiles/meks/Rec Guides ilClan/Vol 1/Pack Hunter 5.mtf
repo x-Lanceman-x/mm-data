@@ -185,6 +185,6 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:XL 270
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Clan Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

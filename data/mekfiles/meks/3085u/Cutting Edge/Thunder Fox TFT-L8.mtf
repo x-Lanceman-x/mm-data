@@ -191,7 +191,7 @@ systemmanufacturer:ENGINE:VOX
 systemmode:ENGINE:275 XL
 systemmanufacturer:ARMOR:Krupp
 systemmode:ARMOR:205 Light Ferro-Fibrous with CASE
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Skobel
 systemmode:COMMUNICATIONS:Wave 13
 systemmanufacturer:TARGETING:Matabushi

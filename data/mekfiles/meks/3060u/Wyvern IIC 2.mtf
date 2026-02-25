@@ -195,8 +195,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Fusion Standard 180
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Mix IIIc Composite
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:SL-150 Mod. V
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:SL-150 Mod. V
 systemmanufacturer:COMMUNICATIONS:Consolidated
 systemmode:COMMUNICATIONS:BMR3-CC
 systemmanufacturer:TARGETING:Unknown

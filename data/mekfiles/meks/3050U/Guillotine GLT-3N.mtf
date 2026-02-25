@@ -193,8 +193,8 @@ systemmanufacturer:ENGINE:VOX
 systemmode:ENGINE:280
 systemmanufacturer:ARMOR:Ulston
 systemmode:ARMOR:Ulston Prime with CASE
-systemmanufacturer:JUMPING:Anderson
-systemmode:JUMPING:Anderson 398
+systemmanufacturer:JUMP_JET:Anderson
+systemmode:JUMP_JET:Anderson 398
 systemmanufacturer:COMMUNICATIONS:StarLink
 systemmode:COMMUNICATIONS:StarLink 955G
 systemmanufacturer:TARGETING:Pulsar

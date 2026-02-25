@@ -192,8 +192,8 @@ systemmanufacturer:ENGINE:VOX
 systemmode:ENGINE:325 XL
 systemmanufacturer:ARMOR:Durallex
 systemmode:ARMOR:Super Light Ferro-Fibrous
-systemmanufacturer:JUMPING:Dynamo
-systemmode:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Dynamo
+systemmode:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Telestar
 systemmode:COMMUNICATIONS:Model XK-71
 systemmanufacturer:TARGETING:Starlight

@@ -161,7 +161,7 @@ Schuyler
 CHASSIS:Wakazashi
 ENGINE:Shinobi
 ARMOR:Unknown
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Neil
 TARGETING:Chichester
 </systemManufacturers>
@@ -170,7 +170,7 @@ TARGETING:Chichester
 CHASSIS:Wakazashi I
 ENGINE:240 XL
 ARMOR:ferro-aluminum
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:4000
 TARGETING:ASR-26
 </systemModels>

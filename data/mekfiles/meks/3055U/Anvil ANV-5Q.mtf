@@ -191,8 +191,8 @@ systemmanufacturer:ENGINE:Free Worlds Defense Industries
 systemmode:ENGINE:Vlar 300
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Jolassa-325
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Chilton 365
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Chilton 365
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:Datacom 50
 systemmanufacturer:TARGETING:Unknown

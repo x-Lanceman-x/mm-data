@@ -194,6 +194,6 @@ systemmanufacturer:CHASSIS:Unknown
 systemmanufacturer:ENGINE:DAV
 systemmode:ENGINE:220
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

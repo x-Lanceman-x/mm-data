@@ -193,8 +193,8 @@ systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:300 XL
 systemmanufacturer:ARMOR:Valiant
 systemmode:ARMOR:Lamellor
-systemmanufacturer:JUMPING:Chilton
-systemmode:JUMPING:1350
+systemmanufacturer:JUMP_JET:Chilton
+systemmode:JUMP_JET:1350
 systemmanufacturer:COMMUNICATIONS:Blackwell
 systemmode:COMMUNICATIONS:Multi-Linq 55
 systemmanufacturer:TARGETING:Dragwell

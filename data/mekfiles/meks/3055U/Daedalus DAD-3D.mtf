@@ -195,8 +195,8 @@ systemmanufacturer:ENGINE:Hermes
 systemmode:ENGINE:270 XL
 systemmanufacturer:ARMOR:Durallex
 systemmode:ARMOR:Light
-systemmanufacturer:JUMPING:Rawlings
-systemmode:JUMPING:45
+systemmanufacturer:JUMP_JET:Rawlings
+systemmode:JUMP_JET:45
 systemmanufacturer:COMMUNICATIONS:Dalban
 systemmode:COMMUNICATIONS:VirtuTalk
 systemmanufacturer:TARGETING:Dalban

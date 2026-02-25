@@ -182,7 +182,7 @@ systemmode:CHASSIS:Clan Series Heavy KMX
 systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:420 XXL
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:GBX-2 Amalgamated
 systemmanufacturer:TARGETING:RCA

@@ -194,8 +194,8 @@ systemmanufacturer:ENGINE:Olivetti
 systemmode:ENGINE:380 XL
 systemmanufacturer:ARMOR:Forging
 systemmode:ARMOR:ZM15 Ferro-Fibrous
-systemmanufacturer:JUMPING:Grandthrust
-systemmode:JUMPING:Mk 5 with Partial Wing
+systemmanufacturer:JUMP_JET:Grandthrust
+systemmode:JUMP_JET:Mk 5 with Partial Wing
 systemmanufacturer:COMMUNICATIONS:Raptor
 systemmode:COMMUNICATIONS:X-T Type iii
 systemmanufacturer:TARGETING:Goshawk

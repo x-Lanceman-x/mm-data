@@ -280,7 +280,7 @@ Various
 CHASSIS:Unknown
 ENGINE:Harlan
 ARMOR:Unknown
-JUMPING:Unknown
+JUMP_JET:Unknown
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemManufacturers>
@@ -289,7 +289,7 @@ TARGETING:Unknown
 CHASSIS:40X Templar
 ENGINE:B8-160
 ARMOR:Improved Ferro-Aluminum
-JUMPING:KF King LX
+JUMP_JET:KF King LX
 COMMUNICATIONS:KAT 701
 TARGETING:ASTROC 4-b
 </systemModels>

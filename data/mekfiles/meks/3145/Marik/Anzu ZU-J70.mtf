@@ -192,8 +192,8 @@ systemmanufacturer:ENGINE:Hermes
 systemmode:ENGINE:240 XL
 systemmanufacturer:ARMOR:Starshield
 systemmode:ARMOR:A with CASE II
-systemmanufacturer:JUMPING:Chilton
-systemmode:JUMPING:465
+systemmanufacturer:JUMP_JET:Chilton
+systemmode:JUMP_JET:465
 systemmanufacturer:COMMUNICATIONS:Irian
 systemmode:COMMUNICATIONS:Orator-5K
 systemmanufacturer:TARGETING:RCA

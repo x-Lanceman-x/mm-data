@@ -185,8 +185,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:XL 150
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Improved Jump Jets
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Improved Jump Jets
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:K9 Communications System
 systemmanufacturer:TARGETING:Unknown

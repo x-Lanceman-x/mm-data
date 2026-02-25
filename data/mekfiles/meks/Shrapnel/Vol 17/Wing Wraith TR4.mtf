@@ -183,8 +183,8 @@ systemmanufacturer:ENGINE:Magna
 systemmode:ENGINE:330 XL
 systemmanufacturer:ARMOR:Hellespont
 systemmode:ARMOR:Unknown
-systemmanufacturer:JUMPING:Hellespont
-systemmode:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Hellespont
+systemmode:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Ceres Metals
 systemmode:COMMUNICATIONS:Model 666
 systemmanufacturer:TARGETING:Ceres

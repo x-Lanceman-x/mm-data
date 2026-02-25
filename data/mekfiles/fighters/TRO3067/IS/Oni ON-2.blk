@@ -169,7 +169,7 @@ Chatham
 CHASSIS:Wakazashi Enterprises
 ENGINE:Unknown
 ARMOR:Unknown
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemManufacturers>
@@ -178,7 +178,7 @@ TARGETING:Unknown
 CHASSIS:V-On
 ENGINE:Shinobi 275
 ARMOR:Unknown
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Garret T22
 TARGETING:Neko Megane 6
 </systemModels>

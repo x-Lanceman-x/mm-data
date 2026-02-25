@@ -195,7 +195,7 @@ systemmanufacturer:ENGINE:Vlar
 systemmode:ENGINE:300 Armored
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Hardened
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Hartford
 systemmode:COMMUNICATIONS:JEA-1
 systemmanufacturer:TARGETING:O/P

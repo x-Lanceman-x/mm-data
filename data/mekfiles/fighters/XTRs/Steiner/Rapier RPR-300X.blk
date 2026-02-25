@@ -170,7 +170,7 @@ Tharkad
 CHASSIS:Interstar
 ENGINE:Unknown
 ARMOR:Unknown
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemManufacturers>
@@ -179,7 +179,7 @@ TARGETING:Unknown
 CHASSIS:290M
 ENGINE:Unknown
 ARMOR:Unknown
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:COMHRT II.Q
 TARGETING:Unknown
 </systemModels>

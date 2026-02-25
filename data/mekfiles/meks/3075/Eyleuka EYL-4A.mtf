@@ -197,7 +197,7 @@ systemmanufacturer:CHASSIS:Dynastic
 systemmode:CHASSIS:55-E
 systemmanufacturer:ENGINE:Unknown
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:FoxxCom
 systemmode:COMMUNICATIONS:75
 systemmanufacturer:TARGETING:FoxxFire

@@ -200,8 +200,8 @@ systemmanufacturer:ENGINE:VOX
 systemmode:ENGINE:225 XL
 systemmanufacturer:ARMOR:Valiant
 systemmode:ARMOR:Lamellor
-systemmanufacturer:JUMPING:Icarus Unlimited
-systemmode:JUMPING:81
+systemmanufacturer:JUMP_JET:Icarus Unlimited
+systemmode:JUMP_JET:81
 systemmanufacturer:COMMUNICATIONS:Sipher
 systemmode:COMMUNICATIONS:Security Plus with Guardian ECM Suite
 systemmanufacturer:TARGETING:Eagle Eye

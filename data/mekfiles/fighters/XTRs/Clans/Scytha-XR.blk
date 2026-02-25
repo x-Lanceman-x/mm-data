@@ -189,7 +189,7 @@ Quatre Belle
 CHASSIS:Complex VI
 ENGINE:Unknown
 ARMOR:Unknown
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemManufacturers>
@@ -198,7 +198,7 @@ TARGETING:Unknown
 CHASSIS:Falcon Hollowbone
 ENGINE:360 XL
 ARMOR:Ferro-Lamellor (prototype)
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemModels>

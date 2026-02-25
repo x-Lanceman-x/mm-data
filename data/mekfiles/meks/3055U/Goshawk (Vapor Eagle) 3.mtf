@@ -192,8 +192,8 @@ systemmanufacturer:ENGINE:New Kent
 systemmode:ENGINE:New Kent Type 105 330 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Compound V133/b Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Pryzhok WM 5
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Pryzhok WM 5
 systemmanufacturer:COMMUNICATIONS:Mercer
 systemmode:COMMUNICATIONS:Mercer 950
 systemmanufacturer:TARGETING:GEG

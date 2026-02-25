@@ -192,8 +192,8 @@ systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:280 XL
 systemmanufacturer:ARMOR:Kallon
 systemmode:ARMOR:Royalstar with CASE
-systemmanufacturer:JUMPING:HildCo
-systemmode:JUMPING:Model 12
+systemmanufacturer:JUMP_JET:HildCo
+systemmode:JUMP_JET:Model 12
 systemmanufacturer:COMMUNICATIONS:CommuTech
 systemmode:COMMUNICATIONS:Multi-Channel 10
 systemmanufacturer:TARGETING:BlazeFire

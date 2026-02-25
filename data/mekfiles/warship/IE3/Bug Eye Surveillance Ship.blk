@@ -247,7 +247,7 @@ Wasat
 CHASSIS:Ferron
 ENGINE:Quadrant
 ARMOR:Mitcheli
-JUMPING:Delano
+JUMP_JET:Delano
 COMMUNICATIONS:Farralex
 TARGETING:Tokina
 </systemManufacturers>
@@ -256,7 +256,7 @@ TARGETING:Tokina
 CHASSIS:240
 ENGINE:Turbo Thruster
 ARMOR:6HY Ferro-Aluminum
-JUMPING:2070
+JUMP_JET:2070
 COMMUNICATIONS:BT
 TARGETING:9000R
 </systemModels>

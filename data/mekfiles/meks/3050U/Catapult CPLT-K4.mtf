@@ -191,7 +191,7 @@ systemmanufacturer:ENGINE:Magna
 systemmode:ENGINE:195
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Light Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:O/P
 systemmode:COMMUNICATIONS:COM-211
 systemmanufacturer:TARGETING:O/P

@@ -189,8 +189,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:275 Fusion XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Unknown (Ferro-Fibrous)
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Clan Standard Type A1 with Partial Wing
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Clan Standard Type A1 with Partial Wing
 systemmanufacturer:COMMUNICATIONS:Raptor
 systemmode:COMMUNICATIONS:X-T Type iii
 systemmanufacturer:TARGETING:Goshawk

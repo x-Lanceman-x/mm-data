@@ -171,7 +171,7 @@ Addicks, New Syrtis
 CHASSIS:Johnston
 ENGINE:GM
 ARMOR:Kallon
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Unknown
 TARGETING:RCA
 </systemManufacturers>
@@ -180,7 +180,7 @@ TARGETING:RCA
 CHASSIS:Rapier Mk. VII
 ENGINE:SuperFusion 225 XL
 ARMOR:AeroWeave Ferro-Aluminum
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:ChatterComm 224
 TARGETING:Instatrac Mk. XIX
 </systemModels>

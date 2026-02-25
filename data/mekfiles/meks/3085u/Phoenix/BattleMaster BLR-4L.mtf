@@ -192,6 +192,6 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:255 Light
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Stealth
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

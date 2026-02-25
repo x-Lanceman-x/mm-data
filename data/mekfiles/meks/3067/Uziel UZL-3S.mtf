@@ -194,8 +194,8 @@ systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:300 XL
 systemmanufacturer:ARMOR:Maximillian
 systemmode:ARMOR:100
-systemmanufacturer:JUMPING:Rawlings
-systemmode:JUMPING:50
+systemmanufacturer:JUMP_JET:Rawlings
+systemmode:JUMP_JET:50
 systemmanufacturer:COMMUNICATIONS:Neil
 systemmode:COMMUNICATIONS:6000-g
 systemmanufacturer:TARGETING:RCA

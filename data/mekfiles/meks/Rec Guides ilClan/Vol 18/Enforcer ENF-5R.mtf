@@ -183,7 +183,7 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:200 Light
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Ferro-Fibrous
-systemmanufacturer:JUMPING:McCloud
-systemmode:JUMPING:McCloud Specials
+systemmanufacturer:JUMP_JET:McCloud
+systemmode:JUMP_JET:McCloud Specials
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

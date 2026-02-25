@@ -307,7 +307,7 @@ Terra
 CHASSIS:Boeing Interstellar
 ENGINE:Rolls Le Fay
 ARMOR:Unknown
-JUMPING:Unknown
+JUMP_JET:Unknown
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemManufacturers>
@@ -316,7 +316,7 @@ TARGETING:Unknown
 CHASSIS:Unknown
 ENGINE:Unknown
 ARMOR:Primitive
-JUMPING:Unknown
+JUMP_JET:Unknown
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemModels>

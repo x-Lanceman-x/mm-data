@@ -192,8 +192,8 @@ systemmanufacturer:ENGINE:Magna
 systemmode:ENGINE:260
 systemmanufacturer:ARMOR:Ryerson
 systemmode:ARMOR:150
-systemmanufacturer:JUMPING:Chilton
-systemmode:JUMPING:420
+systemmanufacturer:JUMP_JET:Chilton
+systemmode:JUMP_JET:420
 systemmanufacturer:COMMUNICATIONS:Neil
 systemmode:COMMUNICATIONS:8000
 systemmanufacturer:TARGETING:RCA

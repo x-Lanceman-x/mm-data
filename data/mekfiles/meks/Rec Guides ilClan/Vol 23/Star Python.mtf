@@ -187,8 +187,8 @@ systemmanufacturer:ENGINE:Antwerp
 systemmode:ENGINE:175
 systemmanufacturer:ARMOR:Compound Rho
 systemmode:ARMOR:Special Reflective
-systemmanufacturer:JUMPING:Rawlings
-systemmode:JUMPING:55
+systemmanufacturer:JUMP_JET:Rawlings
+systemmode:JUMP_JET:55
 systemmanufacturer:COMMUNICATIONS:CGS
 systemmode:COMMUNICATIONS:Comm-1a
 systemmanufacturer:TARGETING:CGS

@@ -194,8 +194,8 @@ systemmanufacturer:ENGINE:Hermes
 systemmode:ENGINE:240 XL
 systemmanufacturer:ARMOR:Kallon
 systemmode:ARMOR:Royalstar
-systemmanufacturer:JUMPING:McCloud
-systemmode:JUMPING:Specials (Reinforced)
+systemmanufacturer:JUMP_JET:McCloud
+systemmode:JUMP_JET:Specials (Reinforced)
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:T11-A
 systemmanufacturer:TARGETING:Garret

@@ -191,8 +191,8 @@ systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:210
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Ferro-Fibrous
-systemmanufacturer:JUMPING:Vicore
-systemmode:JUMPING:Thrust-Masters Model L
+systemmanufacturer:JUMP_JET:Vicore
+systemmode:JUMP_JET:Thrust-Masters Model L
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:Lynx-shur
 systemmanufacturer:TARGETING:Unknown

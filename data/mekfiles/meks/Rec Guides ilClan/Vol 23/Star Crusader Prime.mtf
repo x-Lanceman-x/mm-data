@@ -193,7 +193,7 @@ systemmanufacturer:ENGINE:Antwerp
 systemmode:ENGINE:Antwerp 320 XL
 systemmanufacturer:ARMOR:Forging
 systemmode:ARMOR:Forging SE09B Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:CGS
 systemmode:COMMUNICATIONS:CGS-Comm-4
 systemmanufacturer:TARGETING:CGS

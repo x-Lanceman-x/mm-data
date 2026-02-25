@@ -194,8 +194,8 @@ systemmanufacturer:ENGINE:RFUM
 systemmode:ENGINE:280 RFUM Fusion
 systemmanufacturer:ARMOR:Arcadia Compound
 systemmode:ARMOR:Delta VII Standard
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Clan Standard 14X Series
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Clan Standard 14X Series
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:T10B
 systemmanufacturer:TARGETING:Unknown

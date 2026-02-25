@@ -189,8 +189,8 @@ systemmanufacturer:ENGINE:Hermes
 systemmode:ENGINE:250
 systemmanufacturer:ARMOR:Mitchel
 systemmode:ARMOR:Argon Standard
-systemmanufacturer:JUMPING:Icarus
-systemmode:JUMPING:Standard
+systemmanufacturer:JUMP_JET:Icarus
+systemmode:JUMP_JET:Standard
 systemmanufacturer:COMMUNICATIONS:Sipher
 systemmode:COMMUNICATIONS:CommCon SCU-9
 systemmanufacturer:TARGETING:Matabushi

@@ -189,8 +189,8 @@ systemmanufacturer:ENGINE:Magna
 systemmode:ENGINE:Magna 250
 systemmanufacturer:ARMOR:Norse
 systemmode:ARMOR:Norse-34 Ferro-Fibrous with CASE
-systemmanufacturer:JUMPING:Odin's Own
-systemmode:JUMPING:Odin's Own Model 34z
+systemmanufacturer:JUMP_JET:Odin's Own
+systemmode:JUMP_JET:Odin's Own Model 34z
 systemmanufacturer:COMMUNICATIONS:Tek
 systemmode:COMMUNICATIONS:Tek BattleCom
 systemmanufacturer:TARGETING:FireScan

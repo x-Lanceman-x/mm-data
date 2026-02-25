@@ -188,7 +188,7 @@ systemmode:CHASSIS:2A Type 15 Endo Steel
 systemmanufacturer:ENGINE:Magna
 systemmode:ENGINE:350 XL
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:PCE-4X "Blaster"
 systemmanufacturer:TARGETING:Unknown

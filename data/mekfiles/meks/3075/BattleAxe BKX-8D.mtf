@@ -192,7 +192,7 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Light Fusion
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Light Ferro-Fibrous
-systemmanufacturer:JUMPING:Rawlings
-systemmode:JUMPING:40-Beta
+systemmanufacturer:JUMP_JET:Rawlings
+systemmode:JUMP_JET:40-Beta
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

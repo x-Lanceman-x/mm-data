@@ -192,8 +192,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:220 Light
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Standard
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Improved
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Improved
 systemmanufacturer:COMMUNICATIONS:Neil
 systemmode:COMMUNICATIONS:9000-A
 systemmanufacturer:TARGETING:Octagon

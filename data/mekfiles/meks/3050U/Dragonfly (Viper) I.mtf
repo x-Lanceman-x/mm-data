@@ -192,8 +192,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:320 Light Force XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Compound H17 Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Geotec 300
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Geotec 300
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:Series D8 CC-25X
 systemmanufacturer:TARGETING:Unknown

@@ -199,8 +199,8 @@ systemmanufacturer:ENGINE:Vlar
 systemmode:ENGINE:225 Light
 systemmanufacturer:ARMOR:Maximillian
 systemmode:ARMOR:100
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Improved
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Improved
 systemmanufacturer:COMMUNICATIONS:Rander
 systemmode:COMMUNICATIONS:200
 systemmanufacturer:TARGETING:Rander

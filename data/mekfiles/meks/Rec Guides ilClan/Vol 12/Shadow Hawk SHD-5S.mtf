@@ -198,8 +198,8 @@ systemmanufacturer:ENGINE:Hermes
 systemmode:ENGINE:330 XL
 systemmanufacturer:ARMOR:Maximillian
 systemmode:ARMOR:43
-systemmanufacturer:JUMPING:Chilton
-systemmode:JUMPING:360
+systemmanufacturer:JUMP_JET:Chilton
+systemmode:JUMP_JET:360
 systemmanufacturer:COMMUNICATIONS:Neil
 systemmode:COMMUNICATIONS:9000
 systemmanufacturer:TARGETING:RCA Instatrac

@@ -197,8 +197,8 @@ systemmanufacturer:ENGINE:VOX
 systemmode:ENGINE:280 XL
 systemmanufacturer:ARMOR:Riese
 systemmode:ARMOR:500
-systemmanufacturer:JUMPING:Chilton
-systemmode:JUMPING:455
+systemmanufacturer:JUMP_JET:Chilton
+systemmode:JUMP_JET:455
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:T11-B2
 systemmanufacturer:TARGETING:Garret

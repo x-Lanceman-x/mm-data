@@ -175,8 +175,8 @@ systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:270 XL
 systemmanufacturer:ARMOR:StarGuard
 systemmode:ARMOR:III
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Unknown (Improved)
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Unknown (Improved)
 systemmanufacturer:COMMUNICATIONS:Dalban
 systemmode:COMMUNICATIONS:SuperMicronics with Guardian ECM
 systemmanufacturer:TARGETING:GME

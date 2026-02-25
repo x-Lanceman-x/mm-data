@@ -189,7 +189,7 @@ systemmode:CHASSIS:Endo 4
 systemmanufacturer:ENGINE:Type 79
 systemmode:ENGINE:360 XL Fusion
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:MegaBand
 systemmode:COMMUNICATIONS:System 21
 systemmanufacturer:TARGETING:Dtrac

@@ -188,7 +188,7 @@ primaryfactory:St. Ives
 systemmanufacturer:CHASSIS:Unknown
 systemmanufacturer:ENGINE:Unknown
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Swingline
-systemmode:JUMPING:X-1200
+systemmanufacturer:JUMP_JET:Swingline
+systemmode:JUMP_JET:X-1200
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

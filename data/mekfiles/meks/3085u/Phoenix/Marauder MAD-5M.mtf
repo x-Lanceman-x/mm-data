@@ -195,7 +195,7 @@ systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:300 XL
 systemmanufacturer:ARMOR:Durallex
 systemmode:ARMOR:Heavy
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Barret
 systemmode:COMMUNICATIONS:Party Line-200
 systemmanufacturer:TARGETING:Wasat

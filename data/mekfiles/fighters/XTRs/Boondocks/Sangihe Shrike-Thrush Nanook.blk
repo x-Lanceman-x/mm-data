@@ -199,7 +199,7 @@ Solaris VII
 CHASSIS:Mujika Aerospace Technologies
 ENGINE:Unknown
 ARMOR:Unknown
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemManufacturers>
@@ -208,7 +208,7 @@ TARGETING:Unknown
 CHASSIS:Mujika Aerospace Type 12
 ENGINE:Magna 250 XXL
 ARMOR:Patchwork (Laser Reflective/Reactive)
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemModels>

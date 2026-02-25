@@ -189,8 +189,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Fusion 225 Standard
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Raydient Series 2
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Clan Standard Type A1
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Clan Standard Type A1
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:Squawkbox 3.56
 systemmanufacturer:TARGETING:Olivetti

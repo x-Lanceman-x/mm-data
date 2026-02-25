@@ -188,8 +188,8 @@ systemmode:CHASSIS:X-H54 Endo Steel
 systemmanufacturer:ENGINE:Hermes
 systemmode:ENGINE:280 XL
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Chilton
-systemmode:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Chilton
+systemmode:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Datacom
 systemmode:COMMUNICATIONS:70
 systemmanufacturer:TARGETING:Octagon

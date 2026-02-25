@@ -190,7 +190,7 @@ systemmanufacturer:CHASSIS:Unknown
 systemmode:CHASSIS:Dominator Medium-Alpha 01
 systemmanufacturer:ENGINE:Unknown
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:Comset 1
 systemmanufacturer:TARGETING:Unknown

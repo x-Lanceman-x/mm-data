@@ -191,7 +191,7 @@ systemmanufacturer:CHASSIS:Unknown
 systemmode:CHASSIS:Advanced
 systemmanufacturer:ENGINE:Unknown
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:T11-B2
 systemmanufacturer:TARGETING:Garret

@@ -202,7 +202,7 @@ systemmanufacturer:CHASSIS:Unknown
 systemmode:CHASSIS:Star League Monster
 systemmanufacturer:ENGINE:Unknown
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:L15
 systemmanufacturer:TARGETING:RCA

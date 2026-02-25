@@ -181,7 +181,7 @@ Huntress (Lootera), Lum, Quatre Belle, Babylon (Corsen), Grant's Station (North)
 CHASSIS:Unknown
 ENGINE:Unknown
 ARMOR:Unknown
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemManufacturers>
@@ -190,7 +190,7 @@ TARGETING:Unknown
 CHASSIS:Endo Steel
 ENGINE:300 XL
 ARMOR:Ferro-aluminum
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Schedule 11
 TARGETING:Mark 11
 </systemModels>

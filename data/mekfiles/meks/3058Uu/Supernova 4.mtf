@@ -192,8 +192,8 @@ systemmanufacturer:ENGINE:Consolidated Fusion
 systemmode:ENGINE:270 Standard
 systemmanufacturer:ARMOR:Omega Heavy
 systemmode:ARMOR:Unknown
-systemmanufacturer:JUMPING:Northrup
-systemmode:JUMPING:Super Heavy Starlifters A100s
+systemmanufacturer:JUMP_JET:Northrup
+systemmode:JUMP_JET:Super Heavy Starlifters A100s
 systemmanufacturer:COMMUNICATIONS:NC-TelCom
 systemmode:COMMUNICATIONS:Mk X
 systemmanufacturer:TARGETING:Big Cat

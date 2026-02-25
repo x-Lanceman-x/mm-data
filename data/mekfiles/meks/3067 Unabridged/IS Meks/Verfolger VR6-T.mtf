@@ -173,7 +173,7 @@ systemmanufacturer:ENGINE:VOX
 systemmode:ENGINE:325 XL
 systemmanufacturer:ARMOR:Royal-7
 systemmode:ARMOR:Royal-7 Standard with CASE
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:K9
 systemmode:COMMUNICATIONS:K9 Comms System
 systemmanufacturer:TARGETING:Type V Bloodhound

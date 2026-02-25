@@ -158,7 +158,7 @@ Axton
 CHASSIS:Wangker
 ENGINE:Unknown
 ARMOR:Unknown
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemManufacturers>
@@ -167,7 +167,7 @@ TARGETING:Unknown
 CHASSIS:Unknown
 ENGINE:Unknown 450 XXL
 ARMOR:Unknown Standard
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemModels>

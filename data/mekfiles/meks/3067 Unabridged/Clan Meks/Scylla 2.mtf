@@ -173,8 +173,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:New Kent Type 50 Fusion XL 400
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Compound V9 Ferro Fibrous
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Pryzhok WM15
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Pryzhok WM15
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:Mercer 973
 systemmanufacturer:TARGETING:GEG

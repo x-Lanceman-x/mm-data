@@ -199,8 +199,8 @@ systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:300 Light
 systemmanufacturer:ARMOR:Valiant
 systemmode:ARMOR:Lamellor
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Improved
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Improved
 systemmanufacturer:COMMUNICATIONS:Dalban Micronics
 systemmode:COMMUNICATIONS:Dalban Micronics
 systemmanufacturer:TARGETING:Dalban

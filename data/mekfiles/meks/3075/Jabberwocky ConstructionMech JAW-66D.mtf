@@ -184,8 +184,8 @@ systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:200
 systemmanufacturer:ARMOR:ArcShield
 systemmode:ARMOR:Maxi Special (Industrial Heavy)
-systemmanufacturer:JUMPING:Panpour Specials
-systemmode:JUMPING:Panpour Specials
+systemmanufacturer:JUMP_JET:Panpour Specials
+systemmode:JUMP_JET:Panpour Specials
 systemmanufacturer:COMMUNICATIONS:O/P
 systemmode:COMMUNICATIONS:R Janxiir
 systemmanufacturer:TARGETING:Jal

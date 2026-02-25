@@ -187,8 +187,8 @@ systemmanufacturer:ENGINE:Hermes
 systemmode:ENGINE:250 XL
 systemmanufacturer:ARMOR:Kallon
 systemmode:ARMOR:Royalstar with CASE II
-systemmanufacturer:JUMPING:Chilton
-systemmode:JUMPING:360 with Partial Wing
+systemmanufacturer:JUMP_JET:Chilton
+systemmode:JUMP_JET:360 with Partial Wing
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:T20-C
 systemmanufacturer:TARGETING:Garret

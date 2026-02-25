@@ -167,7 +167,7 @@ Atreus (FWL)
 CHASSIS:ImStar Aerospace
 ENGINE:Unknown
 ARMOR:Unknown
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Datacom
 TARGETING:Dynatec
 </systemManufacturers>
@@ -176,7 +176,7 @@ TARGETING:Dynatec
 CHASSIS:ImStar Alpha
 ENGINE:Unknown
 ARMOR:Unknown
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Datacom 26
 TARGETING:Dynatec 990
 </systemModels>

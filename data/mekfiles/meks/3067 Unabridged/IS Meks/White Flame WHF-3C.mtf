@@ -196,8 +196,8 @@ systemmanufacturer:ENGINE:Magna
 systemmode:ENGINE:350 Light
 systemmanufacturer:ARMOR:StarSlab
 systemmode:ARMOR:StarSlab/3
-systemmanufacturer:JUMPING:Rawlings
-systemmode:JUMPING:Rawlings 60
+systemmanufacturer:JUMP_JET:Rawlings
+systemmode:JUMP_JET:Rawlings 60
 systemmanufacturer:COMMUNICATIONS:Dornman
 systemmode:COMMUNICATIONS:Echo II with C3i Computer
 systemmanufacturer:TARGETING:Wayne

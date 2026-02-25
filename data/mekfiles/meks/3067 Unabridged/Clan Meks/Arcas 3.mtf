@@ -188,8 +188,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:325 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Compound 12A1 Standard
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Improved Jump Jets
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Improved Jump Jets
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:L15
 systemmanufacturer:TARGETING:RCA

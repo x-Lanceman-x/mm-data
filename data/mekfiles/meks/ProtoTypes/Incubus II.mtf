@@ -190,8 +190,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Fusion 240 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Compound H17 Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Clan Light Series Mk. II with Partial Wing
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Clan Light Series Mk. II with Partial Wing
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:CH2 Series Integrated
 systemmanufacturer:TARGETING:Unknown

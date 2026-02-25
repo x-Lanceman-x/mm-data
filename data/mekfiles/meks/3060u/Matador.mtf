@@ -199,8 +199,8 @@ systemmanufacturer:ENGINE:New Kent
 systemmode:ENGINE:Type 91 Fusion 240
 systemmanufacturer:ARMOR:Forging
 systemmode:ARMOR:C629/j
-systemmanufacturer:JUMPING:Pryzhok
-systemmode:JUMPING:WM 10
+systemmanufacturer:JUMP_JET:Pryzhok
+systemmode:JUMP_JET:WM 10
 systemmanufacturer:COMMUNICATIONS:Mercer
 systemmode:COMMUNICATIONS:971
 systemmanufacturer:TARGETING:GEG

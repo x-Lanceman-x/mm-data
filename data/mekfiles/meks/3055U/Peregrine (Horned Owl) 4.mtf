@@ -189,8 +189,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:LightForce 210
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Compound Alpha
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Clan Light Series Mk. II
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Clan Light Series Mk. II
 systemmanufacturer:COMMUNICATIONS:JNE
 systemmode:COMMUNICATIONS:Integrated
 systemmanufacturer:TARGETING:TRTTS

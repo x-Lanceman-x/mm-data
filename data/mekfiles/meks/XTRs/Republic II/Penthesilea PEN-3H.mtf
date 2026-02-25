@@ -201,8 +201,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:225 Compact
 systemmanufacturer:ARMOR:Hellespont
 systemmode:ARMOR:Lite
-systemmanufacturer:JUMPING:Nike
-systemmode:JUMPING:Doublejet 9s
+systemmanufacturer:JUMP_JET:Nike
+systemmode:JUMP_JET:Doublejet 9s
 systemmanufacturer:COMMUNICATIONS:FoxxCom
 systemmode:COMMUNICATIONS:75
 systemmanufacturer:TARGETING:FoxxFire

@@ -193,7 +193,7 @@ systemmanufacturer:ENGINE:Great Father
 systemmode:ENGINE:210 Extra-Light
 systemmanufacturer:ARMOR:Star Lite
 systemmode:ARMOR:Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Trueborn
 systemmode:COMMUNICATIONS:Ultra 945B
 systemmanufacturer:TARGETING:Adder Special

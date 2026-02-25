@@ -191,8 +191,8 @@ systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:240 Extra Light
 systemmanufacturer:ARMOR:StarGuard
 systemmode:ARMOR:CCM
-systemmanufacturer:JUMPING:Rawlings
-systemmode:JUMPING:40
+systemmanufacturer:JUMP_JET:Rawlings
+systemmode:JUMP_JET:40
 systemmanufacturer:COMMUNICATIONS:Corean
 systemmode:COMMUNICATIONS:Transband-J12
 systemmanufacturer:TARGETING:BlazeFire

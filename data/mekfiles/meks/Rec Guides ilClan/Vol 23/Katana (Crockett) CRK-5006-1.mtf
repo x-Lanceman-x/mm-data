@@ -194,8 +194,8 @@ systemmanufacturer:ENGINE:Strand
 systemmode:ENGINE:255
 systemmanufacturer:ARMOR:CarboStrand
 systemmode:ARMOR:30 Weight AS
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Improved
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Improved
 systemmanufacturer:COMMUNICATIONS:GRPNTR
 systemmode:COMMUNICATIONS:Groundpainter 5
 systemmanufacturer:TARGETING:Scope

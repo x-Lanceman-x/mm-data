@@ -177,7 +177,7 @@ systemmanufacturer:ENGINE:Pitban
 systemmode:ENGINE:285 Light
 systemmanufacturer:ARMOR:Starshield
 systemmode:ARMOR:Special Heavy
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Sony
 systemmode:COMMUNICATIONS:MSF-31
 systemmanufacturer:TARGETING:Federated Stalker

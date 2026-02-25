@@ -186,8 +186,8 @@ systemmanufacturer:ENGINE:Hermes
 systemmode:ENGINE:315 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Divine Spectre-C Heavy Ferro-Fibrous with Void-Signature System
-systemmanufacturer:JUMPING:Rawlings
-systemmode:JUMPING:55
+systemmanufacturer:JUMP_JET:Rawlings
+systemmode:JUMP_JET:55
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:Master's Voice Cel-Alpha with Angel ECM
 systemmanufacturer:TARGETING:Unknown

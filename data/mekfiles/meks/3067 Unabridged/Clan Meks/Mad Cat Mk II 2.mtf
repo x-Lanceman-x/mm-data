@@ -174,8 +174,8 @@ systemmanufacturer:ENGINE:Type 79
 systemmode:ENGINE:360 XL Fusion
 systemmanufacturer:ARMOR:Forging
 systemmode:ARMOR:ZM15 Ferro Fibrous
-systemmanufacturer:JUMPING:Grandthrust
-systemmode:JUMPING:Mk. 5
+systemmanufacturer:JUMP_JET:Grandthrust
+systemmode:JUMP_JET:Mk. 5
 systemmanufacturer:COMMUNICATIONS:MegaBand
 systemmode:COMMUNICATIONS:System 21
 systemmanufacturer:TARGETING:Dtrac

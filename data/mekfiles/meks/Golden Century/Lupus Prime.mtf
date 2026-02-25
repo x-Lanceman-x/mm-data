@@ -190,7 +190,7 @@ systemmanufacturer:ENGINE:Vlar
 systemmode:ENGINE:300
 systemmanufacturer:ARMOR:Coyote Industrial
 systemmode:ARMOR:CI Ferro
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Coyote Industrial
 systemmode:COMMUNICATIONS:CI-Com 4
 systemmanufacturer:TARGETING:Coyote Industrial

@@ -191,8 +191,8 @@ systemmanufacturer:ENGINE:Magna
 systemmode:ENGINE:260
 systemmanufacturer:ARMOR:Ryerson
 systemmode:ARMOR:150
-systemmanufacturer:JUMPING:HildCo
-systemmode:JUMPING:Model 12
+systemmanufacturer:JUMP_JET:HildCo
+systemmode:JUMP_JET:Model 12
 systemmanufacturer:COMMUNICATIONS:Neil
 systemmode:COMMUNICATIONS:8000
 systemmanufacturer:TARGETING:RCA

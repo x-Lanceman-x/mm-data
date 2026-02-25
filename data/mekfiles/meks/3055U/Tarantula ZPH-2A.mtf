@@ -191,8 +191,8 @@ systemmanufacturer:ENGINE:Nissan
 systemmode:ENGINE:200 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:StarSlab/2
-systemmanufacturer:JUMPING:Rawlings
-systemmode:JUMPING:Rawlings 75
+systemmanufacturer:JUMP_JET:Rawlings
+systemmode:JUMP_JET:Rawlings 75
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:T-10B
 systemmanufacturer:TARGETING:Corean

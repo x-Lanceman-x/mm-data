@@ -152,7 +152,7 @@ Unknown
 CHASSIS:Mujika Aerospace Technologies
 ENGINE:Unknown
 ARMOR:Unknown
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemManufacturers>
@@ -161,7 +161,7 @@ TARGETING:Unknown
 CHASSIS:Mujika Aerospace Type 12
 ENGINE:VOX 325 XL
 ARMOR:StarShield
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Endicott Type 22 Master
 TARGETING:Dwyerson Mark XI
 </systemModels>

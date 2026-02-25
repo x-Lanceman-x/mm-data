@@ -188,7 +188,7 @@ systemmanufacturer:ENGINE:Firebox
 systemmode:ENGINE:140 Standard
 systemmanufacturer:ARMOR:Compound H17
 systemmode:ARMOR:Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:JNE
 systemmode:COMMUNICATIONS:Integrated
 systemmanufacturer:TARGETING:Mark 4

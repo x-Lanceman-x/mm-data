@@ -172,8 +172,8 @@ systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:175 XL
 systemmanufacturer:ARMOR:Star Shield
 systemmode:ARMOR:Light Ferro-Fibrous
-systemmanufacturer:JUMPING:Lexington
-systemmode:JUMPING:Heavy Lifters
+systemmanufacturer:JUMP_JET:Lexington
+systemmode:JUMP_JET:Heavy Lifters
 systemmanufacturer:COMMUNICATIONS:TharHes
 systemmode:COMMUNICATIONS:Kr-A P/comm
 systemmanufacturer:TARGETING:RCA

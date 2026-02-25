@@ -190,8 +190,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:150 XL
 systemmanufacturer:ARMOR:Haven Cent
 systemmode:ARMOR:Standard
-systemmanufacturer:JUMPING:Contraband
-systemmode:JUMPING:Standard
+systemmanufacturer:JUMP_JET:Contraband
+systemmode:JUMP_JET:Standard
 systemmanufacturer:COMMUNICATIONS:Contraband
 systemmode:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Contraband

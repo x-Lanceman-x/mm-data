@@ -194,7 +194,7 @@ systemmanufacturer:ENGINE:DAV
 systemmode:ENGINE:220
 systemmanufacturer:ARMOR:Durallex
 systemmode:ARMOR:Divine Protector
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Master's Voice
 systemmode:COMMUNICATIONS:Cel-Beta
 systemmanufacturer:TARGETING:Master's Sight

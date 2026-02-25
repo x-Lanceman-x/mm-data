@@ -281,7 +281,7 @@ Galax
 CHASSIS:Unknown
 ENGINE:GM
 ARMOR:Blue Nose
-JUMPING:Unknown
+JUMP_JET:Unknown
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemManufacturers>
@@ -290,7 +290,7 @@ TARGETING:Unknown
 CHASSIS:Endo Steel AN
 ENGINE:8050 Starlifter
 ARMOR:440CL Ferro-Carbide
-JUMPING:KF Mark XXV
+JUMP_JET:KF Mark XXV
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemModels>

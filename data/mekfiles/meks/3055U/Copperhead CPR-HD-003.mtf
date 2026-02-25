@@ -194,8 +194,8 @@ systemmanufacturer:ENGINE:General Motors
 systemmode:ENGINE:180 XL w/Supercharger
 systemmanufacturer:ARMOR:ArcShield
 systemmode:ARMOR:Reflective
-systemmanufacturer:JUMPING:Luxor
-systemmode:JUMPING:2/Q-EX
+systemmanufacturer:JUMP_JET:Luxor
+systemmode:JUMP_JET:2/Q-EX
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:T-11B
 systemmanufacturer:TARGETING:Federated

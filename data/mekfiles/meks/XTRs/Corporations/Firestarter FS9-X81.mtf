@@ -169,8 +169,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:210 XXL
 systemmanufacturer:ARMOR:Livingston Ceramics
 systemmode:ARMOR:Unknown
-systemmanufacturer:JUMPING:Luxor
-systemmode:JUMPING:Load Lifters
+systemmanufacturer:JUMP_JET:Luxor
+systemmode:JUMP_JET:Load Lifters
 systemmanufacturer:COMMUNICATIONS:Cyclops
 systemmode:COMMUNICATIONS:14
 systemmanufacturer:TARGETING:Tansech

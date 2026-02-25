@@ -185,7 +185,7 @@ systemmanufacturer:ENGINE:CJF Factory Zone 4
 systemmode:ENGINE:JF 340 XL
 systemmanufacturer:ARMOR:CJF Factory Zone 4
 systemmode:ARMOR:Compound JF Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:CJF Factory Zone 4
 systemmode:COMMUNICATIONS:JF Integrated
 systemmanufacturer:TARGETING:CJF Factory Zone 4

@@ -194,8 +194,8 @@ systemmode:CHASSIS:Mark II Endo Steel
 systemmanufacturer:ENGINE:Magna
 systemmode:ENGINE:260
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Anderson
-systemmode:JUMPING:Model 25
+systemmanufacturer:JUMP_JET:Anderson
+systemmode:JUMP_JET:Model 25
 systemmanufacturer:COMMUNICATIONS:O/P
 systemmode:COMMUNICATIONS:COM-211
 systemmanufacturer:TARGETING:O/P

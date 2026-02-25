@@ -314,7 +314,7 @@ Lum
 CHASSIS:Unknown
 ENGINE:Unknown
 ARMOR:Unknown
-JUMPING:Unknown
+JUMP_JET:Unknown
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemManufacturers>
@@ -323,7 +323,7 @@ TARGETING:Unknown
 CHASSIS:Unknown
 ENGINE:Unknown
 ARMOR:Lamellor Ferro-Carbide
-JUMPING:Unknown
+JUMP_JET:Unknown
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemModels>

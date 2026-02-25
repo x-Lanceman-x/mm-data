@@ -194,6 +194,6 @@ systemmode:CHASSIS:StarCorp 100
 systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Unknown 255 Light
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

@@ -196,8 +196,8 @@ systemmanufacturer:ENGINE:Nissan
 systemmode:ENGINE:200 XL
 systemmanufacturer:ARMOR:Mitchell
 systemmode:ARMOR:Argon
-systemmanufacturer:JUMPING:Icarus
-systemmode:JUMPING:Standard
+systemmanufacturer:JUMP_JET:Icarus
+systemmode:JUMP_JET:Standard
 systemmanufacturer:COMMUNICATIONS:Sipher
 systemmode:COMMUNICATIONS:Security Plus
 systemmanufacturer:TARGETING:Matabushi

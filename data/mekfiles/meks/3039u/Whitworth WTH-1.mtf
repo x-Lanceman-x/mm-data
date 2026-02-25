@@ -192,8 +192,8 @@ systemmanufacturer:ENGINE:LTV
 systemmode:ENGINE:LTV 160
 systemmanufacturer:ARMOR:Durallex
 systemmode:ARMOR:Durallex Light
-systemmanufacturer:JUMPING:Whitworth
-systemmode:JUMPING:Whitworth Jetlift
+systemmanufacturer:JUMP_JET:Whitworth
+systemmode:JUMP_JET:Whitworth Jetlift
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:Garret T14
 systemmanufacturer:TARGETING:Garret

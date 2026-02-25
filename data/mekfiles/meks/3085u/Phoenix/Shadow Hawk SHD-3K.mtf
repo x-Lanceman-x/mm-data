@@ -196,8 +196,8 @@ systemmanufacturer:ENGINE:CoreTek
 systemmode:ENGINE:275
 systemmanufacturer:ARMOR:Durallex
 systemmode:ARMOR:Heavy Ferro-Fibrous
-systemmanufacturer:JUMPING:Pitban
-systemmode:JUMPING:LFT-50
+systemmanufacturer:JUMP_JET:Pitban
+systemmode:JUMP_JET:LFT-50
 systemmanufacturer:COMMUNICATIONS:O/P
 systemmode:COMMUNICATIONS:300 COMSET
 systemmanufacturer:TARGETING:O/P

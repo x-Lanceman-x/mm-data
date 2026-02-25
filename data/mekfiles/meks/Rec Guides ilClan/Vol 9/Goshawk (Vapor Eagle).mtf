@@ -196,8 +196,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Fusion 330 Extralight
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Raven Comp B Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:SR Starlifter 55
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:SR Starlifter 55
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:GBX Series Integrated
 systemmanufacturer:TARGETING:Unknown

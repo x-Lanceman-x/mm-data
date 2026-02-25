@@ -194,6 +194,6 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Ultralight
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Minimal
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

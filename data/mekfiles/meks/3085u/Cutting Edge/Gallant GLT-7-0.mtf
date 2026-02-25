@@ -193,8 +193,8 @@ systemmanufacturer:ENGINE:GTEM
 systemmode:ENGINE:210 XL
 systemmanufacturer:ARMOR:Pribak
 systemmode:ARMOR:9000
-systemmanufacturer:JUMPING:Waterly
-systemmode:JUMPING:Heavy Lifters
+systemmanufacturer:JUMP_JET:Waterly
+systemmode:JUMP_JET:Heavy Lifters
 systemmanufacturer:COMMUNICATIONS:Skobel
 systemmode:COMMUNICATIONS:Wave VI Comm
 systemmanufacturer:TARGETING:Falcon

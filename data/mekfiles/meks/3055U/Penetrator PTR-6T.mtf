@@ -196,8 +196,8 @@ systemmanufacturer:ENGINE:Vlar
 systemmode:ENGINE:300
 systemmanufacturer:ARMOR:Durallex
 systemmode:ARMOR:Heavy
-systemmanufacturer:JUMPING:Anderson
-systemmode:JUMPING:398
+systemmanufacturer:JUMP_JET:Anderson
+systemmode:JUMP_JET:398
 systemmanufacturer:COMMUNICATIONS:Dalban
 systemmode:COMMUNICATIONS:Micronics
 systemmanufacturer:TARGETING:Matabushi

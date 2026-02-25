@@ -179,7 +179,7 @@ Capella (Rasphur), Detroit (DCA)
 CHASSIS:Rashpur-Owens Incorporated
 ENGINE:Pitban
 ARMOR:Detroit Consolidated Aerospace
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Ceres
 TARGETING:Brightstar
 </systemManufacturers>
@@ -188,7 +188,7 @@ TARGETING:Brightstar
 CHASSIS:L118A7
 ENGINE:285
 ARMOR:Ferro-Aluminum Special
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:MaserCom B-33
 TARGETING:Model III
 </systemModels>

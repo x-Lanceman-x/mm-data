@@ -192,8 +192,8 @@ systemmanufacturer:ENGINE:Omni
 systemmode:ENGINE:175
 systemmanufacturer:ARMOR:Ceres
 systemmode:ARMOR:Shield 2.2
-systemmanufacturer:JUMPING:Anderson Propulsion
-systemmode:JUMPING:12
+systemmanufacturer:JUMP_JET:Anderson Propulsion
+systemmode:JUMP_JET:12
 systemmanufacturer:COMMUNICATIONS:Zenith
 systemmode:COMMUNICATIONS:Sqwak Box 4
 systemmanufacturer:TARGETING:Maui

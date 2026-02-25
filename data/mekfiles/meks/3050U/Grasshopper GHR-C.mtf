@@ -192,8 +192,8 @@ systemmanufacturer:ENGINE:VOX
 systemmode:ENGINE:280
 systemmanufacturer:ARMOR:Durallex
 systemmode:ARMOR:Heavy
-systemmanufacturer:JUMPING:Leviathan
-systemmode:JUMPING:Lifters
+systemmanufacturer:JUMP_JET:Leviathan
+systemmode:JUMP_JET:Lifters
 systemmanufacturer:COMMUNICATIONS:Allet
 systemmode:COMMUNICATIONS:C308
 systemmanufacturer:TARGETING:Allet

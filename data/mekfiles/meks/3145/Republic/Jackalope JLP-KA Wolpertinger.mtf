@@ -193,8 +193,8 @@ systemmanufacturer:ENGINE:Victory
 systemmode:ENGINE:240 XXL
 systemmanufacturer:ARMOR:Advantage
 systemmode:ARMOR:Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Unknown (Improved)
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Unknown (Improved)
 systemmanufacturer:COMMUNICATIONS:Angst
 systemmode:COMMUNICATIONS:Clear Channel 5
 systemmanufacturer:TARGETING:O/P

@@ -196,8 +196,8 @@ systemmanufacturer:ENGINE:VOX
 systemmode:ENGINE:VOX 330 XL
 systemmanufacturer:ARMOR:Kallon
 systemmode:ARMOR:Kallon FWL Special Light Ferro-Fibrous with CASE
-systemmanufacturer:JUMPING:Northrup
-systemmode:JUMPING:Northrup 12000
+systemmanufacturer:JUMP_JET:Northrup
+systemmode:JUMP_JET:Northrup 12000
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:Garret T11-B
 systemmanufacturer:TARGETING:Sync Tracker

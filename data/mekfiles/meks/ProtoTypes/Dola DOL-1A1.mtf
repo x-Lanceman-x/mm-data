@@ -188,8 +188,8 @@ systemmanufacturer:ENGINE:Ceres Motors
 systemmode:ENGINE:240 XL
 systemmanufacturer:ARMOR:Hellespont
 systemmode:ARMOR:Lite Ferro-Fibrous
-systemmanufacturer:JUMPING:Chilton
-systemmode:JUMPING:360s
+systemmanufacturer:JUMP_JET:Chilton
+systemmode:JUMP_JET:360s
 systemmanufacturer:COMMUNICATIONS:Dian-bao
 systemmode:COMMUNICATIONS:Comms Advanced with Angel ECM Suite
 systemmanufacturer:TARGETING:Dynatec

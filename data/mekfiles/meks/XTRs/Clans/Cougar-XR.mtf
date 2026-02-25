@@ -194,6 +194,6 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:175 Extralight
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Unknown (Laser-Reflective)
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

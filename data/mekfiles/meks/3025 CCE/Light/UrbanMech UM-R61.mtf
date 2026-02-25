@@ -197,8 +197,8 @@ systemmanufacturer:ENGINE:Leenex
 systemmode:ENGINE:Leenex 60
 systemmanufacturer:ARMOR:Durallex
 systemmode:ARMOR:Durallex Medium
-systemmanufacturer:JUMPING:Pitban
-systemmode:JUMPING:Pitban 6000
+systemmanufacturer:JUMP_JET:Pitban
+systemmode:JUMP_JET:Pitban 6000
 systemmanufacturer:COMMUNICATIONS:Dalban
 systemmode:COMMUNICATIONS:Dalban Interact
 systemmanufacturer:TARGETING:Dalban

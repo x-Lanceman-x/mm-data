@@ -193,8 +193,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Starfire 325 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Forging FF01 Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:BMP Series XV
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:BMP Series XV
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:WC-020
 systemmanufacturer:TARGETING:Unknown

@@ -190,8 +190,8 @@ systemmanufacturer:ENGINE:Type 79
 systemmode:ENGINE:360 XL
 systemmanufacturer:ARMOR:Compound H17
 systemmode:ARMOR:Ferro-Fibrous
-systemmanufacturer:JUMPING:Clan Standard
-systemmode:JUMPING:Type A1
+systemmanufacturer:JUMP_JET:Clan Standard
+systemmode:JUMP_JET:Type A1
 systemmanufacturer:COMMUNICATIONS:JNE
 systemmode:COMMUNICATIONS:Integrated
 systemmanufacturer:TARGETING:Build 3Z CAT

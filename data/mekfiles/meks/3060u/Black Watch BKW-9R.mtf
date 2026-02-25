@@ -191,8 +191,8 @@ systemmanufacturer:ENGINE:Strand
 systemmode:ENGINE:255
 systemmanufacturer:ARMOR:Valiant
 systemmode:ARMOR:Lamellor
-systemmanufacturer:JUMPING:Rawlings
-systemmode:JUMPING:54
+systemmanufacturer:JUMP_JET:Rawlings
+systemmode:JUMP_JET:54
 systemmanufacturer:COMMUNICATIONS:O/P
 systemmode:COMMUNICATIONS:AIR500
 systemmanufacturer:TARGETING:DLK

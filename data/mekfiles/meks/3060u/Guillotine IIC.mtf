@@ -191,8 +191,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Clan Standard 280 series
 systemmanufacturer:ARMOR:Forging
 systemmode:ARMOR:Forging OTR17b (Standard)
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Clan Series Type 4 Heavy
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Clan Series Type 4 Heavy
 systemmanufacturer:COMMUNICATIONS:JNE
 systemmode:COMMUNICATIONS:JNE Integrated
 systemmanufacturer:TARGETING:Unknown

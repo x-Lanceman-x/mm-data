@@ -192,8 +192,8 @@ systemmanufacturer:ENGINE:Pitban
 systemmode:ENGINE:Pitban 240
 systemmanufacturer:ARMOR:Lexington Limited
 systemmode:ARMOR:Lexington Limited High Grade Ferro-Fibrous
-systemmanufacturer:JUMPING:Luxor
-systemmode:JUMPING:Luxor 2/Q
+systemmanufacturer:JUMP_JET:Luxor
+systemmode:JUMP_JET:Luxor 2/Q
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:Garret T15B
 systemmanufacturer:TARGETING:Garret

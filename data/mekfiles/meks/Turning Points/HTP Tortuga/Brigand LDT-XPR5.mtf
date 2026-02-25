@@ -194,8 +194,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:125 XL
 systemmanufacturer:ARMOR:Haven Cent
 systemmode:ARMOR:Standard
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Improved
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Improved
 systemmanufacturer:COMMUNICATIONS:Contraband
 systemmode:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Contraband

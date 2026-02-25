@@ -180,7 +180,7 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:270 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Light Ferro-Fibrous
-systemmanufacturer:JUMPING:HildCo
-systemmode:JUMPING:HildCo Model 10
+systemmanufacturer:JUMP_JET:HildCo
+systemmode:JUMP_JET:HildCo Model 10
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

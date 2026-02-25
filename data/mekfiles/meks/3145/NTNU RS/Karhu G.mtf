@@ -194,8 +194,8 @@ systemmanufacturer:ENGINE:Pitban
 systemmode:ENGINE:325 XL
 systemmanufacturer:ARMOR:Compound
 systemmode:ARMOR:A2F Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Improved Jump Jets
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Improved Jump Jets
 systemmanufacturer:COMMUNICATIONS:Dash
 systemmode:COMMUNICATIONS:2 Standard
 systemmanufacturer:TARGETING:Unknown

@@ -196,7 +196,7 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Unknown (270 XXL)
 systemmanufacturer:ARMOR:Durallex
 systemmode:ARMOR:Light
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Dalban
 systemmode:COMMUNICATIONS:VirtuTalk
 systemmanufacturer:TARGETING:Dalban

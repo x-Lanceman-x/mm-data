@@ -166,7 +166,7 @@ Axton
 CHASSIS:Wangker
 ENGINE:Unknown
 ARMOR:Unknown
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Ranker
 TARGETING:Ranker
 </systemManufacturers>
@@ -175,7 +175,7 @@ TARGETING:Ranker
 CHASSIS:Wangker II
 ENGINE:Unknown 200 XL
 ARMOR:Unknown Heavy Ferro-Aluminum
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Ranker 100B
 TARGETING:Ranker TA800
 </systemModels>

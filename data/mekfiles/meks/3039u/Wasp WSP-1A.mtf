@@ -191,8 +191,8 @@ systemmanufacturer:ENGINE:Hermes
 systemmode:ENGINE:120
 systemmanufacturer:ARMOR:Durallex
 systemmode:ARMOR:Light
-systemmanufacturer:JUMPING:Rawlings
-systemmode:JUMPING:52
+systemmanufacturer:JUMP_JET:Rawlings
+systemmode:JUMP_JET:52
 systemmanufacturer:COMMUNICATIONS:Duotech
 systemmode:COMMUNICATIONS:65
 systemmanufacturer:TARGETING:RadCom

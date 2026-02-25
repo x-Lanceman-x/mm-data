@@ -190,7 +190,7 @@ systemmode:CHASSIS:Type AR1 Endo Steel
 systemmanufacturer:ENGINE:Unknown
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:HWLR Designation ComSys
 systemmanufacturer:TARGETING:Unknown

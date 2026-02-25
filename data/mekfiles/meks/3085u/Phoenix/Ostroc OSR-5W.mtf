@@ -192,8 +192,8 @@ systemmanufacturer:ENGINE:Defiance
 systemmode:ENGINE:300 Light Fusion
 systemmanufacturer:ARMOR:Kallon
 systemmode:ARMOR:Unity Weave Ferro-Fibrous
-systemmanufacturer:JUMPING:HildCo
-systemmode:JUMPING:Model 13
+systemmanufacturer:JUMP_JET:HildCo
+systemmode:JUMP_JET:Model 13
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:with C3i Computer
 systemmanufacturer:TARGETING:Unknown

@@ -190,8 +190,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:280 XL Fusion
 systemmanufacturer:ARMOR:Olivetti Weaponry
 systemmode:ARMOR:JF Standard
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Improved Jump Jets
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Improved Jump Jets
 systemmanufacturer:COMMUNICATIONS:Olivetti Weaponry
 systemmode:COMMUNICATIONS:JF Integrated
 systemmanufacturer:TARGETING:JFIX/Olivetti

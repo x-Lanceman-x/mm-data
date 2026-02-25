@@ -185,7 +185,7 @@ systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:120 Fusion
 systemmanufacturer:ARMOR:ArcShield
 systemmode:ARMOR:CHIL
-systemmanufacturer:JUMPING:HildCo
-systemmode:JUMPING:L5
+systemmanufacturer:JUMP_JET:HildCo
+systemmode:JUMP_JET:L5
 systemmanufacturer:COMMUNICATIONS:Astar
 systemmode:COMMUNICATIONS:5

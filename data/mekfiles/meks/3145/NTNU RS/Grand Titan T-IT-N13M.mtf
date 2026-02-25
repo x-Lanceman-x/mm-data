@@ -195,6 +195,6 @@ systemmode:CHASSIS:Model 101BLP Endo Steel
 systemmanufacturer:ENGINE:LTV
 systemmode:ENGINE:400 XL
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

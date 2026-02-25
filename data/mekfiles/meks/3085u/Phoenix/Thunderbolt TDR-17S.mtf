@@ -195,7 +195,7 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:260 Compact
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:CommuTech
 systemmode:COMMUNICATIONS:High Band 14
 systemmanufacturer:TARGETING:RCA

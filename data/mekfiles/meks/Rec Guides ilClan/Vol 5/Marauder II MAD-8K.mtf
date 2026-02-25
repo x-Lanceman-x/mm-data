@@ -193,8 +193,8 @@ systemmanufacturer:ENGINE:Vlar
 systemmode:ENGINE:300 XL
 systemmanufacturer:ARMOR:Durallex
 systemmode:ARMOR:Ballistic-Reinforced with CASE II
-systemmanufacturer:JUMPING:Chilton
-systemmode:JUMPING:850 Mk. II
+systemmanufacturer:JUMP_JET:Chilton
+systemmode:JUMP_JET:850 Mk. II
 systemmanufacturer:COMMUNICATIONS:Mendham
 systemmode:COMMUNICATIONS:DB
 systemmanufacturer:TARGETING:Matabushi

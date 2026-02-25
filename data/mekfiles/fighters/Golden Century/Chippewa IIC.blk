@@ -193,7 +193,7 @@ Circe
 CHASSIS:Bowie
 ENGINE:Consolidated
 ARMOR:Compound XAS
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Rander
 TARGETING:Rander
 </systemManufacturers>
@@ -202,7 +202,7 @@ TARGETING:Rander
 CHASSIS:50 CM Mod A
 ENGINE:Fusion 270
 ARMOR:Ferro-Aluminum
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:200
 TARGETING:TAS
 </systemModels>

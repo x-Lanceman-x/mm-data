@@ -195,7 +195,7 @@ Ironhold
 CHASSIS:Complex VI
 ENGINE:Unknown
 ARMOR:Complex VI
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemManufacturers>
@@ -204,7 +204,7 @@ TARGETING:Unknown
 CHASSIS:Falcon Hollowbone
 ENGINE:360 XL
 ARMOR:Ironhold Series III Ferro-Aluminum
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:System VII
 TARGETING:TTS Model 3
 </systemModels>

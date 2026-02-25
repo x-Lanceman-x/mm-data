@@ -193,8 +193,8 @@ systemmanufacturer:ENGINE:PlasmaStar
 systemmode:ENGINE:270 XL
 systemmanufacturer:ARMOR:ArcShield
 systemmode:ARMOR:VII Mk 5
-systemmanufacturer:JUMPING:Pitban
-systemmode:JUMPING:LFT-50
+systemmanufacturer:JUMP_JET:Pitban
+systemmode:JUMP_JET:LFT-50
 systemmanufacturer:COMMUNICATIONS:Telestar
 systemmode:COMMUNICATIONS:Model XTD-67A1
 systemmanufacturer:TARGETING:Starlight

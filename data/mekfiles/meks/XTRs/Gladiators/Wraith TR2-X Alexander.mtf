@@ -172,6 +172,6 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:385 XL (Clan)
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Ferro-Fibrous (Clan)
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

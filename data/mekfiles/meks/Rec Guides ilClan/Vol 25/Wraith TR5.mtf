@@ -189,7 +189,7 @@ systemmanufacturer:ENGINE:Magna
 systemmode:ENGINE:330 XL
 systemmanufacturer:ARMOR:Hellespont
 systemmode:ARMOR:Lite Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Ceres Metals
 systemmode:COMMUNICATIONS:Model 666
 systemmanufacturer:TARGETING:Ceres

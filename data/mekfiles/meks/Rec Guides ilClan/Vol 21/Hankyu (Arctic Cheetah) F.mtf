@@ -192,8 +192,8 @@ systemmanufacturer:ENGINE:Warrior
 systemmode:ENGINE:240 XL
 systemmanufacturer:ARMOR:Compound
 systemmode:ARMOR:Beta Ferro-Fibrous
-systemmanufacturer:JUMPING:Foster
-systemmode:JUMPING:Ocelot Mrk. VIII
+systemmanufacturer:JUMP_JET:Foster
+systemmode:JUMP_JET:Ocelot Mrk. VIII
 systemmanufacturer:COMMUNICATIONS:HCFA
 systemmode:COMMUNICATIONS:3001 5.7
 systemmanufacturer:TARGETING:HCFA

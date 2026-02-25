@@ -189,8 +189,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Model XT4 90
 systemmanufacturer:ARMOR:Forging
 systemmode:ARMOR:Forging ZK11 Standard
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Light Series Mk. II
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Light Series Mk. II
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:Build 1685 Tacticom
 systemmanufacturer:TARGETING:Unknown

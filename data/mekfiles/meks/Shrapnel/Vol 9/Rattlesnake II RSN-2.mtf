@@ -190,8 +190,8 @@ systemmanufacturer:ENGINE:Consolidated
 systemmode:ENGINE:315 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Alpha 3-E Compound Ferro-Fibrous
-systemmanufacturer:JUMPING:Rawlings
-systemmode:JUMPING:45
+systemmanufacturer:JUMP_JET:Rawlings
+systemmode:JUMP_JET:45
 systemmanufacturer:COMMUNICATIONS:Hammerstorm
 systemmode:COMMUNICATIONS:Hugin Mk XXI-E with ECM
 systemmanufacturer:TARGETING:Hammerstorm

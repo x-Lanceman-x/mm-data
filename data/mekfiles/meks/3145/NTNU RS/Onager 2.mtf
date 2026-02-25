@@ -195,7 +195,7 @@ systemmanufacturer:ENGINE:Consolidated
 systemmode:ENGINE:270 Fusion
 systemmanufacturer:ARMOR:Forging
 systemmode:ARMOR:MD4 Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Angst
 systemmode:COMMUNICATIONS:2400
 systemmanufacturer:TARGETING:Omicron

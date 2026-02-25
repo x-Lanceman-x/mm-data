@@ -191,8 +191,8 @@ systemmanufacturer:ENGINE:Omni
 systemmode:ENGINE:175 XL
 systemmanufacturer:ARMOR:Maximillian
 systemmode:ARMOR:42
-systemmanufacturer:JUMPING:Lexington Heavy Lifters
-systemmode:JUMPING:Improved Jump Jets
+systemmanufacturer:JUMP_JET:Lexington Heavy Lifters
+systemmode:JUMP_JET:Improved Jump Jets
 systemmanufacturer:COMMUNICATIONS:Sipher
 systemmode:COMMUNICATIONS:CommCon SCU-4
 systemmanufacturer:TARGETING:Cat's Eyes

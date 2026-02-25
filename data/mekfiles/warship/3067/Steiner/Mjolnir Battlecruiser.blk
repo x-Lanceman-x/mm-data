@@ -449,7 +449,7 @@ Port Sydney Naval Shipyards, Alarion
 CHASSIS:Unknown
 ENGINE:Unknown
 ARMOR:Unknown
-JUMPING:Ioto Galactic Enterprises
+JUMP_JET:Ioto Galactic Enterprises
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemManufacturers>
@@ -458,7 +458,7 @@ TARGETING:Unknown
 CHASSIS:Unknown
 ENGINE:Unknown
 ARMOR:Ferro-Carbide
-JUMPING:Unknown
+JUMP_JET:Unknown
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemModels>

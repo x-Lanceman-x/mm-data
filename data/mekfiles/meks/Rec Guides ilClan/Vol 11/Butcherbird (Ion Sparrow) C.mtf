@@ -194,8 +194,8 @@ systemmanufacturer:ENGINE:CJF Factory Zone 4
 systemmode:ENGINE:JF 160 XL
 systemmanufacturer:ARMOR:CJF Factory Zone 4
 systemmode:ARMOR:Compound JF Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Clan Standard Type A2
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Clan Standard Type A2
 systemmanufacturer:COMMUNICATIONS:CJF Factory Zone 4
 systemmode:COMMUNICATIONS:JF Integrated
 systemmanufacturer:TARGETING:CJF Factory Zone 4

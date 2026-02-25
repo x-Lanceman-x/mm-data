@@ -194,8 +194,8 @@ systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:120
 systemmanufacturer:ARMOR:Durallex
 systemmode:ARMOR:Light Ferro-Fibrous
-systemmanufacturer:JUMPING:Chilton
-systemmode:JUMPING:360
+systemmanufacturer:JUMP_JET:Chilton
+systemmode:JUMP_JET:360
 systemmanufacturer:COMMUNICATIONS:Datacom
 systemmode:COMMUNICATIONS:26
 systemmanufacturer:TARGETING:Dynatec

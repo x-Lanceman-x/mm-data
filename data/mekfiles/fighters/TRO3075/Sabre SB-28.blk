@@ -168,7 +168,7 @@ Donegal (Lockheed/CBM), Outreach (Raimei/Lockheed), Panpour (Jalastar)
 CHASSIS:Raimei
 ENGINE:Nissan
 ARMOR:Unknown
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemManufacturers>
@@ -177,7 +177,7 @@ TARGETING:Unknown
 CHASSIS:Inazuma SI-32
 ENGINE:Nissan 225 XL
 ARMOR:Unknown (ferro-aluminum)
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:BipStar 49-G
 TARGETING:Ki-II TTS
 </systemModels>

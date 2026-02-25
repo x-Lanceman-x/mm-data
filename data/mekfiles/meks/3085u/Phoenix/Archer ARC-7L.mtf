@@ -193,7 +193,7 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:210
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Stealth Armor with Guardian ECM
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Neil
 systemmode:COMMUNICATIONS:9000
 systemmanufacturer:TARGETING:RCA

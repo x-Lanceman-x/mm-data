@@ -193,8 +193,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Type 255 Extra-Light
 systemmanufacturer:ARMOR:Longanecker
 systemmode:ARMOR:PlastiSteel
-systemmanufacturer:JUMPING:Andoran
-systemmode:JUMPING:Model JJ III
+systemmanufacturer:JUMP_JET:Andoran
+systemmode:JUMP_JET:Model JJ III
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:TDWS-37 Mk. 2.2
 systemmanufacturer:TARGETING:Hermes

@@ -191,8 +191,8 @@ systemmanufacturer:ENGINE:Vlar
 systemmode:ENGINE:300
 systemmanufacturer:ARMOR:Hellespont
 systemmode:ARMOR:Lite Stealth
-systemmanufacturer:JUMPING:HildCo
-systemmode:JUMPING:Model 13
+systemmanufacturer:JUMP_JET:HildCo
+systemmode:JUMP_JET:Model 13
 systemmanufacturer:COMMUNICATIONS:CeresCom
 systemmode:COMMUNICATIONS:Recon Model 12K
 systemmanufacturer:TARGETING:C-Apple

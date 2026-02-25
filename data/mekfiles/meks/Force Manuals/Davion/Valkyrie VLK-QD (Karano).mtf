@@ -187,8 +187,8 @@ systemmanufacturer:ENGINE:Omni
 systemmode:ENGINE:150
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Ferro-Fibrous with CASE
-systemmanufacturer:JUMPING:HildCo Interplanetary
-systemmode:JUMPING:Model 12
+systemmanufacturer:JUMP_JET:HildCo Interplanetary
+systemmode:JUMP_JET:Model 12
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:Lynx-shur
 systemmanufacturer:TARGETING:Unknown

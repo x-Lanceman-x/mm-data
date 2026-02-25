@@ -187,8 +187,8 @@ systemmanufacturer:ENGINE:Nissan
 systemmode:ENGINE:280 XL
 systemmanufacturer:ARMOR:PanzerFerro
 systemmode:ARMOR:Type 7F
-systemmanufacturer:JUMPING:Corwin Consolidated
-systemmode:JUMPING:Model 3H
+systemmanufacturer:JUMP_JET:Corwin Consolidated
+systemmode:JUMP_JET:Model 3H
 systemmanufacturer:COMMUNICATIONS:Krupp-COMM
 systemmode:COMMUNICATIONS:650 with Guardian ECM
 systemmanufacturer:TARGETING:KBC

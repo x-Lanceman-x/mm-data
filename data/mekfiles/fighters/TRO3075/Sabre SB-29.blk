@@ -172,7 +172,7 @@ Kervil
 CHASSIS:Raimei
 ENGINE:Nissan
 ARMOR:Nimakachi
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemManufacturers>
@@ -181,7 +181,7 @@ TARGETING:Unknown
 CHASSIS:Inazuma SI-32
 ENGINE:Nissan 225
 ARMOR:Nimakachi Type 3
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:BipStar 49-G
 TARGETING:Ki-II TTS
 </systemModels>

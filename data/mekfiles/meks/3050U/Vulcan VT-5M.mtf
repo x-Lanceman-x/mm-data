@@ -188,8 +188,8 @@ systemmanufacturer:ENGINE:Pitban
 systemmode:ENGINE:240
 systemmanufacturer:ARMOR:Kallon
 systemmode:ARMOR:Royalstar
-systemmanufacturer:JUMPING:Rawlings
-systemmode:JUMPING:75
+systemmanufacturer:JUMP_JET:Rawlings
+systemmode:JUMP_JET:75
 systemmanufacturer:COMMUNICATIONS:Omicron
 systemmode:COMMUNICATIONS:4002 Networking Channel
 systemmanufacturer:TARGETING:TRSS

@@ -190,8 +190,8 @@ systemmanufacturer:ENGINE:LTV
 systemmode:ENGINE:385 XL
 systemmanufacturer:ARMOR:Kallon
 systemmode:ARMOR:FWL Special Ferro-Fibrous
-systemmanufacturer:JUMPING:CurtissJet
-systemmode:JUMPING:55
+systemmanufacturer:JUMP_JET:CurtissJet
+systemmode:JUMP_JET:55
 systemmanufacturer:COMMUNICATIONS:CurtissComm
 systemmode:COMMUNICATIONS:Mk I
 systemmanufacturer:TARGETING:Dynatec

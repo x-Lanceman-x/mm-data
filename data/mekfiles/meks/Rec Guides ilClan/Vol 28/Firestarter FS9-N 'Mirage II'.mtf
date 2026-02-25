@@ -196,7 +196,7 @@ systemmanufacturer:ENGINE:Defiance
 systemmode:ENGINE:210 Clan XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Reflective
-systemmanufacturer:JUMPING:Luxor
-systemmode:JUMPING:Load Lifters
+systemmanufacturer:JUMP_JET:Luxor
+systemmode:JUMP_JET:Load Lifters
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

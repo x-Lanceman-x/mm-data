@@ -189,8 +189,8 @@ systemmode:CHASSIS:Endo Steel
 systemmanufacturer:ENGINE:General Systems
 systemmode:ENGINE:200 XL
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Clan Medium Series
-systemmode:JUMPING:Mk. III
+systemmanufacturer:JUMP_JET:Clan Medium Series
+systemmode:JUMP_JET:Mk. III
 systemmanufacturer:COMMUNICATIONS:Circe Special
 systemmode:COMMUNICATIONS:MilComm
 systemmanufacturer:TARGETING:DeadEye

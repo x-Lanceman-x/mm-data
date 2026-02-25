@@ -191,8 +191,8 @@ systemmanufacturer:ENGINE:Hermes
 systemmode:ENGINE:120 XL
 systemmanufacturer:ARMOR:ArcShield
 systemmode:ARMOR:VII Mk. 6
-systemmanufacturer:JUMPING:Pitban
-systemmode:JUMPING:LFT-65
+systemmanufacturer:JUMP_JET:Pitban
+systemmode:JUMP_JET:LFT-65
 systemmanufacturer:COMMUNICATIONS:Endicott
 systemmode:COMMUNICATIONS:Type 22 Maser
 systemmanufacturer:TARGETING:Wentland

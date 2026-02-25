@@ -191,8 +191,8 @@ systemmode:CHASSIS:Dorwinion Standard
 systemmanufacturer:ENGINE:Nissan
 systemmode:ENGINE:Nissan 200
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:HildCo
-systemmode:JUMPING:HildCo Model 12
+systemmanufacturer:JUMP_JET:HildCo
+systemmode:JUMP_JET:HildCo Model 12
 systemmanufacturer:COMMUNICATIONS:Achernar Electronics
 systemmode:COMMUNICATIONS:HICS-11
 systemmanufacturer:TARGETING:Federated Hunter

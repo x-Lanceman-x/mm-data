@@ -192,8 +192,8 @@ systemmanufacturer:ENGINE:Light Force
 systemmode:ENGINE:360 XL
 systemmanufacturer:ARMOR:Compound
 systemmode:ARMOR:12B2 Standard
-systemmanufacturer:JUMPING:Grandthrust
-systemmode:JUMPING:Mk. 5
+systemmanufacturer:JUMP_JET:Grandthrust
+systemmode:JUMP_JET:Mk. 5
 systemmanufacturer:COMMUNICATIONS:TJ6
 systemmode:COMMUNICATIONS:"Bell" Mark II with ECM
 systemmanufacturer:TARGETING:Mars System

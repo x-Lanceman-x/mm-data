@@ -186,8 +186,8 @@ systemmanufacturer:ENGINE:Hermes
 systemmode:ENGINE:250 XL
 systemmanufacturer:ARMOR:Nashan
 systemmode:ARMOR:HD with CASE II
-systemmanufacturer:JUMPING:HildCo
-systemmode:JUMPING:Model 13
+systemmanufacturer:JUMP_JET:HildCo
+systemmode:JUMP_JET:Model 13
 systemmanufacturer:COMMUNICATIONS:Nashan
 systemmode:COMMUNICATIONS:Comm-i U-284
 systemmanufacturer:TARGETING:Nashan

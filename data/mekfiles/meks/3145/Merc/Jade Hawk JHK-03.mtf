@@ -194,8 +194,8 @@ systemmanufacturer:ENGINE:Starfire
 systemmode:ENGINE:375 XL
 systemmanufacturer:ARMOR:Jolassa
 systemmode:ARMOR:325
-systemmanufacturer:JUMPING:Chilton
-systemmode:JUMPING:465
+systemmanufacturer:JUMP_JET:Chilton
+systemmode:JUMP_JET:465
 systemmanufacturer:COMMUNICATIONS:Angst
 systemmode:COMMUNICATIONS:Clear Channel 6
 systemmanufacturer:TARGETING:Angst

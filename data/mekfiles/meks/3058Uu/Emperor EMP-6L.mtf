@@ -193,8 +193,8 @@ systemmanufacturer:ENGINE:General Motors
 systemmode:ENGINE:270
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Stealth Armor
-systemmanufacturer:JUMPING:Pitban
-systemmode:JUMPING:LFT-50
+systemmanufacturer:JUMP_JET:Pitban
+systemmode:JUMP_JET:LFT-50
 systemmanufacturer:COMMUNICATIONS:Telestar
 systemmode:COMMUNICATIONS:Model XTD-67A1
 systemmanufacturer:TARGETING:Starlight

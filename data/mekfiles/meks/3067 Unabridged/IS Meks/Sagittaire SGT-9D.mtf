@@ -180,8 +180,8 @@ systemmanufacturer:ENGINE:Pitban
 systemmode:ENGINE:285 XL
 systemmanufacturer:ARMOR:Starshield
 systemmode:ARMOR:Special Heavy
-systemmanufacturer:JUMPING:HildCo
-systemmode:JUMPING:LFT 9-X
+systemmanufacturer:JUMP_JET:HildCo
+systemmode:JUMP_JET:LFT 9-X
 systemmanufacturer:COMMUNICATIONS:Sony
 systemmode:COMMUNICATIONS:MSF-31
 systemmanufacturer:TARGETING:Federated Stalker

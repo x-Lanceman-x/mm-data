@@ -162,7 +162,7 @@ Capella
 CHASSIS:Shipil
 ENGINE:GM
 ARMOR:Unknown
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Rander
 TARGETING:SynCom
 </systemManufacturers>
@@ -171,7 +171,7 @@ TARGETING:SynCom
 CHASSIS:Shipil 10R
 ENGINE:GM 200
 ARMOR:StarGlo Ferro-Aluminum
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Rander 300
 TARGETING:SynCom Master
 </systemModels>

@@ -186,7 +186,7 @@ systemmanufacturer:CHASSIS:Unknown
 systemmode:CHASSIS:Coriolis Class IIIb Endo Steel
 systemmanufacturer:ENGINE:Unknown
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:JNE
 systemmode:COMMUNICATIONS:Integrated
 systemmanufacturer:TARGETING:TRTTS

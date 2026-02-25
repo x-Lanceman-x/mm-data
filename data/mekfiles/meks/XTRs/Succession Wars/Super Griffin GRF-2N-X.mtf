@@ -190,7 +190,7 @@ systemmanufacturer:ENGINE:Pitban
 systemmode:ENGINE:Pitban 240
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Starshield A
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Prototype Improved Jump Jets
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Prototype Improved Jump Jets
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

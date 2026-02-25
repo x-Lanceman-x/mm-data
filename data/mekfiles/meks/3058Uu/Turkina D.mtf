@@ -191,8 +191,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:285 JF Extralight
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:JF Standard
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:JF Standard
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:JF Standard
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:JF Integrated
 systemmanufacturer:TARGETING:Unknown, Olivetti

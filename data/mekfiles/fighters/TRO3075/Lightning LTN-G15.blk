@@ -157,7 +157,7 @@ Sarna, St. Ives (Tengo); Texlos (HildCo); Tharkad (Lockheed/CBM); New Avalon (Ly
 CHASSIS:Hildco
 ENGINE:GM
 ARMOR:Aerobus
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Endicott
 TARGETING:Dwyerson
 </systemManufacturers>
@@ -166,7 +166,7 @@ TARGETING:Dwyerson
 CHASSIS:Aerospace Type 4
 ENGINE:200
 ARMOR:Vanluminum Advanced
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Type 22 Master
 TARGETING:Mark XI
 </systemModels>

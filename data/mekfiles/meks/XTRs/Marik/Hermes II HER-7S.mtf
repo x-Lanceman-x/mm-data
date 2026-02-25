@@ -172,7 +172,7 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:320 XXL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown
 systemmode:TARGETING:Clan Targeting Computer

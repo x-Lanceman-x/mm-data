@@ -189,8 +189,8 @@ systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:240 XL
 systemmanufacturer:ARMOR:StarGuard
 systemmode:ARMOR:I
-systemmanufacturer:JUMPING:Rawlings
-systemmode:JUMPING:95
+systemmanufacturer:JUMP_JET:Rawlings
+systemmode:JUMP_JET:95
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:T10B with TAG
 systemmanufacturer:TARGETING:Dynatec

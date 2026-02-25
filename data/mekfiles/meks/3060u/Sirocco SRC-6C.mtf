@@ -200,8 +200,8 @@ systemmanufacturer:ENGINE:Pitban
 systemmode:ENGINE:285
 systemmanufacturer:ARMOR:Starshield
 systemmode:ARMOR:II Light Ferro-Fibrous
-systemmanufacturer:JUMPING:Chilton
-systemmode:JUMPING:950 Improved
+systemmanufacturer:JUMP_JET:Chilton
+systemmode:JUMP_JET:950 Improved
 systemmanufacturer:COMMUNICATIONS:Corean
 systemmode:COMMUNICATIONS:TransBand-J9 with Guardian ECM Suite and C3 slave
 systemmanufacturer:TARGETING:Corean

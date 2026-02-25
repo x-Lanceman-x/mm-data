@@ -193,7 +193,7 @@ systemmode:CHASSIS:Albat-75 Composite
 systemmanufacturer:ENGINE:General Motors
 systemmode:ENGINE:380 XL
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Irian Technologies
 systemmode:COMMUNICATIONS:HMR-35s
 systemmanufacturer:TARGETING:Omicron

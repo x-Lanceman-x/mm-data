@@ -192,8 +192,8 @@ systemmanufacturer:ENGINE:Vlar
 systemmode:ENGINE:300 XL
 systemmanufacturer:ARMOR:Kallon
 systemmode:ARMOR:Royalstar
-systemmanufacturer:JUMPING:HildCo
-systemmode:JUMPING:Model 13
+systemmanufacturer:JUMP_JET:HildCo
+systemmode:JUMP_JET:Model 13
 systemmanufacturer:COMMUNICATIONS:TharHes
 systemmode:COMMUNICATIONS:Calliope Hm10
 systemmanufacturer:TARGETING:TharHes

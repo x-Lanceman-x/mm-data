@@ -185,7 +185,7 @@ New Vandenberg
 CHASSIS:Bowie
 ENGINE:PlasmaStar
 ARMOR:Unknown
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Rander
 TARGETING:Rander
 </systemManufacturers>
@@ -194,7 +194,7 @@ TARGETING:Rander
 CHASSIS:50
 ENGINE:270 XL
 ARMOR:Ferro-Aluminum
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:200
 TARGETING:TAS
 </systemModels>

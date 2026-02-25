@@ -189,7 +189,7 @@ systemmode:CHASSIS:HCT Standard
 systemmanufacturer:ENGINE:VOX
 systemmode:ENGINE:225 XL
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:TharHes
 systemmode:COMMUNICATIONS:Thalia HM-22
 systemmanufacturer:TARGETING:TharHes

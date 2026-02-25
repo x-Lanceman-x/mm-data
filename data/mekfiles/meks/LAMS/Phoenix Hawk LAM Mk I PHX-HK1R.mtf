@@ -185,8 +185,8 @@ systemmanufacturer:ENGINE:Allied
 systemmode:ENGINE:250
 systemmanufacturer:ARMOR:Maximillian
 systemmode:ARMOR:100
-systemmanufacturer:JUMPING:Allied AVRTech
-systemmode:JUMPING:Model A
+systemmanufacturer:JUMP_JET:Allied AVRTech
+systemmode:JUMP_JET:Model A
 systemmanufacturer:COMMUNICATIONS:Hartford
 systemmode:COMMUNICATIONS:Baseband 3
 systemmanufacturer:TARGETING:Hartford-Allied

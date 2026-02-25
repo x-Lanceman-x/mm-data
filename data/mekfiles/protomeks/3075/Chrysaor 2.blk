@@ -150,7 +150,7 @@ York, Bearclaw
 CHASSIS:Unknown
 ENGINE:Stark
 ARMOR:PolyCarbide
-JUMPING:Unknown
+JUMP_JET:Unknown
 COMMUNICATIONS:SqwakBox
 TARGETING:BloodEye
 </systemManufacturers>

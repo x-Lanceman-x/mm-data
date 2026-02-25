@@ -159,7 +159,7 @@ Skye, Ramora, Marantha
 CHASSIS:Shipil Company
 ENGINE:Shipil Company
 ARMOR:Shipil Company
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Doering Electronics
 TARGETING:Doering Electronics
 </systemManufacturers>
@@ -168,7 +168,7 @@ TARGETING:Doering Electronics
 CHASSIS:Shipil 15
 ENGINE:Shipil 180 XL
 ARMOR:Shipil FA-3
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:O/P AIR500i
 TARGETING:O/P 3000
 </systemModels>

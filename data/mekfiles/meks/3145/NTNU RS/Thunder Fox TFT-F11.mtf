@@ -189,6 +189,6 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:XXL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Hardened Armor
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

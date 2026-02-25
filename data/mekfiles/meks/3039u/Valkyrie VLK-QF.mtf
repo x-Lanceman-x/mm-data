@@ -189,8 +189,8 @@ systemmanufacturer:ENGINE:Omni
 systemmode:ENGINE:150
 systemmanufacturer:ARMOR:Riese
 systemmode:ARMOR:470
-systemmanufacturer:JUMPING:Norse Industries
-systemmode:JUMPING:3S
+systemmanufacturer:JUMP_JET:Norse Industries
+systemmode:JUMP_JET:3S
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:Lynx-shur
 systemmanufacturer:TARGETING:Unknown

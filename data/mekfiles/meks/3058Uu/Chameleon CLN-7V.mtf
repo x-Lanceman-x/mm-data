@@ -194,8 +194,8 @@ systemmanufacturer:ENGINE:Vlar
 systemmode:ENGINE:300
 systemmanufacturer:ARMOR:SimplePlate Manufacturers
 systemmode:ARMOR:Type M
-systemmanufacturer:JUMPING:McCloud
-systemmode:JUMPING:Specials
+systemmanufacturer:JUMP_JET:McCloud
+systemmode:JUMP_JET:Specials
 systemmanufacturer:COMMUNICATIONS:Jolex
 systemmode:COMMUNICATIONS:Systems
 systemmanufacturer:TARGETING:Optisight

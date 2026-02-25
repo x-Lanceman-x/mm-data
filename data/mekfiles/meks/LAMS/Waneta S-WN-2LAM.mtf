@@ -195,8 +195,8 @@ systemmanufacturer:ENGINE:DAV
 systemmode:ENGINE:220
 systemmanufacturer:ARMOR:Durallex
 systemmode:ARMOR:Divine Protector
-systemmanufacturer:JUMPING:Chilton
-systemmode:JUMPING:950 Improved
+systemmanufacturer:JUMP_JET:Chilton
+systemmode:JUMP_JET:950 Improved
 systemmanufacturer:COMMUNICATIONS:Master's Voice
 systemmode:COMMUNICATIONS:Cel-Beta
 systemmanufacturer:TARGETING:Master's Sight

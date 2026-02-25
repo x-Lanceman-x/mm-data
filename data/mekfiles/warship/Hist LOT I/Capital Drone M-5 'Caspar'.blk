@@ -300,7 +300,7 @@ New Earth
 CHASSIS:Unknown
 ENGINE:Unknown
 ARMOR:Unknown
-JUMPING:Unknown
+JUMP_JET:Unknown
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemManufacturers>
@@ -309,7 +309,7 @@ TARGETING:Unknown
 CHASSIS:Modified Lola II
 ENGINE:Unknown
 ARMOR:Ferro-Carbide
-JUMPING:Unknown
+JUMP_JET:Unknown
 COMMUNICATIONS:SDS Drone Control System
 TARGETING:SDS Drone Control System
 </systemModels>

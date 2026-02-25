@@ -187,8 +187,8 @@ systemmanufacturer:ENGINE:Magna
 systemmode:ENGINE:245 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Compound 12A1 Standard
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Model KT Boosters
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Model KT Boosters
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:CH2 Series Integrated with ECM Suite
 systemmanufacturer:TARGETING:Unknown

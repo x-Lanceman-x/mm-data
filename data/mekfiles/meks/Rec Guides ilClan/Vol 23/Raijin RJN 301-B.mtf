@@ -198,7 +198,7 @@ systemmode:CHASSIS:Endo Steel
 systemmanufacturer:ENGINE:Vlar
 systemmode:ENGINE:300 XL
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Rawlings
-systemmode:JUMPING:60
+systemmanufacturer:JUMP_JET:Rawlings
+systemmode:JUMP_JET:60
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

@@ -183,8 +183,8 @@ systemmanufacturer:ENGINE:Edasich Motors
 systemmode:ENGINE:270 Light
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Light Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Mechanical Jump Booster
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Mechanical Jump Booster
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:T-11B
 systemmanufacturer:TARGETING:Federated

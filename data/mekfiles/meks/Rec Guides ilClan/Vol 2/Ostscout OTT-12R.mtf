@@ -190,8 +190,8 @@ systemmanufacturer:ENGINE:VOX
 systemmode:ENGINE:280 Light
 systemmanufacturer:ARMOR:Starshield
 systemmode:ARMOR:Ultra-Tech Stealth
-systemmanufacturer:JUMPING:Ostmann
-systemmode:JUMPING:Sct-A
+systemmanufacturer:JUMP_JET:Ostmann
+systemmode:JUMP_JET:Sct-A
 systemmanufacturer:COMMUNICATIONS:Barret
 systemmode:COMMUNICATIONS:4000 with Guardian ECM
 systemmanufacturer:TARGETING:TRSS

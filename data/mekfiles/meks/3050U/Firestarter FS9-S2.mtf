@@ -197,8 +197,8 @@ systemmanufacturer:ENGINE:Omni
 systemmode:ENGINE:210
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Light Ferro-Fibrous
-systemmanufacturer:JUMPING:Luxor
-systemmode:JUMPING:Load Lifters
+systemmanufacturer:JUMP_JET:Luxor
+systemmode:JUMP_JET:Load Lifters
 systemmanufacturer:COMMUNICATIONS:Cyclops
 systemmode:COMMUNICATIONS:14
 systemmanufacturer:TARGETING:Cyclops

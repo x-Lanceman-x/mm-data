@@ -191,6 +191,6 @@ systemmode:CHASSIS:Beowulf 3
 systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:270 XL
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

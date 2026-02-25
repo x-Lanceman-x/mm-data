@@ -178,7 +178,7 @@ Field Refit
 CHASSIS:Bowie
 ENGINE:PlasmaStar
 ARMOR:Wyatt Coresteel
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Rander
 TARGETING:Rander
 </systemManufacturers>
@@ -187,7 +187,7 @@ TARGETING:Rander
 CHASSIS:50
 ENGINE:270
 ARMOR:Standard
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:200
 TARGETING:TAS
 </systemModels>

@@ -191,8 +191,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Starfire 300 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Compound 12B2 Standard
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Grandthrust Mk. 5
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Grandthrust Mk. 5
 systemmanufacturer:COMMUNICATIONS:Garrett
 systemmode:COMMUNICATIONS:Garret T-11b
 systemmanufacturer:TARGETING:RCA

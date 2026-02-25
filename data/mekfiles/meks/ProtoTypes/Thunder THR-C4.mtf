@@ -176,8 +176,8 @@ systemmanufacturer:ENGINE:VOX
 systemmode:ENGINE:280 XL
 systemmanufacturer:ARMOR:Ceres
 systemmode:ARMOR:Heavy with CASE II
-systemmanufacturer:JUMPING:Anderson High Propulsion
-systemmode:JUMPING:12s
+systemmanufacturer:JUMP_JET:Anderson High Propulsion
+systemmode:JUMP_JET:12s
 systemmanufacturer:COMMUNICATIONS:Ceres Metals
 systemmode:COMMUNICATIONS:Model 21-Rs
 systemmanufacturer:TARGETING:C-Apple

@@ -184,8 +184,8 @@ systemmanufacturer:ENGINE:General Motors
 systemmode:ENGINE:375 XL
 systemmanufacturer:ARMOR:Valiant
 systemmode:ARMOR:Ringmail Light Ferro-Fibrous
-systemmanufacturer:JUMPING:Devil
-systemmode:JUMPING:A7
+systemmanufacturer:JUMP_JET:Devil
+systemmode:JUMP_JET:A7
 systemmanufacturer:COMMUNICATIONS:Newberg
 systemmode:COMMUNICATIONS:Telescan 17
 systemmanufacturer:TARGETING:Spar

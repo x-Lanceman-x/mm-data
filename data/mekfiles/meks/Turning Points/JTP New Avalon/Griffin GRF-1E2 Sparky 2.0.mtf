@@ -195,6 +195,6 @@ systemmanufacturer:CHASSIS:Earthwerks Incorporated
 systemmode:CHASSIS:Earthwerks GRF
 systemmanufacturer:ENGINE:Unknown
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

@@ -190,8 +190,8 @@ systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:380 XL
 systemmanufacturer:ARMOR:Valiant
 systemmode:ARMOR:Lamellor Light Ferro-Fibrous
-systemmanufacturer:JUMPING:Lexington Ltd.
-systemmode:JUMPING:Lifters
+systemmanufacturer:JUMP_JET:Lexington Ltd.
+systemmode:JUMP_JET:Lifters
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:Voice of Peace with C3
 systemmanufacturer:TARGETING:Unknown

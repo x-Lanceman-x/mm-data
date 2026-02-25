@@ -185,7 +185,7 @@ systemmanufacturer:ENGINE:Hermes
 systemmode:ENGINE:250 XL
 systemmanufacturer:ARMOR:Kallon
 systemmode:ARMOR:Royalstar with CASE II
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:T20-C
 systemmanufacturer:TARGETING:Garret

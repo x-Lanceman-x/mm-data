@@ -189,7 +189,7 @@ systemmanufacturer:ENGINE:General Motors
 systemmode:ENGINE:300 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Light Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Corean
 systemmode:COMMUNICATIONS:Transband-J9
 systemmanufacturer:TARGETING:Corean

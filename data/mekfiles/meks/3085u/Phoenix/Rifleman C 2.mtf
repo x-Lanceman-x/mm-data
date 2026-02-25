@@ -196,7 +196,7 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:XXL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Standard
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:T11-A
 systemmanufacturer:TARGETING:Garret

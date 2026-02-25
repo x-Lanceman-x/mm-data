@@ -190,8 +190,8 @@ systemmanufacturer:ENGINE:Leenex
 systemmode:ENGINE:140
 systemmanufacturer:ARMOR:Maximillian
 systemmode:ARMOR:42
-systemmanufacturer:JUMPING:Lexington
-systemmode:JUMPING:Lifters
+systemmanufacturer:JUMP_JET:Lexington
+systemmode:JUMP_JET:Lifters
 systemmanufacturer:COMMUNICATIONS:Sipher
 systemmode:COMMUNICATIONS:CommCon CSU-4
 systemmanufacturer:TARGETING:Unknown

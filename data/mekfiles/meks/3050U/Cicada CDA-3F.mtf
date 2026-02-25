@@ -189,7 +189,7 @@ systemmanufacturer:ENGINE:Pitban
 systemmode:ENGINE:Pitban 320 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Unknown Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Datacom
 systemmode:COMMUNICATIONS:Datacom 50
 systemmanufacturer:TARGETING:Dynatec

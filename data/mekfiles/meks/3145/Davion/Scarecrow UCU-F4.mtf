@@ -210,8 +210,8 @@ systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:200 XL
 systemmanufacturer:ARMOR:StarGuard
 systemmode:ARMOR:III with CASE II
-systemmanufacturer:JUMPING:Rawlings
-systemmode:JUMPING:80
+systemmanufacturer:JUMP_JET:Rawlings
+systemmode:JUMP_JET:80
 systemmanufacturer:COMMUNICATIONS:Achernar Electronics
 systemmode:COMMUNICATIONS:HID-13 Tight Channel
 systemmanufacturer:TARGETING:Federated Stalker

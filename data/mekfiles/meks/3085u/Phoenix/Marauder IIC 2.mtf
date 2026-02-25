@@ -190,8 +190,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Consolidated Fusion 340
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Forging MD4 Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Guld Mk. III
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Guld Mk. III
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:Series D8 CC-25Xa
 systemmanufacturer:TARGETING:Unknown

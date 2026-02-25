@@ -192,8 +192,8 @@ systemmanufacturer:ENGINE:VOX
 systemmode:ENGINE:225 XL
 systemmanufacturer:ARMOR:Starshield
 systemmode:ARMOR:Unknown
-systemmanufacturer:JUMPING:Anderson Propulsion
-systemmode:JUMPING:30
+systemmanufacturer:JUMP_JET:Anderson Propulsion
+systemmode:JUMP_JET:30
 systemmanufacturer:COMMUNICATIONS:CeresCom
 systemmode:COMMUNICATIONS:Model 21-Rs
 systemmanufacturer:TARGETING:Dwyerson

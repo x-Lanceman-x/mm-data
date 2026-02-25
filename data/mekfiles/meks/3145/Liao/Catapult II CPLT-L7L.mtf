@@ -190,8 +190,8 @@ systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:280 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Heat-Dissipating
-systemmanufacturer:JUMPING:Anderson
-systemmode:JUMPING:Propulsion 25
+systemmanufacturer:JUMP_JET:Anderson
+systemmode:JUMP_JET:Propulsion 25
 systemmanufacturer:COMMUNICATIONS:O/P
 systemmode:COMMUNICATIONS:COM-211
 systemmanufacturer:TARGETING:O/P

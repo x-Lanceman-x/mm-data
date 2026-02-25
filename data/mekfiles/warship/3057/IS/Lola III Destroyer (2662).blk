@@ -276,7 +276,7 @@ Terra (Galax yards)
 CHASSIS:Boeing Interstellar
 ENGINE:Unknown
 ARMOR:Boeing
-JUMPING:Unknown
+JUMP_JET:Unknown
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemManufacturers>
@@ -285,7 +285,7 @@ TARGETING:Unknown
 CHASSIS:Unknown
 ENGINE:Unknown
 ARMOR:D-Span Ferro-Carbide
-JUMPING:Unknown
+JUMP_JET:Unknown
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemModels>

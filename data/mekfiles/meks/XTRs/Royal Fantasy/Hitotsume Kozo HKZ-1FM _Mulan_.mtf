@@ -183,8 +183,8 @@ systemmode:CHASSIS:Class 52 Endo Steel
 systemmanufacturer:ENGINE:Hermes
 systemmode:ENGINE:330 XL
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Icarus
-systemmode:JUMPING:81
+systemmanufacturer:JUMP_JET:Icarus
+systemmode:JUMP_JET:81
 systemmanufacturer:COMMUNICATIONS:Sipher
 systemmode:COMMUNICATIONS:CommSys 4
 systemmanufacturer:TARGETING:Neko

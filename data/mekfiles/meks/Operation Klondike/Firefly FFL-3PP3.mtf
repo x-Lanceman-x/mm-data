@@ -194,8 +194,8 @@ systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:150 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Standard
-systemmanufacturer:JUMPING:Lexington
-systemmode:JUMPING:Lifters
+systemmanufacturer:JUMP_JET:Lexington
+systemmode:JUMP_JET:Lifters
 systemmanufacturer:COMMUNICATIONS:Datcom
 systemmode:COMMUNICATIONS:18
 systemmanufacturer:TARGETING:Radcom

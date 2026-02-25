@@ -193,8 +193,8 @@ systemmanufacturer:ENGINE:ER Motors
 systemmode:ENGINE:275 XL
 systemmanufacturer:ARMOR:Hellespont
 systemmode:ARMOR:Lite Stealth
-systemmanufacturer:JUMPING:Nike
-systemmode:JUMPING:Doublejet 9s
+systemmanufacturer:JUMP_JET:Nike
+systemmode:JUMP_JET:Doublejet 9s
 systemmanufacturer:COMMUNICATIONS:FoxxCom
 systemmode:COMMUNICATIONS:75
 systemmanufacturer:TARGETING:FoxxFire

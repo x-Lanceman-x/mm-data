@@ -191,7 +191,7 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Unknown (Primitive)
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Unknown (Primitive)
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Unknown (Prototype)
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Unknown (Prototype)
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

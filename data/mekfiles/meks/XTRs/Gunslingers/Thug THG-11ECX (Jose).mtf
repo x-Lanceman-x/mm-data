@@ -198,7 +198,7 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:320 XL
 systemmanufacturer:ARMOR:Mitchell Argon
 systemmode:ARMOR:with CASE
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Colmax
 systemmode:COMMUNICATIONS:90
 systemmanufacturer:TARGETING:TharHes

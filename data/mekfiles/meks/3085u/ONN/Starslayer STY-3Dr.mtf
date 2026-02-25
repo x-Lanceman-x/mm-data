@@ -190,8 +190,8 @@ systemmanufacturer:ENGINE:Magna
 systemmode:ENGINE:Magna 250
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Unknown (Light Ferro-Fibrous)
-systemmanufacturer:JUMPING:Odin's Own
-systemmode:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Odin's Own
+systemmode:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Tek
 systemmode:COMMUNICATIONS:Tek BattleCom
 systemmanufacturer:TARGETING:FireScan

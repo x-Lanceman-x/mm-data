@@ -191,7 +191,7 @@ systemmanufacturer:ENGINE:Magna
 systemmode:ENGINE:350 XL
 systemmanufacturer:ARMOR:Starshield
 systemmode:ARMOR:A with CASE
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Sipher
 systemmode:COMMUNICATIONS:Security Plus
 systemmanufacturer:TARGETING:Matabushi

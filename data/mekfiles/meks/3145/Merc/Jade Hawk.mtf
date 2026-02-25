@@ -193,7 +193,7 @@ systemmanufacturer:CHASSIS:Unknown
 systemmanufacturer:ENGINE:Starfire
 systemmode:ENGINE:375 XL
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Clan Standard
-systemmode:JUMPING:Type A1 w/Partial Wing
+systemmanufacturer:JUMP_JET:Clan Standard
+systemmode:JUMP_JET:Type A1 w/Partial Wing
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

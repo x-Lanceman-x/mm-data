@@ -195,8 +195,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:330 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Light Ferro-Fibrous
-systemmanufacturer:JUMPING:Northrup
-systemmode:JUMPING:Northrup 12000
+systemmanufacturer:JUMP_JET:Northrup
+systemmode:JUMP_JET:Northrup 12000
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:Garret T11-b
 systemmanufacturer:TARGETING:Sync Tracker

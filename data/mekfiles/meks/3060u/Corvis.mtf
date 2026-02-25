@@ -190,8 +190,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:160 Fusion
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Compound H17 Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Model KT Boosters
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Model KT Boosters
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:CH2 Series Integrated
 systemmanufacturer:TARGETING:Unknown

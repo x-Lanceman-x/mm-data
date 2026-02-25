@@ -192,8 +192,8 @@ systemmanufacturer:ENGINE:General Motors
 systemmode:ENGINE:375 Fusion Extralight
 systemmanufacturer:ARMOR:Compound
 systemmode:ARMOR:LZ-7 Ferro-Lamellor
-systemmanufacturer:JUMPING:SR
-systemmode:JUMPING:Starlifter 75
+systemmanufacturer:JUMP_JET:SR
+systemmode:JUMP_JET:Starlifter 75
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:TDWS-37 Mk. 2.2
 systemmanufacturer:TARGETING:Hermes

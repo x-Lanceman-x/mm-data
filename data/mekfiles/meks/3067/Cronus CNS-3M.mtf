@@ -189,6 +189,6 @@ systemmanufacturer:CHASSIS:Unknown
 systemmanufacturer:ENGINE:CoreTek
 systemmode:ENGINE:275
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

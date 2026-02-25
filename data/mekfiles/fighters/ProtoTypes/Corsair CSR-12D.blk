@@ -176,7 +176,7 @@ Axton
 CHASSIS:Wangker
 ENGINE:General Motors
 ARMOR:Wangker
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Rander
 TARGETING:Rander
 </systemManufacturers>
@@ -185,7 +185,7 @@ TARGETING:Rander
 CHASSIS:Wangker III
 ENGINE:General Motors 300 XL
 ARMOR:Wangker S5 Heavy Ferro-Aluminum
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Rander 200B
 TARGETING:Rander TA1000
 </systemModels>

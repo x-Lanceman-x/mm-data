@@ -194,8 +194,8 @@ systemmanufacturer:ENGINE:Core Tek
 systemmode:ENGINE:385 XXL w/Supercharger
 systemmanufacturer:ARMOR:Durallex
 systemmode:ARMOR:Super Medium Heavy Ferro-Fibrous
-systemmanufacturer:JUMPING:Northrup
-systemmode:JUMPING:12000
+systemmanufacturer:JUMP_JET:Northrup
+systemmode:JUMP_JET:12000
 systemmanufacturer:COMMUNICATIONS:Dalban
 systemmode:COMMUNICATIONS:StarLink Classic
 systemmanufacturer:TARGETING:Dalban

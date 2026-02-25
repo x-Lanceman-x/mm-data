@@ -190,8 +190,8 @@ systemmanufacturer:ENGINE:Magna
 systemmode:ENGINE:350 XL
 systemmanufacturer:ARMOR:Lexington Ltd.
 systemmode:ARMOR:High Grade Light Ferro-Fibrous
-systemmanufacturer:JUMPING:Rawling
-systemmode:JUMPING:45
+systemmanufacturer:JUMP_JET:Rawling
+systemmode:JUMP_JET:45
 systemmanufacturer:COMMUNICATIONS:TharHes
 systemmode:COMMUNICATIONS:Muse 54-58K with C3 slave
 systemmanufacturer:TARGETING:Cyclops

@@ -187,8 +187,8 @@ systemmanufacturer:ENGINE:General Motors
 systemmode:ENGINE:GM 315 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Stealth Armor
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:100AFVTA
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:100AFVTA
 systemmanufacturer:COMMUNICATIONS:Dalban
 systemmode:COMMUNICATIONS:Dalban Micronics
 systemmanufacturer:TARGETING:Dalban

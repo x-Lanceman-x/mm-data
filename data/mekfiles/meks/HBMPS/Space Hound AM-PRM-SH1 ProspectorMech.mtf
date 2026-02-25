@@ -184,7 +184,7 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:160 Fusion
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:StarSlab/6
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:Garret T10B
 systemmanufacturer:TARGETING:O/P

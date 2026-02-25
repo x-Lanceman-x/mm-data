@@ -196,8 +196,8 @@ systemmanufacturer:ENGINE:Nissan
 systemmode:ENGINE:Nissan 200
 systemmanufacturer:ARMOR:Starshield
 systemmode:ARMOR:Starshield
-systemmanufacturer:JUMPING:McCloud
-systemmode:JUMPING:McCloud Specials
+systemmanufacturer:JUMP_JET:McCloud
+systemmode:JUMP_JET:McCloud Specials
 systemmanufacturer:COMMUNICATIONS:Achernar Electronics
 systemmode:COMMUNICATIONS:HICS-11
 systemmanufacturer:TARGETING:Federated Hunter

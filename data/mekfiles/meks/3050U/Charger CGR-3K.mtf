@@ -193,8 +193,8 @@ systemmanufacturer:ENGINE:Hermes
 systemmode:ENGINE:400 XL
 systemmanufacturer:ARMOR:New Samarkand
 systemmode:ARMOR:Royal Ferro-Fibrous with CASE
-systemmanufacturer:JUMPING:Lexington Ltd.
-systemmode:JUMPING:Lifters
+systemmanufacturer:JUMP_JET:Lexington Ltd.
+systemmode:JUMP_JET:Lifters
 systemmanufacturer:COMMUNICATIONS:Boran
 systemmode:COMMUNICATIONS:Meta-Cygnus Plus
 systemmanufacturer:TARGETING:Delta Track

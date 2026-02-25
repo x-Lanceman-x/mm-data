@@ -192,7 +192,7 @@ systemmanufacturer:ENGINE:Gorvachs
 systemmode:ENGINE:300 XL
 systemmanufacturer:ARMOR:Raydient
 systemmode:ARMOR:Series 5
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Raptor
 systemmode:COMMUNICATIONS:X-T Type iii
 systemmanufacturer:TARGETING:Goshawk

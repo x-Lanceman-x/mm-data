@@ -190,7 +190,7 @@ systemmanufacturer:ENGINE:Pitban
 systemmode:ENGINE:320
 systemmanufacturer:ARMOR:Mitchell Argon
 systemmode:ARMOR:with CASE
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Colmax
 systemmode:COMMUNICATIONS:90
 systemmanufacturer:TARGETING:TharHes

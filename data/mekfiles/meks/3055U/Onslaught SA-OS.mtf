@@ -197,8 +197,8 @@ systemmode:CHASSIS:Endo Steel
 systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:375 XL Fusion
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Standard
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Standard
 systemmanufacturer:COMMUNICATIONS:Custom
 systemmode:COMMUNICATIONS:Custom
 systemmanufacturer:TARGETING:Custom

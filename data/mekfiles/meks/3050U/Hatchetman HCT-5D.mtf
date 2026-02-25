@@ -190,8 +190,8 @@ systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:180 XL
 systemmanufacturer:ARMOR:Durallex
 systemmode:ARMOR:Medium
-systemmanufacturer:JUMPING:Rawlings
-systemmode:JUMPING:80
+systemmanufacturer:JUMP_JET:Rawlings
+systemmode:JUMP_JET:80
 systemmanufacturer:COMMUNICATIONS:TharHes
 systemmode:COMMUNICATIONS:Thalia HM-22
 systemmanufacturer:TARGETING:TharHes

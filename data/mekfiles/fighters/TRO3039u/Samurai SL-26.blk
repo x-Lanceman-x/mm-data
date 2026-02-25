@@ -168,7 +168,7 @@ Mizar
 CHASSIS:Fairchild Dornier
 ENGINE:Unknown
 ARMOR:Unknown
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Fairchild Dornier
 TARGETING:Unknown
 </systemManufacturers>
@@ -177,7 +177,7 @@ TARGETING:Unknown
 CHASSIS:FD 50-12
 ENGINE:Unknown
 ARMOR:Unknown
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:FD 205
 TARGETING:Scope 115F
 </systemModels>

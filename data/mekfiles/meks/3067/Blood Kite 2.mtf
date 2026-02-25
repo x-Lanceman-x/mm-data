@@ -190,8 +190,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:255 Standard
 systemmanufacturer:ARMOR:Compound
 systemmode:ARMOR:Compound 12A1 Standard
-systemmanufacturer:JUMPING:Clan Series
-systemmode:JUMPING:Clan Series Type 3 Assault
+systemmanufacturer:JUMP_JET:Clan Series
+systemmode:JUMP_JET:Clan Series Type 3 Assault
 systemmanufacturer:COMMUNICATIONS:York
 systemmode:COMMUNICATIONS:York Y3-Com
 systemmanufacturer:TARGETING:York

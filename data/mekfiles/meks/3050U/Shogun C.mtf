@@ -193,7 +193,7 @@ systemmanufacturer:CHASSIS:Unknown
 systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:255
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:HartfordCo
 systemmode:COMMUNICATIONS:COM 4000
 systemmanufacturer:TARGETING:HartfordCo

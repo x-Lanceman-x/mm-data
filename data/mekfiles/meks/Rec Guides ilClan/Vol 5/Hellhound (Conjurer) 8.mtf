@@ -188,8 +188,8 @@ systemmode:CHASSIS:Crucis-C Endo Steel
 systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:250 XL
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:BMP
-systemmode:JUMPING:BMP Mk. XXI
+systemmanufacturer:JUMP_JET:BMP
+systemmode:JUMP_JET:BMP Mk. XXI
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:Garret T-11b
 systemmanufacturer:TARGETING:Sync Tracker

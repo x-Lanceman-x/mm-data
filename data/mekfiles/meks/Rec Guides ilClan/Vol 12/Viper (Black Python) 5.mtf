@@ -190,8 +190,8 @@ systemmanufacturer:ENGINE:New Kent
 systemmode:ENGINE:Model VII 375 XL
 systemmanufacturer:ARMOR:Armorweave
 systemmode:ARMOR:NK 62 Ferro-Fibrous
-systemmanufacturer:JUMPING:Pryzhok
-systemmode:JUMPING:Pryzhok
+systemmanufacturer:JUMP_JET:Pryzhok
+systemmode:JUMP_JET:Pryzhok
 systemmanufacturer:COMMUNICATIONS:Mercer
 systemmode:COMMUNICATIONS:974
 systemmanufacturer:TARGETING:GEG

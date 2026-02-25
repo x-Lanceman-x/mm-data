@@ -292,7 +292,7 @@ Various
 CHASSIS:Unknown
 ENGINE:GM
 ARMOR:Unknown
-JUMPING:Unknown
+JUMP_JET:Unknown
 COMMUNICATIONS:Vargas
 TARGETING:Wolf
 </systemManufacturers>
@@ -301,7 +301,7 @@ TARGETING:Wolf
 CHASSIS:Endo Steel AN
 ENGINE:8050 Starlifter
 ARMOR:Ferro-Carbide
-JUMPING:KF Mark XXV
+JUMP_JET:KF Mark XXV
 COMMUNICATIONS:5T
 TARGETING:157
 </systemModels>

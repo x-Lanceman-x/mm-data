@@ -189,8 +189,8 @@ systemmanufacturer:ENGINE:DAV
 systemmode:ENGINE:DAV 160
 systemmanufacturer:ARMOR:StarSlab
 systemmode:ARMOR:StarSlab/1
-systemmanufacturer:JUMPING:Icarus
-systemmode:JUMPING:Icarus 81
+systemmanufacturer:JUMP_JET:Icarus
+systemmode:JUMP_JET:Icarus 81
 systemmanufacturer:COMMUNICATIONS:Basix
 systemmode:COMMUNICATIONS:Basix 100
 systemmanufacturer:TARGETING:Corean

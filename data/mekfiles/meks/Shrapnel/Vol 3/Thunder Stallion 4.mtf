@@ -190,8 +190,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Fusion 255 Extra Light
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Forged Type HH32
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Model KJ Boosters
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Model KJ Boosters
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:CH3V Series Integrated
 systemmanufacturer:TARGETING:Unknown

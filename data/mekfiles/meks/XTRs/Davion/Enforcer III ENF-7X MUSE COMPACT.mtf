@@ -190,8 +190,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Clan XL Engine
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Clan Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Improved Jump Jets
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Improved Jump Jets
 systemmanufacturer:COMMUNICATIONS:Achernar Electronic
 systemmode:COMMUNICATIONS:HICS-12
 systemmanufacturer:TARGETING:Federated Hunter

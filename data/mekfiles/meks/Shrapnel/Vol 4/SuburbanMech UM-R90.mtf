@@ -193,8 +193,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:DAV 90
 systemmanufacturer:ARMOR:Phoenix Heavy Industries
 systemmode:ARMOR:Phoenix Cuirass
-systemmanufacturer:JUMPING:Phoenix Heavy Industries
-systemmode:JUMPING:Phoenix J55
+systemmanufacturer:JUMP_JET:Phoenix Heavy Industries
+systemmode:JUMP_JET:Phoenix J55
 systemmanufacturer:COMMUNICATIONS:Hammerstorm
 systemmode:COMMUNICATIONS:Hammerstorm Huginn Mk VIII
 systemmanufacturer:TARGETING:Hammerstorm

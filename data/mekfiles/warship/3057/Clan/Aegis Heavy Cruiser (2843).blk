@@ -323,7 +323,7 @@ Various
 CHASSIS:Unknown
 ENGINE:Unknown
 ARMOR:Grumman
-JUMPING:Unknown
+JUMP_JET:Unknown
 COMMUNICATIONS:OMP
 TARGETING:KTI
 </systemManufacturers>
@@ -332,7 +332,7 @@ TARGETING:KTI
 CHASSIS:Templar Steel Plus
 ENGINE:Century 5000
 ARMOR:K5
-JUMPING:KF Mark XIX
+JUMP_JET:KF Mark XIX
 COMMUNICATIONS:Stratacaster
 TARGETING:389
 </systemModels>

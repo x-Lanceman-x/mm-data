@@ -194,8 +194,8 @@ systemmanufacturer:ENGINE:Edasich Motors
 systemmode:ENGINE:Edasich 330 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Starshield A
-systemmanufacturer:JUMPING:Rawlings
-systemmode:JUMPING:Rawlings 65+
+systemmanufacturer:JUMP_JET:Rawlings
+systemmode:JUMP_JET:Rawlings 65+
 systemmanufacturer:COMMUNICATIONS:Neil
 systemmode:COMMUNICATIONS:Neil 6000
 systemmanufacturer:TARGETING:RCA

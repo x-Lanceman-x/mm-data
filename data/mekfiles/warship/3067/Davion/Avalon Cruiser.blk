@@ -450,7 +450,7 @@ Kathil
 CHASSIS:Unknown
 ENGINE:Unknown
 ARMOR:Unknown
-JUMPING:Universal Air
+JUMP_JET:Universal Air
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemManufacturers>
@@ -459,7 +459,7 @@ TARGETING:Unknown
 CHASSIS:Unknown
 ENGINE:Goliath LV9
 ARMOR:Lamellor Ferro-Carbide
-JUMPING:Unknown
+JUMP_JET:Unknown
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemModels>

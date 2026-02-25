@@ -173,8 +173,8 @@ systemmanufacturer:ENGINE:General Motors
 systemmode:ENGINE:375 XL
 systemmanufacturer:ARMOR:Valiant
 systemmode:ARMOR:Chainmail
-systemmanufacturer:JUMPING:Devil
-systemmode:JUMPING:A7
+systemmanufacturer:JUMP_JET:Devil
+systemmode:JUMP_JET:A7
 systemmanufacturer:COMMUNICATIONS:TharHes
 systemmode:COMMUNICATIONS:Calliope ZE-2
 systemmanufacturer:TARGETING:TharHes

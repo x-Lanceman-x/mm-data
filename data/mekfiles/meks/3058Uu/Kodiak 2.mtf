@@ -193,7 +193,7 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:400 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Compound 12A2
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:L20
 systemmanufacturer:TARGETING:RCA

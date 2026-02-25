@@ -190,8 +190,8 @@ systemmanufacturer:ENGINE:Nissan
 systemmode:ENGINE:120
 systemmanufacturer:ARMOR:Compound
 systemmode:ARMOR:FM3 Ferro-Fibrous
-systemmanufacturer:JUMPING:SR
-systemmode:JUMPING:Starlifter 20
+systemmanufacturer:JUMP_JET:SR
+systemmode:JUMP_JET:Starlifter 20
 systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:T10B
 systemmanufacturer:TARGETING:Tokasha

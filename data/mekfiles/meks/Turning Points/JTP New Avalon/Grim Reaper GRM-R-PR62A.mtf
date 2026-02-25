@@ -192,7 +192,7 @@ systemmanufacturer:ENGINE:Core Tek
 systemmode:ENGINE:275 XL
 systemmanufacturer:ARMOR:StarGuard
 systemmode:ARMOR:3056 Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Marshall
 systemmode:COMMUNICATIONS:333
 systemmanufacturer:TARGETING:O/P Scanoptics

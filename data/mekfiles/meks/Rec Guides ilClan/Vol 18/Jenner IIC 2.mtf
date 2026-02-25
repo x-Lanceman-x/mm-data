@@ -187,8 +187,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Series V Fusion 315 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Epsilon Compound 31 Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Clan Type 2 Light
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Clan Type 2 Light
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:NCO System 7
 systemmanufacturer:TARGETING:Unknown

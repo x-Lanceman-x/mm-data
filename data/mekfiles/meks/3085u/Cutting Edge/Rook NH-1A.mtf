@@ -199,7 +199,7 @@ systemmanufacturer:ENGINE:Vlar
 systemmode:ENGINE:Classic 200 Primitive
 systemmanufacturer:ARMOR:Hope Industrial Works
 systemmode:ARMOR:HIW-50 Indyplate Primitive
-systemmanufacturer:JUMPING:Chilton
-systemmode:JUMPING:360
+systemmanufacturer:JUMP_JET:Chilton
+systemmode:JUMP_JET:360
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

@@ -195,8 +195,8 @@ systemmanufacturer:ENGINE:Nissan
 systemmode:ENGINE:195 Fusion
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Stealth
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Standard
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Standard
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown
 systemmode:TARGETING:Guardian ECM

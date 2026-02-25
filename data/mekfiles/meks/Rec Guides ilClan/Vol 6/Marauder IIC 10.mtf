@@ -194,8 +194,8 @@ systemmode:CHASSIS:Type 850 Light
 systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:340 XL Fusion Engine
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Improved Jump Jets
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Improved Jump Jets
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:Series D8 CC-25Xa
 systemmanufacturer:TARGETING:Unknown

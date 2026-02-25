@@ -173,7 +173,7 @@ systemmanufacturer:ENGINE:Unknown (Clan)
 systemmode:ENGINE:150 XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Hardened (Prototype)
-systemmanufacturer:JUMPING:Rawlings
-systemmode:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Rawlings
+systemmode:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown

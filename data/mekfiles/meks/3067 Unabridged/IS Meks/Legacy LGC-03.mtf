@@ -199,8 +199,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:Unknown Light 320
 systemmanufacturer:ARMOR:Aldis
 systemmode:ARMOR:Plate with CASE
-systemmanufacturer:JUMPING:CurtissJet
-systemmode:JUMPING:80
+systemmanufacturer:JUMP_JET:CurtissJet
+systemmode:JUMP_JET:80
 systemmanufacturer:COMMUNICATIONS:Skobel
 systemmode:COMMUNICATIONS:Wave VII Comm with C³i Computer
 systemmanufacturer:TARGETING:Falcon

@@ -187,8 +187,8 @@ systemmanufacturer:ENGINE:Light Force
 systemmode:ENGINE:XL 210
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Royal-7a Ferro-Fibrous
-systemmanufacturer:JUMPING:Unknown
-systemmode:JUMPING:Improved Jump Jets
+systemmanufacturer:JUMP_JET:Unknown
+systemmode:JUMP_JET:Improved Jump Jets
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:Trueborn Ultra 945B
 systemmanufacturer:TARGETING:Unknown

@@ -198,8 +198,8 @@ systemmanufacturer:ENGINE:Consolidated
 systemmode:ENGINE:250 XL
 systemmanufacturer:ARMOR:Alpha Compound
 systemmode:ARMOR:Ferro-Fibrous
-systemmanufacturer:JUMPING:Northrup Starlifters
-systemmode:JUMPING:M50s Standard
+systemmanufacturer:JUMP_JET:Northrup Starlifters
+systemmode:JUMP_JET:M50s Standard
 systemmanufacturer:COMMUNICATIONS:JNE
 systemmode:COMMUNICATIONS:Integrated
 systemmanufacturer:TARGETING:Build 3 CAT

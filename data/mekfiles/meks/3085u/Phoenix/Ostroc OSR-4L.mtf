@@ -190,8 +190,8 @@ systemmanufacturer:ENGINE:Rawlings
 systemmode:ENGINE:300 Fusion
 systemmanufacturer:ARMOR:Ceres
 systemmode:ARMOR:Heavy Stealth
-systemmanufacturer:JUMPING:HildCo
-systemmode:JUMPING:Model 13
+systemmanufacturer:JUMP_JET:HildCo
+systemmode:JUMP_JET:Model 13
 systemmanufacturer:COMMUNICATIONS:Ceres Metals
 systemmode:COMMUNICATIONS:Model 686 with Guardian ECM
 systemmanufacturer:TARGETING:Ceres

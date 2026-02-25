@@ -195,8 +195,8 @@ systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:255 Clan XL
 systemmanufacturer:ARMOR:Unknown
 systemmode:ARMOR:Ballistic-Reinforced
-systemmanufacturer:JUMPING:HildCo
-systemmode:JUMPING:Model 12
+systemmanufacturer:JUMP_JET:HildCo
+systemmode:JUMP_JET:Model 12
 systemmanufacturer:COMMUNICATIONS:Nashan
 systemmode:COMMUNICATIONS:Quartet ComSy
 systemmanufacturer:TARGETING:Nashan

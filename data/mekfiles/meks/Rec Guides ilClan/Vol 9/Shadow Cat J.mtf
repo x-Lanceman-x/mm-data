@@ -192,8 +192,8 @@ systemmanufacturer:ENGINE:RFUM
 systemmode:ENGINE:270 XL
 systemmanufacturer:ARMOR:Compound H17
 systemmode:ARMOR:Ferro-Fibrous
-systemmanufacturer:JUMPING:Model KY
-systemmode:JUMPING:Boosters
+systemmanufacturer:JUMP_JET:Model KY
+systemmode:JUMP_JET:Boosters
 systemmanufacturer:COMMUNICATIONS:JNE
 systemmode:COMMUNICATIONS:Integrated
 systemmanufacturer:TARGETING:Build 2 CAT

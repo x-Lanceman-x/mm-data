@@ -191,8 +191,8 @@ systemmanufacturer:ENGINE:Vlar
 systemmode:ENGINE:300 Light
 systemmanufacturer:ARMOR:Ceres
 systemmode:ARMOR:Heavy Stealth
-systemmanufacturer:JUMPING:Chilton
-systemmode:JUMPING:600
+systemmanufacturer:JUMP_JET:Chilton
+systemmode:JUMP_JET:600
 systemmanufacturer:COMMUNICATIONS:Dalban
 systemmode:COMMUNICATIONS:Micronics with ECM
 systemmanufacturer:TARGETING:Dalban

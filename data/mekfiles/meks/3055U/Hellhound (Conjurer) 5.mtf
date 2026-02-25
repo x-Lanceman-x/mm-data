@@ -189,8 +189,8 @@ systemmanufacturer:ENGINE:Consolidated Fusion
 systemmode:ENGINE:Consolidated Fusion 350 XL
 systemmanufacturer:ARMOR:Alpha Plate
 systemmode:ARMOR:Alpha Plate Special Ferro-Fibrous
-systemmanufacturer:JUMPING:BMP
-systemmode:JUMPING:BMP Mk. XXI
+systemmanufacturer:JUMP_JET:BMP
+systemmode:JUMP_JET:BMP Mk. XXI
 systemmanufacturer:COMMUNICATIONS:JNE
 systemmode:COMMUNICATIONS:JNE II Integrated
 systemmanufacturer:TARGETING:Build 4 CAT

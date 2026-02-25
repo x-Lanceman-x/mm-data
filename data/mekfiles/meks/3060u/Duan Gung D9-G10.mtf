@@ -191,8 +191,8 @@ systemmanufacturer:ENGINE:Omni
 systemmode:ENGINE:175 XL
 systemmanufacturer:ARMOR:Hellespont
 systemmode:ARMOR:Lite Stealth
-systemmanufacturer:JUMPING:Chilton
-systemmode:JUMPING:360
+systemmanufacturer:JUMP_JET:Chilton
+systemmode:JUMP_JET:360
 systemmanufacturer:COMMUNICATIONS:Dian-bao
 systemmode:COMMUNICATIONS:Comms, Enhanced
 systemmanufacturer:TARGETING:Dynatec

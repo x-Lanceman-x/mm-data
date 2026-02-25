@@ -194,8 +194,8 @@ systemmanufacturer:ENGINE:Strand
 systemmode:ENGINE:255
 systemmanufacturer:ARMOR:Riese
 systemmode:ARMOR:350
-systemmanufacturer:JUMPING:Anderson Propulsion
-systemmode:JUMPING:21
+systemmanufacturer:JUMP_JET:Anderson Propulsion
+systemmode:JUMP_JET:21
 systemmanufacturer:COMMUNICATIONS:HartfordCo
 systemmode:COMMUNICATIONS:COM 4000
 systemmanufacturer:TARGETING:HartfordCo

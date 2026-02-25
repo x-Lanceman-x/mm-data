@@ -194,8 +194,8 @@ systemmanufacturer:ENGINE:W-7 Facilities
 systemmode:ENGINE:Starfire 300 XL
 systemmanufacturer:ARMOR:W-7 Facilities
 systemmode:ARMOR:Beta Compound (Standard)
-systemmanufacturer:JUMPING:W-7 Facilities
-systemmode:JUMPING:BMP Series XV
+systemmanufacturer:JUMP_JET:W-7 Facilities
+systemmode:JUMP_JET:BMP Series XV
 systemmanufacturer:COMMUNICATIONS:W-7 Facilities
 systemmode:COMMUNICATIONS:Khan Series (Type 3a) with ECM Suite
 systemmanufacturer:TARGETING:W-7 Facilities

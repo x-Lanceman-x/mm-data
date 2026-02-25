@@ -170,8 +170,8 @@ systemmanufacturer:ENGINE:Pharaoh
 systemmode:ENGINE:210 XL
 systemmanufacturer:ARMOR:StarGuard
 systemmode:ARMOR:Light Ferro-Fibrous
-systemmanufacturer:JUMPING:Rawlings
-systemmode:JUMPING:61
+systemmanufacturer:JUMP_JET:Rawlings
+systemmode:JUMP_JET:61
 systemmanufacturer:COMMUNICATIONS:Achernar Electronics
 systemmode:COMMUNICATIONS:HID-8.7
 systemmanufacturer:TARGETING:Federated Hunter

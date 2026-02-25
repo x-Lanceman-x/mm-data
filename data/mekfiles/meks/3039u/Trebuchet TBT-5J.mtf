@@ -191,7 +191,7 @@ systemmanufacturer:ENGINE:Magna
 systemmode:ENGINE:250
 systemmanufacturer:ARMOR:Starshield
 systemmode:ARMOR:Standard
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Corean
 systemmode:COMMUNICATIONS:TransBand-J9
 systemmanufacturer:TARGETING:Corean

@@ -193,8 +193,8 @@ systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:Super-Lite 360 XXL
 systemmanufacturer:ARMOR:Durallex
 systemmode:ARMOR:Light Ferro-Fibrous
-systemmanufacturer:JUMPING:HildCo
-systemmode:JUMPING:Model 10
+systemmanufacturer:JUMP_JET:HildCo
+systemmode:JUMP_JET:Model 10
 systemmanufacturer:COMMUNICATIONS:Omicron
 systemmode:COMMUNICATIONS:4002 Networking Channel
 systemmanufacturer:TARGETING:TRSS

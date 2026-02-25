@@ -188,8 +188,8 @@ systemmanufacturer:ENGINE:Magna
 systemmode:ENGINE:250
 systemmanufacturer:ARMOR:PanzerSlab
 systemmode:ARMOR:Type 3
-systemmanufacturer:JUMPING:Gerard
-systemmode:JUMPING:Special A
+systemmanufacturer:JUMP_JET:Gerard
+systemmode:JUMP_JET:Special A
 systemmanufacturer:COMMUNICATIONS:Vex/Holden
 systemmode:COMMUNICATIONS:TriComm Plus
 systemmanufacturer:TARGETING:Dillon

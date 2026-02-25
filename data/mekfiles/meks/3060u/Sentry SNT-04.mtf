@@ -198,8 +198,8 @@ systemmanufacturer:ENGINE:Nissan
 systemmode:ENGINE:Nissan 200
 systemmanufacturer:ARMOR:Starshield
 systemmode:ARMOR:Starshield A
-systemmanufacturer:JUMPING:HildCo
-systemmode:JUMPING:HildCo Model 12
+systemmanufacturer:JUMP_JET:HildCo
+systemmode:JUMP_JET:HildCo Model 12
 systemmanufacturer:COMMUNICATIONS:Achernar Electronics
 systemmode:COMMUNICATIONS:HICS-15
 systemmanufacturer:TARGETING:Federated Hunter

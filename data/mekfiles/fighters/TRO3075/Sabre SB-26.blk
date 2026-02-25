@@ -161,7 +161,7 @@ Galedon V
 CHASSIS:Raimei
 ENGINE:Unknown
 ARMOR:Unknown
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemManufacturers>
@@ -170,7 +170,7 @@ TARGETING:Unknown
 CHASSIS:Unknown (primitive)
 ENGINE:Unknown (primitive)
 ARMOR:Unknown (primitive)
-JUMPING:N/A
+JUMP_JET:N/A
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemModels>

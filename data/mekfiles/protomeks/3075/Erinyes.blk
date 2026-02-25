@@ -149,7 +149,7 @@ Erewhon
 CHASSIS:Teslan
 ENGINE:Unknown
 ARMOR:PermaPlate
-JUMPING:MicroTan
+JUMP_JET:MicroTan
 COMMUNICATIONS:PMT-429
 TARGETING:Ribaldi
 </systemManufacturers>
@@ -158,7 +158,7 @@ TARGETING:Ribaldi
 CHASSIS:Perricote
 ENGINE:12 Fusion
 ARMOR:Standard
-JUMPING:Streaks
+JUMP_JET:Streaks
 TARGETING:402 TTS
 </systemModels>
 

@@ -192,8 +192,8 @@ systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:280 XL
 systemmanufacturer:ARMOR:StarGuard
 systemmode:ARMOR:Ferro-Fibrous
-systemmanufacturer:JUMPING:Ostmann
-systemmode:JUMPING:Sct-A
+systemmanufacturer:JUMP_JET:Ostmann
+systemmode:JUMP_JET:Sct-A
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmode:COMMUNICATIONS:Unknown with Angel ECM
 systemmanufacturer:TARGETING:Unknown

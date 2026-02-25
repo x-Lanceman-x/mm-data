@@ -192,8 +192,8 @@ systemmanufacturer:ENGINE:Hermes
 systemmode:ENGINE:280 XL
 systemmanufacturer:ARMOR:Jolassa
 systemmode:ARMOR:328 Ferro-Fibrous with CASE II
-systemmanufacturer:JUMPING:Chilton
-systemmode:JUMPING:360
+systemmanufacturer:JUMP_JET:Chilton
+systemmode:JUMP_JET:360
 systemmanufacturer:COMMUNICATIONS:Datacom
 systemmode:COMMUNICATIONS:70
 systemmanufacturer:TARGETING:Octagon

@@ -197,7 +197,7 @@ systemmanufacturer:ENGINE:VOX
 systemmode:ENGINE:VOX 340 XL
 systemmanufacturer:ARMOR:StarSlab
 systemmode:ARMOR:Standard
-systemmanufacturer:JUMPING:Unknown
+systemmanufacturer:JUMP_JET:Unknown
 systemmanufacturer:COMMUNICATIONS:Irian
 systemmode:COMMUNICATIONS:TelStar
 systemmanufacturer:TARGETING:O/P

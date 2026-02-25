@@ -192,8 +192,8 @@ systemmode:CHASSIS:Morpheus
 systemmanufacturer:ENGINE:Edasich Motors
 systemmode:ENGINE:390 XL
 systemmanufacturer:ARMOR:Unknown
-systemmanufacturer:JUMPING:Luxor
-systemmode:JUMPING:Load Lifters
+systemmanufacturer:JUMP_JET:Luxor
+systemmode:JUMP_JET:Load Lifters
 systemmanufacturer:COMMUNICATIONS:TharHes
 systemmode:COMMUNICATIONS:Thalia HM-22
 systemmanufacturer:TARGETING:RCA

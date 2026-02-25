@@ -192,8 +192,8 @@ systemmanufacturer:ENGINE:CoreTek
 systemmode:ENGINE:275
 systemmanufacturer:ARMOR:Coventry Industries
 systemmode:ARMOR:Ferro-Fibrous
-systemmanufacturer:JUMPING:Luxor
-systemmode:JUMPING:Load Lifters
+systemmanufacturer:JUMP_JET:Luxor
+systemmode:JUMP_JET:Load Lifters
 systemmanufacturer:COMMUNICATIONS:Field Ranger
 systemmode:COMMUNICATIONS:Wanderer
 systemmanufacturer:TARGETING:Martial Ranger

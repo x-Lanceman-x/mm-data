@@ -186,8 +186,8 @@ systemmanufacturer:ENGINE:Hermes
 systemmode:ENGINE:275 XL
 systemmanufacturer:ARMOR:New Samarkand
 systemmode:ARMOR:Teppeki Hardened
-systemmanufacturer:JUMPING:Icarus
-systemmode:JUMPING:81
+systemmanufacturer:JUMP_JET:Icarus
+systemmode:JUMP_JET:81
 systemmanufacturer:COMMUNICATIONS:Sipher
 systemmode:COMMUNICATIONS:CommSys 4
 systemmanufacturer:TARGETING:Neko

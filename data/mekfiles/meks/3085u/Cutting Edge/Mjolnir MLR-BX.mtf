@@ -191,8 +191,8 @@ systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:150 XL
 systemmanufacturer:ARMOR:Paulina
 systemmode:ARMOR:Ferro-Fibrous
-systemmanufacturer:JUMPING:Luxor
-systemmode:JUMPING:2/Q
+systemmanufacturer:JUMP_JET:Luxor
+systemmode:JUMP_JET:2/Q
 systemmanufacturer:COMMUNICATIONS:O/P
 systemmode:COMMUNICATIONS:COM-22/H47
 systemmanufacturer:TARGETING:Digital Scanlok
