@@ -183,33 +183,11 @@ Naval PPC (Medium)
 79
 </structural_integrity>
 
-<capabilities>
-The Robinson excelled in its dual role as a troop transport and ground support vessel. With its spacious bays accommodating up to thirty-six BattleMechs, it provided efficient transportation for ground forces. The ship's armament focused on precise orbital bombardment and anti-assault DropShip duties, complying with the Ares Conventions. It relied on its complement of four fighter squadrons for defense against smaller threats. The Robinson's innovative capability to combat-drop BattleMechs from low orbit, supported by its fighters, allowed for strategic landings and the establishment of secure landing zones. Over time, the Robinson underwent upgrades inspired by advances in technology from the Terran Hegemony. These enhancements, similar to those applied to the Davion destroyer, bolstered the vessel's defensive capabilities. Although the Robinson did not increase in mass, it received additional anti-fighter weaponry and doubled its armor protection, transforming into an impressive armored transport.
-</capabilities>
 
-<overview>
-The Robinson-class WarShip, introduced in 2560 by Alexander Davion as a reward for his supporters, played a significant role in boosting morale and strengthening the naval forces of the border systems within the Federated Suns. Designed as a versatile transport vessel, the Robinson carried troops and BattleMechs while also serving as a platform for pinpoint orbital bombardment. It became known for its unique ability to combat-drop BattleMechs onto planetary surfaces from low orbit using special cocoons.
-</overview>
 
-<history>
-Robinson-class WarShips were frequently assigned to specific commands rather than floating naval task forces. Notably, they served alongside the Ceti Hussars when stationed on the Kuritan border, demonstrating their importance in protecting crucial territories. Other Robinsons were deployed to safeguard the New Syrtis border, operating in a similar manner to the New Syrtis Fighter Cruisers. These ships performed commendably in combat, showcasing their effectiveness in various engagements. During the Succession Wars, the Kuritan Navy exploited a weakness in the Robinson's design, resulting in the capture of two Block I vessels. These captured ships later served as the inspiration for the development of the Kyushu Frigate, a testament to the enduring impact and legacy of the Robinson-class WarShip. Despite its capture and subsequent modifications by enemy forces, the Robinson-class maintained its reputation as a formidable and adaptable vessel, leaving a lasting mark on the annals of interstellar warfare.
-</history>
 
-<manufacturer>
-Challenge Systems
-</manufacturer>
 
-<primaryFactory>
-Galax
-</primaryFactory>
 
-<systemManufacturers>
-CHASSIS:Unknown
-ENGINE:Unknown
-ARMOR:Unknown
-COMMUNICATIONS:Unknown
-TARGETING:Unknown
-</systemManufacturers>
 
 <use>
 Transport

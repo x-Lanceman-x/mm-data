@@ -216,33 +216,11 @@ IS Ammo LRM-20:30
 80
 </structural_integrity>
 
-<capabilities>
-The Robinson Block II incorporated cutting-edge technologies obtained from the Terran Hegemony, enabling it to achieve superior armor protection and enhanced defense against aerospace fighters. With the integration of Double Heat Sinks, the ship's heat dissipation capabilities were significantly improved, allowing for prolonged operations in combat scenarios. The implementation of Ferro-Carbide armor provided twice the armor protection compared to previous versions, ensuring increased resilience against enemy attacks. These advancements made the Robinson Block II a formidable transport vessel that could withstand heavy firepower while preserving its cargo space for the transportation of troops and BattleMechs.
-</capabilities>
 
-<overview>
-The Robinson Block II, introduced in 2705, represents an advanced iteration of the Robinson-class WarShip. Benefiting from advanced naval components developed by the Terran Hegemony, the Block II variant showcased significant enhancements in armor protection and defensive capabilities. Despite these improvements, the ship maintained its primary function as a versatile transport vessel. The integration of technologies such as Double Heat Sinks and Ferro-Carbide armor bolstered its resilience without sacrificing cargo capacity.
-</overview>
 
-<history>
-The introduction of the Robinson Block II in 2705 marked a significant milestone in the evolution of the Robinson-class WarShip. With the loosening of the Terran Hegemony's control over advanced military technologies, the Federated Suns gained access to crucial naval components that propelled the Robinson's capabilities to new heights. The integration of Double Heat Sinks and Ferro-Carbide armor not only enhanced the ship's defensive capabilities but also reflected the continuous advancements in the field of WarShip design. The Robinson Block II, retaining its role as a versatile transport vessel, played a vital role in various military operations of the Federated Suns. Its ability to transport troops, BattleMechs, and supplies while offering robust defensive capabilities made it an indispensable asset on the battlefield. The integration of advanced technologies allowed the Robinson Block II to excel in combat scenarios, ensuring the safe delivery of ground forces and providing crucial support during operations. As the Federated Suns faced numerous conflicts and challenges, the Robinson Block II proved its worth and resilience. Its deployment in key regions and alongside frontline units safeguarded vital territories and contributed to the success of numerous military campaigns. The Robinson Block II stands as a testament to the advancements made in WarShip technology and its significant impact on the Federated Suns' military capabilities.
-</history>
 
-<manufacturer>
-Challenge Systems
-</manufacturer>
 
-<primaryFactory>
-Galax
-</primaryFactory>
 
-<systemManufacturers>
-CHASSIS:Unknown
-ENGINE:Unknown
-ARMOR:Unknown
-COMMUNICATIONS:Unknown
-TARGETING:Unknown
-</systemManufacturers>
 
 <use>
 Transport

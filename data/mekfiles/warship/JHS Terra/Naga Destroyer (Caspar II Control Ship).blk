@@ -320,29 +320,10 @@ Ammo Screen:10
 68
 </structural_integrity>
 
-<capabilities>
-The Naga-class light destroyer, with its heavy armor and firepower, served as a control ship for the Caspar II system. The Caspar II system, characterized by its drones, offered the capability of conducting fairly elaborate independent operations. However, its true power was realized when the drones were directly controlled by a control ship. In the case of the Terran system, three converted Naga-class WarShips, namely the Divine Command, Celestial Threads, and Enlightened Direction, acted as control ships for the Caspar II drones. The Naga-class control ships, while originally designed primarily for capital engagements, underwent modifications to improve their defensive capabilities. Additional armor plates were added to protect critical components, and anti-fighter support was enhanced with batteries of VSP lasers and MML launchers in all arcs. Sub-capital weapons were also incorporated to bolster anti-fighter and DropShip defense. The fighter bays were expanded to accommodate Hive-class drone fighters, and the Caspar II control system enabled the operation of thirty-six Caspar II drones simultaneously. Cargo holds were modified to include pressurized repair bays capable of carrying and servicing Tiamat and Dragau-class Caspar II drones. Moreover, crew space was significantly expanded to accommodate Caspar II operators and maintenance staff.
-</capabilities>
 
-<overview>
-The Naga-class light destroyer, became known as the Naga Destroyer (Caspar II Control Ship) when operating as part of the Caspar II system, played a significant role in the Terran Hegemony's fleet. While the Naga ultimately became obsolete, it found renewed purpose as a control ship for the Caspar II drones. The Caspar II system, with its human intelligence, allowed for elaborate independent operations but demonstrated its true strength when drones were directly controlled by Naga Destroyers. Though only three Nagas remain today, efforts to reactivate these vessels persist despite their age and structural flaws.
-</overview>
 
-<history>
-Originally thought to be an exact duplicate of the Star League-era Caspar system, the Caspar II system revealed its unique nature during the final assault on Terra. It was discovered that the Caspar II's intelligence was human, not artificial as initially believed. The true strength of the system became apparent when the Naga Destroyers took control of the Caspar II drones. In the Terran system, three converted Naga-class WarShips—the Divine Command, Celestial Threads, and Enlightened Direction—were designated as Naga Destroyers (Caspar II Control Ships). These vessels had non-functional KF drives and were equipped with elaborate control systems. The Celestial Threads, as the first control ship to become operational, commanded the Dragau-class Caspar IIs during the defense of Mars against the Dragoon assault. However, during Case WHITE, both the Threads and the Enlightened were put out of action, dealt a severe blow by ComStar unknowingly. Nevertheless, by the time of the Coalition's assault on Terra, the Threads had been repaired, and additional smaller DropShips were converted to control smaller groups of Caspar IIs. These Naga Destroyers, along with their drones, inflicted significant damage on Coalition forces during the final battles for Terra. Despite the destruction of the last operating control ship, the Divine Command, the Caspar II drones remained a threat as they shifted to independent command trees. Their autonomous actions continued to harass the Coalition's invasion forces. While restoration efforts for the remaining Naga Destroyers persist, the extensive structural flaws and age of these vessels make the process costly. Nonetheless, the legacy of the Naga Destroyers and the Caspar II system endures, leaving a lasting impact on the conflicts surrounding Terra.
-</history>
 
-<primaryFactory>
-O'Neil Yards - Titan Yards (Refit)
-</primaryFactory>
 
-<systemManufacturers>
-CHASSIS:Unknown
-ENGINE:Unknown
-ARMOR:Unknown
-COMMUNICATIONS:Unknown
-TARGETING:Unknown
-</systemManufacturers>
 
 <notes>
 Rebuilt to match TRO: but unit is illegal. Due to number of pressurized bays and facings.

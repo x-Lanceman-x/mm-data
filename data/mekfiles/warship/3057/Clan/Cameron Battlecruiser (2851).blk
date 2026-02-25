@@ -210,33 +210,11 @@ Naval Laser 35
 80
 </structural_integrity>
 
-<capabilities>
-The Cameron-class battlecruiser possesses a formidable arsenal, including Series-25 autocannons, naval lasers, and naval PPCs, providing both close-in and long-range firepower. Its anti-fighter defense is augmented by Maelstrom AR-10 missile launchers capable of firing missiles of various sizes. However, the flawed power distribution system of the original design led to critical failures, as illustrated by the loss of the SLS Saint Joan during an attack by Periphery pirates.
-</capabilities>
 
-<overview>
-The Cameron-class battlecruiser was commissioned by the SLDF with the expectation of a swift and powerful WarShip to bridge the gap between cruisers and battleships. However, the actual performance of the Cameron fell short of expectations, with issues in weight, acceleration, and power systems. Despite these shortcomings, the SLDF ordered 40 of the vessels due to budget constraints and the ship's excellent weaponry and armor.
-</overview>
 
-<history>
-The initial Cameron-class ships faced significant challenges due to their design flaws. The failure of the power system during the engagement with Periphery pirates led to the destruction of the SLS Saint Joan, resulting in the resignation of senior admirals and the appropriation of Daussault-Shimmon's shipyards by the Star League. The existing Camerons were then relegated to transport duties. The Clans, along with ComStar, later adopted a modified version of the Cameron. While this improved version addressed some of the original flaws by correcting the power distribution system and adding a lithium-fusion battery system, it still fell short of meeting the performance specifications of the SLDF-commissioned Cameron. Nevertheless, the modified Cameron proved to be an excellent mobile command center for the Clans.
-</history>
 
-<manufacturer>
-refit
-</manufacturer>
 
-<primaryFactory>
-Unknown
-</primaryFactory>
 
-<systemManufacturers>
-CHASSIS:Unknown
-ENGINE:Unknown
-ARMOR:Unknown
-COMMUNICATIONS:Unknown
-TARGETING:Unknown
-</systemManufacturers>
 
 <use>
 Battlecruiser
@@ -310,4 +288,47 @@ TR:3057r
 <escape_pod>
 30
 </escape_pod>
+
+# Fluff Date: 2026-02-24 13:31:06
+<overview>
+<p>The Cameron stands as one of the most controversial warship programs in Star League history. Commissioned to bridge the considerable gap between the navy's cruiser and battleship forces, this massive vessel was envisioned as a swift and powerful command platform capable of outmaneuvering any threat it could not overwhelm through sheer firepower. The reality fell dramatically short of those ambitions, delivering a vessel plagued by fundamental engineering compromises that would tarnish its reputation for centuries. Despite formidable offensive armament that met or exceeded specifications, the Cameron's propulsion and power distribution systems suffered from critical deficiencies that rendered the class unable to fulfill its intended role.</p><p>The resulting scandal led to one of the most significant government interventions in Star League naval procurement history. Yet the Cameron's story is ultimately one of unexpected redemption, as the very flaws that relegated surviving vessels to secondary duties preserved them from the devastation that consumed much of the fleet during the fall of the Star League, allowing the class to serve capably in a revised role long after its troubled introduction.</p>
+</overview>
+
+<capabilities>
+<p>The Cameron's armament represents the strongest aspect of an otherwise troubled design. Twelve Super Rand Heavy Naval Particle Projection Cannons dominate the fore and aft firing arcs, providing devastating long-range firepower that few vessels of any class can match. Eight Maelstrom AR-10 capital missile launchers, capable of firing Killer Whale, White Shark, or Barracuda missiles, provide flexible anti-ship and anti-fighter capability from the flanking arcs. Sixteen Pontiac-25 Series Naval Autocannons and ten naval lasers complete the broadside and aft-quarter armament, giving the Cameron tremendous all-range offensive power.</p><p>The vessel's primary weakness lies in its Cassion Vasser interplanetary drive system. Though individually powerful, the twin engines cannot compensate for the hull's fifty-thousand-ton weight overrun, limiting the Cameron to acceleration rates comparable to a battleship rather than the cruiser-like agility originally specified. More critically, the original power distribution architecture suffered from a fundamental design flaw that rendered the auxiliary systems incapable of simultaneously supporting weapons and life support. The Clan refit corrected this deficiency and added a lithium-fusion battery system, transforming the Cameron into a capable if still ponderous mobile command center. Ajax 7PK300 ferro-carbide armor provides solid protection across all arcs, and the vessel's two docking collars, paired with fighter bays for a full wing of aerospace craft, support sustained independent operations.</p>
+</capabilities>
+
+<deployment>
+<p>Cameron-class vessels that accompanied the Exodus fleet underwent extensive modernization under Clan engineering programs. Clan technicians corrected the infamous power distribution flaw, integrated lithium-fusion battery systems, and expanded fighter capacity to support modern aerospace doctrine. The resulting variant found lasting purpose as a mobile command center, a role that emphasized the Cameron's genuine strengths in armor protection and weapons firepower while rendering its poor acceleration largely irrelevant. The CWS Ulric Kerensky served Clan Wolf as a fleet flagship, while the CCS Blood of the Coyote anchored Clan Coyote's naval assets. ComStar also operated corrected Camerons, with the CSV Invisible Truth serving the Com Guards until its loss during the Jihad against the Word of Blake. Even in Clan hands, the improved Cameron could not achieve its original performance specifications, a testament to the depth of the design's fundamental compromises.</p>
+</deployment>
+
+<history>
+<p>The Cameron program originated during a period of peacetime fiscal austerity in the mid-twenty-seventh century, when political pressure from influential segments of Star League society led to significant budget freezes across the military establishment. The SLDF admiralty identified a critical gap between its cruiser forces and the battleship line, requiring a vessel with sufficient firepower to command large convoy operations while maintaining the mobility to keep pace with the fast cargo DropShips entering service. Daussault-Shimmon Enterprises of New Earth won the production contract, promising a revolutionary design that would combine battleship-grade armament with cruiser-level agility.</p><p>The development program consumed over a decade before delivering its first hull, and the result fell dramatically short of specifications. The Cameron emerged fifty thousand tons overweight, its acceleration barely matching that of the battleships it was meant to outrun. Despite recognizing the design's deficiencies, the SLDF admiralty felt politically unable to acknowledge the failure during the ongoing budget freeze and ordered forty vessels. The decision to proceed was driven as much by fear of public backlash as by any genuine confidence in the platform.</p><p>The class's formidable weapons suite initially masked its deeper problems, but a devastating incident roughly six years after introduction exposed the Cameron's most dangerous flaw. The loss of a Cameron to converted merchant vessels revealed that the auxiliary power system could not sustain weapons and life support simultaneously. Investigation confirmed that Daussault-Shimmon engineers had concealed the defect. The resulting scandal brought down several senior admirals and led to the Star League government seizing control of the company's shipyards. All operational Camerons were withdrawn from frontline service and assigned to transport and convoy escort duties.</p><p>This relegation to secondary roles proved an unintended blessing. When the Amaris Coup and the subsequent Liberation of Terra devastated the Star League Navy, the Cameron-class vessels assigned to rear-area duties suffered proportionally lower losses than frontline warships. A meaningful number survived to accompany General Kerensky's Exodus fleet beyond the Inner Sphere, while others fell into the hands of ComStar as the organization consolidated its control over interstellar communications infrastructure.</p><p>Both the Clans and ComStar recognized that the Cameron's fundamental concept remained sound despite its execution failures. Clan engineers corrected the power distribution deficiency and integrated lithium-fusion battery systems, while expanding fighter capacity to support modern aerospace doctrine. ComStar undertook similar remediation of its own examples. The resulting vessels served capably as mobile command centers across multiple Clan and Inner Sphere conflicts, their heavy armor and impressive weapons suite proving well-suited to a role that placed less emphasis on the acceleration performance that had been the original design's most prominent shortcoming. The Cameron-class remained in active service across multiple factions well into the thirty-second century and beyond, its longevity standing as perhaps the most ironic element of its history: a vessel commissioned to be the fleet's premier battlecruiser instead found enduring purpose in precisely the secondary roles to which its failures had condemned it.</p>
+</history>
+
+<manufacturer>
+Field Refit
+</manufacturer>
+
+<primaryFactory>
+Various
+</primaryFactory>
+
+<systemManufacturers>
+CHASSIS:Creighton
+ENGINE:Cassion
+ARMOR:Ajax
+JUMPING:Unknown
+COMMUNICATIONS:ViaComm
+TARGETING:Johnson
+</systemManufacturers>
+
+<systemModels>
+CHASSIS:M-4
+ENGINE:Vasser
+ARMOR:7PK300 Ferro-Carbide
+JUMPING:KF King VI-a
+COMMUNICATIONS:1011
+TARGETING:Data Master 6000
+</systemModels>
 

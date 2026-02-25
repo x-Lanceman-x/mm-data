@@ -170,33 +170,11 @@ Ammo NAC/30:200
 60
 </structural_integrity>
 
-<capabilities>
-The Riga II was specifically designed to bridge the gap between destroyers and cruisers, offering enhanced firepower and resilience. Its heavy armor, surpassing that of typical destroyers, provided superior protection on the battlefield. Equipped with energy-based weapon systems, the Riga II eliminated the need for ammunition storage, ensuring sustained combat effectiveness. This made it a versatile and efficient asset for extended operations and independent duty. In terms of offensive capabilities, the Riga II boasted a formidable arsenal. It carried a variety of missiles, including the powerful Killer Whale missiles, along with White Shark and Barracuda missile launchers. These weapons enabled the Riga II to engage targets effectively at different ranges. Furthermore, the ship's complement of fighters ensured its self-defense against enemy fighters, safeguarding its operational effectiveness.
-</capabilities>
 
-<overview>
-The Riga II destroyer, a remarkable vessel within the Star League Defense Force fleet, defied the conventional norms of cheap and expendable destroyers. With its robust armor and unique combination of destroyer and frigate capabilities, the Riga II stood out as a formidable force. It was a product of the technological advancements of the time, embodying the revolutionary lithium-fusion battery technology that revolutionized the SLDF fleet.
-</overview>
 
-<history>
-The Riga II destroyer emerged in response to the need for a vessel that could combine the qualities of a destroyer and a cruiser. Its development took place during the era of the lithium-fusion battery revolution within the SLDF. Despite initial skepticism from the Navy, the Riga II was authorized and began production in 2766. During the Reunification War, the Riga II played a crucial role as an escort ship for Monsoon and Aegis-class WarShips, proving its worth in long-range operations. The ship's resilience and firepower made it an invaluable asset during the conflict. However, the Riga II faced its greatest challenges during the campaign against Amaris, engaging the relentless Caspar drones. While the Riga II suffered losses, its survival rate outperformed other destroyer classes. Following the Amaris campaign, the Riga II continued its service within the Star League Defense Force. After arriving in the Pentagon worlds, most Riga IIs remained active, fulfilling important patrol duties. However, they met their demise during Operation Klondike. A small number of surviving Riga IIs found new purpose within the Clans. Undergoing significant refits, they were transformed into the modern York-class destroyers, carrying on the legacy and capabilities of the esteemed Riga II. The York-class served the Clans for a century, upholding the spirit of the Riga II in the ever-evolving landscape of interstellar warfare.
-</history>
 
-<manufacturer>
-Boeing Interstellar
-</manufacturer>
 
-<primaryFactory>
-New Earth
-</primaryFactory>
 
-<systemManufacturers>
-CHASSIS:Unknown
-ENGINE:Unknown
-ARMOR:Unknown
-COMMUNICATIONS:Unknown
-TARGETING:Unknown
-</systemManufacturers>
 
 <use>
 Destroyer-Carrier

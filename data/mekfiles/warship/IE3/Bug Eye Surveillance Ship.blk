@@ -143,37 +143,12 @@ ISLookDownRadar
 20
 </structural_integrity>
 
-<capabilities>
-The class shines due to its large array of highly advanced passive stealth features. While looking like a DropShip, the Bug-Eye features two massive interplanetary drives which give it deceptive speed and agility, combined with one of the most compact jump drives ever created, so small that a relatively tiny internally stored Jump Sail can charge it. All the surveillance equipment is hidden by sliding panels or directly integrated into the hull, which is coated in special material which can absorb radar and seemingly disappear from enemy screens. With the class's role of surveillance, the Bug-Eye has extremely light offensive armament even compared to the DropShips it resembles, with one PPC mounted in the nose backed by two side facing Large Lasers and a single rear facing AC/20.
-</capabilities>
 
-<overview>
-Surrounded by often belligerent neighbors, the Terran Hegemony placed high priority on surveillance vessels with abilities far in advance of anything the rest of the Inner Sphere powers could produce.
-</overview>
 
-<deployment>
-With little solid information about the class ever revealed, no variants are known to exist.
-</deployment>
 
-<history>
-Commissioned by the HAF to replace the aging Nightwing and Tracker vessels in 2524, the distinguished service record of the compact and highly complex Bug-Eye continued when it entered service with the Star League Navy in 2620. The Bug-Eye was effectively obsolete in the Inner Sphere from 2770 onwards, although at least one vessel would find her way into service with the company Interstellar Expeditions as late as the thirty-first century. While a few examples survived the liberation of Terra and accompanied the Exodus fleet, the tactical role of the Bug-Eye has no place among the Clans who mothballed the design. The Terran Hegemony continued to operate Bug-Eye ships throughout the Star League era, keeping a watching eye on its neighbors and the Periphery states. The Hegemony Armed Forces spared no expense in equipping the Bug-Eye to be a premiere spy ship, giving over almost a tenth of the total mass of the ship to advanced equipment such as a large naval communications scanner suite, as well as a lookdown radar and hyperspectral scanner for observing locations on the ground. The Bug-Eye was kept intentionally to the size of common aerodyne DropShips of the era such as the Buccaneer and Baby Sylvester and was designed in such a fashion that with just a few weeks of work inside a shipyard, modular fittings could be installed onto the Bug-Eye that would make it resemble other vessels both optically and thermally. This allowed the crew of the Bug-Eye to convincingly explain why the supposed DropShip didn't land on planets, by instead masquerading as DropShip designs such as passenger or luxury liners that didn't need to land. Common deployment tactics for the Bug-Eye included either jumping into a system alongside a civilian JumpShip, arriving approximately twenty-eight kilometers apart - the minimum safe separation between vessels - or instead jumping into the outer fringes of the system and then maneuvering to pass through a safe jump point as the JumpShip arrived. Bug-Eyes were considered to be spartan vessels despite the generous amount of crew space aboard; the lack of any grav decks meant that personnel had to follow zero-g exercise regimens and undergo medical treatments to prevent bone deterioration, in addition to dealing with the constant stress of operating as the crew of a dedicated spyship.
-</history>
 
-<manufacturer>
-Bowie Industries
-</manufacturer>
 
-<primaryFactory>
-Wasat
-</primaryFactory>
 
-<systemManufacturers>
-CHASSIS:Unknown
-ENGINE:Unknown
-ARMOR:Unknown
-COMMUNICATIONS:Unknown
-TARGETING:Unknown
-</systemManufacturers>
 
 <notes>
 Many special features originally mentioned for the Bug-Eye are incompatible with most WarShip rules, which led to the design being left out of Technical Readout: 3057 and Technical Readout: 3057 Revised. The detail on the Bug-Eye was substantially revised when the entry was re-published in Interstellar Players 3: Interstellar Expeditions; the changes are reflected in this article. Amongst the revisions were a substantial reduction in the fuel carried by the Bug-Eye, the replacement of the forward-mounted Light NPPC with a standard PPC (originally changed in Battlespace rule book), an increase in the crew size and a reduction in the armor on the Bug-Eye from 95 tons of armor to just 2 tons. All crew quarters aboard the Bug-Eye are considered steerage quarters (5 tons per crewman).
@@ -242,4 +217,47 @@ Interstellar Players 3
 <escape_pod>
 0
 </escape_pod>
+
+# Fluff Date: 2026-02-24 13:31:06
+<overview>
+<p>The Bug-Eye represents one of the most specialized vessel classes ever fielded by the Star League Navy. Designed to replace aging surveillance platforms that could no longer keep pace with advancing detection and counterintelligence technologies, this diminutive craft was purpose-built for covert intelligence gathering deep within foreign star systems. Despite its formal classification as a WarShip, the Bug-Eye was deliberately sized and shaped to mimic common merchant DropShips, enabling it to operate in plain sight while its sophisticated sensor suite catalogued military dispositions, monitored communications traffic, and captured surface imagery of extraordinary fidelity.</p><p>The Terran Hegemony considered reliable surveillance of its five neighboring realms a strategic imperative, and the Bug-Eye became the primary instrument through which that imperative was fulfilled for over a century. Produced in meaningful numbers, these vessels served with distinction throughout the Star League era before the upheaval of the Succession Wars scattered the surviving fleet beyond the borders of the Inner Sphere, where the class achieved near-mythical status among intelligence professionals across every major power.</p>
+</overview>
+
+<capabilities>
+<p>The Bug-Eye mounts an array of passive and active surveillance systems unmatched by any vessel of comparable displacement. The Tokina 9000R sensor suite integrates optical, hyperspectral, and electronic intelligence collectors directly into the hull structure, with sliding panels concealing the most sensitive arrays when not in active use. The system's resolution is legendary, with operators reportedly able to read handheld documents from orbital distances of thousands of kilometers. A comprehensive naval communications scanner suite complements the imaging capability, enabling the Bug-Eye to intercept and decode transmissions from both orbital traffic and planetary surfaces. Late-production models reportedly possessed the ability to penetrate hostile vessels' computer networks and monitor internal communications.</p><p>The hull incorporates radar-absorbing materials that dramatically reduce the vessel's sensor cross-section when stimulated by low-level electrical current, while integrated transponder systems can mimic a wide variety of merchant-vessel call signs. The Delano 2070 compact Kearny-Fuchida drive represents one of the smallest jump drives ever installed aboard a WarShip, employing a small internally stored detachable sail rather than the massive external structures typical of larger combatants. Twin Quadrant Turbo Thrusters provide thrust performance well beyond that of civilian vessels of similar displacement, granting the Bug-Eye the speed and agility to disengage if detected. Defensive armament is minimal, consisting of energy weapons and a single autocannon, reflecting the design philosophy that if a Bug-Eye must fight, its mission has already failed.</p>
+</capabilities>
+
+<deployment>
+<p>The first Bug-Eye surveillance vessel entered service with the Star League Navy in 2620, commissioned as the SLS Mata Hari in honor of a legendary intelligence operative from humanity's distant past. Her maiden deployment established the operational template that would define the class for over a century: jumping into systems alongside civilian JumpShip traffic at minimum safe separation distances, or arriving at system fringes to observe jump point activity while posing as a harmless merchant vessel. Bug-Eye crews developed sophisticated cover identities supported by modular fittings that could transform the vessel's optical and thermal signature to match specific civilian ship classes, from passenger liners to bulk freighters. Standard operating doctrine assumed that every significant star system in the Inner Sphere would receive at least one surveillance visit annually. The spartan conditions aboard demanded crews of exceptional physical and psychological resilience, as the absence of gravity decks required rigorous zero-gravity exercise regimens and medical protocols to prevent bone deterioration during missions that could stretch across months in microgravity.</p>
+</deployment>
+
+<history>
+<p>The Bug-Eye program originated from a Terran Hegemony Armed Forces requirement issued in 2524 to replace the aging Nightwing and Tracker surveillance vessel families, whose sensor and electronic warfare suites had fallen too far behind advancing detection technologies to justify further refitting. Twelve shipyards submitted competing design proposals, with Bowie Industries of Wasat ultimately winning the production contract. The winning design prioritized an unprecedented fusion of compact jump-capable architecture with state-of-the-art surveillance technology, compressed into a hull deliberately sized to match common aerodyne DropShips. Construction of the initial vessels proceeded smoothly despite the engineering challenges inherent in fitting such advanced equipment into a hull displacing barely six thousand tons.</p><p>After extensive proving trials with the Hegemony Armed Forces, the Bug-Eye class entered Star League Navy service in 2620. Bowie Industries maintained production over the following decades, ultimately delivering approximately one hundred seventy vessels. This remarkable production run reflected both the type's effectiveness and the Star League's insatiable appetite for intelligence on its member states and Periphery neighbors. The class served as the backbone of Star League naval intelligence throughout the latter half of the twenty-seventh century and into the twenty-eighth, operating in every corner of explored space. The Hegemony's willingness to surveil ally and rival alike meant that Bug-Eye sightings became a persistent source of diplomatic tension, with citizens and governments across the Inner Sphere alternating between resentment at the perceived intrusion and grudging respect for the capabilities these unassuming vessels represented.</p><p>The Amaris Coup and the subsequent liberation of Terra devastated the Bug-Eye fleet along with the rest of the Star League Navy. Few of the surviving vessels remained in the Inner Sphere, as the vast majority accompanied General Kerensky's Exodus fleet beyond the borders of known space. The Clans employed a handful of surviving Bug-Eyes during the reconquest of the Pentagon Worlds, but the design was subsequently mothballed as Clan military doctrine favored more direct approaches to intelligence gathering. Within the Inner Sphere, the class became effectively obsolete from 2770 onward, its advanced electronics and hull materials impossible to maintain or replicate as the Succession Wars consumed the technological base that had created them. The Bug-Eye passed from operational reality into legend, its capabilities recalled with a mixture of awe and unease by successive generations of intelligence professionals.</p><p>The class experienced an unexpected revival centuries later when at least one vessel entered service with Interstellar Expeditions, the deep-periphery exploration organization leveraging the Bug-Eye's unique combination of jump capability and passive sensor performance for survey missions far beyond the borders of the Inner Sphere. In the ilClan era, Clan Snow Raven deep periphery reconnaissance teams located and restored a long-lost Star League Defense Force vessel, returning the Bug-Eye to active military service after centuries of dormancy and demonstrating that even the smallest WarShip ever built could still find relevance in a changed galaxy.</p>
+</history>
+
+<manufacturer>
+Bowie Industries
+</manufacturer>
+
+<primaryFactory>
+Wasat
+</primaryFactory>
+
+<systemManufacturers>
+CHASSIS:Ferron
+ENGINE:Quadrant
+ARMOR:Mitcheli
+JUMPING:Delano
+COMMUNICATIONS:Farralex
+TARGETING:Tokina
+</systemManufacturers>
+
+<systemModels>
+CHASSIS:240
+ENGINE:Turbo Thruster
+ARMOR:6HY Ferro-Aluminum
+JUMPING:2070
+COMMUNICATIONS:BT
+TARGETING:9000R
+</systemModels>
 

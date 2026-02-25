@@ -178,33 +178,11 @@ Ammo White Shark:10
 75
 </structural_integrity>
 
-<capabilities>
-The Congress frigates, both the Hegemony and Davion variants, possessed formidable firepower, with the Davion Congresses having thirty percent more broadside firepower than their Hegemony counterparts. While lacking some advanced sensors and technologies, the Davion Congresses compensated with their enhanced armament. They primarily served as escorts for New Syrtis carriers and led destroyer squadrons, proving effective in their roles.
-</capabilities>
 
-<overview>
-The Congress-class frigates were introduced as a replacement for the outdated Quixote-class frigates in the Terran Hegemony. However, legal complications and allegations of stolen designs delayed their construction. Eventually, a compromise settlement was reached, involving the shipbuilding firm Challenge Systems, which resulted in the production of variant Congress frigates for the Federated Suns. Despite lacking some advanced features of the Hegemony's Congress ships, the Davion Congresses offered increased firepower.
-</overview>
 
-<history>
-Following their introduction, the Congress-class frigates saw action in the Reunification War, serving alongside other warships of the Terran Hegemony. However, as the centuries of the Star League progressed, the Congress frigates gradually diminished in numbers within fleet rosters. By the start of the Succession Wars, only a handful remained, and they faced losses against various factions. The last Davion Congress D was lost during the Second Succession War, falling victim to a Capellan minefield, which highlighted the vulnerability of these frigates compared to their Hegemony counterparts. Over time, the Congress-class frigates faded into obscurity, symbolizing the changing tides of warfare and technological advancements in the Inner Sphere.
-</history>
 
-<manufacturer>
-Challenge Systems
-</manufacturer>
 
-<primaryFactory>
-Galax
-</primaryFactory>
 
-<systemManufacturers>
-CHASSIS:Unknown
-ENGINE:Unknown
-ARMOR:Unknown
-COMMUNICATIONS:Unknown
-TARGETING:Unknown
-</systemManufacturers>
 
 <use>
 Frigate
@@ -273,4 +251,47 @@ FR:2765-AFFS
 <escape_pod>
 8
 </escape_pod>
+
+# Fluff Date: 2026-02-24 13:31:06
+<overview>
+<p>The Congress represents one of the Star League Navy's most successful frigate designs, conceived as a replacement for the aging Quixote class in the dual roles of convoy escort and electronic intelligence gathering. Born from an unusual industrial dispute that saw two rival shipyards forced into partnership, the design proved so effective that approximately two hundred examples were produced and the Star League saw no need to commission a replacement for decades. The vessel's combination of powerful capital weaponry, advanced sensor systems, and outstanding crew ergonomics established a standard of frigate design that influenced naval architects across multiple states and eras.</p><p>A variant produced for the Federated Suns traded the advanced sensor suite for a modified weapons arrangement, while Clan engineers later adapted surviving hulls with lithium-fusion batteries and expanded fighter capacity. The Congress has seen continuous service across nearly eight centuries of warfare, from the Reunification War through the Jihad and beyond, making it one of the longest-serving warship designs in human history.</p>
+</overview>
+
+<capabilities>
+<p>The Congress-class frigate carries a mixed armament of naval autocannons supplemented by capital missile systems and conventional lasers. In the standard configuration, eight NAC/10 naval autocannons provide the primary engagement capability from the forward and broadside arcs, while four NAC/30 tubes deliver devastating close-range firepower from the aft quarter and stern positions. A single Killer Whale launcher in the nose and two White Shark launchers in the broadsides provide capital missile capability. Eight Magna large lasers distributed across the hull offer conventional-scale aerospace defense. Four hundred eighty-seven tons of Blue Nose 440CL ferro-carbide armor provides excellent protection for the vessel's displacement class. The Congress-D variant built by Challenge Systems replaced the forward NAC/10 batteries with NAC/30 weapons, sacrificing rate of fire for greater per-shot destructive power, while omitting the advanced Hegemony sensor suite.</p><p>The Clan refit added a lithium-fusion battery for consecutive jump capability and upgraded the conventional large lasers to extended-range models. Fighter capacity increased from six to ten OmniFighters, and HarJel hull sealant improved survivability. Two docking collars support limited combined-arms operations, while a single 90-meter gravity deck and cargo capacity approaching 170,000 tons provide substantial operational independence. The vessel's interior makes every cubic centimeter functional and accessible, a Dekirk Aerospace trademark that facilitates easy maintenance during extended deployments.</p>
+</capabilities>
+
+<deployment>
+<p>Challenge Systems of Galax produced the Congress-D variant specifically for the Federated Suns Navy. These vessels carried the same hull and propulsion systems as the standard Congress but replaced the advanced Hegemony sensor suite with locally produced electronics and mounted a modified weapons arrangement that substituted heavier NAC/30 autocannons in the forward arcs. The FSS Hotspur served as the flagship of the Rimward Fleet under Admiral Tamborine Davion as of 2765. The FSS Klingenthal was destroyed at Panpour during the Reunification War after an internal explosion, suspected to be Taurian sabotage, disabled the vessel and left it vulnerable to Taurian Pinto-class warships. The FSS Starlight Raider survived a battle at Dahar IV in March 2814 with only moderate damage. All Congress-D variants are believed to have been lost during the Succession Wars.</p>
+</deployment>
+
+<history>
+<p>The Congress-class frigate originated from a design competition to replace the aging Quixote-class in the mid-twenty-sixth century. Dekirk Aerospace submitted a proposal that the Hegemony Navy accepted with unusual enthusiasm, but construction was immediately delayed by a three-year legal battle. Challenge Systems, a shipbuilding firm from the Davion world of Galax, accused Dekirk of stealing their design through industrial espionage. The resulting compromise in 2540 made Challenge a partner in Congress production, with the Federated Suns receiving a discounted version of the frigate that omitted the advanced Hegemony sensor technology.</p><p>The first Congress launched from Dekirk's facilities in mid-2542, quickly establishing itself as one of the swiftest escort and reconnaissance frigates of its era. The design's combination of powerful naval autocannon batteries, capital missile systems, and sophisticated electronic intelligence equipment made it extraordinarily versatile. Dekirk's trademark attention to ergonomics and maintenance accessibility ensured the class remained popular with crews across decades of service. Approximately two hundred examples were built for the Terran Hegemony and Star League navies.</p><p>The Congress earned a distinguished combat record across centuries of warfare. The SLS Star Devil demonstrated the class's fighting spirit during the Periphery Uprising when it engaged a Taurian convoy near Brisbane, destroying three of four escorting Lola II destroyers before being overwhelmed. The SLS Europa earned the somber distinction of being the first ship lost in Task Force Leonidas during Operation LIBERATION against Stefan Amaris in January 2777. During the Succession Wars, Congress frigates served navies across the Inner Sphere, including the Draconis Combine, Capellan Confederation, Federated Suns, and ComStar.</p><p>The Congress-D variant produced by Challenge Systems replaced the standard's forward NAC/10 batteries with heavier NAC/30 weapons and omitted the advanced sensor suite, creating a vessel better suited to direct combat than intelligence gathering. These Federated Suns variants served alongside the standard version but were ultimately all lost during the Succession Wars.</p><p>Multiple Clans converted surviving Congress hulls beginning around 2914, adding lithium-fusion batteries, HarJel hull sealant, extended-range lasers, and expanded fighter bays. The Clan Congress saw extensive service across Wolf, Jade Falcon, Smoke Jaguar, Ghost Bear, Snow Raven, Goliath Scorpion, Steel Viper, Hell's Horses, and Nova Cat. Several were lost during the Wars of Reaving and the Jihad, while ComStar's vessels fell during or after Operation Case White. Despite centuries of attrition, the CWS Rogue and CSR Magpie both remained operational as of 3145, serving nearly eight hundred years after the class first entered service.</p>
+</history>
+
+<manufacturer>
+Challenge Systems
+</manufacturer>
+
+<primaryFactory>
+Galax
+</primaryFactory>
+
+<systemManufacturers>
+CHASSIS:Unknown
+ENGINE:GM
+ARMOR:Blue Nose
+JUMPING:Unknown
+COMMUNICATIONS:Unknown
+TARGETING:Unknown
+</systemManufacturers>
+
+<systemModels>
+CHASSIS:Endo Steel AN
+ENGINE:8050 Starlifter
+ARMOR:440CL Ferro-Carbide
+JUMPING:KF Mark XXV
+COMMUNICATIONS:Unknown
+TARGETING:Unknown
+</systemModels>
 

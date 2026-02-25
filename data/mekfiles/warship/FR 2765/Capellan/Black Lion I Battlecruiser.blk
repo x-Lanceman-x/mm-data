@@ -359,33 +359,11 @@ IS Ammo AC/2:90
 75
 </structural_integrity>
 
-<capabilities>
-The original Black Lion-class battle cruisers were designed to be larger and more massive than contemporary cruisers. They served as command assets and scouting wings, providing maneuverability preferred by Admiral McKenna over the Dreadnought-class. Over time, advancements like docking collars made the original Black Lions outdated, leading to attempts to replace them with newer designs. However, they continued to serve for an extended period until the decision to refit the Aegis-class ships for modern heavy cruisers. The legacy of the original Black Lions lived on in the larger Black Lion-class introduced by Boeing Interstellar for the Star League Navy in the 2600s, featuring heavier armor, weaponry, and the capability to transport supporting DropShips.
-</capabilities>
 
-<overview>
-The Black Lion-class battle cruisers were designed by Admiral McKenna of the Terran Hegemony as a more mobile and affordable complement to the Dreadnought-class battleships. These living WarShips incorporated numerous features requested by Admiral McKenna and shared components with the Dreadnought-class to keep costs down. Serving as command assets for cruiser squadrons and scouting wings for battleships, the Black Lion-class defined the nature of the Hegemony battle cruiser.
-</overview>
 
-<history>
-Admiral McKenna's desire for more mobile and affordable vessels led to the design of the Black Lion-class battle cruisers. These ships served as command assets and scouting wings, but their initial designs quickly became outdated with the introduction of new innovations. The original Black Lions were gradually replaced by newer designs like the Quixote-class, and most of them were sold to the Great Houses prior to the Reunification War. While serving the Great House navies, some were eventually mothballed or stripped for germanium cores during the Golden Age and Succession Wars. However, in the 2600s, Boeing Interstellar revived the Black Lion-class for the Star League Navy, based on the specifications of the original ship, creating a larger version with enhanced capabilities and a distinguished reputation.
-</history>
 
-<manufacturer>
-Boeing Interstellar
-</manufacturer>
 
-<primaryFactory>
-Terra
-</primaryFactory>
 
-<systemManufacturers>
-CHASSIS:Unknown
-ENGINE:Unknown
-ARMOR:Unknown
-COMMUNICATIONS:Unknown
-TARGETING:Unknown
-</systemManufacturers>
 
 <use>
 Battlecruiser
@@ -455,4 +433,47 @@ FR:2765-CCAF
 <escape_pod>
 36
 </escape_pod>
+
+# Fluff Date: 2026-02-24 13:31:06
+<overview>
+<p>The Black Lion I battlecruiser was developed by Boeing Interstellar on Terra at the direction of Director-General James McKenna during the early twenty-fourth century. Commissioned in 2315, the vessel was conceived as a more mobile and affordable complement to the Dreadnought-class battleship, sharing several key components with that larger design to reduce construction costs. The class earned immediate prestige when McKenna adopted the lead vessel as his personal flagship, a distinction that secured the Black Lion I's place in the nascent Terran Hegemony's fleet hierarchy.</p><p>Despite its early prominence, the Black Lion I would gradually be overtaken by technological advances, and the class eventually yielded its frontline role to newer designs better suited to the evolving demands of interstellar naval warfare. Its legacy, however, endured through the later Black Lion II battlecruiser, which drew heavily upon the original design's proven strengths.</p>
+</overview>
+
+<capabilities>
+<p>Displacing 720,000 tons across a 743-meter hull, the Black Lion I combined naval autocannons and capital missile launchers with extensive batteries of conventional autocannons covering all arcs. Thirty-two naval autocannons formed the backbone of its broadside armament, supplemented by a dozen capital missile launchers and over a hundred conventional autocannons that provided layered point defense capability. The vessel mounted 1,080 tons of standard capital armor, providing adequate protection for a vessel of its generation.</p><p>The class was propelled to a safe thrust of approximately 1.5 gravities with a maximum burst of 2.5, respectable performance that fulfilled McKenna's requirement for a mobile capital combatant. Two bays carried twenty-four small craft, and a cavernous cargo hold of nearly 94,000 tons gave the vessel significant logistical utility. The crew complement approached six hundred personnel, with an additional 140 marines and accommodations for seventy passengers across first and second class berths.</p><p>The Black Lion I notably lacked docking collars for DropShip operations, a technology that had not yet been widely adopted when the class was designed. This absence would become an increasingly significant limitation as interstellar logistics evolved to rely on collar-equipped JumpShips and WarShips, contributing to the class's eventual obsolescence.</p>
+</capabilities>
+
+<deployment>
+<p>The lead vessel of the class served as the personal flagship of Director-General James McKenna, lending the Black Lion I considerable prestige within the early Terran Hegemony fleet. The class operated as a mainstay of Hegemony naval forces during the formative decades of interstellar expansion, where the vessels' combination of firepower and cargo capacity proved well-suited to the demands of projecting power across the growing Hegemony's sphere of influence.</p><p>As newer designs incorporating docking collar technology entered service, the Black Lion I was progressively displaced from frontline duties. The Terran Hegemony ultimately sold most of the remaining vessels to the Great Houses prior to the Reunification War, where they served in various capacities before being mothballed during the Star League era. Some vessels survived into the Succession Wars, though by that point their primary value lay in the germanium content of their KF drive cores rather than their combat capability.</p>
+</deployment>
+
+<history>
+<p>The Black Lion I battlecruiser entered service in 2315, designed by Boeing Interstellar on Terra to meet Director-General James McKenna's requirement for a mobile capital warship to complement the Dreadnought-class battleship. By sharing key components between the two designs, Boeing reduced construction costs and simplified the logistics of maintaining both classes in fleet service. The Black Lion I filled the battlecruiser role in the early Hegemony fleet, providing a faster and more numerous class of capital combatant to screen the heavier battleships.</p><p>The class served the Terran Hegemony through the early centuries of interstellar expansion, but the rapid pace of naval technology development gradually eroded its competitive advantage. The introduction of docking collar technology proved particularly significant, as the Black Lion I's lack of collars increasingly limited its operational flexibility compared to newer designs. By the time of the Reunification War, the Terran Hegemony had begun divesting its remaining Black Lion I vessels to the Great Houses, where they served in diminishing numbers as patrol and rear-echelon assets.</p><p>During the Star League era, most surviving Black Lion I vessels were mothballed or placed in reserve, their combat value considered marginal by contemporary standards. The Star League Navy formally phased out the Block I configuration in favor of newer designs, and the class's production facility at Boeing Interstellar was subsequently turned to other programs. Some vessels lingered in service with the Great Houses into the Succession Wars, but attrition and the growing difficulty of maintaining aging hulls steadily reduced their numbers. The final surviving examples were valued primarily for the germanium in their KF drive cores, which was salvaged for reuse in newer vessels.</p><p>The Black Lion I's most lasting contribution proved to be its design lineage. Nearly three centuries after the original class entered service, Boeing Interstellar revisited the Black Lion concept, incorporating many features of the original into the Black Lion II battlecruiser that debuted in 2691. The success of the later design validated the fundamental soundness of the approach that McKenna's engineers had pioneered centuries earlier.</p>
+</history>
+
+<manufacturer>
+Boeing Interstellar
+</manufacturer>
+
+<primaryFactory>
+Terra
+</primaryFactory>
+
+<systemManufacturers>
+CHASSIS:Unknown
+ENGINE:Unknown
+ARMOR:Unknown
+JUMPING:Unknown
+COMMUNICATIONS:Unknown
+TARGETING:Unknown
+</systemManufacturers>
+
+<systemModels>
+CHASSIS:Unknown
+ENGINE:Unknown
+ARMOR:Standard
+JUMPING:Unknown
+COMMUNICATIONS:Unknown
+TARGETING:Unknown
+</systemModels>
 

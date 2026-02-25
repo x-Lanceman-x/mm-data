@@ -248,33 +248,11 @@ Naval PPC (Heavy)
 95
 </structural_integrity>
 
-<capabilities>
-The McKenna-class battleship possesses unmatched firepower and defensive capabilities. Equipped with a vast array of weapons, including forty-eight Kreuss PPCs and a mix of White Shark and Barracuda missile launchers, it can engage and neutralize targets within an extensive range. The battleship also carries a complement of eight aerospace fighter squadrons and six DropShips, augmenting its offensive capabilities and providing additional protection against enemy fighters. Notably, the McKenna-class battleship incorporates a Lithium-Fusion Battery system, which allows for immediate jumps to friendly star systems, enhancing its strategic flexibility.
-</capabilities>
 
-<overview>
-The McKenna-class battleship is a renowned warship recognized for its imposing size, angular turrets, and towering sensor islands. Serving as flagship vessels, these battleships are the highlight of naval careers and are highly sought-after assignments. With their fearsome reputation and distinctive features, McKenna-class battleships are instantly recognizable and command respect on the battlefield.
-</overview>
 
-<history>
-Introduced in 2652, the McKenna-class battleship quickly earned a reputation as an exceptional combat vessel. Serving on a McKenna-class ship became a highlight of naval careers, signifying prestige and honor. However, during the war to liberate Terra, McKennas became prime targets, resulting in significant losses. Out of the 280 McKenna-class battleships produced in the 130 years before the fall of the Star League, only 29 survived to witness the liberation. Eleven of these vessels were extensively damaged and scuttled. The remaining ships joined the Exodus fleet, with only three observed in service with the Clans. One notable McKenna-class battleship, McKenna's Pride, serves as the flagship of Aleksandr and later Nicholas Kerensky. It is said to maintain a geosynchronous orbit above Strana Mechty, carefully preserved by technicians from all Clans. Rumors suggest that McKenna's Pride is a centerpiece of the Clan Founding Day celebrations, symbolizing their aspiration to capture Terra and establish an ilClan. Until that day comes, the majestic McKenna's Pride continues to watch over Strana Mechty, a testament to the enduring legacy of the McKenna-class battleships. The McKenna-class battleship has left an indelible mark in history, not only for its formidable capabilities but also for the valor of those who served on these impressive vessels. Despite their losses, McKennas remain a symbol of power and prestige, embodying the steadfast determination and military prowess of their crews.
-</history>
 
-<manufacturer>
-Unknown
-</manufacturer>
 
-<primaryFactory>
-Refit
-</primaryFactory>
 
-<systemManufacturers>
-CHASSIS:Unknown
-ENGINE:Unknown
-ARMOR:Unknown
-COMMUNICATIONS:Unknown
-TARGETING:Unknown
-</systemManufacturers>
 
 <use>
 Battleship
@@ -349,4 +327,47 @@ TR:3057r
 <escape_pod>
 30
 </escape_pod>
+
+# Fluff Date: 2026-02-24 19:15:15
+<overview>
+The McKenna-class battleship was the largest and most powerful jump-capable warship constructed during the Star League era, serving as the ultimate expression of naval might in the SLDF fleet. Built at the Blue Nose Clipperships yard above Mars and the O'Neil Titan Yards near Terra, the class was purpose-built for capital ship engagement, carrying the heaviest arsenal ever mounted on a single WarShip. Its distinctive angular turrets and towering sensor islands made the McKenna instantly recognizable across known space, and assignment to one was considered the pinnacle of a naval career. Six modified hulls designated as McKenna Command variants served as mobile headquarters capable of directing theater-level operations for the First Lord or SLDF High Command. Hundreds of vessels were completed during the class's production run spanning over a century, though the devastating Amaris Civil War reduced their numbers catastrophically. A fraction of the surviving hulls joined General Kerensky's Exodus Fleet, and a handful have been observed in Clan service in the centuries since, ensuring the McKenna's legacy endures as the most recognized warship class in human history.
+</overview>
+
+<capabilities>
+Displacing 1,930,000 tons and measuring 1,405 meters in length, the McKenna-class mounts an arsenal centered on forty-eight Kreuss XX Heavy Naval PPCs distributed across the broadside and aft flanking arcs, capable of crippling or destroying most WarShips with a single coordinated volley at engagement ranges exceeding 400 kilometers. Twelve Zeus-40 Naval Autocannon/40 batteries provide devastating kinetic firepower across the nose, fore, and aft arcs, while twelve Thunderbolt-55 Naval Laser batteries deliver sustained energy damage at range. Six Maelstrom AR-10 capital missile launchers on the flanking and aft arcs carry a mixed loadout of Barracuda, White Shark, and Killer Whale missiles. The hull is protected by 1,603.5 tons of Ulston C5-A Ferro-Carbide armor over a structural integrity of 95, and a Lithium-Fusion Battery provides rapid strategic redeployment capability. The vessel's 6,325 double heat sinks manage the enormous thermal output, assisted by distinctive ventral and dorsal radiating fins that reduce infrared signature during non-combat operations. Eight squadrons of aerospace fighters and six DropShip docking collars augment offensive capabilities, while three gravity decks and over 255,000 tons of cargo capacity support extended independent deployments.
+</capabilities>
+
+<deployment>
+<p>The McKenna's Pride, the most storied vessel in the class, served as Aleksandr Kerensky's flagship during the Liberation of Terra and later as Nicholas Kerensky's command ship during Operation KLONDIKE. Maintained in orbit above Strana Mechty as Kerensky's tomb, the vessel was seized by Clan Wolf operatives during the Wars of Reaving and hidden in the Dark Nebula by Khan Vlad Ward. Recovered in July 3147, it led the Wolf assault on Terra and remains active in ilClan service above the capital world.</p><p>The CSR James McKenna served as Clan Snow Raven's flagship from Operation KLONDIKE through the Jihad era, until Word of Blake terrorists destroyed the vessel at Ramora in January 3069 by detonating a DropShip inside its cargo bay. The CWS Werewolf served as Clan Wolf-in-Exile's flagship from 3057, liberating Tharkad during the FedCom Civil War before being destroyed at Chara III in 3077 by a nuclear-armed Word of Blake defense station. The CGS Lei Kung anchored the Goliath Scorpion Einheriar Battlegroup and remains in deteriorated service with the Escorpion Imperio as of 3087. The CSA Sovereign Right conducted the devastating York orbital bombardment in 3072 and led the annihilation of Clan Blood Spirit in 3084, remaining active with Clan Star Adder.</p>
+</deployment>
+
+<history>
+<p>The McKenna-class battleship entered production in 2652 and rapidly established itself as the preeminent capital warship of the Star League Defense Force. Built on Cortex UltraBond hulls derived from the earlier Farragut-class battleship design, the McKenna mounted an unprecedented arsenal of forty-eight Heavy Naval PPCs alongside naval autocannons, lasers, and capital missiles. The class won the Martial Olympiad's Best WarShip category in 2668, 2696, and 2700, with the SLS McKenna achieving the unique distinction of winning two consecutive competitions. Approximately 280 hulls were completed across more than 130 years of production at Blue Nose Clipperships above Mars and the O'Neil Titan Yards near Terra.</p><p>The Amaris Civil War proved catastrophic for the class. McKenna-class battleships were specifically targeted as priority threats by both Republican forces and Caspar drone warships, resulting in staggering losses. Two McKenna Command variants were destroyed on the very first day of Stefan Amaris's coup in December 2766. By the time Terra was liberated in 2779, only twenty-nine McKennas remained of the original 280. Eleven of these were too badly damaged to repair and were scuttled, leaving just eighteen to join General Kerensky's Exodus Fleet in 2784.</p><p>In Clan space, the surviving McKennas became flagships and symbols of authority. The McKenna's Pride, maintained in orbit above Strana Mechty as Aleksandr Kerensky's tomb, became a ceremonial centerpiece of Clan culture, conducting annual flybys on Founding Day. Individual vessels served as Clan flagships for the Snow Ravens, Smoke Jaguars, Ice Hellions, Cloud Cobras, Goliath Scorpions, Star Adders, and Wolf-in-Exile. The Wars of Reaving, the Jihad, and assorted Clan conflicts claimed several of these irreplaceable vessels during the late 3060s and 3070s.</p><p>The McKenna's Pride underwent the most dramatic journey of any single warship in recorded history. Seized from Strana Mechty by Clan Wolf operatives during the Wars of Reaving, the vessel was hidden in the Dark Nebula by Khan Vlad Ward, who prepared instructions for its eventual recovery. His son Alaric Ward retrieved the ship in July 3147 and used it to lead the Clan Wolf assault on Terra, positioning it above Geneva to block enemy orbital bombardment. The vessel transported Aleksandr Kerensky's remains to Terra, where they were buried in Unity City beside the Cameron family graves. As of 3147, the McKenna's Pride remains in orbit above Terra in ilClan service, bringing the most famous warship in human history full circle to the world it once helped liberate nearly four centuries earlier.</p>
+</history>
+
+<manufacturer>
+Refit
+</manufacturer>
+
+<primaryFactory>
+Unknown
+</primaryFactory>
+
+<systemManufacturers>
+CHASSIS:Refit
+ENGINE:Unknown
+ARMOR:Ulston
+JUMPING:Unknown
+COMMUNICATIONS:Unknown
+TARGETING:Unknown
+</systemManufacturers>
+
+<systemModels>
+CHASSIS:Cortex UltraBond
+ENGINE:Unknown
+ARMOR:C5-A Ferro-Carbide
+JUMPING:Unknown
+COMMUNICATIONS:Unknown
+TARGETING:Unknown
+</systemModels>
 

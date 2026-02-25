@@ -243,33 +243,11 @@ Small Laser
 25
 </structural_integrity>
 
-<capabilities>
-Four Zechetinus in the FWLM fleet, namely the FWLS Tirana, FWLS Karelia, FWLS Attica, and FWLS Sparta, retain the original design specifications with a focus on anti-DropShip/WarShip weapons and fighter-defense systems. On the other hand, the FWLS Scorpion and the remaining Zechetinus feature Barracuda and White Shark missile systems instead of the fore and aft naval-laser batteries. This diverse armament ensures the Zechetinu's effectiveness in various combat scenarios. The Zechetinu has a crew capacity of seventy-two members, though the conditions on board can be somewhat cramped. However, crews rarely spend more than a month away from port and are well-compensated for their services. While the ship's dedicated recreational facilities are limited to a small grav-deck, crews often utilize the corridors and cargo bays as exercise areas, demonstrating their resourcefulness and adaptability.
-</capabilities>
 
-<overview>
-The Zechetinu-class corvette, also known as the "Zec," is a versatile WarShip designed to operate as an independent convoy-raider, picket ship, or escort vessel. Known for its exceptional speed and maneuverability, it can sustain acceleration of up to 2.5 Gs and reach bursts of up to 4 Gs. With its formidable array of anti-DropShip/WarShip weapons and fighter-defense systems, the Zechetinu is among the fastest and most agile WarShips in its class.
-</overview>
 
-<history>
-The first Zechetinu-class corvette surpassed expectations during mock battle exercises, leading the Free Worlds League Military to authorize the construction of an additional ten vessels. These exercises also prompted the development of the newer Zechetinu II standard, which introduced slight modifications to the weapons array. The Zechetinu-class corvettes became an integral part of the FWLM fleet, providing vital support and defense in their roles as convoy-raiders, picket ships, and escorts. Their speed, maneuverability, and versatile armament made them highly valued assets within the Free Worlds League.
-</history>
 
-<manufacturer>
-Illium Naval Engineering - Illium Yard
-</manufacturer>
 
-<primaryFactory>
-Ionus
-</primaryFactory>
 
-<systemManufacturers>
-CHASSIS:Unknown
-ENGINE:Unknown
-ARMOR:Unknown
-COMMUNICATIONS:Unknown
-TARGETING:Unknown
-</systemManufacturers>
 
 <use>
 Corvette

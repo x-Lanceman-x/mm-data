@@ -185,33 +185,11 @@ Ammo White Shark:10
 75
 </structural_integrity>
 
-<capabilities>
-The Congress frigate excelled in its dual mission as a convoy escort and intelligence-gathering vessel. It boasted swiftness, advanced snooping gear, and the ability to endure extended voyages under challenging conditions. With an emphasis on functionality and accessibility, the interior design of the Congress frigates maximized efficiency and ease of maintenance. The ship's primary armament included eight cannons in five turrets, a missile launcher capable of launching Killer Whale missiles, and two additional missile launchers for White Shark missiles. It could also accommodate two DropShips for various purposes, including troop and 'Mech transport. Fighter carriers, such as the Vengeance-class, often accompanied Congress frigates to provide fighter support.
-</capabilities>
 
-<overview>
-The Congress-class frigates emerged as a pivotal asset in both the Terran Hegemony Navy and the Star League Navy. These versatile vessels, designed by Dekirk Aerospace, replaced the outdated Quixote-class frigates and became renowned for their exceptional capabilities. With a dual mission of convoy escort and intelligence gathering, the Congress frigates boasted impressive speed, advanced snooping equipment, and extended voyage endurance, making them an indispensable presence in enemy territory. Their reputation for functionality, accessibility, and crew comfort further solidified the Congress-class frigates' status as an esteemed and reliable fleet unit.
-</overview>
 
-<history>
-Introduced in 2536 as a replacement for the Quixote-class frigates, the Congress-class vessels quickly proved their superiority in the Terran Hegemony and Star League fleets. Despite facing a lawsuit filed by the Federated Suns, a compromise settlement was reached in 2540, leading to the inclusion of Challenge Systems as a partner in construction. The Congress frigates excelled in their role as convoy escorts and information-gathering vessels, featuring advanced reconnaissance equipment and a powerful armament. While their numbers dwindled over time, Congress-class frigates made an appearance in Clan fleets, such as the Fire Rose, which boasted an additional lithium-fusion battery system.
-</history>
 
-<manufacturer>
-Refit
-</manufacturer>
 
-<primaryFactory>
-Unknown
-</primaryFactory>
 
-<systemManufacturers>
-CHASSIS:Unknown
-ENGINE:Unknown
-ARMOR:Unknown
-COMMUNICATIONS:Unknown
-TARGETING:Unknown
-</systemManufacturers>
 
 <use>
 Frigate
@@ -284,4 +262,47 @@ TR:3057r
 <escape_pod>
 8
 </escape_pod>
+
+# Fluff Date: 2026-02-24 13:31:06
+<overview>
+<p>The Congress represents one of the Star League Navy's most successful frigate designs, conceived as a replacement for the aging Quixote class in the dual roles of convoy escort and electronic intelligence gathering. Born from an unusual industrial dispute that saw two rival shipyards forced into partnership, the design proved so effective that approximately two hundred examples were produced and the Star League saw no need to commission a replacement for decades. The vessel's combination of powerful capital weaponry, advanced sensor systems, and outstanding crew ergonomics established a standard of frigate design that influenced naval architects across multiple states and eras.</p><p>A variant produced for the Federated Suns traded the advanced sensor suite for a modified weapons arrangement, while Clan engineers later adapted surviving hulls with lithium-fusion batteries and expanded fighter capacity. The Congress has seen continuous service across nearly eight centuries of warfare, from the Reunification War through the Jihad and beyond, making it one of the longest-serving warship designs in human history.</p>
+</overview>
+
+<capabilities>
+<p>The Congress-class frigate carries a mixed armament of naval autocannons supplemented by capital missile systems and conventional lasers. In the standard configuration, eight NAC/10 naval autocannons provide the primary engagement capability from the forward and broadside arcs, while four NAC/30 tubes deliver devastating close-range firepower from the aft quarter and stern positions. A single Killer Whale launcher in the nose and two White Shark launchers in the broadsides provide capital missile capability. Eight Magna large lasers distributed across the hull offer conventional-scale aerospace defense. Four hundred eighty-seven tons of Blue Nose 440CL ferro-carbide armor provides excellent protection for the vessel's displacement class. The Congress-D variant built by Challenge Systems replaced the forward NAC/10 batteries with NAC/30 weapons, sacrificing rate of fire for greater per-shot destructive power, while omitting the advanced Hegemony sensor suite.</p><p>The Clan refit added a lithium-fusion battery for consecutive jump capability and upgraded the conventional large lasers to extended-range models. Fighter capacity increased from six to ten OmniFighters, and HarJel hull sealant improved survivability. Two docking collars support limited combined-arms operations, while a single 90-meter gravity deck and cargo capacity approaching 170,000 tons provide substantial operational independence. The vessel's interior makes every cubic centimeter functional and accessible, a Dekirk Aerospace trademark that facilitates easy maintenance during extended deployments.</p>
+</capabilities>
+
+<deployment>
+<p>Multiple Clans converted surviving Congress hulls to their revised standard beginning around 2914, adding lithium-fusion batteries, HarJel hull sealant, extended-range lasers, and expanded fighter bays. The class saw widespread deployment across Clan space and served in numerous conflicts. Wolf's Dragoons operated the Beowulf, which was destroyed in 3067 during Task Force Vengeance's strike against Mars. Clan Smoke Jaguar's FireCrest was captured during Operation Bulldog but disappeared while being escorted to Dieron. The Shining Claw of Clan Ghost Bear was destroyed at the Battle of Trafalgar in December 3059 during Task Force SERPENT's operations. Clan Jade Falcon's Green Lantern was destroyed by Blakist Caspar II drones during Operation SCOUR.</p><p>The CWS Rogue of Clan Wolf and CSR Magpie of Clan Snow Raven both remained operational well into the thirty-second century, serving in active naval formations as of 3145, nearly eight hundred years after the class first entered service.</p>
+</deployment>
+
+<history>
+<p>The Congress-class frigate originated from a design competition to replace the aging Quixote-class in the mid-twenty-sixth century. Dekirk Aerospace submitted a proposal that the Hegemony Navy accepted with unusual enthusiasm, but construction was immediately delayed by a three-year legal battle. Challenge Systems, a shipbuilding firm from the Davion world of Galax, accused Dekirk of stealing their design through industrial espionage. The resulting compromise in 2540 made Challenge a partner in Congress production, with the Federated Suns receiving a discounted version of the frigate that omitted the advanced Hegemony sensor technology.</p><p>The first Congress launched from Dekirk's facilities in mid-2542, quickly establishing itself as one of the swiftest escort and reconnaissance frigates of its era. The design's combination of powerful naval autocannon batteries, capital missile systems, and sophisticated electronic intelligence equipment made it extraordinarily versatile. Dekirk's trademark attention to ergonomics and maintenance accessibility ensured the class remained popular with crews across decades of service. Approximately two hundred examples were built for the Terran Hegemony and Star League navies.</p><p>The Congress earned a distinguished combat record across centuries of warfare. The SLS Star Devil demonstrated the class's fighting spirit during the Periphery Uprising when it engaged a Taurian convoy near Brisbane, destroying three of four escorting Lola II destroyers before being overwhelmed. The SLS Europa earned the somber distinction of being the first ship lost in Task Force Leonidas during Operation LIBERATION against Stefan Amaris in January 2777. During the Succession Wars, Congress frigates served navies across the Inner Sphere, including the Draconis Combine, Capellan Confederation, Federated Suns, and ComStar.</p><p>The Congress-D variant produced by Challenge Systems replaced the standard's forward NAC/10 batteries with heavier NAC/30 weapons and omitted the advanced sensor suite, creating a vessel better suited to direct combat than intelligence gathering. These Federated Suns variants served alongside the standard version but were ultimately all lost during the Succession Wars.</p><p>Multiple Clans converted surviving Congress hulls beginning around 2914, adding lithium-fusion batteries, HarJel hull sealant, extended-range lasers, and expanded fighter bays. The Clan Congress saw extensive service across Wolf, Jade Falcon, Smoke Jaguar, Ghost Bear, Snow Raven, Goliath Scorpion, Steel Viper, Hell's Horses, and Nova Cat. Several were lost during the Wars of Reaving and the Jihad, while ComStar's vessels fell during or after Operation Case White. Despite centuries of attrition, the CWS Rogue and CSR Magpie both remained operational as of 3145, serving nearly eight hundred years after the class first entered service.</p>
+</history>
+
+<manufacturer>
+Field Refit
+</manufacturer>
+
+<primaryFactory>
+Various
+</primaryFactory>
+
+<systemManufacturers>
+CHASSIS:Unknown
+ENGINE:GM
+ARMOR:Unknown
+JUMPING:Unknown
+COMMUNICATIONS:Vargas
+TARGETING:Wolf
+</systemManufacturers>
+
+<systemModels>
+CHASSIS:Endo Steel AN
+ENGINE:8050 Starlifter
+ARMOR:Ferro-Carbide
+JUMPING:KF Mark XXV
+COMMUNICATIONS:5T
+TARGETING:157
+</systemModels>
 

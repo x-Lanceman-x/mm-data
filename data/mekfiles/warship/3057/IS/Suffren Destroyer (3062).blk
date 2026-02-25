@@ -235,33 +235,11 @@ ISSmallPulseLaser
 60
 </structural_integrity>
 
-<capabilities>
-The vessel's use of such materials as Ferro-Aluminum armor and Double Heat Sinks mark the Suffren as the height of advanced tech, capable of unleashing and weathering impressive nose and broadside barrages, also including a Lithium-Fusion Battery as standard. The Suffren features an arsenal of fairly even mix of conventional anti-aerospace and capital class weaponry. The nose bays feature two NAC/40s and a trio of Heavy Naval PPCs, twin Gauss rifles, eight ER Large Lasers, two Artemis IV FCS enhanced LRM-20s and six Small Pulse Lasers for point defense, the aft bays mirroring the nose save for excluding the Naval PPCs. The fore and aft angles feature three Naval Laser 45s, two ER and three standard Large Lasers each, with twin NAC/20s, a Medium Naval PPC, double LRM-20s and six point defense small pulse lasers mounted in each broadside. Beyond its four DropShip capacity and sizable 92,727 tons of stores, the Suffren is designed to carry eight Small Craft and a full marine battalion, allowing the destroyer to repel boarding attempt on itself or seize control of any non-Clan vessels with ease.
-</capabilities>
 
-<overview>
-The Suffren-class destroyer is among the first generation of post–Clan Invasion WarShips, and ComStar's first new WarShip design since the Dante in 2941.
-</overview>
 
-<history>
-Initiated after the Battle of Tukayyid and the subsequent Reformation, while the Com Guards had a large array of old SLDF WarShips, Precentor Martial Anastasius Focht desired a vessel which would not be familiar to the Clan Touman. The project lacked the pace of comparable Successor State WarShip programs because of those existing vessels, with virtual reality technology similar to that used by the Precentor Martial to coordinate the fighting on Tukayyid used to discover and resolve design flaws while waiting for the Titan Yards to be upgraded to produce the most modern design possible. Ultimately the delay led to only two examples of the class constructed prior to the loss of the Titan Yards to the Word of Blake.
-</history>
 
-<manufacturer>
-O'Neil Yards - Titan Yards
-</manufacturer>
 
-<primaryFactory>
-Terra
-</primaryFactory>
 
-<systemManufacturers>
-CHASSIS:Unknown
-ENGINE:Unknown
-ARMOR:Unknown
-COMMUNICATIONS:Unknown
-TARGETING:Unknown
-</systemManufacturers>
 
 <use>
 Destroyer

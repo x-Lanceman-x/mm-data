@@ -190,33 +190,11 @@ Ammo Barracuda:20
 50
 </structural_integrity>
 
-<capabilities>
-The Lola-class destroyers are renowned for their formidable capabilities and durability. The upgraded Lola III variant features Ferro-Carbide armor, providing enhanced protection compared to the original version. The advanced computer system reduces the crew size from 154 to 120, optimizing operational efficiency. This modification allows the Lola III to carry a complement of ten aerospace fighters and ten Small Craft, significantly bolstering its defensive capabilities against enemy fighters. Additionally, the Lola III is equipped with a powerful Lithium-Fusion Battery, enhancing its energy reserves for sustained operations. With its impressive armament, including naval lasers and small-caliber autocannons, the Lola-class destroyer possesses significant firepower. The naval lasers offer extensive range, while the autocannons provide effective broadside engagement capabilities. The presence of missile systems such as the Barracuda and White Shark further enhances the Lola III's offensive potential. These destroyers are versatile assets, excelling in escort duties, picket missions, and providing crucial protection against pirate threats.
-</capabilities>
 
-<overview>
-The Lola-class WarShip is a heavily armed and armored destroyer designed for escort duty in the Periphery and picket duty in the Terran Hegemony. Named after Rear Admiral Adelaide Lola, the first Lola III entered service in 2662. The Clan's upgraded Lola III incorporates advanced modifications, including Ferro-Carbide armor, an advanced computer system, and an expanded aerospace fighter complement.
-</overview>
 
-<history>
-Introduced in 2662, the Lola-class destroyers quickly gained a reputation for reliability and cost-effectiveness. Serving as escort and picket ships for over seven centuries in the Terran Hegemony, these vessels became a mainstay of the Hegemony Navy. However, advancements in technology led to the Lola-class ships facing obsolescence. During the Clan era, the Lola III underwent significant upgrades, making notable modifications to the original design. The replacement of conventional armor with Ferro-Carbide armor greatly improved the Lola III's defensive capabilities. The integration of an advanced computer system reduced crew requirements and allowed for an expanded aerospace fighter and Small Craft complement, enhancing its defensive and offensive capabilities. The addition of a Lithium-Fusion Battery further increased the ship's operational efficiency. Today, the Lola-class destroyers, particularly the upgraded Lola III variant, continue to play pivotal roles in Clan fleets. Their history of reliable service, combined with advanced modifications, makes them formidable assets in combat scenarios. Whether fulfilling escort duties, conducting picket missions, or defending against enemy fighters, the Lola-class destroyers uphold their legacy as versatile and potent WarShips.
-</history>
 
-<manufacturer>
-Refit
-</manufacturer>
 
-<primaryFactory>
-Unknown
-</primaryFactory>
 
-<systemManufacturers>
-CHASSIS:Unknown
-ENGINE:Unknown
-ARMOR:Unknown
-COMMUNICATIONS:Unknown
-TARGETING:Unknown
-</systemManufacturers>
 
 <use>
 Destroyer
@@ -285,4 +263,47 @@ TR:3057r
 <escape_pod>
 8
 </escape_pod>
+
+# Fluff Date: 2026-02-24 17:43:28
+<overview>
+The Lola III-class destroyer is the third and most successful generation of the Lola escort warship lineage, entering service with the Star League Navy in 2662. Designed by Boeing Interstellar to be quick and inexpensive to build at their Galax yards, the six hundred eighty thousand ton destroyer introduced the innovative baffled-deadspace armor system, a concept borrowed from ground combat vehicle designers that uses a cushion layer between inner and outer hull sections to absorb weapons impacts. Approximately four hundred seventy Lola IIIs were launched during the Star League era, making it one of the most prolific warship classes ever produced. A large number survived the Amaris Civil War to become the second-most numerous warship class within the Exodus fleet, and the design continues to serve multiple factions across all eras of conflict, from Clan toumans to Inner Sphere navies.
+</overview>
+
+<capabilities>
+The Lola III's signature innovation is its baffled-deadspace armor system, which uses Ferro-Carbide plating in a layered configuration that significantly improves survivability over the Primitive armor of earlier Lola variants. Twelve Naval Laser 55s distributed across four turrets provide the primary long-range energy armament, covering all firing arcs with sustained engagement capability. Naval Laser 45s supplement these on the broadsides and aft quarter arcs, while sixteen Naval Autocannon/10 batteries frame the hangar entrances and cover the broadside and aft arcs with concentrated ballistic fire. White Shark missile launchers on the forward quarter arcs deliver heavy capital missile strikes, while Barracuda launchers distributed across the broadsides and stern provide lighter missile coverage. The Clan-upgraded variant introduced in 2841 adds a Lithium-Fusion Battery for rapid successive jumps and a Mobile HPG for independent communications, while advanced computer systems reduce crew requirements and allow expansion of the fighter complement from six to ten aerospace fighters and the small craft complement from four to ten. Both variants retain the cramped crew conditions characteristic of all Lola generations, a persistent consequence of the oversized drives required to propel the heavily armored hull.
+</capabilities>
+
+<deployment>
+<p>Clan Ghost Bear lost the destroyers Blizzard and Icepick at the Second Naval Battle of Alshain in May 3067 during a pyrrhic Trial of Possession victory that cost all four Ghost Bear destroyers in the engagement.</p><p>Clan Blood Spirit's Blood Fury was destroyed in late August 3063 during Clan Star Adder's invasion of the York system, removing the Blood Spirits' only destroyer.</p><p>The Diamond Shark vessel Predator was destroyed on September 20, 3070 above Strana Mechty when the Steel Viper battleship Perigard Zalman annihilated it on the first pass, demonstrating the vulnerability of destroyers to capital ship firepower.</p><p>Clan Hell's Horses operated the Black Knight through multiple Wars of Reaving engagements, inflicting heavy damage on Ice Hellion vessels at Steelton in September 3071 and destroying the Moore's Honor at Toland in November 3071 before retreating from Nouveaux Paris in July 3072.</p><p>The Coyote vessel Courage was destroyed in August 3073 by local Space Defense System defenses during an invasion of the Diamond Shark holding at Vinton, while the captured Fire Mandrill destroyer Rage transmitted a mysterious HPG broadcast before being lost by 3085.</p><p>Clan Star Adder's Warlock proved one of the more durable Lola IIIs, participating in the battles of Nouveaux Paris and Ghent in July 3072 and surviving the Wars of Reaving as one of thirteen Star Adder warships still operational in 3085.</p>
+</deployment>
+
+<history>
+The Lola III-class destroyer was designed by Boeing Interstellar as a cost-effective successor to the troubled Lola II, entering Star League Navy service in 2662. Built at Boeing's Galax yards located outside the Terran Hegemony, the Lola III introduced the baffled-deadspace armor system, a concept developed in consultation with ground combat vehicle designers that interposes a cushion layer between inner and outer hull sections to absorb weapons impacts. This innovation replaced the Primitive armor of earlier variants with advanced Ferro-Carbide plating, dramatically improving survivability without the excessive weight penalties that had plagued the Lola I and II.<p>Boeing produced approximately four hundred seventy Lola III destroyers during the Star League era, making it one of the most numerous warship classes in history. The design proved remarkably resilient during the Amaris Civil War, with a large proportion of the fleet surviving to join Aleksandr Kerensky's Exodus as the second-most numerous warship class in the departing fleet. Those remaining in the Inner Sphere continued to serve various successor states and eventually found their way into ComStar's hidden fleet.</p><p>In 2841, Clan technicians performed comprehensive upgrades to their Lola III destroyers, installing Lithium-Fusion Batteries for rapid successive jumps and Mobile HPGs for independent communications. Advanced computer systems reduced crew requirements from over two hundred fifty to approximately two hundred twenty, freeing internal volume for an expanded complement of ten aerospace fighters and ten small craft. These upgraded vessels became the backbone of most Clan naval forces, serving as escorts, patrol craft, and light combatants across the Clan homeworlds and later the occupation zones.</p><p>The Jihad and Wars of Reaving period devastated Lola III numbers across all factions. ComStar lost its entire fleet during Case White, while Clan forces suffered catastrophic attrition in the Homeworld conflicts. The destruction of vessels like the Blood Fury, Predator, Blizzard, and Courage reflected the broader collapse of Clan naval power during this turbulent era. Wolf's Dragoons lost both their recovered destroyers at Outreach in the opening days of the Jihad.</p><p>Despite these losses, the sheer number of Lola IIIs originally produced ensured that some survived into the Dark Age and ilClan eras. Clan Star Adder retained the Warlock among its surviving fleet, while the Nova Cat vessel Hunter endured through multiple conflicts before being destroyed as the Triumphus at the Battle for Terra in 3151. The Lola III's long service record spanning nearly nine centuries from first launch to final engagement stands as testament to the fundamental soundness of Boeing Interstellar's original design.</p>
+</history>
+
+<manufacturer>
+Refit
+</manufacturer>
+
+<primaryFactory>
+Unknown
+</primaryFactory>
+
+<systemManufacturers>
+CHASSIS:Boeing Interstellar
+ENGINE:Unknown
+ARMOR:Boeing
+JUMPING:Unknown
+COMMUNICATIONS:Unknown
+TARGETING:Unknown
+</systemManufacturers>
+
+<systemModels>
+CHASSIS:Unknown
+ENGINE:Unknown
+ARMOR:D-Span Ferro-Carbide
+JUMPING:Unknown
+COMMUNICATIONS:Unknown
+TARGETING:Unknown
+</systemModels>
 
