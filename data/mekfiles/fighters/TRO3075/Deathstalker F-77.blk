@@ -121,14 +121,30 @@ Medium Laser
 IS Ammo AC/10
 </Fuselage Equipment>
 
-# Fluff Date: 2026-02-23 16:31:48
-<capabilities>
-<p>Designed for an air supremacy role, the Deathstalker mounts a potent arsenal centered on a nose-mounted Imperator X autocannon/10, backed by four wing-mounted Hellion-a III extended-range large lasers and two Hellion-b II medium lasers for close-range backup. Twenty-five double heat sinks allow the fighter to sustain fire from its primary weapons simultaneously, giving it exceptional alpha strike capability for its era. The F-77/X frame incorporates the forward-swept wing geometry that provides remarkable flight stability and allows the use of lighter structural materials in the wings.</p><p>However, the heavy weapons loadout and structural reinforcement come at a significant cost to acceleration. Powered by a VOX 240a fusion engine, the Deathstalker is noticeably slower than comparable heavy fighters, a trade-off that left Star League procurement officials unconvinced despite the fighter's raw destructive potential. Ten and a half tons of StarSlab Lite/2 armor provide reasonable protection, though pilots must rely on firepower rather than speed to survive engagements. The placement of primary weapons along the load-bearing wings follows traditional attack aircraft philosophy, keeping the fighter's center of mass balanced during sustained firing.</p>
-</capabilities>
 
+
+
+
+
+
+
+
+<source>
+TR:3075
+</source>
+
+<tonnage>
+80.0
+</tonnage>
+
+# Fluff Date: 2026-02-26 19:50:04
 <overview>
 <p>The F-77 Deathstalker is an eighty-ton heavy aerospace fighter developed by Andurien AeroTech, a division of Free Worlds Defense Industries. Originally unveiled in 2744 in response to a Free Worlds League Military request for a high-performance attack craft, the Deathstalker featured a radical forward-swept wing layout first theorized during the Age of War. Though the design showed tremendous promise during early development, structural flaws discovered during flight trials prevented it from entering full-scale production. Only twenty prototypes were constructed before the program was shelved. Despite this failure, the forward-swept wing concept proved sound enough to inspire a complete redesign that resulted in the highly successful F-90 Stingray. The fighter would not see production until centuries later, when the Duchy of Andurien revived the design during the Jihad era.</p>
 </overview>
+
+<capabilities>
+<p>Designed for an air supremacy role, the Deathstalker mounts a potent arsenal centered on a nose-mounted Imperator X autocannon/10, backed by four wing-mounted Hellion-a III extended-range large lasers and two Hellion-b II medium lasers for close-range backup. Twenty-five double heat sinks allow the fighter to sustain fire from its primary weapons simultaneously, giving it exceptional alpha strike capability for its era. The F-77/X frame incorporates the forward-swept wing geometry that provides remarkable flight stability and allows the use of lighter structural materials in the wings.</p><p>However, the heavy weapons loadout and structural reinforcement come at a significant cost to acceleration. Powered by a VOX 240a fusion engine, the Deathstalker is noticeably slower than comparable heavy fighters, a trade-off that left Star League procurement officials unconvinced despite the fighter's raw destructive potential. Ten and a half tons of StarSlab Lite/2 armor provide reasonable protection, though pilots must rely on firepower rather than speed to survive engagements. The placement of primary weapons along the load-bearing wings follows traditional attack aircraft philosophy, keeping the fighter's center of mass balanced during sustained firing.</p>
+</capabilities>
 
 <deployment>
 <p>The original F-77 never entered full-scale production, with only twenty prototypes constructed at Andurien AeroTech's Westover facility before the design was permanently grounded following its structural failure during flight trials. None of these airframes saw live combat during the Star League era. Though the fighters were officially shelved, the prototypes reportedly remained in storage, and rumors persisted for centuries about forgotten Deathstalker airframes cached in Andurien holdings. The F-77's legacy lies not in its own service record but in the design data it provided for the development of the far more successful Stingray.</p>
@@ -161,12 +177,4 @@ ARMOR:Lite/2
 COMMUNICATIONS:F-61
 TARGETING:VAX
 </systemModels>
-
-<source>
-TR:3075
-</source>
-
-<tonnage>
-80.0
-</tonnage>
 

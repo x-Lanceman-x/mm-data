@@ -125,14 +125,30 @@ CLERMediumLaser:OMNI
 <Fuselage Equipment>
 </Fuselage Equipment>
 
-# Fluff Date: 2026-02-23 10:34:56
-<capabilities>
-<p>Built on the Mercer Ultralight chassis and powered by a 280-rated XL engine, the Batu achieves a safe thrust of nine and maximum thrust of fourteen, making it one of the more agile fighters in its weight class. The Cobra Pattern 12 ferro-aluminum armor provides reasonable protection while keeping weight available for weaponry, though the resulting 153 points of armor coverage is below average for a forty-ton fighter. Ten fixed double heat sinks handle baseline thermal loads, though many configurations push beyond their capacity.</p><p>The Batu's eighteen tons of pod space represent its primary advantage, allowing it to mount firepower that rivals heavier designs. This comes at a cost, however. The fighter carries only 240 points of fuel, which severely limits its operational endurance. Pilots must engage decisively and withdraw quickly, as extended patrols or prolonged dogfights will exhaust fuel reserves well before ammunition or heat become concerns. The LongTalk 2 communications suite and Mark IX targeting and tracking system provide solid electronic support across all configurations.</p>
-</capabilities>
 
+
+
+
+
+
+
+
+<source>
+TR:3055U
+</source>
+
+<tonnage>
+40.0
+</tonnage>
+
+# Fluff Date: 2026-02-26 19:50:04
 <overview>
 <p>The Batu is a forty-ton Clan OmniFighter developed by Clan Steel Viper as a light interceptor. Introduced in 2987 at the Mercer Foundries on New Kent, the design reflects the Vipers' preference for swift, decisive strikes in both aerial and ground engagements. The Batu prioritizes agility and raw offensive potential over durability, carrying an impressive eighteen tons of pod space for a fighter of its weight class. This generous payload allows the Batu to be configured for a wide range of combat roles despite its light frame.</p><p>Over the centuries, Clans Wolf, Jade Falcon, Fire Mandrill, and others have acquired Batu fighters through Trials of Possession and battlefield salvage, redistributing the design wherever it was most needed. The fighter remains a respected, if niche, presence in Clan toumans as a fast-response interceptor.</p>
 </overview>
+
+<capabilities>
+<p>Built on the Mercer Ultralight chassis and powered by a 280-rated XL engine, the Batu achieves a safe thrust of nine and maximum thrust of fourteen, making it one of the more agile fighters in its weight class. The Cobra Pattern 12 ferro-aluminum armor provides reasonable protection while keeping weight available for weaponry, though the resulting 153 points of armor coverage is below average for a forty-ton fighter. Ten fixed double heat sinks handle baseline thermal loads, though many configurations push beyond their capacity.</p><p>The Batu's eighteen tons of pod space represent its primary advantage, allowing it to mount firepower that rivals heavier designs. This comes at a cost, however. The fighter carries only 240 points of fuel, which severely limits its operational endurance. Pilots must engage decisively and withdraw quickly, as extended patrols or prolonged dogfights will exhaust fuel reserves well before ammunition or heat become concerns. The LongTalk 2 communications suite and Mark IX targeting and tracking system provide solid electronic support across all configurations.</p>
+</capabilities>
 
 <deployment>
 <p>The D configuration concentrates devastating forward firepower through a pair of nose-mounted ER PPCs and an ER medium laser, with a second ER medium laser protecting the rear arc. Four additional double heat sinks bring the fighter close to sustaining continuous PPC fire without overheating. This variant trades the versatility of other configurations for raw long-range killing power, retaining the hitting power of the C variant without its ammunition dependency.</p>
@@ -165,12 +181,4 @@ ARMOR:Pattern 12 Ferro-aluminum
 COMMUNICATIONS:LongTalk 2
 TARGETING:Mark IX TTS
 </systemModels>
-
-<source>
-TR:3055U
-</source>
-
-<tonnage>
-40.0
-</tonnage>
 

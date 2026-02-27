@@ -121,14 +121,30 @@ Clan Reflective
 <Fuselage Equipment>
 </Fuselage Equipment>
 
-# Fluff Date: 2026-02-23 10:34:56
-<capabilities>
-<p>The Cheetah IIC is built around a Clan XXL engine, an extremely powerful but volatile powerplant that frees substantial tonnage for weapons and equipment at the cost of increased vulnerability to critical damage. A small cockpit further reduces overhead, though the cramped conditions make extended operations uncomfortable for pilots. Laser reflective armor protects the hull, providing excellent defense against the energy weapons that dominate aerospace combat.</p><p>The fighter's primary armament consists of four improved heavy lasers, giving it devastating close-range firepower that far exceeds any previous Cheetah variant. While improved heavy lasers generate significant heat per shot, the Clan-specification heat management systems help offset this burden. A light active probe rounds out the electronics suite, providing enhanced sensor detection capabilities that complement the fighter's high speed. The combination of extreme engine performance, concentrated laser armament, and specialized armor makes the Cheetah IIC a potent dogfighter, though the XXL engine's fragility remains a significant operational concern.</p>
-</capabilities>
 
+
+
+
+
+
+
+
+<source>
+RS:3150
+</source>
+
+<tonnage>
+25.0
+</tonnage>
+
+# Fluff Date: 2026-02-26 19:50:04
 <overview>
 <p>The Cheetah IIC is a Clan-technology rebuild of the classic Cheetah aerospace fighter, produced at the former Imstar Aerospace facility on Amity under Wolf Empire control. First appearing around 3149, the design draws inspiration from the Thrush Nanook custom variant and represents a dramatic reimagining of the venerable light fighter platform. While it shares the Cheetah's twenty-five-ton weight class and general fast-strike mission profile, the IIC is effectively a new design built with advanced Clan and experimental technologies that bear little resemblance to the original Inner Sphere fighter beyond the basic airframe dimensions and the manufacturing infrastructure used to produce it.</p>
 </overview>
+
+<capabilities>
+<p>The Cheetah IIC is built around a Clan XXL engine, an extremely powerful but volatile powerplant that frees substantial tonnage for weapons and equipment at the cost of increased vulnerability to critical damage. A small cockpit further reduces overhead, though the cramped conditions make extended operations uncomfortable for pilots. Laser reflective armor protects the hull, providing excellent defense against the energy weapons that dominate aerospace combat.</p><p>The fighter's primary armament consists of four improved heavy lasers, giving it devastating close-range firepower that far exceeds any previous Cheetah variant. While improved heavy lasers generate significant heat per shot, the Clan-specification heat management systems help offset this burden. A light active probe rounds out the electronics suite, providing enhanced sensor detection capabilities that complement the fighter's high speed. The combination of extreme engine performance, concentrated laser armament, and specialized armor makes the Cheetah IIC a potent dogfighter, though the XXL engine's fragility remains a significant operational concern.</p>
+</capabilities>
 
 <deployment>
 <p>Produced in limited numbers at the former Imstar Aerospace facility on Amity under Wolf Empire control, the Cheetah IIC has been fielded primarily by Clan Wolf forces operating in the ilClan era. Its advanced Clan technology base and specialized armor make it a niche but formidable addition to Wolf aerospace formations.</p>
@@ -161,12 +177,4 @@ ARMOR:Laser Reflective
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
 </systemModels>
-
-<source>
-RS:3150
-</source>
-
-<tonnage>
-25.0
-</tonnage>
 

@@ -116,14 +116,30 @@ ISMediumPulseLaser
 <Fuselage Equipment>
 </Fuselage Equipment>
 
-# Fluff Date: 2026-02-23 10:34:56
-<capabilities>
-<p>The Cheetah's defining characteristic is its extraordinary acceleration. A GM 250-a fusion engine drives the fighter to a maximum thrust of nine gravities with a safe thrust rating of six, making it among the fastest aerospace fighters in existence. This speed is essential, as the baseline F-10 carries only three tons of standard armor, meaning a single well-placed hit from a heavy weapon can prove catastrophic. Four tons of fuel provide adequate operational range for patrol and escort missions.</p><p>The F-10's armament consists of a nose-mounted Starflash I small laser and a Starflash II medium laser in each wing, giving the Cheetah respectable firepower for a fighter of its size. The all-laser loadout eliminates ammunition dependency, allowing extended engagements without logistical concerns. Pilots have long debunked two persistent myths about the design: the GM 250-a does not consume more fuel than comparable engines, and the fighter handles atmosphere just as well as vacuum, though its extreme acceleration profiles remain physically punishing regardless of operating environment.</p>
-</capabilities>
 
+
+
+
+
+
+
+
+<source>
+TR:3039
+</source>
+
+<tonnage>
+25.0
+</tonnage>
+
+# Fluff Date: 2026-02-26 19:50:04
 <overview>
 <p>Designed by Imstar Aerospace for the Star League Defense Force and first entering production in 2630, the Cheetah is a light aerospace fighter built for speed above all else. Weighing just twenty-five tons, it was conceived as a fast reconnaissance and light strike platform capable of outrunning virtually any opponent. After the fall of the Star League, the Free Worlds League adopted the Cheetah as their standard light fighter, retooling several factories to continue production. The design has since earned a reputation as a reliable workhorse of FWLM aero formations, prized for its blistering acceleration and versatility despite its fragile armor protection.</p>
 </overview>
+
+<capabilities>
+<p>The Cheetah's defining characteristic is its extraordinary acceleration. A GM 250-a fusion engine drives the fighter to a maximum thrust of nine gravities with a safe thrust rating of six, making it among the fastest aerospace fighters in existence. This speed is essential, as the baseline F-10 carries only three tons of standard armor, meaning a single well-placed hit from a heavy weapon can prove catastrophic. Four tons of fuel provide adequate operational range for patrol and escort missions.</p><p>The F-10's armament consists of a nose-mounted Starflash I small laser and a Starflash II medium laser in each wing, giving the Cheetah respectable firepower for a fighter of its size. The all-laser loadout eliminates ammunition dependency, allowing extended engagements without logistical concerns. Pilots have long debunked two persistent myths about the design: the GM 250-a does not consume more fuel than comparable engines, and the fighter handles atmosphere just as well as vacuum, though its extreme acceleration profiles remain physically punishing regardless of operating environment.</p>
+</capabilities>
 
 <deployment>
 <p>Introduced in 3051 as the Cheetah's modernized standard production model, the F-11 corrects many of the original's flaws. The upgrade to an XL engine and ferro-aluminum armor provides better protection, while pulse lasers and increased fuel capacity make it a more capable all-around fighter. The F-11 has gradually replaced the F-10 on active production lines.</p>
@@ -156,12 +172,4 @@ ARMOR:Ferro-Aluminum
 COMMUNICATIONS:Lassitor-3QS
 TARGETING:IMB SYS 3600
 </systemModels>
-
-<source>
-TR:3039
-</source>
-
-<tonnage>
-25.0
-</tonnage>
 

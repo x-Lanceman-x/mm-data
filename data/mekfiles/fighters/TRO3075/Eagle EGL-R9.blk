@@ -119,14 +119,30 @@ Medium Laser
 <Fuselage Equipment>
 </Fuselage Equipment>
 
-# Fluff Date: 2026-02-23 16:31:48
-<capabilities>
-<p>The Eagle is built on an ImStar Alpha airframe powered by a Vlar 300-rated fusion engine, giving the seventy-five-ton fighter respectable thrust performance for its weight class. Fourteen tons of StarSlab/2 armor provide generous protection, allowing the Eagle to absorb considerable weapons fire before being forced to disengage. A Datacom 26 communications system and Dynatec 990 targeting and tracking system handle sensor and coordination duties.</p><p>The fighter's armament consists entirely of Magna-brand lasers. Three Magna Mk III large lasers serve as the primary weapons, with one mounted in the nose and one in each wing, providing solid ranged firepower across all forward engagement arcs. Four Magna Mk II medium lasers supplement the main battery, three mounted forward for close-range engagements and one facing aft to discourage pursuit. Twenty-five single heat sinks manage the thermal load, allowing the pilot to fire most of the weapons suite in volley with manageable heat buildup. The all-laser loadout eliminates any dependence on ammunition, granting the Eagle exceptional endurance during extended patrols or prolonged engagements. While its acceleration cannot match dedicated Star League heavy fighters, the Eagle compares favorably to most Great House designs of equivalent tonnage.</p>
-</capabilities>
 
+
+
+
+
+
+
+
+<source>
+TR:3075
+</source>
+
+<tonnage>
+75.0
+</tonnage>
+
+# Fluff Date: 2026-02-26 19:50:04
 <overview>
 <p>The Eagle is the first heavy aerospace fighter developed by the Free Worlds League, with origins stretching back to a primitive prototype first flown in 2324. ImStar Aerospace of Atreus produced the definitive EGL-R6 model beginning in 2501, establishing the Eagle as a rugged and dependable fighter intended for extended operations far from established supply lines. At seventy-five tons, the Eagle fills the role of an all-laser interceptor and interdiction platform, relying entirely on energy weapons to eliminate the logistical burden of ammunition resupply. Its straightforward design philosophy and use of widely available components earned the Eagle a reputation as one of the yardsticks against which modern heavy aerospace fighters are measured. Multiple manufacturers across the Inner Sphere have produced the design over its centuries-long service history, ensuring that it remains one of the most widely encountered heavy fighters in operation.</p>
 </overview>
+
+<capabilities>
+<p>The Eagle is built on an ImStar Alpha airframe powered by a Vlar 300-rated fusion engine, giving the seventy-five-ton fighter respectable thrust performance for its weight class. Fourteen tons of StarSlab/2 armor provide generous protection, allowing the Eagle to absorb considerable weapons fire before being forced to disengage. A Datacom 26 communications system and Dynatec 990 targeting and tracking system handle sensor and coordination duties.</p><p>The fighter's armament consists entirely of Magna-brand lasers. Three Magna Mk III large lasers serve as the primary weapons, with one mounted in the nose and one in each wing, providing solid ranged firepower across all forward engagement arcs. Four Magna Mk II medium lasers supplement the main battery, three mounted forward for close-range engagements and one facing aft to discourage pursuit. Twenty-five single heat sinks manage the thermal load, allowing the pilot to fire most of the weapons suite in volley with manageable heat buildup. The all-laser loadout eliminates any dependence on ammunition, granting the Eagle exceptional endurance during extended patrols or prolonged engagements. While its acceleration cannot match dedicated Star League heavy fighters, the Eagle compares favorably to most Great House designs of equivalent tonnage.</p>
+</capabilities>
 
 <deployment>
 <p>Introduced in 2601, the R9 reconfigures the Eagle for an anti-DropShip role. The wing-mounted large lasers are replaced with paired Magna Hellstar PPCs, substantially increasing striking power at range, while an additional heat sink partially offsets the increased thermal demands. The R9 is primarily used in orbital facilities as a defense against hostile DropShips, where its ability to threaten larger craft at extended range proves invaluable.</p>
@@ -148,6 +164,7 @@ Various
 CHASSIS:ImStar Aerospace
 ENGINE:Vlar
 ARMOR:StarSlab
+JUMP_JET:N/A
 COMMUNICATIONS:Datacom
 TARGETING:Dynatec
 </systemManufacturers>
@@ -156,15 +173,8 @@ TARGETING:Dynatec
 CHASSIS:ImStar Alpha
 ENGINE:Vlar 300
 ARMOR:StarSlab/2
+JUMP_JET:N/A
 COMMUNICATIONS:Datacom 26
 TARGETING:Dynatec 990
 </systemModels>
-
-<source>
-TR:3075
-</source>
-
-<tonnage>
-75.0
-</tonnage>
 

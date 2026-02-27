@@ -133,14 +133,30 @@ ISChaffPod:OMNI
 CLECMSuite:OMNI
 </Fuselage Equipment>
 
-# Fluff Date: 2026-02-23 17:46:42
-<capabilities>
-<p>The Issedone's saving grace is its nine tons of available pod space, generous for a thirty-ton airframe. The base chassis retains the F-50/C frame and GM 150 fusion engine of its Spad ancestor, providing safe thrust of 7 and a maximum of 11. Ten single heat sinks handle baseline thermal load, though most configurations add pod-mounted sinks to compensate for energy-heavy loadouts. Seven and a half tons of Carbondale III armor afford reasonable protection, but a reckless pilot can quickly find it insufficient against sustained fire.</p><p>The Issedone debuted seventeen years after the first OmniMech and faced the same technical limitations that plagued early land-air machines and first-generation aerospace OmniPods. Nine tons of Clan-technology equipment can make any light airframe dangerous, and the fighter uses that capacity effectively. Like the Spad before it, the Issedone is valued by technicians for its ruggedness and ease of servicing. Its CMDSTAT 500-A communications system and Scope Paint v2.41 targeting suite represent incremental upgrades over the Spad's original electronics, maintaining the design philosophy of reliability over sophistication.</p>
-</capabilities>
 
+
+
+
+
+
+
+
+<source>
+TR:GC
+</source>
+
+<tonnage>
+30.0
+</tonnage>
+
+# Fluff Date: 2026-02-26 19:50:04
 <overview>
 <p>Clan Snow Raven became the first Clan to develop an OmniFighter when its technicians introduced the Issedone in 2871, drawing directly on the semi-modular Spad light fighter that the Clan had inherited from its Star League-era stores. Just as Clan Coyote had based the first OmniMech on the modular Mercury II, the Ravens leveraged the Spad's maintenance-friendly design to create their new fighter quickly. The result pleased the Clan's technicians, though the Issedone was never as effective as the Issus and Chaeronea fighters already in frontline service. Despite these limitations, it performed yeoman work for the next century before gradually fading into obsolescence. In a surprising development, Clan Sea Fox later reintroduced the Issedone and has found steady sales in tertiary markets like the Periphery, a testament to how solid the basic package remains.</p>
 </overview>
+
+<capabilities>
+<p>The Issedone's saving grace is its nine tons of available pod space, generous for a thirty-ton airframe. The base chassis retains the F-50/C frame and GM 150 fusion engine of its Spad ancestor, providing safe thrust of 7 and a maximum of 11. Ten single heat sinks handle baseline thermal load, though most configurations add pod-mounted sinks to compensate for energy-heavy loadouts. Seven and a half tons of Carbondale III armor afford reasonable protection, but a reckless pilot can quickly find it insufficient against sustained fire.</p><p>The Issedone debuted seventeen years after the first OmniMech and faced the same technical limitations that plagued early land-air machines and first-generation aerospace OmniPods. Nine tons of Clan-technology equipment can make any light airframe dangerous, and the fighter uses that capacity effectively. Like the Spad before it, the Issedone is valued by technicians for its ruggedness and ease of servicing. Its CMDSTAT 500-A communications system and Scope Paint v2.41 targeting suite represent incremental upgrades over the Spad's original electronics, maintaining the design philosophy of reliability over sophistication.</p>
+</capabilities>
 
 <deployment>
 <p>Introduced by Clan Sea Fox for export markets, the C configuration serves a support and electronic warfare role. Modular armor panels on the nose and both wings provide additional protection. The nose carries an ER small laser and light TAG system, while each wing mounts paired micro pulse lasers. An ECM suite and two rear-firing chaff pods sourced from Inner Sphere vendors round out the electronic warfare package.</p>
@@ -162,6 +178,7 @@ Lum, Twycross
 CHASSIS:Unknown
 ENGINE:GM
 ARMOR:Carbondale
+JUMP_JET:N/A
 COMMUNICATIONS:CMDSTAT
 TARGETING:Scope Paint
 </systemManufacturers>
@@ -170,15 +187,8 @@ TARGETING:Scope Paint
 CHASSIS:F-50/C
 ENGINE:150
 ARMOR:III
+JUMP_JET:N/A
 COMMUNICATIONS:500-A
 TARGETING:v2.41
 </systemModels>
-
-<source>
-TR:GC
-</source>
-
-<tonnage>
-30.0
-</tonnage>
 
