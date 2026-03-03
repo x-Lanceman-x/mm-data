@@ -1,4 +1,4 @@
-# MegaMek Data (C) 2025 by The MegaMek Team is licensed under CC BY-NC-SA 4.0.
+# MegaMek Data (C) 2026 by The MegaMek Team is licensed under CC BY-NC-SA 4.0.
 # To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
 #
 # NOTICE: The MegaMek organization is a non-profit group of volunteers
@@ -15,42 +15,42 @@
 # <https://www.xbox.com/en-US/developers/rules> and it is not endorsed by or
 # affiliated with Microsoft.
 
+generator:MegaMek Suite 0.50.12 on 2026-03-03
 chassis:Karhu
 model:C
 mul id:1750
 
-Config:Biped Omnimech
-TechBase:Clan
-Era:3079
+Config:Biped OmniMek
+techbase:Mixed (Clan Chassis)
+era:3079
 source:TR:3085
-Rules Level:2
+rules level:2
 role:Sniper
 
 quirk:em_inter_whole
 
+mass:65
+engine:325 XL (Clan) Engine
+structure:Clan Endo Steel
+myomer:Standard
 
-Mass:65
-Engine:325 XL (Clan) Engine(IS)
-Structure:Clan Endo Steel
-Myomer:Standard
+heat sinks:12 Clan Double
+base chassis heat sinks:12
+walk mp:5
+jump mp:5
 
-Heat Sinks:12 Double
-Base Chassis Heat Sinks:12
-Walk MP:5
-Jump MP:5
-
-Armor:Ferro-Fibrous(Clan)
-LA Armor:20
-RA Armor:20
-LT Armor:23
-RT Armor:23
-CT Armor:30
-HD Armor:9
-LL Armor:26
-RL Armor:26
-RTL Armor:7
-RTR Armor:7
-RTC Armor:10
+armor:Ferro-Fibrous(Clan)
+LA armor:20
+RA armor:20
+LT armor:23
+RT armor:23
+CT armor:30
+HD armor:9
+LL armor:26
+RL armor:26
+RTL armor:7
+RTR armor:7
+RTC armor:10
 
 Weapons:4
 ER Large Laser, Left Arm
@@ -62,8 +62,8 @@ Left Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
-CLERLargeLaser (omnipod)
-CLERMediumLaser (omnipod)
+CLERLargeLaser (OMNIPOD)
+CLERMediumLaser (OMNIPOD)
 Clan Endo Steel
 Clan Endo Steel
 -Empty-
@@ -77,11 +77,11 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-Retractable Blade (omnipod)
-Retractable Blade (omnipod)
-Retractable Blade (omnipod)
-Retractable Blade (omnipod)
-Retractable Blade (omnipod)
+Retractable Blade (OMNIPOD)
+Retractable Blade (OMNIPOD)
+Retractable Blade (OMNIPOD)
+Retractable Blade (OMNIPOD)
+Retractable Blade (OMNIPOD)
 Clan Endo Steel
 -Empty-
 -Empty-
@@ -89,12 +89,12 @@ Clan Endo Steel
 Left Torso:
 Fusion Engine
 Fusion Engine
-Jump Jet (omnipod)
-Jump Jet (omnipod)
-CLUltraAC5 (omnipod)
-CLUltraAC5 (omnipod)
-CLUltraAC5 (omnipod)
-Clan Ultra AC/5 Ammo (omnipod)
+Jump Jet (OMNIPOD)
+Jump Jet (OMNIPOD)
+CLUltraAC5 (OMNIPOD)
+CLUltraAC5 (OMNIPOD)
+CLUltraAC5 (OMNIPOD)
+Clan Ultra AC/5 Ammo (OMNIPOD)
 Clan Ferro-Fibrous
 Clan Ferro-Fibrous
 Clan Ferro-Fibrous
@@ -103,12 +103,12 @@ Clan Ferro-Fibrous
 Right Torso:
 Fusion Engine
 Fusion Engine
-Jump Jet (omnipod)
-Jump Jet (omnipod)
-CLUltraAC5 (omnipod)
-CLUltraAC5 (omnipod)
-CLUltraAC5 (omnipod)
-Clan Ultra AC/5 Ammo (omnipod)
+Jump Jet (OMNIPOD)
+Jump Jet (OMNIPOD)
+CLUltraAC5 (OMNIPOD)
+CLUltraAC5 (OMNIPOD)
+CLUltraAC5 (OMNIPOD)
+Clan Ultra AC/5 Ammo (OMNIPOD)
 Clan Ferro-Fibrous
 Clan Ferro-Fibrous
 Clan Ferro-Fibrous
@@ -125,7 +125,7 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-Jump Jet (omnipod)
+Jump Jet (OMNIPOD)
 -Empty-
 
 Head:
