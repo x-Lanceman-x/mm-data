@@ -15,7 +15,7 @@
 # <https://www.xbox.com/en-US/developers/rules> and it is not endorsed by or
 # affiliated with Microsoft.
 
-#Saved from version 0.50.12 on 2026-02-26
+#Saved from version 0.50.12-nightly-2026-02-26 on 2026-02-28
 <UnitType>
 BattleArmor
 </UnitType>
@@ -40,6 +40,10 @@ Water Elemental Mining Suit
 Mixed (Clan Chassis) Experimental
 </type>
 
+<role>
+None
+</role>
+
 <motion_type>
 UMU
 </motion_type>
@@ -53,10 +57,18 @@ UMU
 </armor_type>
 
 <armor_tech>
-7
+2
 </armor_tech>
 
 <Point Equipment>
+BABasicManipulator:LA
+BAIndustrialDrill:RA
+BACuttingTorch:RA
+BACuttingTorch:LA
+BAExtendedLifeSupport:Body
+BAPowerpack:Body
+HHSearchlight
+Mission Equipment Storage:Body:SIZE:200.0
 </Point Equipment>
 
 <Trooper 1 Equipment>
@@ -137,4 +149,5 @@ biped
 <weightclass>
 2
 </weightclass>
+
 

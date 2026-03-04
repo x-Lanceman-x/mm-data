@@ -15,7 +15,7 @@
 # <https://www.xbox.com/en-US/developers/rules> and it is not endorsed by or
 # affiliated with Microsoft.
 
-generator:MegaMek Suite 0.50.12 on 2026-02-26
+generator:MegaMek Suite 0.50.12-nightly-2026-03-01 on 2026-03-02
 chassis:Gladiator
 clanname:Executioner
 model:T
@@ -109,7 +109,7 @@ CLDoubleHeatSink (OMNIPOD)
 CLDoubleHeatSink (OMNIPOD)
 CLMG (OMNIPOD)
 CLMG (OMNIPOD)
-Clan Machine Gun Ammo - Proto (OMNIPOD)
+Clan Machine Gun Ammo - Full (OMNIPOD)
 CLECMSuite (OMNIPOD)
 Clan Ferro-Fibrous
 Clan Ferro-Fibrous

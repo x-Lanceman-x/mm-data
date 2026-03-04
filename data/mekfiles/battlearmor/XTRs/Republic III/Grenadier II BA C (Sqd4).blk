@@ -15,7 +15,7 @@
 # <https://www.xbox.com/en-US/developers/rules> and it is not endorsed by or
 # affiliated with Microsoft.
 
-#Saved from version 0.50.12 on 2026-02-26
+#Saved from version 0.50.12-nightly-2026-02-26 on 2026-02-28
 <UnitType>
 BattleArmor
 </UnitType>
@@ -75,6 +75,7 @@ Clan BA Stealth (Standard):RA
 Clan BA Stealth (Standard):LA
 CLBAFlamer:LA
 ISBAMediumLaser:Body
+BABasicManipulator:RA
 </Squad Equipment>
 
 <Trooper 1 Equipment>
@@ -145,4 +146,5 @@ biped
 <weightclass>
 3
 </weightclass>
+
 

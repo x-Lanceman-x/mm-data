@@ -15,7 +15,7 @@
 # <https://www.xbox.com/en-US/developers/rules> and it is not endorsed by or
 # affiliated with Microsoft.
 
-#Saved from version 0.50.12 on 2026-02-26
+#Saved from version 0.50.12-nightly-2026-02-26 on 2026-02-28
 <UnitType>
 Tank
 </UnitType>
@@ -109,7 +109,6 @@ CLUltraAC20
 </Left Equipment>
 
 <Rear Equipment>
-CLCASE
 </Rear Equipment>
 
 <Turret Equipment>
@@ -146,7 +145,7 @@ Hyner,Irece
 <systemManufacturers>
 ENGINE:165 Standard Fusion
 ARMOR:Advanced Compound Beta
-COMMUNICATIONS:Unit 2J2 “Basher”
+COMMUNICATIONS:Unit 2J2 "Basher"
 TARGETING:Able-Seven Sensor Suite
 </systemManufacturers>
 
@@ -157,4 +156,5 @@ TR:3075
 <tonnage>
 50.0
 </tonnage>
+
 

@@ -15,7 +15,7 @@
 # <https://www.xbox.com/en-US/developers/rules> and it is not endorsed by or
 # affiliated with Microsoft.
 
-#Saved from version 0.50.12 on 2026-02-26
+#Saved from version 0.50.12-nightly-2026-03-01 on 2026-03-02
 <UnitType>
 Dropship
 </UnitType>
@@ -137,7 +137,7 @@ CLLargePulseLaser
 CLMG
 CLMG
 CLMG
-Clan Machine Gun Ammo - Proto:800
+Clan Machine Gun Ammo - Full:800
 (B) CLERMediumLaser
 CLERMediumLaser
 CLERMediumLaser
@@ -165,7 +165,7 @@ CLLargePulseLaser
 CLMG
 CLMG
 CLMG
-Clan Machine Gun Ammo - Proto:800
+Clan Machine Gun Ammo - Full:800
 (B) CLERMediumLaser
 CLERMediumLaser
 CLERMediumLaser

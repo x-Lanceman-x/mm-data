@@ -15,14 +15,14 @@
 # <https://www.xbox.com/en-US/developers/rules> and it is not endorsed by or
 # affiliated with Microsoft.
 
-generator:MegaMek Suite 0.50.12 on 2026-02-26
+generator:MegaMek Suite 0.50.12 on 2026-03-03
 chassis:BattleMaster
 model:BLR-2C
 mul id:290
 
 Config:Biped
 techbase:Inner Sphere
-era:2925
+era:2850
 source:RG03
 rules level:3
 role:Brawler
@@ -198,3 +198,4 @@ systemmanufacturer:COMMUNICATIONS:HarfordCo
 systemmode:COMMUNICATIONS:COM 4000
 systemmanufacturer:TARGETING:Nirasaki
 systemmode:TARGETING:Inciteful Vision
+notes:The units introdate is moving up to 2850 to account for the Extinction of the Command Console

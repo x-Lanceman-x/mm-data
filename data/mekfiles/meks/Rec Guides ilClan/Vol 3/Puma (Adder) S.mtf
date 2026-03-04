@@ -15,7 +15,7 @@
 # <https://www.xbox.com/en-US/developers/rules> and it is not endorsed by or
 # affiliated with Microsoft.
 
-generator:MegaMek Suite 0.50.12 on 2026-02-26
+generator:MegaMek Suite 0.50.12-nightly-2026-03-01 on 2026-03-02
 chassis:Puma
 clanname:Adder
 model:S
@@ -84,9 +84,9 @@ CLMediumPulseLaser (OMNIPOD)
 CLMG (OMNIPOD)
 CLMG (OMNIPOD)
 CLMG (OMNIPOD)
-Clan Machine Gun Ammo - Proto (OMNIPOD)
+Clan Machine Gun Ammo - Full (OMNIPOD)
 CLECMSuite (OMNIPOD)
-Clan Ferro-Fibrous
+-Empty-
 -Empty-
 -Empty-
 
@@ -98,10 +98,10 @@ CLMediumPulseLaser (OMNIPOD)
 CLMG (OMNIPOD)
 CLMG (OMNIPOD)
 CLMG (OMNIPOD)
-Clan Machine Gun Ammo - Proto (OMNIPOD)
+Clan Machine Gun Ammo - Full (OMNIPOD)
 CLActiveProbe (OMNIPOD)
 Clan Ferro-Fibrous
--Empty-
+Clan Ferro-Fibrous
 -Empty-
 
 Left Torso:
@@ -205,3 +205,4 @@ systemmanufacturer:COMMUNICATIONS:Trueborn
 systemmode:COMMUNICATIONS:Ultra 945B
 systemmanufacturer:TARGETING:Adder Special
 systemmode:TARGETING:V8.6
+

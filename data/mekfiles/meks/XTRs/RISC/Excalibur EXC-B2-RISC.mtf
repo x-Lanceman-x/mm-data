@@ -15,7 +15,7 @@
 # <https://www.xbox.com/en-US/developers/rules> and it is not endorsed by or
 # affiliated with Microsoft.
 
-generator:MegaMek Suite 0.50.12 on 2026-02-26
+generator:MegaMek Suite 0.50.12-nightly-2026-03-01 on 2026-03-02
 chassis:Excalibur
 model:EXC-B2-RISC
 
@@ -107,8 +107,8 @@ Fusion Engine
 Fusion Engine
 Fusion Engine
 Fusion Engine
-Clan Ammo LRM-20
-Clan Ammo LRM-20
+Clan Ammo LRM-20 (Clan) Artemis V-capable
+Clan Ammo LRM-20 (Clan) Artemis V-capable
 Clan Gauss Ammo
 Clan Gauss Ammo
 Mek Null Signature System

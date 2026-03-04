@@ -15,7 +15,7 @@
 # <https://www.xbox.com/en-US/developers/rules> and it is not endorsed by or
 # affiliated with Microsoft.
 
-generator:MegaMek Suite 0.50.12 on 2026-02-26
+generator:MegaMek Suite 0.50.12-nightly-2026-03-01 on 2026-03-02
 chassis:War Crow
 model:B
 mul id:7547
@@ -128,7 +128,7 @@ Fusion Engine
 Fusion Engine
 Fusion Engine
 Jump Jet (OMNIPOD)
-CLMediumPulseLaser
+CLMediumPulseLaser (OMNIPOD)
 
 Head:
 Life Support

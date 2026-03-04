@@ -15,7 +15,7 @@
 # <https://www.xbox.com/en-US/developers/rules> and it is not endorsed by or
 # affiliated with Microsoft.
 
-#Saved from version 0.50.12 on 2026-02-26
+#Saved from version 0.50.12-nightly-2026-02-26 on 2026-02-28
 <UnitType>
 BattleArmor
 </UnitType>
@@ -27,10 +27,6 @@ Water Elemental Mining Suit
 <Model>
 (Sqd4)
 </Model>
-
-<mul id:>
-7671
-</mul id:>
 
 <year>
 2842
@@ -87,8 +83,10 @@ Mission Equipment Storage:Body:SIZE:200.0
 <Trooper 4 Equipment>
 </Trooper 4 Equipment>
 
-<Trooper 5 Equipment>
-</Trooper 5 Equipment>
+<slotless_equipment>
+BAUMU
+BAUMU
+</slotless_equipment>
 
 <slotless_equipment>
 BAUMU
@@ -143,7 +141,7 @@ biped
 </armor>
 
 <Trooper Count>
-5
+4
 </Trooper Count>
 
 <weightclass>
