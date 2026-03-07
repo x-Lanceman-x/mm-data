@@ -179,9 +179,9 @@ deployment:<p>Produced during the Jihad in 3069, the Great Wyrm 2 incorporates a
 
 history:<p>The Great Wyrm's baptism of fire came in 2844 when Clan Star Adder forces assaulted the Mongoose colony on Tokasha. A Star of the new 'Mechs formed part of the defending Trinary, and though the Adders ultimately prevailed, the Great Wyrms distinguished themselves by being the last to fall. The defenders used their mobility to stay beyond opponents' optimal weapon ranges while maintaining constant autocannon fire, a tactical approach that would define Great Wyrm employment for decades.</p><p>The Great Wyrm's success attracted widespread interest throughout the Kerensky Cluster. Clan Cloud Cobra retooled two of their own production lines to build the 'Mech, operating them for nearly a decade. Other Clans acquired examples through trade, trials, and salvage. However, the introduction of OmniMech technology revolutionized Clan warfare, and traditional BattleMechs like the Great Wyrm found themselves relegated to solahma units deemed unworthy of the new omnipods.</p><p>Main production halted in 2869 when Clan Smoke Jaguar absorbed Clan Mongoose, acquiring their remaining manufacturing capacity. Clan Burrock made limited production runs in 2871-2872 after capturing a former Mongoose facility on Foster, but Clan Fire Mandrill subsequently seized and retooled that plant. Since then, no new Great Wyrms have been constructed, though every Clan maintains some examples in their second-line Clusters. Clans Cloud Cobra, Coyote, Fire Mandrill, Steel Viper, and Star Adder field the most, approximately half a dozen Stars each.</p>
 
-manufacturer:Refit - Manufacturing Site #3, Refit - Transitional Facility HH-Beta
+manufacturer:Refit - Manufacturing Site #3|Refit - Transitional Facility HH-Beta
 
-primaryfactory:New Oslo, Nouveaux Paris
+primaryfactory:New Oslo|Nouveaux Paris
 
 systemmanufacturer:CHASSIS:Unknown
 systemmode:CHASSIS:Type 56-45C Modified

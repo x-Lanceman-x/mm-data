@@ -182,9 +182,9 @@ deployment:<p>The base Ursus II entered service in 3078, with early production u
 
 history:<p>The Ursus II emerged from the convergence of political ambition and military necessity during the closing stages of the Jihad. Bergan Industries, having established itself as a rare Inner Sphere producer of Clan-technology BattleMechs through the original Ursus program, sought to expand its market presence. The company partnered with Arc-Royal MechWorks, leveraging the Wolf-in-Exile enclave's own experience with Clan technology to co-develop a redesigned Ursus variant. This collaboration was notable for bridging two very different Clan-affiliated factions, the Ghost Bears and the exiled Wolves, through shared commercial interest.</p><p>The Ursus II entered production in 3078, with early units dispatched to forces participating in the liberation of Terra from the Word of Blake. The design was conceived as a bodyguard unit, filling an escort role alongside heavier, more valuable 'Mechs that needed close protection from flanking attacks and enemy light forces.</p><p>Production at both the Alshain and Arc-Royal facilities continued through the early Republic era and into the Dark Age. The dual production arrangement ensured the Ursus II reached formations beyond the traditional Ghost Bear sphere of influence, with Arc-Royal MechWorks supplying units to Lyran and Wolf-in-Exile commands. As the political landscape shifted through the Republic era and the subsequent Dark Age, both factories maintained active production, with the Rasalhague Dominion and the Arc-Royal coalition continuing to field the design.</p><p>The Ursus II's lack of factory variants speaks to the satisfaction of its operators, who found the base design sufficient for its intended bodyguard role without requiring modification. By the ilClan era, both production lines remained active under their respective successor states, the Rasalhague Dominion and the Arc-Royal Liberty coalition.</p>
 
-manufacturer:Bergan Industries - Alshain Weapons(formerly GK&T owned), Arc-Royal MechWorks
+manufacturer:Bergan Industries - Alshain Weapons(formerly GK&T owned)|Arc-Royal MechWorks
 
-primaryfactory:Alshain, Arc-Royal
+primaryfactory:Alshain|Arc-Royal
 
 systemmanufacturer:CHASSIS:Bergan Industries
 systemmode:CHASSIS:Bergan XIV Endo Steel

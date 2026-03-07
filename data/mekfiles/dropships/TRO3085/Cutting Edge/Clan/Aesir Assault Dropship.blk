@@ -21,7 +21,7 @@ Dropship
 </UnitType>
 
 <Name>
-Aesir Assault Dropship
+Aesir Assault DropShip
 </Name>
 
 <Model>
@@ -317,11 +317,11 @@ TR:3085
 
 # Fluff Date: 2026-02-28 16:30:01
 <manufacturer>
-Alshain Naval Yards (Military), Gorton, Kingsley and Thorpe Enterprises
+Alshain Naval Yards (Military)|Gorton, Kingsley and Thorpe Enterprises
 </manufacturer>
 
 <primaryFactory>
-Alshain, Rasalhague
+Alshain|Rasalhague
 </primaryFactory>
 
 <systemManufacturers>

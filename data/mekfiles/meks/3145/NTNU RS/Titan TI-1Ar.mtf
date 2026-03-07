@@ -188,9 +188,9 @@ deployment:<p>Introduced alongside the TI-1Aj, this variant takes a different ap
 
 history:<p>The Titan's origins trace to the final years of the Star League, when Blankenburg Technologies on Terra developed the prototype to specifications reviewed by General Aleksandr Kerensky himself. The design was intended to fill an assault 'Mech role emphasizing close-range dominance, but the onset of the Amaris Civil War in 2766 disrupted all further development. The prototype facilities were either destroyed or abandoned during the conflict, and the Titan was consigned to history as another promising design lost to the chaos of the era.</p><p>The design resurfaced when Armed Forces of the Federated Suns forces recovered the original specifications in 3023. The New Avalon Institute of Science reportedly conducted limited experiments with the design, producing a small number of prototypes, though full-scale production was never attempted. The recovered data proved more valuable as inspiration than as a production blueprint, Vining Engineering and Salvage Team used it as the foundation for the Grand Titan, while the Word of Blake later directed Kressly WarWorks to produce the more faithful Titan II.</p><p>The Titan itself finally entered limited production during the Dark Age era, when Kressly WarWorks applied the original NAIS-derived specifications to their production line on Epsilon Eridani, manufacturing updated variants for the Republic Armed Forces. These modernized versions incorporated double heat sinks and CASE protection while retaining the core design philosophy that had made the original prototype appealing to Kerensky's engineers over two centuries earlier.</p>
 
-manufacturer:New Avalon Institute of Science, Kressly WarWorks
+manufacturer:New Avalon Institute of Science|Kressly WarWorks
 
-primaryfactory:New Avalon, Epsilon Eridani
+primaryfactory:New Avalon|Epsilon Eridani
 
 systemmanufacturer:CHASSIS:Unknown
 systemmanufacturer:ENGINE:Vlar

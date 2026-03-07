@@ -21,7 +21,7 @@ Jumpship
 </UnitType>
 
 <Name>
-Leviathan Jumpship
+Leviathan JumpShip
 </Name>
 
 <Model>
@@ -222,10 +222,10 @@ XTR:Primitives III
 </history>
 
 <manufacturer>
-Lockheed Galactic, Thompson's Shipyards
+Lockheed Galactic|Thompson's Shipyards
 </manufacturer>
 
 <primaryFactory>
-Thorin, Keid
+Thorin|Keid
 </primaryFactory>
 

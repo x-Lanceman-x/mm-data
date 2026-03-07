@@ -177,9 +177,9 @@ deployment:<p>This support variant replaces the short-range missile launchers wi
 
 history:<p>Though the original version is used by a number of Clans, the Nova Cats fielded multiple Jenner IIC variants as well as continuing its development after their Abjurement. Considerable resources were spent to bring new production online of visually refreshed versions at their Irece Alpha facility to help fill out their rebuilding touman.</p><p>Ultimately, the Jenner IIC outlasted the Clan that designed it. During the final battles for Irece in late 3142, Jenner IICs acted as sentries and early-warning scouts, protecting civilian and military transports evacuating before the Dragon's wrath fell upon them. Several Stars of factory-fresh Jenner IICs and Arbalests screened the spaceport near the Irece Alpha production facilities, but the Gunji-no-Kanrei's forces steamrolled the spaceport and only a handful of DropShips managed to reach orbit.</p><p>With the acquisition of Irece Alpha following the Nova Cats' fall, Clan Sea Fox took over production of the Jenner IIC, proliferating it throughout the Inner Sphere. Clan Wolf continues to be the largest customer, forcing mercenaries to pay a premium for this premiere striker. The agreement with the Draconis Combine has the Jenner IIC openly available to all purchasers willing to meet Sea Fox prices.</p>
 
-manufacturer:Irece Alpha, Barcella Alpha
+manufacturer:Irece Alpha|Barcella Alpha
 
-primaryfactory:Irece, Barcella
+primaryfactory:Irece|Barcella
 
 systemmanufacturer:CHASSIS:Unknown
 systemmode:CHASSIS:Type D-SA Modified Endo Steel

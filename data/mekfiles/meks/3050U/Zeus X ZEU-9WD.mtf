@@ -179,9 +179,9 @@ deployment:<p>Starting life as one of Zeus-X testbeds, ZEUX0003 was gifted by th
 
 history:<p>The Zeus personifies Steiner's "wall of steel." The LCAF's indigenous pride and joy was reportedly the ultimate demonstration that superior production quality could compensate for weak battlefield prowess. It was picked for a facelift after three centuries of steadfast service to demonstrate Defiance's reputation as one of the Inner Sphere's major manufacturers. The Zeus X is equal parts celebrity and cutting-edge high-tech platform. Its modifications bring the ancient BattleMech up to date, even by thirty-second-century standards.</p><p>The Zeus X-series is characterised structurally by a massive engine and a light yet brittle structure coated in layers of experimental armor. These qualities were carefully integrated with appropriate equipment when the ZEU-X4 was ready for manufacturing in the late 3110. The thick reactive plating is now production quality and completely covers the 'Mech. The LCAF received a command 'Mech when a roomy rumble seat was upgraded to a full console. Armed with modest but effective weapons, the ZEU-X4 attacks foes who are nothing more than approaching blots on the horizon.</p>
 
-manufacturer:Defiance Industries, Defiance Manufacturing Annex
+manufacturer:Defiance Industries|Defiance Manufacturing Annex
 
-primaryfactory:Hesperus II, Kwangjong-ni
+primaryfactory:Hesperus II|Kwangjong-ni
 
 systemmanufacturer:CHASSIS:Unknown
 systemmode:CHASSIS:Chariot Type III

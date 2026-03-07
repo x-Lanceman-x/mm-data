@@ -179,9 +179,9 @@ deployment:<p>This refit of the SNK-2B finally achieves a truly viable anti-batt
 
 history:<p>When the Snake was first introduced, the Confederation had little chance of facing the Clans directly, and Inner Sphere battle armor remained relatively rare. The Snake proved difficult to employ effectively in its intended anti-suit role, and many were relegated to anti-vehicle or infantry support duties. Some were even transferred to the Free Worlds League, where they served with formations such as the Thirtieth Marik Militia on the world of Wing. Ceres Metals entertained hopes of exporting the design to the Draconis Combine, but negotiations collapsed when the DCMS opted for the homegrown Komodo instead.</p><p>The formation of the Trinity Alliance reinvigorated the Snake program. Ceres increased production and began shipping new units to the Taurian Concordat and Magistracy of Canopus, where they fought alongside Capellan troops in St. Ives and the Chaos March. Sharing many components with the ubiquitous Vindicator gave the Snake access to plentiful spare parts and experienced technicians, easing the logistical burden of deploying the design far from its Capellan factories.</p><p>As the Capellan battle armor program matured and began producing workable domestic designs, the Snake's original anti-suit mission became increasingly redundant. In an attempt to find a new operational role, Ceres experimented with mounting stealth armor on the chassis, producing the SNK-2B. The next generation of battle armor promised increased firepower against which the Snake could find itself dangerously under-armored, but the introduction of the SNK-2Br with its dual plasma rifles finally achieved a viable anti-battle armor configuration, even if the weapons' limited ammunition supply remained a persistent operational concern.</p>
 
-manufacturer:Ceres Metals Industries, Field Refit
+manufacturer:Ceres Metals Industries|Field Refit
 
-primaryfactory:Capella, Field Refit
+primaryfactory:Capella|Field Refit
 
 systemmanufacturer:CHASSIS:Ceresplex
 systemmode:CHASSIS:IV

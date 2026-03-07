@@ -177,9 +177,9 @@ deployment:<p>The B configuration is the loadout derived from saKhan Garner Kere
 
 history:<p>The Wulfen's introduction was marked by controversy within Clan Wolf's warrior caste. Star Colonel Josiah Ward publicly denounced the design as tainted by Spheroid dishonor shortly after the first prototypes emerged from the W-7 Facilities, a statement widely interpreted as a political attack on Khan Seth Ward. SaKhan Garner Kerensky answered the challenge by forcing Ward to a Trial of Grievance, personally piloting a Wulfen prototype against Ward's Loki on the trial grounds outside Krefeld. Despite expectations that Ward's superior firepower would prevail, Kerensky used the Wulfen's mobility to control range and systematically dismantled the heavier 'Mech with precise long-range fire. The configuration Kerensky employed became the basis of the B configuration, and open complaints about the unit ceased.</p><p>Muted acceptance became admiration as the prototype Wulfen proved itself in combat during the Wolf Empire's invasions of the Republic of the Sphere, Free Worlds League, and Lyran Commonwealth. The few prototypes available when Clan Wolf uprooted itself demonstrated devastating effectiveness against the Silver Hawk Irregulars across half a dozen worlds during the invasion of the Marik-Stewart Commonwealth. The design further distinguished itself by outflanking the First Covenant Guards on New Olympia, an engagement that contributed to the death of former Paladin Thaddeus Marik.</p><p>Success in the field bred demand that far outstripped supply, prompting Clan Wolf to invest heavily in expanding production capacity and taking considerable measures to prevent Wulfens from being claimed as salvage or isorla. By the time the Wolves turned on their erstwhile Lyran allies, the Wulfen had cemented its status as the symbol of the ristar within the Wolf Empire's touman, reserved for frontline Galaxies and the Clan's most promising warriors.</p>
 
-manufacturer:Kallon Weapon Industries, W-7 Facilities
+manufacturer:Kallon Weapon Industries|W-7 Facilities
 
-primaryfactory:Thermopolis, Weingarten
+primaryfactory:Thermopolis|Weingarten
 
 systemmanufacturer:CHASSIS:Process 12
 systemmode:CHASSIS:Endo Steel

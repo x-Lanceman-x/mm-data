@@ -180,9 +180,9 @@ deployment:<p>Developed during the Jihad in 3073, the Clint IIC 2 adopts an all-
 
 history:<p>Clan Snow Raven used the Clint IIC extensively during the Golden Century, deploying it in many clashes with other Clans. The most notable engagement was the defense of the Hellgate agrodomes in 2897, where the speed and maneuverability of the Clint IIC provided the Ravens with a significant advantage. However, battlefield inexperience cost them the fight, prompting the Clan to abandon the mining colony to the Steel Vipers only two years later.</p><p>With the Ravens' acquisition of OmniMech technology, many of their second-line 'Mechs were relegated to rear-echelon duty, including the Clint IIC. Following a policy of quality rather than quantity, by the late thirtieth century the Ravens faced the choice of decommissioning or mothballing the venerable design. The Blood Spirits' offer in 2977 to trade several of their WarShips for Snow Raven 'Mech surplus came at an opportune time, and most Clint IICs were transferred to the Spirits, becoming part of their Omicron Galaxy.</p><p>Following the destruction of several Blood Spirit Galaxies in their battles with Clan Star Adder and Clan Burrock, few Clints remained in Spirit service. The waning fortunes of the Clint IIC were reversed in 3052, when the Snow Ravens built the first new units since production ceased in 2917, seeking to exploit the invading Clans' need for equipment to replace their war losses. Clans Wolf and Ghost Bear acquired the largest numbers of the design, trading resources from the Inner Sphere for manufacturing output. The Ravens have refused to trade the design to either the Steel Vipers or Jade Falcons due to ongoing feuds with those Clans.</p>
 
-manufacturer:Clan Snow Raven Industrial Complex Chi, Snow Raven Industrial Complex Alpha, Eden Rose [Potemkin Class]/Facility 12-D
+manufacturer:Clan Snow Raven Industrial Complex Chi|Snow Raven Industrial Complex Alpha|Eden Rose [Potemkin Class]/Facility 12-D
 
-primaryfactory:Lum, Dante, Dante
+primaryfactory:Lum|Dante|Dante
 
 systemmanufacturer:CHASSIS:Snow Raven
 systemmode:CHASSIS:SR 2830/b

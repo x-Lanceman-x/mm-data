@@ -183,9 +183,9 @@ deployment:<p>The D4 variant emerged in 3073 during the Jihad as a significant r
 
 history:<p>The JagerMech III emerged from one of the most politically charged military procurement programs of the post-Clan Invasion era. When Archon-Prince Victor Steiner-Davion launched his "Redesign for Davion Pride" initiative in the late 3050s, the goal was as much about national morale as military capability. The JagerMech, long associated with Federated Suns military tradition, was a natural candidate for the program, and Kallon Industries rose to the challenge with a comprehensive modernization that touched every aspect of the design.</p><p>Production was established at Kallon's Talon facility and at Independence Weaponry on Quentin, though the latter's status as a Draconis Combine-controlled world created an unusual situation. While there is no firm evidence that the JagerMech III was deployed to the Draconis Combine Mustered Soldiery, Independence Weaponry had previously received specifications for the JM6-DD through agreements between First Prince Hanse Davion and Coordinator Theodore Kurita at the Outreach Summit. The company's participation in joint Combine-FedCom projects, including development of the Gunslinger, suggests that JagerMech III specifications may have been shared through similar channels. It is equally possible that Independence Weaponry produced the design exclusively for export to the Federated Suns.</p><p>The JagerMech III saw active service through the FedCom Civil War and into the Jihad era, where the destruction of the Talon factory in 3069 impacted production capacity. Kallon's continued presence on Victoria and Wernke ensured that development of the JagerMech line continued, with the JM6-D4 Jihad-era variant demonstrating ongoing refinement of the platform well into the thirty-first century.</p>
 
-manufacturer:Field Refit, Kallon Weapon Industries
+manufacturer:Field Refit|Kallon Weapon Industries
 
-primaryfactory:Field Refit, Victoria
+primaryfactory:Field Refit|Victoria
 
 systemmanufacturer:CHASSIS:Kallon
 systemmode:CHASSIS:Type XIV Endo Steel

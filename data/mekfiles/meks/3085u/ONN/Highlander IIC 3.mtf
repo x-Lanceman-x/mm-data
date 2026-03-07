@@ -184,9 +184,9 @@ deployment:<p>This variant, introduced in 3077, replaces the Gauss rifle with a 
 
 history:<p>The Highlander IIC traces its origins to the Golden Century, when Clan scientists methodically upgraded the surviving Highlander chassis brought on the Exodus with progressively more advanced Clan technology. The Arcadia BattleMech Plant CM-T15, operated by Clan Star Adder on Arcadia in the Rechlan system, served as the primary production facility, and the design saw widespread adoption across nearly every Clan touman. Production eventually tapered off, and by the thirty-first century no new Highlander IICs had been built for over a hundred years, though hundreds remained in scattered service.</p><p>The Word of Blake Jihad prompted Clan Wolf to revive the design through an innovative approach. Operating out of an extensive boneyard on Weingarten, the Wolves established the W-7 Facilities refit line to convert purchased, scavenged, or salvaged Inner Sphere Highlander chassis into updated Clan-specification IICs. This operation sustained Wolf production for seventy years, during which new combat variants including the IIC 2 and IIC 3 were developed to address evolving battlefield requirements.</p><p>When Clan Wolf abandoned Weingarten during the Dark Age upheavals, Clan Hell's Horses occupied the planet in 3142 and discovered the intact W-7 refit facilities. However, the post-Blackout hunger for military hardware had dried up all sources of spare Inner Sphere Highlander chassis. Undaunted, the Horses enhanced the production line to build the required SL-XT chassis on-site, sourcing parts from their facilities on New Oslo and the Clan Sea Fox line on Alnabog. The resulting Highlander IIC 4 proved a formidable weapon during Operation Noyan, demonstrating that the ancient assault design still had much to offer on the modern battlefield.</p>
 
-manufacturer:Refit - W-7 Facilities, Refit - Field
+manufacturer:Refit - W-7 Facilities|Refit - Field
 
-primaryfactory:Weingarten, Various
+primaryfactory:Weingarten|Various
 
 systemmanufacturer:CHASSIS:Unknown
 systemmode:CHASSIS:SL-XT Modified

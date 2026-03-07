@@ -21,7 +21,7 @@ Dropship
 </UnitType>
 
 <Name>
-Arondight Pocket Warship
+Arondight Pocket WarShip
 </Name>
 
 <Model>
@@ -271,11 +271,11 @@ TR:3085
 </history>
 
 <manufacturer>
-Clyde Shipyards, Federated-Boeing Interstellar Ltd. (Formerly Universal Air), Refit - Federated-Boeing Emergency Refit Yard
+Clyde Shipyards|Federated-Boeing Interstellar Ltd. (Formerly Universal Air)|Refit - Federated-Boeing Emergency Refit Yard
 </manufacturer>
 
 <primaryFactory>
-Firgrove, Delavan, Tikonov
+Firgrove|Delavan|Tikonov
 </primaryFactory>
 
 <systemManufacturers>

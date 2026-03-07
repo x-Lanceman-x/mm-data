@@ -177,9 +177,9 @@ deployment:<p>Alternate Configuration M serves as a dedicated command and contro
 
 history:<p>Luthien Armor Works developed the Strider as part of the Draconis Combine's effort to field domestically-produced OmniMechs following the Clan Invasion. Rather than attempt a clean-sheet design, LAW engineers chose to adapt the proven Cicada chassis, accepting reduced speed in exchange for the flexibility inherent to OmniMech technology. The resulting design entered service in 3057, with the DCMS rushing several production runs to front-line units despite mixed initial reviews.</p><p>The Strider's reputation improved steadily as pilots learned to exploit its versatility rather than lamenting its reduced mobility. By the late 3050s, the design had found its niche as a light lance command platform and reconnaissance asset for heavier formations. Several production runs were sold to the Federated Commonwealth during the final months of that nation's existence, with deliveries continuing to both successor states for several years afterward.</p><p>Irian BattleMechs Unlimited began licensed production on Shiro III by 3067, expanding the Strider's reach to Free Worlds League commands. The design saw extensive service during the Jihad on multiple fronts, with some configurations adapted to incorporate captured Clan technology during Operation Bulldog. Post-Jihad production has introduced configurations utilizing advanced C3 networks and Clan-specification missile systems, ensuring the Strider remains relevant to modern combined-arms doctrine.</p>
 
-manufacturer:Luthien Armor Works (OmniMech Production Facility), Irian BattleMechs Unlimited
+manufacturer:Luthien Armor Works (OmniMech Production Facility)|Irian BattleMechs Unlimited
 
-primaryfactory:Luthien, Shiro III
+primaryfactory:Luthien|Shiro III
 
 systemmanufacturer:CHASSIS:Alshain
 systemmode:CHASSIS:Alshain Type KR240 Endo-Steel

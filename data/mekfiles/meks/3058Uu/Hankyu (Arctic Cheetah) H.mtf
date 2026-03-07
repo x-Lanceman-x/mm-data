@@ -181,9 +181,9 @@ deployment:<p>A popular deployment configuration centered on heavy laser technol
 
 history:<p>The Arctic Cheetah's history is intertwined with the turbulent politics of the Clans. Designed by Clan Ice Hellion scientists to replace the aging Mist Lynx, the design entered production on Foster in 3037. Clan Smoke Jaguar's capture of Foster MechWorks Facility Beta that same year gave the Jaguars access to a light OmniMech that quickly proved its worth, and by the time the Smoke Jaguars dropped on Tukayyid, most of their light 'Mech Stars contained at least one Arctic Cheetah.</p><p>The Ice Hellions eventually recovered the Foster facility, but by then most of their MechWarriors had come to prefer the Hellion OmniMech, limiting the Arctic Cheetah's role within its creator Clan. Clan Steel Viper and Clan Nova Cat both adopted the design in significant numbers, while Clan Diamond Shark's embrace of the Arctic Cheetah ensured the design would outlast its original creators. Nova Cat production at the Mualang Alpha facility on Coudoux supplemented existing output until that Clan's annihilation during the Draconis Combine Civil War.</p><p>Following the Nova Cat destruction, Clan Sea Fox negotiated with the Draconis Combine to maintain operations at the Coudoux facility, receiving a portion of the factory's output in exchange for technical assistance. By the mid-thirty-second century, the Arctic Cheetah had been fielded by three absorbed or annihilated Clans, yet the design continued to see widespread service. During the DCMS assault on Irece in 3142, Arctic Cheetahs were employed against Clan Nova Cat remnants, a pointed irony given the Clan's long association with the design. Newer configurations inspired by Inner Sphere designs such as the Gyrfalcon and Rifleman have continued to improve the OmniMech's reputation and expand its tactical flexibility across multiple adopting factions.</p>
 
-manufacturer:Foster MechWorks Facility Beta, Brim Ironworks, Novy Minsky Armaments Plant, Mualang Alpha
+manufacturer:Foster MechWorks Facility Beta|Brim Ironworks|Novy Minsky Armaments Plant|Mualang Alpha
 
-primaryfactory:Foster, Brim, New Kent, Coudoux
+primaryfactory:Foster|Brim|New Kent|Coudoux
 
 systemmanufacturer:CHASSIS:Hellion
 systemmode:CHASSIS:Light Endo Steel V3

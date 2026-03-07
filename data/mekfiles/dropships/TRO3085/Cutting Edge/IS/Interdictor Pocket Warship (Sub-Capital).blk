@@ -21,7 +21,7 @@ Dropship
 </UnitType>
 
 <Name>
-Interdictor Pocket Warship
+Interdictor Pocket WarShip
 </Name>
 
 <Model>
@@ -232,11 +232,11 @@ JHS:3076
 </history>
 
 <manufacturer>
-Boeing Interstellar, Brigadier Corporation
+Boeing Interstellar|Brigadier Corporation
 </manufacturer>
 
 <primaryFactory>
-Terra, Gibson
+Terra|Gibson
 </primaryFactory>
 
 <systemManufacturers>

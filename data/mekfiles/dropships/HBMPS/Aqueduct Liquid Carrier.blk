@@ -181,11 +181,11 @@ HB:MPS
 
 # Fluff Date: 2026-02-28 15:57:23
 <manufacturer>
-Alshain Naval Yards (Civilian), Krester Ship Construction, Krester Ship Construction, Krester Ship Construction, Krester Ship Construction
+Alshain Naval Yards (Civilian)|Krester Ship Construction|Krester Ship Construction|Krester Ship Construction|Krester Ship Construction
 </manufacturer>
 
 <primaryFactory>
-Alshain, Keid, Terra Firma, Thorin, Yorii
+Alshain|Keid|Terra Firma|Thorin|Yorii
 </primaryFactory>
 
 <systemManufacturers>

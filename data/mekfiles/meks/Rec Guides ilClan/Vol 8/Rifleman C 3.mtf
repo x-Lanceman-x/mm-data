@@ -184,9 +184,9 @@ deployment:<p>Clan Sea Fox introduced the Rifleman C 3 in 3132 as a commercially
 
 history:<p>Clan Jade Falcon pioneered the Rifleman C concept during the initial occupation of the Inner Sphere, converting captured chassis to supplement their garrison forces. The relatively simple nature of these conversions (essentially swapping weapon systems while retaining the fundamental structure) meant that even field technicians could perform the work with available supplies. As the occupation stabilized, other Clans adopted similar practices, and the Rifleman C became a common sight in second-line formations throughout the occupation zones.</p><p>Red Devil Industries on Pandora began producing the Rifleman C 2 variant for Clan Jade Falcon in 3083, marking the transition from field conversion to proper manufacturing. This version utilized experimental technology including an XXL engine and Improved Jump Jets, representing a significant departure from the conservative approach of earlier conversions. The design provided mobility that previous Rifleman variants lacked, though the experimental powerplant raised concerns about long-term reliability in garrison service.</p><p>Clan Sea Fox recognized the commercial potential of the design and worked with Trellshire Heavy Industries to develop the Rifleman C 3 as a production model specifically for export. Unlike the salvage-based conversions or experimental Jade Falcon variants, the C 3 was designed from the start for reliable garrison duty. The combination of proven technology, reasonable cost, and familiar handling made it attractive to multiple customers. Both the Draconis Combine and Duchy of Oriente have acquired the design in small numbers, while Clan garrison forces continue deploying earlier conversion variants alongside the newer production models.</p>
 
-manufacturer:Complex H-4 CCC, Trellshire Heavy Industries
+manufacturer:Complex H-4 CCC|Trellshire Heavy Industries
 
-primaryfactory:Homer, Twycross
+primaryfactory:Homer|Twycross
 
 systemmanufacturer:CHASSIS:Unknown
 systemmode:CHASSIS:Endo Steel

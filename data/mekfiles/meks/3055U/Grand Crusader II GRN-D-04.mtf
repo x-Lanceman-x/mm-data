@@ -181,9 +181,9 @@ deployment:<p>This variant reconfigures the Grand Crusader II as a dedicated lon
 
 history:<p>The Grand Crusader II emerged directly from the Word of Blake's aggressive military expansion on Terra following Operation Odysseus. With Cameron St. Jamais driving production quotas beyond what Terra's factories could sustain, the involvement of Vicore Industries proved critical to both increasing output and improving the design. The shared component philosophy with the Vanquisher and Legacy programs enabled rapid manufacturing ramp-up across Skobel MechWorks and Krupp Armament Works facilities in Russia and Germany.</p><p>All Blakist divisions received the Grand Crusader II as it entered production, with older Grand Crusader models being rotated out of frontline service. The 'Mech saw extensive action throughout the Jihad, serving in garrison and offensive operations across the Word of Blake Protectorate. The Grand Crusader II's improved survivability compared to the XL-engine original proved its worth in the brutal close-quarters fighting that characterized much of the conflict.</p><p>Following the Coalition's liberation of Terra and the destruction of the Word of Blake, both Skobel MechWorks and Krupp Armament Works fell under Republic of the Sphere control. While the factories themselves survived the Jihad, production of the Grand Crusader II appears to have been discontinued, with the Republic showing little interest in perpetuating Blakist designs. The schematics for a proposed Grand Crusader OmniMech, which the Word of Blake had been developing before the Jihad erupted, were never completed and the project was abandoned in favor of the Celestial series. However, copies of these incomplete plans would later surface in unexpected hands, ultimately giving rise to the Scorpion Empire's Star Crusader.</p>
 
-manufacturer:Krupp Armaments Works, Skobel MechWorks
+manufacturer:Krupp Armaments Works|Skobel MechWorks
 
-primaryfactory:Terra, Terra
+primaryfactory:Terra|Terra
 
 systemmanufacturer:CHASSIS:Skobel
 systemmode:CHASSIS:Skobel Template 8 Endo Steel

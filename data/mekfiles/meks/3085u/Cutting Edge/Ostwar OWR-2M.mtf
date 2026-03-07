@@ -181,9 +181,9 @@ deployment:<p>The primitive OWR-2M represents the original Ostwar configuration 
 
 history:<p>Ernst Ostmann's first BattleMech design enjoyed only modest commercial success during its initial production run. The Terran Hegemony Armed Forces considered the design obsolete before it reached full production, forcing Ostmann to market the 'Mech to the Capellan Confederation and Free Worlds League instead. These sales provided crucial revenue that funded development of the superior Ostroc, which would become the company's signature product.</p><p>The Ostwar's parts compatibility with later Ost-series designs proved both blessing and curse. As the Succession Wars ground on and advanced technology became increasingly scarce, surviving Ostwars were systematically stripped to maintain Ostrocs and Ostsols. By the thirty-first century, the design was considered extinct, remembered only as a historical footnote in the Ostmann Industries story.</p><p>Resurrection came during the Jihad, when the Principality of Regulus suffered catastrophic BattleMech losses. Ronin Incorporated on Wallis, unable to meet demand for modern designs, searched their archives for anything that could be quickly produced. The Ostwar's simple construction and the survival of detailed schematics made it an ideal candidate. Harmony MetalWorks began producing the primitive OWR-2M as a stopgap measure while Ronin established a new assembly line for the modernized OWR-3M.</p><p>Prince-Consort Titus Cameron-Jones deployed the revived Ostwar throughout his forces during conflicts with the Duchy of Oriente, using them as heavy fire support alongside Archers and Trebuchets. The design's performance at Jouques, where Regulan Hussars Ostwars fought a successful rearguard action against Oriente's Second Brigade, demonstrated that even primitive technology retained value when properly employed. Many OWR-2M units remain in service across the fractured Free Worlds League states, their ease of maintenance keeping them operational despite chronic equipment shortages.</p>
 
-manufacturer:Ostmann Industries, Ronin Incorporated
+manufacturer:Ostmann Industries|Ronin Incorporated
 
-primaryfactory:Terra, Wallis
+primaryfactory:Terra|Wallis
 
 systemmanufacturer:CHASSIS:Ostmann Industries
 systemmode:CHASSIS:Ost-I

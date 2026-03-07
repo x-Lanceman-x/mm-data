@@ -181,9 +181,9 @@ deployment:<p>Clan Wolf produces the standard Orion IIC in limited numbers at WC
 
 history:<p>The Orion IIC’s history is inseparable from Clan Wolf’s reverence for Aleksandr Kerensky. While other Clans moved rapidly toward OmniMech technology during the Golden Century, Clan Wolf’s scientists quietly redesigned the Orion to incorporate Clan technological advancements while preserving the spirit of Kerensky’s chosen mount. The IIC debuted early in the Golden Century at WC Aux Site #2 on Strana Mechty, produced in limited numbers exclusively for Clan Wolf’s use.</p><p>Clan Wolf has consistently defended its exclusive claim to the Orion IIC, winning Trials of Possession against other Clans who sought the design and refusing all trade proposals regardless of how generous the offers. This possessiveness mirrors the Wolf Clan’s guardianship of the Kerensky bloodname heritages, both are considered matters of honor central to the Clan’s identity.</p><p>Rather than assigning the Orion IIC to frontline units, Clan Wolf uses the design to reward officers in second-line Galaxies who are expected to advance to frontline assignments. Each Orion IIC is sent to its recipient “with the compliments of” Clan Wolf’s Khan or saKhan, a gesture of personal recognition that no officer has ever refused, even if it meant trading an assault-class BattleMech for the smaller heavy design.</p><p>A few Orion IICs traveled to the Inner Sphere with Phelan Kell’s Wolves-in-Exile, where they remain part of the exiled Clan’s second-line forces. Notably, no effort has been made to produce the Orion IIC outside Strana Mechty, a possible gesture of reconciliation toward the homeworld Clan Wolf. The Jihad-era Wars of Reaving disrupted Strana Mechty production, and a refit facility at W-7 Facilities on Weingarten was established to convert purchased Inner Sphere chassis to IIC specifications.</p>
 
-manufacturer:WC Aux Site #2, Refit - W-7 Facilities
+manufacturer:WC Aux Site #2|Refit - W-7 Facilities
 
-primaryfactory:Strana Mechty (Wolf Enclave), Weingarten
+primaryfactory:Strana Mechty (Wolf Enclave)|Weingarten
 
 systemmanufacturer:CHASSIS:Unknown
 systemmode:CHASSIS:Type W2 Endo Steel
