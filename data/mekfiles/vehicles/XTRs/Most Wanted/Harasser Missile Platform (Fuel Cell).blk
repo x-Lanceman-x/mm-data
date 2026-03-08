@@ -143,6 +143,10 @@ XTR:Most Wanted
 Field Refit
 </manufacturer>
 
+<primaryFactory>
+Various
+</primaryFactory>
+
 <systemManufacturers>
 CHASSIS:Unknown
 ENGINE:Unknown

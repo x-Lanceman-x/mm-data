@@ -175,6 +175,14 @@ Heat Sink
 -Empty-
 -Empty-
 
+
+
+
+
+
+
+notes:The units introdate is moving up to 2850 to account for the Extinction of the Command Console
+
 # Fluff Date: 2026-02-28 17:47:08
 overview:<p>The BattleMaster is one of the most iconic assault 'Mechs in the history of the Inner Sphere, first rolling off the production lines of Hollis Industries on Corey in 2633. Originally commissioned by the Star League as a powerful frontline command platform for non-Royal unit commanders, the eighty-five-ton design combined devastating close-range firepower with the sophisticated cockpit electronics necessary to coordinate company- and battalion-level operations. The sheer cost and complexity of the BattleMaster limited production to a handful of worlds, yet those fortunate enough to pilot one quickly discovered a 'Mech whose reputation for reliability, survivability, and raw combat presence was well earned. Affectionately dubbed the "Beemer" by generations of MechWarriors, the BattleMaster has endured centuries of warfare, serving in the arsenals of every Great House and beyond, its production sustained by a distributed network of factories from Keystone to Twycross to Pandora.</p>
 
@@ -186,7 +194,7 @@ history:<p>The BattleMaster's origins trace to the early twenty-seventh century,
 
 manufacturer:Field Refit
 
-primaryfactory:Terra
+primaryfactory:Various
 
 systemmanufacturer:CHASSIS:Hollis
 systemmode:CHASSIS:Mark X
@@ -198,4 +206,3 @@ systemmanufacturer:COMMUNICATIONS:HarfordCo
 systemmode:COMMUNICATIONS:COM 4000
 systemmanufacturer:TARGETING:Nirasaki
 systemmode:TARGETING:Inciteful Vision
-notes:The units introdate is moving up to 2850 to account for the Extinction of the Command Console

@@ -142,6 +142,10 @@ PETROCHEMICALS
 Field Refit
 </manufacturer>
 
+<primaryFactory>
+Various
+</primaryFactory>
+
 <systemManufacturers>
 CHASSIS:Unknown
 ENGINE:GM

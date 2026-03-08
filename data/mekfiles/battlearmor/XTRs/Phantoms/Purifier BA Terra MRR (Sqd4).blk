@@ -21,7 +21,7 @@ BattleArmor
 </UnitType>
 
 <Name>
-Purifier Battle Armor Terra
+Purifier Battle Armor Various
 </Name>
 
 <Model>
@@ -99,7 +99,7 @@ The Purifier Adaptive battle armor is produced by Word of Blake, though the orig
 </overview>
 
 <deployment>
-Based on the standard Purifier suit, the primary difference is the removal of the mimetic armor and its replacement with Clan standard armor identical to that used on the Elemental suit. The Purifier Terra uses a Modular Weapon Mount to provide a variety of weapons options. The Coalition encountered variants equipped with Clan level ER Small Laser, Small Pulse Laser, and AP Gauss Rifle. Other variants used a Medium Recoilless Rifle. Beyond that, any equipment that could fit into a 400kg MWM could be carried.
+Based on the standard Purifier suit, the primary difference is the removal of the mimetic armor and its replacement with Clan standard armor identical to that used on the Elemental suit. The Purifier Various uses a Modular Weapon Mount to provide a variety of weapons options. The Coalition encountered variants equipped with Clan level ER Small Laser, Small Pulse Laser, and AP Gauss Rifle. Other variants used a Medium Recoilless Rifle. Beyond that, any equipment that could fit into a 400kg MWM could be carried.
 </deployment>
 
 <history>
@@ -111,7 +111,7 @@ Field Refit
 </manufacturer>
 
 <primaryFactory>
-Terra
+Various
 </primaryFactory>
 
 <systemManufacturers>
