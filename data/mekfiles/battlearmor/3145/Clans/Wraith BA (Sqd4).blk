@@ -93,36 +93,6 @@ Clan BA Stealth (Basic):RA
 <slotless_equipment>
 BAJumpJet
 </slotless_equipment>
-
-<capabilities>
-It is equipped with Basic Stealth armor to hide it from enemy probes, and its jump jets allow it to cover ninety meters in a single jump. The suit was introduced after extensive testing of the Rogue Bear battle armor, and is a direct descendant of that design.
-</capabilities>
-
-<overview>
-The Wraith battle armor was designed by the Rasalhague Dominion to support conventional infantry as well as perform surgical strikes.
-</overview>
-
-<deployment>
-The typical Wraith suit is equipped with a single Machine Gun in each arm. These are supplemented by a Vibro-Claw on each arm for close quarter combat and anti-'Mech attacks. These are also useful during boarding actions.
-</deployment>
-
-<manufacturer>
-BA Facility Gamma
-</manufacturer>
-
-<primaryFactory>
-Mannedorf
-</primaryFactory>
-
-<systemManufacturers>
-CHASSIS:Unknown
-ENGINE:Unknown
-ARMOR:Unknown
-JUMP_JET:Unknown
-COMMUNICATIONS:Unknown
-TARGETING:Unknown
-</systemManufacturers>
-
 <source>
 TR:3145:C
 </source>

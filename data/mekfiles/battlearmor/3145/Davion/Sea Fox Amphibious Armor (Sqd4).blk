@@ -102,40 +102,6 @@ IS BA Stealth (Basic):Body
 BAUMU
 BA-SRM1 Ammo:Shots1#
 </slotless_equipment>
-
-<capabilities>
-Expanding the capabilities of the Sea Fox are its Armored Gloves mounted on each arm and a Mechanical Jump Booster capable of propelling the suit thirty meters through the air. The Sea Fox is even capable of attacking the legs of BattleMechs moving through shallow water.
-</capabilities>
-
-<overview>
-The Sea Fox amphibious battle armor is a niche unit, but one that excels within that niche; intended to operate underwater.
-</overview>
-
-<deployment>
-The Sea Fox mounts several weapon systems or systems that could be used as weapons, including a Cutting Torch, a single-shot SRM tube and a Light Machine Gun with fifty rounds of ammunition
-</deployment>
-
-<history>
-Equipped with a Clantech Underwater Maneuvering Unit capable of moving the suit at the same speed in shallow water as it could move on land, the Sea Fox is an excellent infiltrator and ambush fighter, capable of excelling in urban operations in areas where waterways are available for access.
-</history>
-
-<manufacturer>
-General Motors
-</manufacturer>
-
-<primaryFactory>
-Salem
-</primaryFactory>
-
-<systemManufacturers>
-CHASSIS:Unknown
-ENGINE:Unknown
-ARMOR:Unknown
-JUMP_JET:Unknown
-COMMUNICATIONS:Unknown
-TARGETING:Unknown
-</systemManufacturers>
-
 <source>
 TR:3145:FS
 </source>

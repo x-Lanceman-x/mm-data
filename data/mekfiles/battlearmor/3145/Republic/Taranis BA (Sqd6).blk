@@ -106,40 +106,6 @@ IS BA Mimetic:Body
 
 <Trooper 6 Equipment>
 </Trooper 6 Equipment>
-
-<capabilities>
-Principally designed for heavy combat, the suit comes well armed and armored. However, these qualities come at the price of mobility. To help achieve this, the pilot is protected by 500 kilograms of Mimetic Armor. With reduced visibility, the suit's armor can bring down chances of it being detected while it's readying for combat.
-</capabilities>
-
-<overview>
-Introduced into service in 3123, the Taranis is a Heavy Class battle armor first created for the Armed Forces of the Republic of the Sphere.
-</overview>
-
-<deployment>
-The Armor's primary firepower comes in the form of a Heavy Recoilless Rifle mounted on the suit's right arm with 20 rounds of ammo. In its left arm, is the suit's heavy anti-'Mech weapon, a Medium Laser with enough energy for 30 shots before running out. Each weapon is fitted in a Detachable Weapon Pack, which allows the operator to drop their now depleted weaponry for more mobility.
-</deployment>
-
-<history>
-Built on Terra, the heavyweight suit was designed to work closely with the RAF's Combined Arms formations, bringing its considerable toughness and firepower to bear. The battle armor is used in a range of roles from close combat to providing defense against incoming enemies. While in the service of the Republic, the Taranis was in a number of small and large conflicts where it proved its worth. The Taranis was used in combat on Markab in 3134, where the 3rd Principes Guards deployed them to help defeat elements of the Spirit Cats terrorizing local militia forces. The suit's considerable firepower pinned the Clan warriors in place for the rest of the 3rd Principes' forces to maneuver behind them and shatter them. During the Republic's efforts to exterminate renegade ComStar elements, the Taranis suits assigned to the 14th Hastati Sentinels were used during the campaign on Epsilon Eridani in 3141. The suits were deployed in airdrops on top of Com Guard positions, helping to lead the Republic to victory at a steep price.
-</history>
-
-<manufacturer>
-Krupp Armament Works
-</manufacturer>
-
-<primaryFactory>
-Terra
-</primaryFactory>
-
-<systemManufacturers>
-CHASSIS:Unknown
-ENGINE:Unknown
-ARMOR:Unknown
-JUMP_JET:Unknown
-COMMUNICATIONS:Unknown
-TARGETING:Unknown
-</systemManufacturers>
-
 <source>
 TR:3145:RotS
 </source>

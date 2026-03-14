@@ -94,40 +94,6 @@ BA-SRM4 Ammo:Body:Shots4#
 
 <Trooper 5 Equipment>
 </Trooper 5 Equipment>
-
-<capabilities>
-The Grenadier II has a Modular Weapon Mount in the left arm and a second mounted in the body. The right arm has a single Basic Manipulator.
-</capabilities>
-
-<overview>
-The Grenadier II battle armor suit is an evolution of the Grenadier suit already in use by the AFFS.
-</overview>
-
-<deployment>
-This configuration carries a Small Laser on the left arm mount and a Clan-spec SRM-4 with eight reloads on the body mount.
-</deployment>
-
-<history>
-It uses lighter Clan-spec Standard Stealth armor mated to an Inner Sphere chassis to save weight. This allows the Grenadier II to pack as much firepower and protection as a Grenadier, but at a lighter weight. In addition, the lighter weight of the Grenadier II means it can be transported by OmniMechs.
-</history>
-
-<manufacturer>
-General Motors
-</manufacturer>
-
-<primaryFactory>
-Talcott
-</primaryFactory>
-
-<systemManufacturers>
-CHASSIS:Unknown
-ENGINE:Unknown
-ARMOR:Unknown
-JUMP_JET:Unknown
-COMMUNICATIONS:Unknown
-TARGETING:Unknown
-</systemManufacturers>
-
 <source>
 XTR:RotS 3
 </source>

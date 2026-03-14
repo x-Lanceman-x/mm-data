@@ -94,31 +94,6 @@ BABattleClawVibro:RA
 BAJumpJet
 BA-SRM3 Ammo:Shots1#
 </slotless_equipment>
-
-<capabilities>
-The primary feature of the Afreet is its ability to leap one hundred twenty meters at a time. This comes at a sacrifice to armor, as the Afreet is only able to stop a Clan ER Small Laser. It does, however, use Improved Sensors, a holdover from one of the suits it descended from.
-</capabilities>
-
-<overview>
-The Afreet is a battle armor design created by Clan Ice Hellion. The Afreet was created when Khan Raina Montose ordered two other projects merged, resulting in a battlesuit that seems to fit in well with the Hellion belief in speed over all else.
-</overview>
-
-<deployment>
-The Horses variant was introduced in the same year as the Jade Falcon one, and replaces the same equipment with a One-Shot SRM-3 and a Bearhunter Autocannon
-</deployment>
-
-<history>
-Following the Hellion invasion of the Inner Sphere, both Clan Jade Falcon and Clan Hell's Horses salvaged and produced their own versions.
-</history>
-
-<manufacturer>
-Csesztreg Industriplex Gamma (Refit),Transitional Facility A-4(Refit)
-</manufacturer>
-
-<primaryFactory>
-Csesztreg,Nouveaux Paris
-</primaryFactory>
-
 <source>
 TR:3075
 </source>
@@ -142,4 +117,47 @@ biped
 <weightclass>
 2
 </weightclass>
+
+# Fluff Date: 2026-03-13 20:44:32
+<overview>
+<p>The Afreet is a medium-weight Clan battle armor suit designed by Clan Ice Hellion. Born from the merger of two separate development programs, the suit embodies the Ice Hellion conviction that speed conquers all. The Afreet ranks among the fastest Clan-designed battle armor available, prioritizing mobility and agility over heavy protection. Its light armor and modest armament define it as a raider and scout rather than a frontline assault platform. Once exclusive to the Ice Hellions, the design entered service with several other Clans, each fielding modified configurations tailored to their own tactical doctrines.</p>
+</overview>
+
+<capabilities>
+<p>The Hell's Horses configuration takes a different approach, replacing the base model's recoilless rifle and improved sensors with a Bearhunter Superheavy Autocannon and a one-shot SRM-3 launcher. The Bearhunter delivers punishing close-range firepower against infantry and light vehicles, while the SRM pack provides a single guided missile salvo for engaging hardened targets or BattleMechs. Once the missile payload is expended, troopers must rely on the autocannon and vibro-claws for the remainder of an engagement.</p><p>Like the Jade Falcon variant, the loss of improved sensors diminishes reconnaissance capability. The configuration trades sustained engagement potential for a powerful opening strike, reflecting Horse doctrine that emphasizes combined-arms shock tactics where battle armor operates in concert with heavier combat assets.</p>
+</capabilities>
+
+<deployment>
+<p>ComStar or Word of Blake Level I formations equipped with the Hell's Horses variant could deliver a concentrated opening volley of six SRM-3 salvos, a significant first-strike capability against hardened targets. The six-trooper formation offset the one-shot nature of the missile system by massing fire before transitioning to autocannon-based sustained combat.</p>
+</deployment>
+
+<history>
+<p>Khan Raina Montose of Clan Ice Hellion ordered her scientists to develop new battle armor as part of a broader effort to restore Clan morale. Two separate projects were already underway: one pursuing high-speed reconnaissance with VTOL capability, the other focused on anti-infantry combat. Neither fully satisfied the Khan, so she directed both teams to merge their efforts into a single design. The collaboration proved contentious, with rival staffs resorting to heated debate and, on occasion, Circles of Equals to resolve disagreements. The finished Afreet earned Khan Montose's immediate approval when both teams presented it just before her deadline.</p><p>The Ice Hellions guarded their new suit with great zeal, going to considerable lengths to keep it out of rival hands. This exclusivity held until Clan Jade Falcon acquired Afreet suits through unknown channels, confirmed when Falcon Elementals wearing the armor appeared alongside a delegation on Arc-Royal. Following the Ice Hellion invasion of the Inner Sphere, both the Jade Falcons and Clan Hell's Horses captured large quantities during fighting across the Occupation Zones. Both Clans modified the design extensively to match their own tactical requirements. The Jade Falcons began production at Olivetti Weapons on Sudeten, while the Hell's Horses were believed to have established their own manufacturing lines.</p>
+</history>
+
+<manufacturer>
+Refit - Csesztreg Industriplex Gamma|Refit - Transitional Facility A-4
+</manufacturer>
+
+<primaryFactory>
+Csesztreg|Nouveaux Paris
+</primaryFactory>
+
+<systemManufacturers>
+CHASSIS:Unknown
+ENGINE:Unknown
+ARMOR:Unknown
+JUMP_JET:Unknown
+COMMUNICATIONS:Unknown
+TARGETING:Unknown
+</systemManufacturers>
+
+<systemModels>
+CHASSIS:Unknown
+ENGINE:Unknown
+ARMOR:Unknown
+JUMP_JET:Unknown
+COMMUNICATIONS:Unknown
+TARGETING:Unknown
+</systemModels>
 

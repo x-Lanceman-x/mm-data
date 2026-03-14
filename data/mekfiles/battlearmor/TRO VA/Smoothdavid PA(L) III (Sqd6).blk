@@ -88,40 +88,6 @@ CLBAMedium Recoilless Rifle:RA
 
 <Trooper 6 Equipment>
 </Trooper 6 Equipment>
-
-<capabilities>
-The suit is protected by only 50kg of armor, making it ill-suited for the battlefield. Despite this lack of protection compared to standard Battle Armor, the Smoothdavid II is able to conduct anti-BattleMech attacks.
-</capabilities>
-
-<overview>
-The Smoothdavid II/III and Smoothgoliath II Light Personal Armor was designed by TharHes Industries of Tharkad.
-</overview>
-
-<deployment>
-Introduced in the Jihad, this variant reduces the ground speed to 10 km/h. A Medium Recoilless Rifle is fitted to the suit.
-</deployment>
-
-<history>
-Introduced in 3064, the design was created for government and law enforcement agencies, when it became apparent that Battle Armor was too heavy and clumsy for police work. The Smoothdavid prototypes were first seen in action on Solaris VII in field tests. The tests in the Exoskeleton arenas of Solaris proved to be successful and boosted the suit's visibility to potential customers. The suit became part of various government agencies and saw service during the last Whitting Conference in 3067.
-</history>
-
-<manufacturer>
-TharHes Industries
-</manufacturer>
-
-<primaryFactory>
-Tharkad
-</primaryFactory>
-
-<systemManufacturers>
-CHASSIS:Unknown
-ENGINE:Unknown
-ARMOR:Unknown
-JUMP_JET:Unknown
-COMMUNICATIONS:Unknown
-TARGETING:Unknown
-</systemManufacturers>
-
 <source>
 TR:VAr
 </source>

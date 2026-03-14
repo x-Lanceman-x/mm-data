@@ -87,40 +87,6 @@ BACuttingTorch:Body
 
 <Trooper 6 Equipment>
 </Trooper 6 Equipment>
-
-<capabilities>
-The design is noted for its speed and armor protection which is greater than its nearest competitor, GM's HeavyHauler.
-</capabilities>
-
-<overview>
-The P-5000 PowerLoader is a cargo handling industrial Exoskeleton which is produced by the Free Worlds League corporation Waytani, Inc.
-</overview>
-
-<deployment>
-The PowerLoader is fitted with two Cargo Lifter manipulators, which when working together can lift up to 2 tons. The suit has also been given a minimum of 50 kilograms of armor to protect its user and features a searchlight and a torch cutter.
-</deployment>
-
-<history>
-Waytani was created solely to produce and bring the exoskeleton to market. The company's initial successful holovid advertising campaign was a boon for the company contributing to its success in both the League and the Capellan Confederation. Easily able to handle the most Alien of loads.
-</history>
-
-<manufacturer>
-Waytani, Inc,Waytani, Inc
-</manufacturer>
-
-<primaryFactory>
-Marik,Pollux
-</primaryFactory>
-
-<systemManufacturers>
-CHASSIS:Unknown
-ENGINE:Unknown
-ARMOR:Unknown
-JUMP_JET:Unknown
-COMMUNICATIONS:Unknown
-TARGETING:Unknown
-</systemManufacturers>
-
 <source>
 TR:VAr
 </source>

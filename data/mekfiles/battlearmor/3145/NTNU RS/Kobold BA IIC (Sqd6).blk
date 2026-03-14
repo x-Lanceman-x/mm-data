@@ -99,40 +99,6 @@ InfantryAssaultRifle:APM
 <slotless_equipment>
 BAVTOL
 </slotless_equipment>
-
-<capabilities>
-The Kobold can only jump up to ninety meters at a time, but it does boast enough armor to stop a medium laser. This armor is of the basic stealth variety, making it more difficult to target far away. The Kobold has the distinction of being a battle armor suit used by the Inner Sphere, ComStar, and the Clans.
-</capabilities>
-
-<overview>
-The Kobold is a battle armor design that was collaborated on by the Free Rasalhague Republic, ComStar, and the second Star League.
-</overview>
-
-<deployment>
-This version of the Kobold is protected by Improved Stealth armor and carries an ECM Suite, Light TAG, and Light Machine Gun. It is also equipped with a VTOL movement system to increase its utility as a spotter.
-</deployment>
-
-<history>
-BA Harjel not coded. Unit included for completeness
-</history>
-
-<manufacturer>
-Grumium Creations
-</manufacturer>
-
-<primaryFactory>
-Grumium
-</primaryFactory>
-
-<systemManufacturers>
-CHASSIS:Unknown
-ENGINE:Unknown
-ARMOR:Unknown
-JUMP_JET:Unknown
-COMMUNICATIONS:Unknown
-TARGETING:Unknown
-</systemManufacturers>
-
 <source>
 RS:3145-NTNU
 </source>

@@ -91,40 +91,6 @@ IS BA Stealth (Improved):RA
 
 <Trooper 5 Equipment>
 </Trooper 5 Equipment>
-
-<capabilities>
-The Hauberk mounts improved stealth armor to keep from being targeted effectively. The size of the battlesuit precludes its ability to be transported on OmniMechs or perform anti-'Mech operations, though it does mount a battle claw. Its slow speed generally limits its use to defensive operations, though it has been known to travel by armored personnel carrier
-</capabilities>
-
-<overview>
-The Hauberk is a battle armor that was designed by some of the members of the New Avalon Cavaliers at the New Avalon Institute of Science.
-</overview>
-
-<deployment>
-The largest gun on the Hauberk is its LRM-5 that only comes with five reloads. Squads often pop up for ambushes thanks to the Hauberk's stealth armor, which allows them to fire the missiles into a BattleMech's rear armor. For close range combat, it carries a Small Laser. It excels when it can soften up enemies from long range, then finish them off up close.
-</deployment>
-
-<history>
-The Cavaliers wanted to take the basic idea of the Undine and make it more broadly useful. During the Jihad, the Federated Suns finally got their hands on the Undine through Clan Diamond Shark. Though they had initially planned on simply deploying the Clan suits, it quickly became clear that the Undine's aquatic nature made it of limited usefulness, especially as its technological sophistication prevented easy repair. For this reason, the Hauberk was created from the Undine chassis, leading to the similar appearances of the designs.
-</history>
-
-<manufacturer>
-General Motors
-</manufacturer>
-
-<primaryFactory>
-Salem
-</primaryFactory>
-
-<systemManufacturers>
-CHASSIS:Unknown
-ENGINE:Unknown
-ARMOR:Unknown
-JUMP_JET:Unknown
-COMMUNICATIONS:Unknown
-TARGETING:Unknown
-</systemManufacturers>
-
 <source>
 TR:3075
 </source>

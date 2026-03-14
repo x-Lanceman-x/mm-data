@@ -105,40 +105,6 @@ Taser Ammo:Shots1#
 Taser Ammo:Shots1#
 Taser Ammo:Shots1#
 </slotless_equipment>
-
-<capabilities>
-The Phalanx has decent speed for heavy battle armor, capable of moving on the ground at a clip up to 22 km/h. It skimps on armor protection, however, as a Large Laser is enough to completely destroy the suit and kill the trooper inside. This armor is, however, improved stealth, which means that the Phalanx is much more difficult to target than most other battle armor.
-</capabilities>
-
-<overview>
-The Phalanx is a battle armor design created and produced by Irian Technologies in the Free Worlds League. This design is the FWLM's answer to larger, harder-hitting battle armor such as the Kanazuchi and Gnome.
-</overview>
-
-<deployment>
-The Phalanx features a "King David" Light Gauss Rifle, which has good range, but only decent firepower. To supplement this, the battlesuit carries an SRM-4 with an additional reload. The missile launcher uses a detachable system similar to the one found on the Longinus. The Phalanx has a Battle Claw on the left hand and an Armored Glove on the right, meaning that it can make use of infantry weapons and can ride mounted on OmniMechs. It cannot, however, make anti-'Mech attacks.
-</deployment>
-
-<history>
-Since the Word helped the FWLM create the Phalanx, they have created their own variant. Though they use the original as well, the Blakist Phalanx carries a 'Mech Taser Rifle instead of the "King David" rifle. The one-shot weapon enables Phalanx troopers to disable a vehicle or 'Mech, though it also suffers feedback and, potentially, an explosion. This version of the Phalanx uses Advanced Technology.
-</history>
-
-<manufacturer>
-Free Worlds Defence Industries,Field Refit
-</manufacturer>
-
-<primaryFactory>
-Gibson,Various
-</primaryFactory>
-
-<systemManufacturers>
-CHASSIS:Unknown
-ENGINE:Unknown
-ARMOR:Unknown
-JUMP_JET:Unknown
-COMMUNICATIONS:Unknown
-TARGETING:Unknown
-</systemManufacturers>
-
 <source>
 TR:3075
 </source>

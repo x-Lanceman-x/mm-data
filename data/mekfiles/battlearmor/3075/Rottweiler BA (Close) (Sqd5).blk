@@ -87,40 +87,6 @@ IS BA Stealth (Basic):Body
 
 <Trooper 5 Equipment>
 </Trooper 5 Equipment>
-
-<capabilities>
-Their efforts resulted in a top speed of 54 km/h. The Rottweiler is an electronics marvel. It has stealth armor that enables the suit to evade detection and makes targeting it more difficult along with advanced sensors so that the unit is never surprised. It mounts enough armor to stop a Clan Medium Pulse Laser. The Rottweiler also incorporates a hatch in its front that mimics a mouth and can carry up to five kilograms of equipment.
-</capabilities>
-
-<overview>
-The Rottweiler is a battle armor suit that Lyran Alliance scientists designed as a fast scout.
-</overview>
-
-<deployment>
-In the midst of the Jihad and the utter devastation of that conflict, the Lyran Alliance demanded new variants of the Rottweiler to supplement dwindling numbers of front-line battlesuits. The close combat variant keeps the sensors and mission equipment, but changes the weapon configuration. It mounts a Flamer and a Machine Gun, transforming it into a furious infantry killer. It is especially well-suited to urban environments thanks to its high speed.
-</deployment>
-
-<history>
-The Fenrir showed how fast a quadruped battlesuit could move, so the team decided to push the envelope with the Rottweiler.
-</history>
-
-<manufacturer>
-TharHes Industries
-</manufacturer>
-
-<primaryFactory>
-Eutin
-</primaryFactory>
-
-<systemManufacturers>
-CHASSIS:Unknown
-ENGINE:Unknown
-ARMOR:Unknown
-JUMP_JET:Unknown
-COMMUNICATIONS:Unknown
-TARGETING:Unknown
-</systemManufacturers>
-
 <source>
 TR:3075
 </source>

@@ -85,40 +85,6 @@ BABasicManipulatorMineClearance:RA
 
 <Trooper 5 Equipment>
 </Trooper 5 Equipment>
-
-<capabilities>
-The Salrilla retains the Gorilla's body-mounted searchlight and cutting torch and is also protected by 100 kilograms of standard armor. The exoskeleton's actuators and motors allow it to reach speeds of approximately 30 km/h, allowing the frame to reach its battlefield salvage objectives in a timely manner and evade potential threats.
-</capabilities>
-
-<overview>
-The PEX-2F Salrilla is an industrial Exoskeleton developed by StarCorps Industries for battlefield salvage details.
-</overview>
-
-<deployment>
-Created to clear minefields, this version removes the salvage arm of the Salrilla and is equipped with two basic manipulators optimized for mine clearance. It retains the same performance, cutting torch, searchlight, and armor protection of the Salrilla.
-</deployment>
-
-<history>
-The suit is based on their successful Gorilla Industrial Suit. The company developed the suit after seeing private concerns try to use the Gorilla as a battlefield salvage unit with less success. StarCorps took strides to improve the Gorilla for the task, with the result being a more heavily armored and speedier machine with a slight hike in cost over the original.
-</history>
-
-<manufacturer>
-StarCorps Industries,StarCorps Industries,StarCorps Industries,StarCorps Industries
-</manufacturer>
-
-<primaryFactory>
-Crofton,Emris IV,Loburg,St. Ives
-</primaryFactory>
-
-<systemManufacturers>
-CHASSIS:Unknown
-ENGINE:Unknown
-ARMOR:Unknown
-JUMP_JET:Unknown
-COMMUNICATIONS:Unknown
-TARGETING:Unknown
-</systemManufacturers>
-
 <source>
 TR:VAr
 </source>

@@ -91,40 +91,6 @@ IS BA Stealth (Improved):LA
 <slotless_equipment>
 BAJumpJet
 </slotless_equipment>
-
-<capabilities>
-The Void is protected by enough improved stealth armor to stop a medium laser. The stealth armor makes it more difficult to target the trooper, while also making it all but invisible to enemy detection devices, such as Active Probes. Like the Kage, the Void can jump one hundred and twenty meters, though it achieves this through the use of a jump booster instead of the partial wing. The Void can mount and ride OmniMechs.
-</capabilities>
-
-<overview>
-The Void is a battle armor design that is produced by the Draconis Combine.
-</overview>
-
-<deployment>
-Unlike the Kage, each Void suit is equipped with an integral weapon, in this case a Support PPC. The PPC enables the Void to deal a decent amount of damage from a moderate distance away, or it can be used in an anti-'Mech attack. Since it is equipped with basic manipulators, a Void trooper can also engage in swarm and leg attacks
-</deployment>
-
-<history>
-The DCMS decided to push its battle armor development program to continue producing new designs following the surge of the 3050s. Though the Combine-Ghost Bear War set the timetable back, the Void debuted in 3067 to a lukewarm reception. It was only after the High Command and Procurement Department realized that part of the design process involved making the suit specifically adjustable to accommodate Elementals, and fully understood the possibilities for trade and partnership with Clan Nova Cat, that a battlesuit that so closely resembles the Kage it was based upon was approved for production.
-</history>
-
-<manufacturer>
-Ishikawajima-Harima BAI
-</manufacturer>
-
-<primaryFactory>
-Luthien
-</primaryFactory>
-
-<systemManufacturers>
-CHASSIS:Unknown
-ENGINE:Unknown
-ARMOR:Unknown
-JUMP_JET:Unknown
-COMMUNICATIONS:Unknown
-TARGETING:Unknown
-</systemManufacturers>
-
 <source>
 TR:3075
 </source>

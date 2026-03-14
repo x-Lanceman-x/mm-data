@@ -92,40 +92,6 @@ Clan BA Reactive (Blazer):LA
 
 <Trooper 4 Equipment>
 </Trooper 4 Equipment>
-
-<capabilities>
-The Warg is protected by 400 kgs worth of standard armor, and is only able to move at 10 km/h.
-</capabilities>
-
-<overview>
-Created in the post-Jihad era, the Warg assault battle armor was Clan Wolf's response to the growing number of assault weight battle armor units being introduced after the Word of Blake's Jihad.
-</overview>
-
-<deployment>
-Introduced in 3122, this Warg variant is protected by Reactive Armor. It removes the Light Machine Gun, but the SRM launchers are upgraded to Advanced SRM models.
-</deployment>
-
-<history>
-Built in Clan Wolf's factory on Tamar, the Warg was developed over the course of six years to finally start deployment in 3085. The Warg differs from Clan Wolf's past preference of mobility over firepower.
-</history>
-
-<manufacturer>
-Corean Enterprises - MacAdams-Suharno,WC Site OZ-2
-</manufacturer>
-
-<primaryFactory>
-Stewart,Tamar
-</primaryFactory>
-
-<systemManufacturers>
-CHASSIS:Unknown
-ENGINE:Unknown
-ARMOR:Unknown
-JUMP_JET:Unknown
-COMMUNICATIONS:Unknown
-TARGETING:Unknown
-</systemManufacturers>
-
 <source>
 RS:3145-NTNU
 </source>

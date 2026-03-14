@@ -94,40 +94,6 @@ IS BA Stealth (Improved):RA
 
 <Trooper 6 Equipment>
 </Trooper 6 Equipment>
-
-<capabilities>
-The Phalanx has decent speed for heavy battle armor, capable of moving on the ground at a clip up to 22 km/h. It skimps on armor protection, however, as a Large Laser is enough to completely destroy the suit and kill the trooper inside. This armor is, however, improved stealth, which means that the Phalanx is much more difficult to target than most other battle armor.
-</capabilities>
-
-<overview>
-The Phalanx is a battle armor design created and produced by Irian Technologies in the Free Worlds League. This design is the FWLM's answer to larger, harder-hitting battle armor such as the Kanazuchi and Gnome.
-</overview>
-
-<deployment>
-This version of the Phalanx carries a single battle claw and a Medium Variable Speed Pulse Laser.
-</deployment>
-
-<history>
-Since the Word helped the FWLM create the Phalanx, they have created their own variant. Though they use the original as well, the Blakist Phalanx carries a 'Mech Taser Rifle instead of the "King David" rifle. The one-shot weapon enables Phalanx troopers to disable a vehicle or 'Mech, though it also suffers feedback and, potentially, an explosion. This version of the Phalanx uses Advanced Technology.
-</history>
-
-<manufacturer>
-Irian BattleMechs Unlimited
-</manufacturer>
-
-<primaryFactory>
-Irian
-</primaryFactory>
-
-<systemManufacturers>
-CHASSIS:Unknown
-ENGINE:Unknown
-ARMOR:Unknown
-JUMP_JET:Unknown
-COMMUNICATIONS:Unknown
-TARGETING:Unknown
-</systemManufacturers>
-
 <source>
 RS:3145-NTNU
 </source>

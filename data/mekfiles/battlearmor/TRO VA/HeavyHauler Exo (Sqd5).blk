@@ -85,40 +85,6 @@ BASearchlight:Body
 
 <Trooper 5 Equipment>
 </Trooper 5 Equipment>
-
-<capabilities>
-The exoskeleton is equipped with two Cargo Lifter manipulators, when used together these can lift up to a total of two and a half tons.
-</capabilities>
-
-<overview>
-The HeavyHauler is an industrial Exoskeleton which was designed for heavy-lifting and cargo handling.
-</overview>
-
-<deployment>
-Aside from its lifters, the suit has been given a searchlight and cutting torch mounted on the body.
-</deployment>
-
-<history>
-Designed by GM of Kathil, the HeavyHauler became popular with various commercial industries due to its significant lifting power. However, for the exoskeleton to achieve notable lifting abilities, its designs excluded use of any armor protection or significant speed.
-</history>
-
-<manufacturer>
-General Motors,Albion Advanced Technologies and Products
-</manufacturer>
-
-<primaryFactory>
-Kathil,New Avalon
-</primaryFactory>
-
-<systemManufacturers>
-CHASSIS:Unknown
-ENGINE:Unknown
-ARMOR:Unknown
-JUMP_JET:Unknown
-COMMUNICATIONS:Unknown
-TARGETING:Unknown
-</systemManufacturers>
-
 <source>
 TR:VAr
 </source>

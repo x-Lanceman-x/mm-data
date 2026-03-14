@@ -93,40 +93,6 @@ Clan BA Laser Reflective (Reflec/Glazed):Body
 <slotless_equipment>
 BAJumpJet
 </slotless_equipment>
-
-<capabilities>
-The armor's other qualities include a Jump Booster for added mobility and 250 kilograms of standard armor.
-</capabilities>
-
-<overview>
-The Thunderbird was created by Clan Nova Cat as a replacement Heavy Battle Armor.
-</overview>
-
-<deployment>
-This version also uses Reflective Armor and is equipped with a Small Pulse Laser.
-</deployment>
-
-<history>
-Its development started in the mid-3080s as a needed replacement for their Touman's dwindling supply of frontline Elemental Battle Armor. The Nova Cats' supply of Elemental Suits had been rapidly been depleted due to its Abjuration in 3060 and the late conflicts of the Jihad. Development of the suit started when Khan Santin West firmly pressed his Technician and Scientist Castes to create a replacement suit in 3084. The Thunderbird first saw combat in October 3085, where it was deployed in combat in a Battle Armor Trinary with the 489th Assault Cluster. A combined arms raiding force of Inner Sphere Standard Battle Armor and 'Mechs raided Labrea where the 489th was stationed. The Thunderbirds of the Trinary showed their mettle with other Nova Cat Battle Armor troops. The design remained exclusively the Nova Cats' property despite inquires by various allies. The DCMS used information gathered from its evaluations of the Thunderbird for its own Kishi and Oni battle armor.
-</history>
-
-<manufacturer>
-Barcella Battle Armor Facility
-</manufacturer>
-
-<primaryFactory>
-Irece
-</primaryFactory>
-
-<systemManufacturers>
-CHASSIS:Unknown
-ENGINE:Unknown
-ARMOR:Unknown
-JUMP_JET:Unknown
-COMMUNICATIONS:Unknown
-TARGETING:Unknown
-</systemManufacturers>
-
 <source>
 RS:3145-NTNU
 </source>

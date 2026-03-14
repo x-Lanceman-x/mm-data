@@ -89,40 +89,6 @@ BABasicManipulator:RA
 <slotless_equipment>
 BAJumpJet
 </slotless_equipment>
-
-<capabilities>
-The Ironhold is noted for being more mobile than typical Clan Assault Armor, where it can employ its Jump Jets and give itself better tactical advantage over its opponents.
-</capabilities>
-
-<overview>
-The Ironhold Assault Battle Armor was developed by Clan Jade Falcon during the Jihad.
-</overview>
-
-<deployment>
-The Armor's main weapons are its arm mounted AP Gauss Rifles. Each of the large guns has been allotted 20 rounds of ammunition.
-</deployment>
-
-<history>
-The roots of the Ironhold go back to development of the Anti-Personnel Gauss Rifle in 3069. After the success of that weapon, a new project codenamed Project Ferrum was started to develop a new suit of battle armor with the support of the Elemental Trinary of 3rd Falcon Talon Cluster. Once development was completed, the Ironhold was successfully and covertly tested in the Periphery. It was believed that Ironhold could replace the Clan's ProtoMechs against Inner Sphere forces based on combat results. It wasn't until 3077 when the factory on Sudeten could be brought online to mass produce the suit. The mass-produced Ironholds first saw combat in June of '77 when deployed by Talon's Elemental Trinary with Devlin Stone's Coalition efforts on Shiloh.
-</history>
-
-<manufacturer>
-Olivetti Weaponry
-</manufacturer>
-
-<primaryFactory>
-Sudeten
-</primaryFactory>
-
-<systemManufacturers>
-CHASSIS:Unknown
-ENGINE:Unknown
-ARMOR:Unknown
-JUMP_JET:Unknown
-COMMUNICATIONS:Unknown
-TARGETING:Unknown
-</systemManufacturers>
-
 <source>
 TR:3085
 </source>

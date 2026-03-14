@@ -90,40 +90,6 @@ BAISAngelECMSuite:Body
 <slotless_equipment>
 BAJumpJet
 </slotless_equipment>
-
-<capabilities>
-Protected by Standard Stealth armor and capable of moving at speeds of up to 32.4 km/h - although incapable of jumping - Leonidas battle armor carries an Anti-Personnel Weapon Mount and a Modular Weapon Mount on the right arm while a Heavy Battle Claw was fitted to the left arm. The Modular Weapon Mount could be fitted with various weapons and systems including a "David" Light Gauss Rifle with fifteen rounds of ammunition, a Machine Gun and fifty rounds of ammunition, a Firedrake Support Needler with thirty rounds of ammunition, a Light TAG system with sixty rounds of ammunition or a package of Improved Sensors. Mounted to the body of the suit was an Angel ECM Suite.
-</capabilities>
-
-<overview>
-The Leonidas suit is highly configurable, capable of being reconfigured for various battlefield missions including providing positional information, calling in artillery strikes, waging counterinsurgency warfare and conducting ambushes.
-</overview>
-
-<deployment>
-The various roles are made possible through the different weapons and equipment loadouts available via the Modular Weapon Mount.
-</deployment>
-
-<history>
-Leonidas battle armor was a product of Etna Foundries and was intended to plug a capability gap in the armed forces of the Duchy of Oriente, a gap created by scarcity of the older Achileus stealth suit. After soldiers equipped with Leonidas battle armor achieved a number of successes provided a testimony to the suit's capabilities the Leonidas suit was exported widely across the Inner Sphere and to various Periphery states.
-</history>
-
-<manufacturer>
-Etna Foundries
-</manufacturer>
-
-<primaryFactory>
-Oriente
-</primaryFactory>
-
-<systemManufacturers>
-CHASSIS:Unknown
-ENGINE:Unknown
-ARMOR:Unknown
-JUMP_JET:Unknown
-COMMUNICATIONS:Unknown
-TARGETING:Unknown
-</systemManufacturers>
-
 <source>
 TR:3145:FWL
 </source>

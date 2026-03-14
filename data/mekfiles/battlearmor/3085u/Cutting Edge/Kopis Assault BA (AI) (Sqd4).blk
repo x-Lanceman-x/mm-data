@@ -91,40 +91,6 @@ IS BA Advanced:RA
 
 <Trooper 4 Equipment>
 </Trooper 4 Equipment>
-
-<capabilities>
-Slow but heavily armed, the Kopis can remain on the battlefield supporting friendly units for a long time. The advanced armor used by the Kopis designers allows it to stand up to most weaponry, shrugging off anything short of a PPC or AC/10 hit. The low top speed is mitigated through the use of VTOL transportation for offensive operations, while smart commanders use the Kopis as a defense unit for cities or other tight terrain. In those restricted environments the low top speed isn't a factor.
-</capabilities>
-
-<overview>
-The Kopis battle armor was designed by StarCorps Industries as an assault unit.
-</overview>
-
-<deployment>
-Developed for the liberation of Terra introduced in 3078, this variant replaces the Medium Lasers with a single Medium Pulse Laser and a Flamer. It was used to fight the Word of Blake's infantry defenders on Terra.
-</deployment>
-
-<history>
-The standard model was given the nickname of "The Dark Alley".
-</history>
-
-<manufacturer>
-Grumium Creations
-</manufacturer>
-
-<primaryFactory>
-Grumium
-</primaryFactory>
-
-<systemManufacturers>
-CHASSIS:Unknown
-ENGINE:Unknown
-ARMOR:Unknown
-JUMP_JET:Unknown
-COMMUNICATIONS:Unknown
-TARGETING:Unknown
-</systemManufacturers>
-
 <source>
 TR:3085
 </source>

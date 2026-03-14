@@ -102,40 +102,6 @@ ISBAMineDispenser:Body
 <slotless_equipment>
 BAJumpJet
 </slotless_equipment>
-
-<capabilities>
-The Void is protected by enough improved stealth armor to stop a medium laser. The stealth armor makes it more difficult to target the trooper, while also making it all but invisible to enemy detection devices, such as Active Probes. Like the Kage, the Void can jump one hundred and twenty meters, though it achieves this through the use of a jump booster instead of the partial wing. The Void can mount and ride OmniMechs.
-</capabilities>
-
-<overview>
-The Void is a battle armor design that is produced by the Draconis Combine.
-</overview>
-
-<deployment>
-A production version of the Void Caltrop, this version of the Void armor keeps the Mechanical Jump Booster but replaces the Clan-spec laser with a single Medium Recoilless Rifle and paired Mine Dispensers. A single Anti-Personnel Weapon Mount allows the soldier to eliminate conventional infantry or sentries. The Improved Stealth armor of the Caltrop has been replaced with Basic Stealth armor that is more widely available. (The reduction of weight and space allowed the installation of the second Mine Dispenser.) The Recoilless Rifle has proven effective against 'Mechs and armored vehicles that have made it through the minefields placed by the armor. The Void Minelayer also uses a pair of Heavy Battle Claws to make anti-'Mech attacks.
-</deployment>
-
-<history>
-The DCMS decided to push its battle armor development program to continue producing new designs following the surge of the 3050s. Though the Combine-Ghost Bear War set the timetable back, the Void debuted in 3067 to a lukewarm reception. It was only after the High Command and Procurement Department realized that part of the design process involved making the suit specifically adjustable to accommodate Elementals, and fully understood the possibilities for trade and partnership with Clan Nova Cat, that a battlesuit that so closely resembles the Kage it was based upon was approved for production.
-</history>
-
-<manufacturer>
-Ishikawajima-Harima BAI
-</manufacturer>
-
-<primaryFactory>
-Luthien
-</primaryFactory>
-
-<systemManufacturers>
-CHASSIS:Unknown
-ENGINE:Unknown
-ARMOR:Unknown
-JUMP_JET:Unknown
-COMMUNICATIONS:Unknown
-TARGETING:Unknown
-</systemManufacturers>
-
 <source>
 TR:Proto
 </source>

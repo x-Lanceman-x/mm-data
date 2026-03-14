@@ -94,40 +94,6 @@ ISImprovedSensors:Body
 <slotless_equipment>
 BAJumpJet
 </slotless_equipment>
-
-<capabilities>
-The suit was designed for basic Search and Rescue, however a major flaw in the design was the fact that it couldn't handle the intense heat from fires. Despite the failing in this area, the Krise was accepted by the Federated Suns
-</capabilities>
-
-<overview>
-The Krise was created by Federated Suns-based emergency equipment manufacturer Gortex Multi-E to expand their line of rescue equipment offerings.
-</overview>
-
-<deployment>
-The suit was able to move up to 30 km/h and utilized built-in Jump Jets for increased mobility. The Krise was also equipped with a Salvage Arm and a Search Light in its left arm and a Cutting Torch fitted to its right. It also benefits from Extended Life Support and Improved Sensors in its main body.
-</deployment>
-
-<history>
-This exoskeleton came into existence thanks to the advancements of military Battle Armors.
-</history>
-
-<manufacturer>
-Gortex Multi-E
-</manufacturer>
-
-<primaryFactory>
-Kittery
-</primaryFactory>
-
-<systemManufacturers>
-CHASSIS:Unknown
-ENGINE:Unknown
-ARMOR:Unknown
-JUMP_JET:Unknown
-COMMUNICATIONS:Unknown
-TARGETING:Unknown
-</systemManufacturers>
-
 <source>
 TR:VAr
 </source>

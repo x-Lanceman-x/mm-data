@@ -102,40 +102,6 @@ IS BA Laser Reflective (Reflec/Glazed):Body
 <slotless_equipment>
 BAJumpJet
 </slotless_equipment>
-
-<capabilities>
-The Kishi is ideal for urban operations and the standard configuration of the suit gives it an edge over opponents when engaged in close-combat situations; it is also popular for the layer of compact memory foam that lines each suit, allowing the user to operate his or her suit for extended periods in comfort and thereby making the Kishi more suitable for extended operations. Protected by a third of a ton of reflective armor, Kishi suits are capable of making swarm and leg attacks as well as being mechanized. A mechanical jump booster propels the suit up to 30 meters.
-</capabilities>
-
-<overview>
-Manufactured by Ishikawajima-Harima Battle Armor Industries on Luthien, the Kishi battle armor is a byproduct of the design and testing process that produced the Clan Nova Cat Thunderbird series of battle armor suits.
-</overview>
-
-<deployment>
-A Kishi suit mounts two weapons, a single Heavy Machine Gun on the right arm with fifty rounds of ammunition and a Heavy Vibro Battle Claw on the left arm
-</deployment>
-
-<history>
-As Kishi suits don't require oversized body types to operate it comfortably and can be easily maintained, it has rapidly become the primary battle armor suit of the Draconis Combine Mustered Soldiery.
-</history>
-
-<manufacturer>
-Ishikawajima-Harima BAI
-</manufacturer>
-
-<primaryFactory>
-Luthien
-</primaryFactory>
-
-<systemManufacturers>
-CHASSIS:Unknown
-ENGINE:Unknown
-ARMOR:Unknown
-JUMP_JET:Unknown
-COMMUNICATIONS:Unknown
-TARGETING:Unknown
-</systemManufacturers>
-
 <source>
 TR:3145:DC
 </source>

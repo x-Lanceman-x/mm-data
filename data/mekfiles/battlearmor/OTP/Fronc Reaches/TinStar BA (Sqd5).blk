@@ -96,19 +96,6 @@ InfantryAssaultRifle:APM
 
 <Trooper 5 Equipment>
 </Trooper 5 Equipment>
-
-<overview>
-Fronc Reaches
-</overview>
-
-<manufacturer>
-Marshals Battle Armor Assembly Facility
-</manufacturer>
-
-<primaryFactory>
-Independence
-</primaryFactory>
-
 <source>
 OTP:FR
 </source>

@@ -106,40 +106,6 @@ Clan BA Stealth (Basic):RA
 <slotless_equipment>
 BAJumpJet
 </slotless_equipment>
-
-<capabilities>
-The Rogue Bear can jump up to sixty meters at a time. It is protected by almost enough armor to stop a Gauss rifle. The battlesuit uses mostly standard components with no disposable weaponry.
-</capabilities>
-
-<overview>
-First known to have been deployed in 3073, the Rogue Bear is a battle armor design produced by Clan Ghost Bear.
-</overview>
-
-<deployment>
-Based on the Rogue Bear-HR, the Rogue Bear-Hybrid is a production-level version of that armor. To address comments and complaints from the users, the Battle Claws used by the HR were replaced by basic manipulators. The Partial Wing was also a problem, and so it was replaced by a Battle Armor Jump Booster system that provided the same 90 meter range and was easier to use. The weight savings made by these changes allowed the engineers to add a second Machine Gun and AP Weapon Mount, doubling the suit's firepower. The Stealth Armor and Camo System of the Rogue Bear-HR were left in place, providing excellent protection and stealth capabilities. The Rogue Bear-Hybrid is popular with those formations that use the Kobold suit.
-</deployment>
-
-<history>
-Initially confused for the Golem, the Rogue Bear is a heavy battlesuit that was initially deployed with garrison units, especially those of the KungsArmé who were incorporated into the Ghost Bear touman. Though it fits with their hatred of waste, this seems to underscore the difficulties the Bears are having maintaining their touman through the Jihad and the troubles in the Clan homeworlds. The Constable Pacification Suit introduced by the Ghost Bear Dominion in 3092 to combat the terrorist organization named Motstånd and to enhance the capabilities of their police forces was based on a lighter version of the Rogue Bear. The Rogue Bear is also related to the Wraith suit, which was originally prototyped as the Rogue bear.
-</history>
-
-<manufacturer>
-BA Facility Gamma
-</manufacturer>
-
-<primaryFactory>
-Mannedorf
-</primaryFactory>
-
-<systemManufacturers>
-CHASSIS:Unknown
-ENGINE:Unknown
-ARMOR:Unknown
-JUMP_JET:Unknown
-COMMUNICATIONS:Unknown
-TARGETING:Unknown
-</systemManufacturers>
-
 <source>
 TR:Proto
 </source>

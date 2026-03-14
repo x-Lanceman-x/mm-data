@@ -93,40 +93,6 @@ CLBALightMG:RA
 <slotless_equipment>
 BAJumpJet
 </slotless_equipment>
-
-<capabilities>
-The suit was given modular plug-ins to allow tools to be attached for various jobs. The suit is notable for its communication and sturdy life support features.
-</capabilities>
-
-<overview>
-The Tunnel Rat mining exoskeleton was part of GM's ambition to reenter the mining industry.
-</overview>
-
-<deployment>
-This version has a sixty meter jump capability and carries a Light Machine Gun and Battle Claw.
-</deployment>
-
-<history>
-This was made possible with the recovery of the Helm Memory Core. GM had originally produced the mining suits during the late Star League Era, however, the Succession Wars caused the company to lose the technological knowledge to produce such suits. The company's ambitions to expand its offerings once again in the mining market became reality when power armor technology was recovered. Utilized for the mining industry, the Tunnel Rat was created as a suit able to withstand the harsh elements of underground mining.
-</history>
-
-<manufacturer>
-General Motors
-</manufacturer>
-
-<primaryFactory>
-Kathil
-</primaryFactory>
-
-<systemManufacturers>
-CHASSIS:Unknown
-ENGINE:Unknown
-ARMOR:Unknown
-JUMP_JET:Unknown
-COMMUNICATIONS:Unknown
-TARGETING:Unknown
-</systemManufacturers>
-
 <source>
 TR:VAr
 </source>

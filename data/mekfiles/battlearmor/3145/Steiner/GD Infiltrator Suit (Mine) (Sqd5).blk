@@ -97,40 +97,6 @@ ISBAMineDispenser:LA
 <slotless_equipment>
 BAJumpJet
 </slotless_equipment>
-
-<capabilities>
-The Gray Death Infiltrator Suit is capable of making swarm and leg attacks as well as being able to travel by mechanized transport. Each suit had a Basic Manipulator mounted on each arm and had more than a third of a ton of basic stealth armor for protection.
-</capabilities>
-
-<overview>
-Manufactured on Furillo by Defiance Industries, the Gray Death Infiltrator Suit was the successor to the Infiltrator Mk. I, and while intended to fill a range of battlefield roles, it performed best as a scout or skirmisher.
-</overview>
-
-<deployment>
-Each Gray Death Infiltrator Suit had a "David" Light Gauss Rifle with fifteen rounds of ammunition installed on the right arm. The left arm of each suit was fitted with a Modular Weapon Mount, which was capable of mounting a Firedrake Support Needler and thirty rounds of ammunition, a Light TAG system with sixty rounds of ammunition, a package of Improved Sensors, a Remote Sensor Dispenser with six sensors or a Mine Dispenser and two mines.
-</deployment>
-
-<history>
-Nicknamed the Quokka, the Gray Death Infiltrator Suit was configured to be highly mobile and incorporated a Parafoil to allow it to make precise aerial drops.
-</history>
-
-<manufacturer>
-Defiance Industries
-</manufacturer>
-
-<primaryFactory>
-Furillo
-</primaryFactory>
-
-<systemManufacturers>
-CHASSIS:Unknown
-ENGINE:Unknown
-ARMOR:Unknown
-JUMP_JET:Unknown
-COMMUNICATIONS:Unknown
-TARGETING:Unknown
-</systemManufacturers>
-
 <source>
 TR:3145:LC
 </source>

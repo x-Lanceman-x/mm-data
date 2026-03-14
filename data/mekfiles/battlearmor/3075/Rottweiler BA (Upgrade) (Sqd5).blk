@@ -87,40 +87,6 @@ Mission Equipment Storage:Body:SIZE:5.0
 
 <Trooper 5 Equipment>
 </Trooper 5 Equipment>
-
-<capabilities>
-Their efforts resulted in a top speed of 54 km/h. The Rottweiler is an electronics marvel. It has stealth armor that enables the suit to evade detection and makes targeting it more difficult along with advanced sensors so that the unit is never surprised. It mounts enough armor to stop a Clan Medium Pulse Laser. The Rottweiler also incorporates a hatch in its front that mimics a mouth and can carry up to five kilograms of equipment.
-</capabilities>
-
-<overview>
-The Rottweiler is a battle armor suit that Lyran Alliance scientists designed as a fast scout.
-</overview>
-
-<deployment>
-This variant only keeps the mission equipment. Instead of the integral sensors, it uses a remote sensor dispenser to keep track of enemy movement. A "King David" Light Gauss Rifle provides some ranged firepower.
-</deployment>
-
-<history>
-The Fenrir showed how fast a quadruped battlesuit could move, so the team decided to push the envelope with the Rottweiler.
-</history>
-
-<manufacturer>
-TharHes Industries
-</manufacturer>
-
-<primaryFactory>
-Eutin
-</primaryFactory>
-
-<systemManufacturers>
-CHASSIS:Unknown
-ENGINE:Unknown
-ARMOR:Unknown
-JUMP_JET:Unknown
-COMMUNICATIONS:Unknown
-TARGETING:Unknown
-</systemManufacturers>
-
 <source>
 TR:3075
 </source>
