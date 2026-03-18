@@ -51,9 +51,6 @@ Generic Infantry Kit
 <Field Guns Equipment>
 </Field Guns Equipment>
 
-<overview>
-Bridge-builder Engineers Take the Time III-chi; Forty-eighth Division
-</overview>
 
 <source>
 TR:3085
@@ -74,4 +71,9 @@ Pulse Laser Rifle (Inner Sphere)
 <specialization>
 1
 </specialization>
+
+# Fluff Date: 2026-03-18 15:07:44
+<overview>
+<p>Tracked bridging platoons carry prefabricated bridge assembly components aboard their APCs, enabling them to construct field bridges across gaps and waterways that would otherwise halt an advance. Armed with pulse laser rifles for self-defense, these combat engineers focus on enabling mobility for heavier forces rather than direct combat. The tracked carriers handle the rough terrain typically found at river crossings and ravines where bridges are most needed.</p>
+</overview>
 

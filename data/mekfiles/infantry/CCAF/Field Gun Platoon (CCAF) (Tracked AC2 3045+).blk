@@ -55,13 +55,7 @@ Capellan Confederation Armor Kit (3050)
 <Field Guns Equipment>
 </Field Guns Equipment>
 
-<capabilities>
-Although outclassed by many later versions, older autocannon are still in common use as field guns due to lower operational costs plus a wide range of specialized ammunition.
-</capabilities>
 
-<overview>
-Conventional infantry have always been the defensive backbone of the CCAF.  Equipped with reliable and sturdy gear they depend more on the dedication of individual soldiers than technological superiority to hold the line against invading forces.
-</overview>
 
 <notes>
 Intro date based on prototype date of CCAF advanced armor kit
@@ -78,4 +72,9 @@ Intro date based on prototype date of CCAF advanced armor kit
 <Primary>
 InfantryAssaultRifle
 </Primary>
+
+# Fluff Date: 2026-03-18 15:07:44
+<overview>
+<p>The Capellan Confederation has always relied on its infantry to compensate for the CCAF's chronic shortage of heavier assets. Conventional foot soldiers, drawn from the citizens' militia system that defines Capellan military service, form the backbone of garrison forces across the Confederation's commonalities. Field gun platoons provide Capellan infantry with organic direct-fire heavy weapons, towing crew-served autocannons or other heavy guns to prepared positions. The weapon crew operates the gun while the remaining troopers provide local security with personal arms. Their crew-served autocannon/2 provides long-range direct fire support, well suited to suppression and light vehicle engagement from prepared positions.</p>
+</overview>
 

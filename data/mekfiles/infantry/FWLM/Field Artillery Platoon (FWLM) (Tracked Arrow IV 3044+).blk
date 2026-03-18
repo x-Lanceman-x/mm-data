@@ -57,13 +57,7 @@ ISArrowIV
 ISArrowIVAmmo
 </Field Guns Equipment>
 
-<capabilities>
-The low ammunition capacity of the towed Arrow IV launcher makes it rare outside of providing fire support to elite assault formations via precision TAG-guided missiles.
-</capabilities>
 
-<overview>
-In response to the formation of the Federated Commonwealth the Free World League introduced it's own advanced infantry armor kit.  It is widely considered the most effective commonly available kit in the Inner Sphere and is in high demand among FWL forces.
-</overview>
 
 <notes>
 Intro date based on re-introduction date of Arrow IV
@@ -92,4 +86,9 @@ InfantryAssaultRifle
 <encumberingarmor>
 true
 </encumberingarmor>
+
+# Fluff Date: 2026-03-18 15:07:44
+<overview>
+<p>Conventional infantry within the FWLM serve as the backbone of provincial defense across a patchwork of semi-autonomous states, each maintaining its own military traditions and equipment preferences. Deploying Arrow IV artillery systems, these platoons field the most sophisticated indirect fire weapon available to conventional formations. Arrow IV rounds can be guided to their targets with remarkable precision, and the system's compatibility with homing munitions allows designated targets to be engaged with near-certainty.</p>
+</overview>
 

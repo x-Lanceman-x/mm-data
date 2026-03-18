@@ -59,9 +59,6 @@ Draconis Combine Infantry Kit
 <Field Guns Equipment>
 </Field Guns Equipment>
 
-<overview>
-Infantry are one of the most underserved branches in the DCMS.  Receiving little in the way of training or equipment they are left as garrison forces protecting stockpiles and camps while the mechanized forces take the fight to the enemy.  Offensive use is frequently limited to sacrificial holding actions enabling heavier forces to reposition or withdraw.  The horror of encountering Clan Elementals resulted in minor equipment improvements, with the bulk of infantry development work seeking to counter Clan battle armor with their own models.
-</overview>
 
 <notes>
 Intro date based on prototype date of DCMS armor kit
@@ -86,4 +83,9 @@ InfantryAssaultRifle
 <Secondary>
 Flamer (Man-Portable)
 </Secondary>
+
+# Fluff Date: 2026-03-18 15:07:44
+<overview>
+<p>Conventional infantry within the DCMS serve as the foundation of planetary defense, providing the manpower essential to territorial control while freeing BattleMech and armored assets for offensive operations. Motorized infantry travel on light unarmored vehicles that allow them to cover ground faster than the foot platoons that make up the bulk of DCMS garrison forces. District regulars rely on motorized platoons for security patrols across large garrison zones, forward observation, and the rapid response that foot troops cannot provide when trouble arises between widely separated posts. Their support troops carry man-portable flamers that spray burning chemicals across several hundred square meters. Devastating against infantry in the open and effective at clearing structures, though the short range and the vulnerability of the operator's fuel tank make flamer duty one of the most dangerous assignments in the platoon.</p>
+</overview>
 

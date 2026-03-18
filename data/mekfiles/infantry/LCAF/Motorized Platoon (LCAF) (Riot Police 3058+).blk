@@ -55,13 +55,7 @@ Lyran Alliance/Lyran Commonwealth (3060+) Infantry Kit
 <Field Guns Equipment>
 </Field Guns Equipment>
 
-<capabilities>
-One of the least desired assignments, but one that is frequently necessary in civilian areas, is crowd control. Primarily equipped with less-lethal weapons such as sonic stunners and tear gas or concussion grenades these troops are responsible for maintaining order, dispersing violent crowds before they can do serious damage, and arresting agitators.
-</capabilities>
 
-<overview>
-After the removal of historically Lyran systems from the unified Federated Commonwealth, many changes took place to restore and reinforce the Lyran nature of military forces posted there.  Infantry armor production was quickly updated with the first production runs seeing little more than a logo change.  Later production would see more visible changes to resemble the older Lyran style while retaining the protection capabilities of the FedCom model.
-</overview>
 
 <notes>
 Intro date based on LCAF/LAAF armor kit prototype date
@@ -86,4 +80,9 @@ Sonic Stunner
 <Secondary>
 Grenade Launcher
 </Secondary>
+
+# Fluff Date: 2026-03-18 15:07:44
+<overview>
+<p>After the Jihad stripped many elite units to fill battle armor companies, the LCAF recognized that conventional infantry remained essential for roles that battle armor could not cost-effectively fill. Motorized platoons add light transport vehicles to standard infantry formations, giving them the speed to conduct rapid strikes, screening operations, and quick withdrawals that foot infantry cannot manage. Configured for civil disturbance management, these platoons carry sonic stunners for crowd suppression and grenade launchers that can deliver tear gas, smoke, or fragmentation rounds depending on the threat level.</p>
+</overview>
 

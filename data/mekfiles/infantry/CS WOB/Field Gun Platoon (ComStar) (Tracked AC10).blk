@@ -59,9 +59,6 @@ Autocannon/10
 IS Ammo AC/10
 </Field Guns Equipment>
 
-<history>
-Intro date is based on when the weapon becomes an Advanced weapon. Since MM can't make certain units unavailable when a weapon becomes extinct these units may become invalid.
-</history>
 
 <squad_size>
 7
@@ -74,4 +71,9 @@ Intro date is based on when the weapon becomes an Advanced weapon. Since MM can'
 <Primary>
 InfantryAssaultRifle
 </Primary>
+
+# Fluff Date: 2026-03-18 15:07:44
+<overview>
+<p>ComStar organized its military forces around a combined-arms doctrine that valued infantry as an essential element of the Level I through Level VI command structure, with conventional platoons serving alongside BattleMechs, armor, and aerospace assets at every echelon. Operating heavy field autocannon, these crews deliver punishing direct fire capable of damaging medium-weight combat vehicles, providing organic heavy weapons support that reduces a formation's dependence on armor assets.</p>
+</overview>
 

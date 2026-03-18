@@ -51,9 +51,6 @@ Ballistic Plate, Standard
 <Field Guns Equipment>
 </Field Guns Equipment>
 
-<overview>
-Ceremonial Guard Caesar's Royal Guard; Marion Hegemony
-</overview>
 
 <source>
 TR:3085
@@ -86,4 +83,9 @@ Machine Gun (Support)
 <encumberingarmor>
 true
 </encumberingarmor>
+
+# Fluff Date: 2026-03-18 15:07:44
+<overview>
+<p>Ceremonial machine gun platoons combine honor guard duties with heavier firepower than typical ceremonial formations. Armed with assault rifles and support machine guns, these platoons can defend government facilities, parade grounds, and VIP compounds against genuine threats while maintaining the formal appearance expected of guard units. The support weapons give them sustained suppressive fire capability that purely ceremonial formations lack.</p>
+</overview>
 

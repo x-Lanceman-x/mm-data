@@ -51,9 +51,6 @@ DEST Infiltration Suit
 <Field Guns Equipment>
 </Field Guns Equipment>
 
-<overview>
-Heavy Jump Infantry DEST Heavy Response Platoon
-</overview>
 
 <source>
 TR:3085
@@ -82,4 +79,9 @@ Particle Cannon (Semi-Portable)
 <dest>
 true
 </dest>
+
+# Fluff Date: 2026-03-18 15:07:44
+<overview>
+<p>Stealth jump laser platoons combine sneak suit concealment, jump pack mobility, and heavy energy weapons in a special operations formation. Armed with Blazer laser pistols and semi-portable particle cannons, these platoons can approach targets undetected, gain elevated firing positions via jump, and engage with weapons capable of damaging light armor. The particle cannons represent some of the heaviest firepower available to conventional infantry, giving these covert platoons a disproportionate offensive punch.</p>
+</overview>
 

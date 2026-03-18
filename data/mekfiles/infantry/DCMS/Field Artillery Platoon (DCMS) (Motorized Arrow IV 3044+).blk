@@ -57,13 +57,7 @@ ISArrowIV
 ISArrowIVAmmo
 </Field Guns Equipment>
 
-<capabilities>
-The low ammunition capacity of the towed Arrow IV launcher makes it rare outside of providing fire support to elite assault formations via precision TAG-guided missiles. The motorized version is built light enough to be moved by common VTOLs enabling them to keep pace with air mobile forces.
-</capabilities>
 
-<overview>
-Infantry are one of the most underserved branches in the DCMS.  Receiving little in the way of training or equipment they are left as garrison forces protecting stockpiles and camps while the mechanized forces take the fight to the enemy.  Offensive use is frequently limited to sacrificial holding actions enabling heavier forces to reposition or withdraw.  The horror of encountering Clan Elementals resulted in minor equipment improvements, with the bulk of infantry development work seeking to counter Clan battle armor with their own models.
-</overview>
 
 <notes>
 Intro date based on re-introduction date of Arrow IV
@@ -88,4 +82,9 @@ Submachine Gun
 <Secondary>
 InfantryAssaultRifle
 </Secondary>
+
+# Fluff Date: 2026-03-18 15:07:44
+<overview>
+<p>The Draconis Combine Mustered Soldiery assigns conventional infantry to garrison roles across its military districts, with district regulars often fielding extra platoons to secure worlds that BattleMech forces cannot permanently garrison. The platoon operates an Arrow IV guided missile system capable of precision indirect fire at extreme range. When a TAG spotter designates a target, the Arrow IV's homing munitions can place ordnance on a specific vehicle or position with accuracy that conventional tube artillery cannot match.</p>
+</overview>
 

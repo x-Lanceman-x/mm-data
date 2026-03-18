@@ -55,13 +55,7 @@ Generic Infantry Kit
 <Field Guns Equipment>
 </Field Guns Equipment>
 
-<capabilities>
-Mortars are the lightest fire support found among infantry forces, providing indirect fire without needing to call for heavier artillery assets managed at higher command levels.  The evolution of weapons and changing nature of combat during the Age of War gradually reduced the importance of these weapons, first to laying smokescreens and then replaced entirely with short-ranged missiles and an emphasis on vehicular combat.
-</capabilities>
 
-<overview>
-Conventional infantry have always been the defensive backbone of the CCAF.  Equipped with reliable and sturdy gear they depend more on the dedication of individual soldiers than technological superiority to hold the line against invading forces.
-</overview>
 
 <notes>
 Intro date based on start date of Capellan Confederation faction
@@ -86,4 +80,9 @@ Submachine Gun
 <Secondary>
 InfantryHeavyMortar
 </Secondary>
+
+# Fluff Date: 2026-03-18 15:07:44
+<overview>
+<p>The CCAF fields conventional infantry in larger numbers than its limited industrial base might suggest, drawing on the Confederation's deep tradition of citizens' militia service. Capellan soldiers learn to fight with fewer resources and less support than their counterparts in wealthier states, compensating with resourcefulness and ideological commitment. Mechanized tracked platoons give Capellan commanders infantry that can keep pace with armored formations across rough terrain. The tracked transports provide better cross-country mobility than wheeled vehicles, allowing these platoons to operate alongside the tanks and combat vehicles that form the CCAF's armored reserve. Mortar sections provide the platoon with organic indirect fire capability, lobbing explosive rounds over obstacles and into defilade positions that direct-fire weapons cannot reach.</p>
+</overview>
 

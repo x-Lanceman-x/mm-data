@@ -55,9 +55,6 @@ Generic Infantry Kit
 <Field Guns Equipment>
 </Field Guns Equipment>
 
-<overview>
-Conventional infantry have always been the defensive backbone of the CCAF.  Equipped with reliable and sturdy gear they depend more on the dedication of individual soldiers than technological superiority to hold the line against invading forces.
-</overview>
 
 <notes>
 Intro date based on start date of Capellan Confederation faction
@@ -82,4 +79,9 @@ InfantryAssaultRifle
 <Secondary>
 Flamer (Man-Portable)
 </Secondary>
+
+# Fluff Date: 2026-03-18 15:07:44
+<overview>
+<p>The Capellan Confederation has always relied on its infantry to compensate for the CCAF's chronic shortage of heavier assets. Conventional foot soldiers, drawn from the citizens' militia system that defines Capellan military service, form the backbone of garrison forces across the Confederation's commonalities. CCAF foot platoons anchor the Confederation's garrison network, holding worlds that BattleMech forces cannot permanently occupy. Slow and vulnerable in open terrain, they depend on prepared positions and local knowledge to offset their lack of mobility. Flamer sections carry man-portable incendiary weapons that are devastating in close quarters and against fortified positions, though the short range and hazardous fuel supply make flamer duty one of the most dangerous assignments in the platoon.</p>
+</overview>
 

@@ -59,13 +59,7 @@ Free Worlds League Infantry Kit (3035+)
 <Field Guns Equipment>
 </Field Guns Equipment>
 
-<capabilities>
-Using a combination of bridging equipment and light earthmoving vehicles these troops assist conventional forces in crossing minor obstacles and improving defensive fighting positions. This lightweight version is primarly used to assist air mobile forces such as jump infantry formations.
-</capabilities>
 
-<overview>
-Combat engineers are support troops used to improve the mobility and protection of combat forces.  They can also be found in non-combat situations such as natural disaster response, helping government assistance reach those in need and constructing temporary camps for evacuees.
-</overview>
 
 <notes>
 Intro date based on prototype release of FWL advanced infantry kit
@@ -90,4 +84,9 @@ true
 <specialization>
 33
 </specialization>
+
+# Fluff Date: 2026-03-18 15:07:44
+<overview>
+<p>New technology and creative tactical thinking have long featured in FWLM infantry deployment, with varied unit types and specialized formations treated as the norm rather than the exception. Motorized platoons provide the speed the FWLM needs to cover the vast distances between garrison posts on provincial worlds, mounting troops on light vehicles that can respond to threats faster than foot infantry but without the expense of full mechanization. Trained as combat engineers, these troops carry specialized equipment for rapid construction of field fortifications, obstacle emplacement, and demolition operations, providing commanders with the ability to reshape terrain to tactical advantage.</p>
+</overview>
 

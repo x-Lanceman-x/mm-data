@@ -55,9 +55,6 @@ ISRotaryAC5
 ISRotaryAC5 Ammo
 </Field Guns Equipment>
 
-<history>
-Intro date is based on when the weapon becomes an Advanced weapon. Since MM can't make certain units unavailable when a weapon becomes extinct these units may become invalid.
-</history>
 
 <squad_size>
 7
@@ -70,4 +67,9 @@ Intro date is based on when the weapon becomes an Advanced weapon. Since MM can'
 <Primary>
 InfantryAssaultRifle
 </Primary>
+
+# Fluff Date: 2026-03-18 15:07:44
+<overview>
+<p>Field gun platoons crew rotary autocannons that spin multiple barrels to achieve extreme rates of fire. The rotary mechanism sustains a volume of ballistic fire that no single-barrel weapon can match, shredding light vehicles and suppressing entire infantry formations with sustained bursts. The trade-off is severe: rotary autocannons consume ammunition at alarming speed and generate significant heat, demanding careful fire discipline and well-stocked supply lines to sustain operations beyond initial contact.</p>
+</overview>
 

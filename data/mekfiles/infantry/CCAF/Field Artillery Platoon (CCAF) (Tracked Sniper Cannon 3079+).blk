@@ -57,13 +57,7 @@ ISSniperCannon
 ISSniperCannonAmmo
 </Field Guns Equipment>
 
-<capabilities>
-Artillery cannons bridge the gap between heavy mortars and dedicated tube artillery, and are frequently used as siege weapons to destroy pillboxes and other static emplacements.
-</capabilities>
 
-<overview>
-Conventional infantry have always been the defensive backbone of the CCAF.  Equipped with reliable and sturdy gear they depend more on the dedication of individual soldiers than technological superiority to hold the line against invading forces.
-</overview>
 
 <notes>
 Intro date based on production date of artillery cannons
@@ -88,4 +82,9 @@ Submachine Gun
 <Secondary>
 Rifle (Striker Carbine)
 </Secondary>
+
+# Fluff Date: 2026-03-18 15:07:44
+<overview>
+<p>Capellan infantry serve where BattleMechs and armor cannot be spared, which in the resource-constrained CCAF means nearly everywhere. The Xin Sheng movement revitalized the infantry arm alongside every other facet of the Capellan Confederation Armed Forces, giving foot soldiers better equipment and renewed purpose. Field artillery platoons give CCAF ground commanders organic indirect fire support without requiring dedicated artillery vehicles. Operating crew-served tube or missile artillery pieces from mechanized transports, these platoons can displace and redeploy faster than vehicle-mounted artillery at the cost of lower rates of fire and less ammunition. Operating a Sniper Cannon, these platoons deliver direct-fire artillery support with the accuracy of a cannon and the explosive yield of a Sniper round.</p>
+</overview>
 

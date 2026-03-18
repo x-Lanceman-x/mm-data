@@ -65,13 +65,7 @@ Rifle (Cannon, Medium)
 IS Ammo Medium Rifle
 </Field Guns Equipment>
 
-<capabilities>
-As more capable autocannons were developed, lower rated garrison forces would have to wait to replace their rifled cannons.  Still capable against lighter opponents these older weapons soldiered on for years in backwater garrisons until finally replaced.
-</capabilities>
 
-<overview>
-Conventional infantry have always been the defensive backbone of the CCAF.  Equipped with reliable and sturdy gear they depend more on the dedication of individual soldiers than technological superiority to hold the line against invading forces.
-</overview>
 
 <notes>
 Intro date based on start date of Capellan Confederation faction
@@ -88,4 +82,9 @@ Intro date based on start date of Capellan Confederation faction
 <Primary>
 InfantryAssaultRifle
 </Primary>
+
+# Fluff Date: 2026-03-18 15:07:44
+<overview>
+<p>The Capellan Confederation has always relied on its infantry to compensate for the CCAF's chronic shortage of heavier assets. Conventional foot soldiers, drawn from the citizens' militia system that defines Capellan military service, form the backbone of garrison forces across the Confederation's commonalities. Field gun platoons provide Capellan infantry with organic direct-fire heavy weapons, towing crew-served autocannons or other heavy guns to prepared positions. The weapon crew operates the gun while the remaining troopers provide local security with personal arms. Their medium cannon provides moderate direct-fire support, offering a balance of hitting power and portability.</p>
+</overview>
 

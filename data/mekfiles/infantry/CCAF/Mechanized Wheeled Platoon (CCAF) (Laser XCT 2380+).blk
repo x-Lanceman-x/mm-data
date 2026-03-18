@@ -55,13 +55,7 @@ Environment Suit, Hostile
 <Field Guns Equipment>
 </Field Guns Equipment>
 
-<capabilities>
-Platoons specifically trained to operate in hostile environments are rare and typically operate as pure light infantry with no dedicated heavy support or weapons platoons. To compensate for this they are more heavily armed than standard infantry platoons.
-</capabilities>
 
-<overview>
-XCT infantry platoons are trained and equipped to face combat in any environmental comdition - hot, cold, toxic atmosphere, no atmosphere, it doesn't matter. The additional costs as well as the preference for settling more habitable areas makes them a rare sight outside of places of significant strategic importance.
-</overview>
 
 <notes>
 Intro date based on production date for Support Laser
@@ -98,4 +92,9 @@ true
 <specialization>
 2048
 </specialization>
+
+# Fluff Date: 2026-03-18 15:07:44
+<overview>
+<p>The CCAF fields conventional infantry in larger numbers than its limited industrial base might suggest, drawing on the Confederation's deep tradition of citizens' militia service. Capellan soldiers learn to fight with fewer resources and less support than their counterparts in wealthier states, compensating with resourcefulness and ideological commitment. Mechanized wheeled platoons balance speed and infantry presence, using armored wheeled transports to move troops quickly along the Confederation's road networks. They sacrifice the cross-country capability of tracked vehicles for faster transit between defensive positions. Equipped with laser rifles that offer superior range and armor penetration compared to ballistic weapons, these platoons field one of the most effective personal arms available to conventional infantry, though the weapons are significantly more expensive and require soldiers to carry additional power packs. Designated as extra-company troops, these platoons are trained and equipped for extended independent operations beyond the main body, conducting deep patrols, ambushes, and stay-behind missions.</p>
+</overview>
 

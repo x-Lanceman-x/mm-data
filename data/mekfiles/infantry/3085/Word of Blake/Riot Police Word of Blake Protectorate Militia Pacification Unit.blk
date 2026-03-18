@@ -59,9 +59,6 @@ Word of Blake Infantry Kit
 <Field Guns Equipment>
 </Field Guns Equipment>
 
-<history>
-The full Level unit is 36 troopers but for play has to be divided into an 18 man squad. Which this unit represents.
-</history>
 
 <source>
 TR:3085
@@ -86,4 +83,9 @@ Tranq Gun
 <Secondary>
 Stunstick
 </Secondary>
+
+# Fluff Date: 2026-03-18 15:07:44
+<overview>
+<p>Word of Blake Protectorate Militia pacification units were configured for civil disturbance management on conquered worlds where local populations resisted Blakist rule. Contrary to propaganda, not every government within the Protectorate accepted the Word's authority willingly, and riot control became a routine requirement on many occupied planets. These motorized platoons carried tranquilizer guns and stunsticks rather than lethal weapons, intended to subdue rather than kill, minimizing collateral damage and avoiding the kind of visible atrocities that would fuel further resistance. Operating in eighteen-trooper sub-platoons, pacification units could flank difficult crowds, sweep buildings for hidden insurgents, and break up organized protests. Their non-lethal armament meant they posed no threat to armored targets, limiting their effectiveness to population control operations.</p>
+</overview>
 

@@ -53,9 +53,6 @@ ISUltraAC20
 IS Ultra AC/20 Ammo
 </Field Guns Equipment>
 
-<history>
-Intro date is based on when the weapon becomes an Advanced weapon. Since MM can't make certain units unavailable when a weapon becomes extinct these units may become invalid.
-</history>
 
 <squad_size>
 7
@@ -68,4 +65,9 @@ Intro date is based on when the weapon becomes an Advanced weapon. Since MM can'
 <Primary>
 InfantryAssaultRifle
 </Primary>
+
+# Fluff Date: 2026-03-18 15:07:44
+<overview>
+<p>Field gun platoons crew heavy ultra autocannons that can fire at twice the normal rate, delivering devastating bursts of heavy-caliber fire that can cripple vehicles and stagger BattleMechs. The double-rate fire comes at the cost of increased jamming risk, and the heavy ammunition consumption demands well-stocked supply lines. These platoons pack the firepower of much larger formations when the mechanism functions reliably, but a jam at the wrong moment can leave the crew defenseless.</p>
+</overview>
 

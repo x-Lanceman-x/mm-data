@@ -55,13 +55,7 @@ Environment Suit, Marine
 <Field Guns Equipment>
 </Field Guns Equipment>
 
-<capabilities>
-AFFS marines see to the security of the naval assets that survived the FedCom Civil War and subsequent fight against the Word of Blake, from the small but growing numbers of pocket WarShips to the precious few full size ones.  Older models of laser weapons were replaced with the Federated-Barrett M61A; the grenade launcher is rarely used while on board and is reserved for protecting against boarding actions when ships are grounded.
-</capabilities>
 
-<overview>
-Marines are trained and equipped to engage targets in space and low-gravity environments such as during boarding operations against DropShips and space stations. They may also be deployed in situations where their sealed suits provide some measure of protection, such as toxic atmospheres.
-</overview>
 
 <notes>
 Intro date based on post-Civil War restoration of AFFS
@@ -94,4 +88,9 @@ true
 <specialization>
 64
 </specialization>
+
+# Fluff Date: 2026-03-18 15:07:44
+<overview>
+<p>The Armed Forces of the Federated Suns integrate conventional infantry directly into their Regimental Combat Teams, assigning foot, mechanized, and jump platoons to work permanently alongside BattleMech and armored formations. Foot infantry remain the backbone of AFFS planetary garrisons, cheap enough to deploy in numbers across the Federated Suns' vast territory and reliable enough to hold ground that BattleMech forces cannot permanently occupy. These marines are trained to fight equally well in zero-gravity and conventional ground environments, conducting shipboard security, boarding actions, and combat in vacuum or pressurized hull conditions with laser weapons suited to close-quarters shipboard engagements.</p>
+</overview>
 

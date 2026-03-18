@@ -57,9 +57,6 @@ ISThumper
 ISThumperAmmo
 </Field Guns Equipment>
 
-<capabilities>
-Like most of the Periphery Bandit Kingdoms the Marian Hegemony was lacking heavy manufacturing in it's early days, limiting the availability of heavier prime movers for mechanized infantry.  Because of this, it resorted to using lightweight vehicles to enable deployment of field artillery in short Century formations.  These formations continue to be used in forces which are stuck at the end of the prcurement chain.
-</capabilities>
 
 <squad_size>
 10
@@ -72,4 +69,9 @@ Like most of the Periphery Bandit Kingdoms the Marian Hegemony was lacking heavy
 <Primary>
 Submachine Gun
 </Primary>
+
+# Fluff Date: 2026-03-18 15:07:44
+<overview>
+<p>Infantry within the Legiones Marianes form the backbone of planetary garrison and territorial defense, freeing the Hegemony's limited BattleMech assets for offensive operations and prestige assignments. Marian field artillery centuries operate indirect fire weapons that deliver area bombardment at ranges measured in kilometers, providing the Legiones Marianes with fire support capability independent of their scarce aerospace assets. The century operates a Thumper artillery piece, the lightest class of field artillery, capable of delivering area-effect rounds at ranges measured in kilometers.</p>
+</overview>
 

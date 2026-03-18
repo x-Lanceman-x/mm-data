@@ -51,9 +51,6 @@ Generic Infantry Kit
 <Field Guns Equipment>
 </Field Guns Equipment>
 
-<overview>
-HALO Paratrooper Lyran Paratrooper Corps
-</overview>
 
 <source>
 TR:3085
@@ -82,4 +79,9 @@ InfantryHRR
 <specialization>
 512
 </specialization>
+
+# Fluff Date: 2026-03-18 15:07:44
+<overview>
+<p>Paratrooper rifle platoons are foot infantry trained and equipped to deploy via parachutes or parafoils from aerospace craft, dropping into combat to seize objectives behind enemy lines or reinforce positions unreachable by ground transport. Armed with M&G rifles and heavy recoilless rifles for anti-armor capability, these platoons sacrifice the sustained logistics of ground-deployed formations for the strategic surprise of airborne insertion.</p>
+</overview>
 

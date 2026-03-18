@@ -61,13 +61,7 @@ Hyper Velocity Auto Cannon/2
 IS Ammo HVAC/2
 </Field Guns Equipment>
 
-<capabilities>
-Hyper-velocity autocannons use a unique, if difficult to manage, system of propellant to acheive extraordinary ranges compared to standard models.  The lack of specialized ammunition and increased burden on logistics makes the CCAF wary of wide deployment.
-</capabilities>
 
-<overview>
-Conventional infantry have always been the defensive backbone of the CCAF.  Equipped with reliable and sturdy gear they depend more on the dedication of individual soldiers than technological superiority to hold the line against invading forces.
-</overview>
 
 <notes>
 Intro date based on prototype date of HVAC-class autocannon
@@ -84,4 +78,9 @@ Intro date based on prototype date of HVAC-class autocannon
 <Primary>
 Rifle (Striker Carbine)
 </Primary>
+
+# Fluff Date: 2026-03-18 15:07:44
+<overview>
+<p>Capellan infantry serve where BattleMechs and armor cannot be spared, which in the resource-constrained CCAF means nearly everywhere. The Xin Sheng movement revitalized the infantry arm alongside every other facet of the Capellan Confederation Armed Forces, giving foot soldiers better equipment and renewed purpose. Field gun platoons provide Capellan infantry with organic direct-fire heavy weapons, towing crew-served autocannons or other heavy guns to prepared positions. The weapon crew operates the gun while the remaining troopers provide local security with personal arms. Their hyper-velocity autocannon/2 extends engagement range beyond standard autocannon designs, providing long-range suppression capability.</p>
+</overview>
 

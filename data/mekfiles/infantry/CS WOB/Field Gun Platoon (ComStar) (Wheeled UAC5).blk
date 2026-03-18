@@ -59,9 +59,6 @@ ISUltraAC5
 IS Ultra AC/5 Ammo
 </Field Guns Equipment>
 
-<history>
-Intro date is based on when the weapon becomes an Advanced weapon. Since MM can't make certain units unavailable when a weapon becomes extinct these units may become invalid.
-</history>
 
 <squad_size>
 6
@@ -74,4 +71,9 @@ Intro date is based on when the weapon becomes an Advanced weapon. Since MM can'
 <Primary>
 InfantryAssaultRifle
 </Primary>
+
+# Fluff Date: 2026-03-18 15:07:44
+<overview>
+<p>ComStar's infantry served across the Inner Sphere in garrison and security roles, stationed on HPG compound worlds where they provided protection for the Order's most critical infrastructure while maintaining the facade of a purely defensive force. Operating medium-caliber ultra autocannon that can fire at double the normal rate, these crews deliver concentrated salvos that overwhelm light armor and suppress infantry positions, accepting increased jam risk for burst damage.</p>
+</overview>
 

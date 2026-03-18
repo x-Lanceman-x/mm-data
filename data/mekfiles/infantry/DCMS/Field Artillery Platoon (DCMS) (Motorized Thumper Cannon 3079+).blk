@@ -57,13 +57,7 @@ ISThumperCannon
 ISThumperCannonAmmo
 </Field Guns Equipment>
 
-<capabilities>
-Artillery cannons bridge the gap between heavy mortars and dedicated tube artillery, and are frequently used as siege weapons to destroy pillboxes and other static emplacements. The motorized version is built light enough to be moved by common VTOLs enabling them to keep pace with air mobile forces.
-</capabilities>
 
-<overview>
-Infantry are one of the most underserved branches in the DCMS.  Receiving little in the way of training or equipment they are left as garrison forces protecting stockpiles and camps while the mechanized forces take the fight to the enemy.  Offensive use is frequently limited to sacrificial holding actions enabling heavier forces to reposition or withdraw.  The horror of encountering Clan Elementals resulted in minor equipment improvements, with the bulk of infantry development work seeking to counter Clan battle armor with their own models.
-</overview>
 
 <notes>
 Intro date based on production date of artillery cannons
@@ -88,4 +82,9 @@ Submachine Gun
 <Secondary>
 InfantryAssaultRifle
 </Secondary>
+
+# Fluff Date: 2026-03-18 15:07:44
+<overview>
+<p>The Draconis Combine Mustered Soldiery assigns conventional infantry to garrison roles across its military districts, with district regulars often fielding extra platoons to secure worlds that BattleMech forces cannot permanently garrison. The platoon tows a Thumper Cannon, a direct-fire variant of the standard Thumper that trades indirect bombardment capability for improved accuracy against visible targets. Faster to bring into action and more responsive than its artillery counterpart.</p>
+</overview>
 
