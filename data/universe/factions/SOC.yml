@@ -32,6 +32,10 @@ background: Clan/The Society.png
 camos: Clans/Society
 nameGenerator: Clan
 ratingLevels:
-  - PG
+  - Provisional Garrison
+  - Solahma
+  - Second Line
+  - Front Line
+  - Keshik
 fallBackFactions:
   - CLAN
