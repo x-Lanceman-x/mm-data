@@ -141,6 +141,9 @@ planet:
         population: 174081.0
       - date: '3145-01-01'
         population: 183190.0
+      - date: '2752-01-01'
+        name: McEvedy's Folly
+        message: Project Sagitarius Umbrella renamed to McEvedy's Folly
   - name: Jibril's Belt
     type: ASTEROID_BELT
     orbitalDist: 0.7

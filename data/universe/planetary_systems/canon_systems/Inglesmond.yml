@@ -368,6 +368,9 @@ planet:
           source: sucs
           value:
             - ABN
+      - date: '2349-01-01'
+        name: Inglesmond
+        message: New Britain renamed to Inglesmond
   - name: Bielobog
     type: TERRESTRIAL
     orbitalDist: 0.77

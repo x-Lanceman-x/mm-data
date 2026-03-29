@@ -19,3 +19,14 @@ id: Wheeler
 sucsId: 3128
 xcood: 196.373
 ycood: -497.192
+planet:
+  - name:
+      source: canon
+      value: Wheeler
+    event:
+      - date: '2822-01-01'
+        name: Perian
+        message: Wheeler renamed to Perian
+      - date: '3022-01-01'
+        name: Mystras
+        message: Perian renamed to Mystras

@@ -19,3 +19,11 @@ id: Tiburon
 sucsId: 3127
 xcood: 75.876
 ycood: -505.977
+planet:
+  - name:
+      source: canon
+      value: Tiburon
+    event:
+      - date: '3022-01-01'
+        name: Tiverton
+        message: Tiburon renamed to Tiverton

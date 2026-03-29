@@ -135,6 +135,9 @@ planet:
             - IE
         population: 894.0
         socioIndustrial: B-X-X-X-X
+      - date: '2769-01-01'
+        name: Skyfog
+        message: SLSC M8V.8476 renamed to Skyfog
   - name: San Andreas
     type: DWARF_TERRESTRIAL
     orbitalDist: 0.07

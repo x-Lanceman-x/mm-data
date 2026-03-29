@@ -179,6 +179,9 @@ planet:
           source: sucs
           value:
             - FCo
+      - date: '3025-01-01'
+        name: Nyserta
+        message: Blackbone renamed to Nyserta
   - name: Melin
     type: TERRESTRIAL
     orbitalDist: 1.7

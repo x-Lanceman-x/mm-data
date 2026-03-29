@@ -19,3 +19,11 @@ id: Dont
 sucsId: 3117
 xcood: 38.127
 ycood: -489.219
+planet:
+  - name:
+      source: canon
+      value: Don't
+    event:
+      - date: '3022-01-01'
+        name: Mantharaka
+        message: Don't renamed to Mantharaka

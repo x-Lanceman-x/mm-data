@@ -19,3 +19,14 @@ id: Chaadan
 sucsId: 3116
 xcood: 18.195
 ycood: -508.44
+planet:
+  - name:
+      source: canon
+      value: Chaadan
+    event:
+      - date: '2864-01-01'
+        name: Chadan
+        message: Chaadan renamed to Chadan
+      - date: '3022-01-01'
+        name: Chandan
+        message: Chadan renamed to Chandan

@@ -200,6 +200,9 @@ planet:
         hpg: X
         population: 0.0
         socioIndustrial: X-X-X-X-X
+      - date: '3152-01-01'
+        name: Dalrymple
+        message: Tintavel renamed to Dalrymple
   - name: YQ23
     type: DWARF_TERRESTRIAL
     orbitalDist: 0.9

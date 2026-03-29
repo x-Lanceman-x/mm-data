@@ -19,3 +19,11 @@ id: Abeline
 sucsId: 3109
 xcood: -26.218
 ycood: -481.285
+planet:
+  - name:
+      source: canon
+      value: Abeline
+    event:
+      - date: '2890-01-01'
+        name: Taygete
+        message: Abeline renamed to Taygete
