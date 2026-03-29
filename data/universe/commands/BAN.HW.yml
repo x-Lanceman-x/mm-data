@@ -16,13 +16,15 @@
 # affiliated with Microsoft.
 
 key: BAN.HW
-name: Bandit Caste (Homeworlds)
+# Bandit Caste groups in the Clan Homeworlds
+name: Bandit Caste (Homeworld)
 yearsActive:
   - start: 3052
-  - end: 3085
+    end: 3085
 tags:
   - CLAN
   - AGGREGATE
+nameGenerator: Clan
 ratingLevels:
   - Provisional Garrison
   - Solahma
@@ -30,4 +32,4 @@ ratingLevels:
   - Front Line
   - Keshik
 fallBackFactions:
-  - BAN
+  - CLAN.HW

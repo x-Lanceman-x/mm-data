@@ -16,12 +16,14 @@
 # affiliated with Microsoft.
 
 key: BAN.IS
+# Bandit Caste groups in the Inner Sphere and near Periphery
 name: Bandit Caste (IS)
 yearsActive:
   - start: 3052
 tags:
   - CLAN
   - AGGREGATE
+nameGenerator: Clan
 ratingLevels:
   - Provisional Garrison
   - Solahma
@@ -29,4 +31,4 @@ ratingLevels:
   - Front Line
   - Keshik
 fallBackFactions:
-  - BAN
+  - CLAN.IS
