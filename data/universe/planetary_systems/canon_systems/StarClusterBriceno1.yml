@@ -47,6 +47,12 @@ planet:
       - name: Avery
       - name: Torset
     event:
+      - date: '2271-12-31'
+        faction:
+          source: SUCS
+          version: 2026.03.02
+          value:
+            - UND
       - date: '3095-11-02'
         faction:
           source: canon
@@ -54,6 +60,12 @@ planet:
             - IE
         population: 50000.0
         socioIndustrial: D-F-A-D-C
+      - date: '3095-12-31'
+        faction:
+          source: SUCS
+          version: 2026.03.02
+          value:
+            - IND
       - date: '3098-03-07'
         hpg: X
       - date: '3100-01-01'

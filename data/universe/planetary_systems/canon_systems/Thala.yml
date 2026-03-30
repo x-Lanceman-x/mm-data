@@ -54,6 +54,12 @@ planet:
         socioIndustrial: D-D-B-D-F
       - date: '2270-01-01'
         population: 76204.0
+      - date: '2271-12-31'
+        faction:
+          source: SUCS
+          version: 2026.03.02
+          value:
+            - AXP
       - date: '2280-01-01'
         population: 133399.0
       - date: '2290-01-01'
