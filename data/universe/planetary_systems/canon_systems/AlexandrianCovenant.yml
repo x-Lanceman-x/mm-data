@@ -45,6 +45,18 @@ planet:
         capital: Tzivas
       - name: Bangi
     event:
+      - date: '2271-12-31'
+        faction:
+          source: SUCS
+          version: 2026.03.02
+          value:
+            - UND
+      - date: '2571-12-31'
+        faction:
+          source: SUCS
+          version: 2026.03.02
+          value:
+            - IND
       - date: '2596-06-14'
         faction:
           source: canon

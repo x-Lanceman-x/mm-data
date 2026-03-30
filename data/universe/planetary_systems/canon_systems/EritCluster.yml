@@ -16,6 +16,80 @@
 # affiliated with Microsoft.
 
 id: Erit Cluster
+# 12-star cluster within the Dark Nebula region (~700 LY coreward of Terra)
+# 4 habitable systems: Erit, Nakfa, Sebderat, Drovahchein
+# See also: Camelot Command / Dark Nebula Waystation (sucsId: 9001)
 sucsId: 818
 xcood: -137.433
 ycood: 418.34
+spectralType: K8V
+planet:
+  - name:
+      source: canon
+      value: Drovahchein II
+    type: TERRESTRIAL
+    sysPos: 1
+    desc: Primary world of the Erit Cluster. Capital Gharisport is located on
+      the minor southern continent. The Eritese traders of House Mailai operated
+      a trade network between the cluster systems, the Lyran Commonwealth, and
+      the Periphery. Shipyards at Gharisport could overhaul JumpShips.
+    landmass:
+      - name: Southern Continent
+        capital: Gharisport
+    event:
+      - date: '2271-12-31'
+        faction:
+          source: SUCS
+          version: 2026.03.02
+          value:
+            - UND
+      - date: '2456-01-01'
+        faction:
+          source: canon
+          value:
+            - RWR
+        message: Discovered by RWRS Sarkor; all four habitable systems colonized
+      - date: '2571-12-31'
+        faction:
+          source: SUCS
+          version: 2026.03.02
+          value:
+            - RWR
+      - date: '2596-12-31'
+        faction:
+          source: SUCS
+          version: 2026.03.02
+          value:
+            - SL
+      - date: '2783-12-31'
+        faction:
+          source: SUCS
+          version: 2026.03.02
+          value:
+            - LA
+      - date: '3040-12-31'
+        faction:
+          source: SUCS
+          version: 2026.03.02
+          value:
+            - FC
+      - date: '3050-06-30'
+        message: Clan Jade Falcon assumed control post-Tukayyid; House Mailai assimilated into merchant caste
+      - date: '3050-06-30'
+        faction:
+          source: SUCS
+          version: 2026.03.02
+          value:
+            - CJF
+      - date: '3072-03-03'
+        faction:
+          source: canon
+          value:
+            - CHH
+        message: Clan Hell's Horses took control during migration to Inner Sphere
+      - date: '3075-12-31'
+        faction:
+          source: SUCS
+          version: 2026.03.02
+          value:
+            - CHH

@@ -59,6 +59,12 @@ planet:
         capital: New Palmetto Bay
       - name: Rønne
     event:
+      - date: '2271-12-31'
+        faction:
+          source: SUCS
+          version: 2026.03.02
+          value:
+            - UND
       - date: '3095-10-14'
         faction:
           source: canon
@@ -66,6 +72,12 @@ planet:
             - IE
         population: 50000.0
         socioIndustrial: C-C-A-C-C
+      - date: '3095-12-31'
+        faction:
+          source: SUCS
+          version: 2026.03.02
+          value:
+            - IND
       - date: '3100-01-01'
         population: 86663.0
       - date: '3103-06-10'

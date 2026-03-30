@@ -80,6 +80,18 @@ planet:
       - name: Old Wipperfürth
         capital: Salvaranibay
     event:
+      - date: '2271-12-31'
+        faction:
+          source: SUCS
+          version: 2026.03.02
+          value:
+            - UND
+      - date: '2783-12-31'
+        faction:
+          source: SUCS
+          version: 2026.03.02
+          value:
+            - IND
       - date: '2786-08-14'
         faction:
           source: canon
