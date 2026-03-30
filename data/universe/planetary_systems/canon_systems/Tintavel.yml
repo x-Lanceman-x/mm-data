@@ -16,7 +16,7 @@
 # affiliated with Microsoft.
 
 id: Tintavel
-sucsId: 2551
+sucsId: 2552
 xcood: -98.381
 ycood: -243.791
 spectralType: G5V
@@ -224,6 +224,9 @@ planet:
           version: 2026.03.02
           value:
             - ABN
+      - date: '3152-01-01'
+        name: Dalrymple
+        message: Tintavel renamed to Dalrymple
       - date: '3152-12-31'
         # administration:
         #   - Oriente Protectorate

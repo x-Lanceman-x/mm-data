@@ -16,7 +16,7 @@
 # affiliated with Microsoft.
 
 id: Inglesmond
-sucsId: 1818
+sucsId: 1819
 xcood: 33.896
 ycood: 33.94
 spectralType:
@@ -412,6 +412,14 @@ planet:
         population: 1817544225.0
       - date: '3145-01-01'
         population: 1818271388.0
+      - date: '2349-01-01'
+        name: Inglesmond
+        message: New Britain renamed to Inglesmond
+      - date: '3151-01-01'
+        faction:
+          source: sucs
+          value:
+            - ABN
   - name: Bielobog
     type: TERRESTRIAL
     orbitalDist: 0.77

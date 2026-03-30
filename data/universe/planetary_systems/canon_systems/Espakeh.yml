@@ -16,7 +16,7 @@
 # affiliated with Microsoft.
 
 id: Espakeh
-sucsId: 822
+sucsId: 823
 xcood: 301.911
 ycood: 341.683
 spectralType: F9V
@@ -355,7 +355,7 @@ planet:
       - name: Karami
         size: large
         icon: rock6
-  - name: 038
+  - name: '038'
     type: GAS_GIANT
     orbitalDist: 84.92
     sysPos: 9
@@ -380,7 +380,7 @@ planet:
       - name: Artemis
         size: medium
         icon: oddmoon3
-  - name: 039
+  - name: '039'
     type: GAS_GIANT
     orbitalDist: 169.4
     sysPos: 10

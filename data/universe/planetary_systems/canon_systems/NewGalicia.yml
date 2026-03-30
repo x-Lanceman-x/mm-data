@@ -16,7 +16,7 @@
 # affiliated with Microsoft.
 
 id: New Galicia
-sucsId: 1829
+sucsId: 1830
 xcood: -364.78
 ycood: -217.92
 spectralType: G3V
@@ -162,6 +162,9 @@ planet:
           version: 2026.03.02
           value:
             - ABN
+      - date: '3152-01-01'
+        name: The Institute
+        message: New Galicia renamed to The Institute
       - date: '3152-12-31'
         faction:
           source: SUCS

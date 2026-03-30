@@ -16,7 +16,7 @@
 # affiliated with Microsoft.
 
 id: Nyserta
-sucsId: 2885
+sucsId: 2886
 xcood: -17.783
 ycood: 498.766
 spectralType:
@@ -228,6 +228,14 @@ planet:
         population: 3507693.0
       - date: '3145-01-01'
         population: 3509096.0
+      - date: '3025-01-01'
+        name: Nyserta
+        message: Blackbone renamed to Nyserta
+      - date: '3151-01-01'
+        faction:
+          source: sucs
+          value:
+            - FCo
   - name: Melin
     type: TERRESTRIAL
     orbitalDist: 1.7

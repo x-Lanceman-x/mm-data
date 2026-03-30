@@ -178,6 +178,9 @@ planet:
           version: 2026.03.02
           value:
             - ABN
+      - date: '3152-01-01'
+        name: Sardinas
+        message: Baggville renamed to Sardinas
       - date: '3152-12-31'
         # administration:
         #   - Bucklands Theater

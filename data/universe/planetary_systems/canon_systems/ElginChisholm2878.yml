@@ -452,6 +452,9 @@ planet:
           version: 2026.03.02
           value:
             - CC
+      - date: '2878-01-01'
+        name: Elgin
+        message: Chisholm renamed to Elgin
   - name: Avalon
     type: TERRESTRIAL
     orbitalDist: 1.0

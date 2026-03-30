@@ -16,7 +16,7 @@
 # affiliated with Microsoft.
 
 id: Otho
-sucsId: 1956
+sucsId: 1957
 xcood: 78.418
 ycood: 176.289
 spectralType: G8V
@@ -398,7 +398,7 @@ planet:
       - name: Nanabozo
         size: large
         icon: rock14
-      - name: 3E91
+      - name: '3E91'
         size: large
         icon: rock12
       - name: First Scolder

@@ -311,6 +311,14 @@ planet:
         population: 86832928.0
       - date: '3145-01-01'
         population: 86832928.0
+      - date: '2786-01-01'
+        name: Von Strang's World
+        message: Erin renamed to Von Strang's World
+      - date: '3151-01-01'
+        faction:
+          source: sucs
+          value:
+            - IND
   - name: Batchelor's Belt
     type: ASTEROID_BELT
     orbitalDist: 1.12

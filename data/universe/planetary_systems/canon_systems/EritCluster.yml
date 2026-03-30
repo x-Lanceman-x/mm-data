@@ -19,6 +19,7 @@ id: Erit Cluster
 # 12-star cluster within the Dark Nebula region (~700 LY coreward of Terra)
 # 4 habitable systems: Erit, Nakfa, Sebderat, Drovahchein
 # See also: Camelot Command / Dark Nebula Waystation (sucsId: 9001)
+# See also: Dark Nebula (sucsId: 9001) - waystation in this cluster region
 sucsId: 818
 xcood: -137.433
 ycood: 418.34

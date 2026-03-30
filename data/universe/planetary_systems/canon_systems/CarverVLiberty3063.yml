@@ -615,6 +615,9 @@ planet:
           version: 2026.03.02
           value:
             - CC
+      - date: '3063-01-01'
+        name: Liberty
+        message: Carver V renamed to Liberty
       - date: '3152-12-31'
         faction:
           source: SUCS

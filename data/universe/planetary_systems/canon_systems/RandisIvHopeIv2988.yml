@@ -16,7 +16,7 @@
 # affiliated with Microsoft.
 
 id: Randis IV (Hope IV 2988-)
-sucsId: 2906
+sucsId: 2907
 xcood: 621.542
 ycood: -342.98
 spectralType:
@@ -302,6 +302,9 @@ planet:
         population: 18569766.0
       - date: '3145-01-01'
         population: 18644193.0
+      - date: '2988-01-01'
+        name: Randis IV
+        message: Hope IV renamed to Randis IV
   - name: Hope V
     type: TERRESTRIAL
     orbitalDist: 1.4
